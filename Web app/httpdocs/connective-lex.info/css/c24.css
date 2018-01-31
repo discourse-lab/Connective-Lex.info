@@ -1,0 +1,241 @@
+/* http://paletton.com/palette.php?uid=7560z0kmilPiqt-kopzoCh9qld6 */
+
+
+/* Bootstrap manipulations */
+
+.navbar {
+  min-width: 400px;
+}
+
+.navbar .nav-link {
+  display: initial;
+}
+
+.main-title:hover,
+.nav-link:hover {
+  color: #B6C8BB !important;
+  text-decoration: none;
+}
+
+.collapsing[aria-expanded="false"] {
+  -webkit-transition: none;
+  transition: none;
+  display: none;
+}
+
+.collapsing[aria-expanded="true"] {
+  -webkit-transition: none;
+  transition: none;
+  display: initial !important;
+  height: initial !important;
+}
+
+.list-group-item-sm {
+  padding: 5px 10px;
+}
+
+blockquote,
+blockquote.blockquote {
+  font-size: .85rem;
+}
+
+.fade {
+  opacity: 0;
+  -webkit-transition: opacity 0.25s ease;
+  -moz-transition: opacity 0.25s ease;
+  -ms-transition: opacity 0.25s ease;
+  -o-transition: opacity 0.25s ease;
+  transition: opacity 0.25s ease;
+}
+
+.tooltip-inner {
+  max-width: 350px;
+}
+
+
+/* Own styles */
+
+body {
+  line-height: 1.3;
+  padding-top: 50px;
+  padding-right: 0px !important;
+}
+
+.main-title {
+  color: white;
+}
+
+#page-content-wrapper {
+  line-height: 1.0;
+}
+
+label {
+  margin-bottom: 0px;
+}
+
+p:last-child,
+p:last-of-type {
+  margin-bottom: 0;
+}
+
+input[type="checkbox"] {
+  vertical-align: -2px;
+}
+
+#resultList {
+  height: 100%;
+  /*padding-right: 0;*/
+}
+
+#lexSelection {
+  padding-right: .5rem;
+}
+
+.selection-row:nth-child(even) {}
+
+.selection-row:nth-child(odd) {
+  background-color: white;
+}
+
+.tab-content {
+  margin-top: 1rem;
+}
+
+.sep-not-if-last:last-of-type {
+  display: none;
+}
+
+blockquote {
+  margin-bottom: 0;
+}
+
+.sense-subtypes {
+  margin-bottom: .5rem;
+}
+
+#go-button {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+#progress {
+  height: .5rem;
+}
+
+#progressbar {}
+
+input[type="search"] {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  -webkit-appearance: searchfield;
+}
+
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: searchfield-cancel-button;
+}
+
+#filter {
+  min-width: 100px;
+}
+
+#filter-select {
+  max-width: 150px;
+}
+
+#go-button {
+  padding-bottom: 0;
+}
+
+#go-button-content {
+  height: 16px;
+  max-height: 16px;
+}
+
+#go-button-content:before {
+  /* https://www.iconfinder.com/icons/118705/glass_magnifying_icon#size=16 */
+  content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB60lEQVQ4T42TvUsjURTF3335eBpFdlnYyloQFrOaxmUVI0iQhZlkAnHRysLK0kJwq5S6rYV/QWxSGCcmsqLoNtoFEXW100bsFhVXJs6855mVBDUv6DRvZu6c3z33Y4g1ueLxeLCj4/2UlGqScxXFyTlnfxjjy0KEFvP5/J0vJZ3esqwPnifXEO7XxaVkp8EgGy0UCmcNgGw2yyuV/R0IBz2PnQUCNCtEcB3PVcdxhxhTP3H/GeeJEOG+BoBhpMaJ2DKyXEgZipXL+cunLhKJRFtLS9suAD1wOKsD2AAYEE3bdmFJV4JpWqMA+K4qDQDTNE/RqC6lvE/FYvFIBzAMI0IUuEXsn8aBcYxgN2Myatv2gQ6QSqXeocS/SskrXQk5lDBBRHOrqyvzOkAymZxQinJI8vsZIJPJtFer1Q0Ev0B47Xn0tVRaOXwKSafTna7r7qHMTjRxsg7wxY7joDF8oCaAzRuMcUFKWidyXcSGpZQ/sFEfkWQ7FouO/Ac8iu/L/uybbeaL97+wjd+xjVf0ONeIP5IGsVJsB/04h9VeIsmVUsf4Lofm2jUgYXFK+Ojby8ywv9naGjJrO9/MGQDWEJHy7UfqVGJb4XDIeE1c/5kw1zgylnwI3LxZXAf4N9jAYRwzQoixt2SuuX0AeHO9ZVUkFZkAAAAASUVORK5CYII=);
+}
+
+.example {
+  font-style: italic;
+  color: darkslategray;
+  margin-left: 1rem;
+  margin-top: .25rem;
+  font-size: .85rem;
+  display: inline-block;
+}
+
+.synonym {
+  line-height: 1.3;
+}
+
+.syn[title]:not([title=""]),
+.sense[title]:not([title=""]),
+.syn[data-original-title]:not([data-original-title=""]),
+.sense[data-original-title]:not([data-original-title=""]) {
+  /*text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: darkseagreen;*/
+  border-bottom: 1px dotted darkseagreen;
+}
+
+.subtly-underlined {
+  border-bottom: 1px dotted darkseagreen;
+}
+
+.c24-darklink-color {
+  color: cadetblue !important;
+}
+
+.c24-darklink-bg {
+  background-color: cadetblue !important;
+}
+
+.c24-darkerlink-color {
+  color: #2f4f50 !important;
+}
+
+.c24-darkerlink-bg {
+  background-color: #2f4f50 !important;
+}
+
+.c24-sidebarheader-color {
+  color: darkseagreen !important;
+}
+
+.c24-sidebarheader-bg {
+  background-color: darkseagreen !important;
+}
+
+.c24-sidebarsubheader-color {
+  color: #B1CC74 !important;
+}
+
+.c24-sidebarsubheader-bg {
+  background-color: #B1CC74 !important;
+}
+
+.c24-main-color {
+  color: #428A58 !important
+}
+
+.c24-main-bg {
+  background-color: #428A58 !important
+}
+
+.c24-darker-color {
+  color: #B6C8BB !important
+}
+
+.c24-darker-bg {
+  background-color: #B6C8BB !important
+}
+
+.c24-lighter-color {
+  color: #F0F4F1 !important
+}
+
+.c24-lighter-bg {
+  background-color: #F0F4F1 !important
+}

@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  SYSTEM "dimlex.dtd">
+<map>
+   <entry sdrt="alternation">
+      <counts>
+         <pdtb3 name="negative-condition-arg2-as-consequent" count="3">
+            <src entry-id="k8" word="andernfalls" other="opposition continuation "/>
+            <src entry-id="k8" word="andernfalls" other="opposition continuation "/>
+            <src entry-id="k138" word="sonst" other="opposition continuation "/>
+         </pdtb3>
+         <pdtb3 name="disjunction" count="3">
+            <src entry-id="k29" word="beziehungsweise" unique="true"/>
+            <src entry-id="k231" word="entweder...oder" other="elaboration "/>
+            <src entry-id="k117" word="oder" other="elaboration "/>
+         </pdtb3>
+         <pdtb3 name="specification-arg2-as-detail" count="1">
+            <src entry-id="k29" word="beziehungsweise" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="conjunction" count="1">
+            <src entry-id="k29" word="beziehungsweise" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="negative-condition-arg1-as-consequent" count="1">
+            <src entry-id="k234" word="es sei denn" unique="true"/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="background">
+      <counts>
+         <pdtb3 name="synchronous" count="4">
+            <src entry-id="k202" word="als" other="background_inverse flashback "/>
+            <src entry-id="k295"
+                 word="wenn"
+                 other="background_inverse explanation condition flashback "/>
+            <src entry-id="k173"
+                 word="während"
+                 other="concession contrast temploc explanation_star "/>
+            <src entry-id="k173"
+                 word="während"
+                 other="concession contrast temploc explanation_star "/>
+         </pdtb3>
+         <pdtb3 name="asynchronous-succession" count="1">
+            <src entry-id="k202" word="als" other="background_inverse flashback "/>
+         </pdtb3>
+         <pdtb3 name="asynchronous-precedence" count="1">
+            <src entry-id="k215" word="bis" other="temploc goal "/>
+         </pdtb3>
+         <pdtb3 name="condition-arg1-as-consequent" count="1">
+            <src entry-id="k295"
+                 word="wenn"
+                 other="background_inverse explanation condition flashback "/>
+         </pdtb3>
+         <pdtb3 name="contrast" count="1">
+            <src entry-id="k173"
+                 word="während"
+                 other="concession contrast temploc explanation_star "/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="background_inverse">
+      <counts>
+         <pdtb3 name="synchronous" count="2">
+            <src entry-id="k202" word="als" other="background flashback "/>
+            <src entry-id="k295"
+                 word="wenn"
+                 other="background explanation condition flashback "/>
+         </pdtb3>
+         <pdtb3 name="asynchronous-succession" count="1">
+            <src entry-id="k202" word="als" other="background flashback "/>
+         </pdtb3>
+         <pdtb3 name="condition-arg1-as-consequent" count="1">
+            <src entry-id="k295"
+                 word="wenn"
+                 other="background explanation condition flashback "/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="commentary">
+      <counts>
+         <pdtb3 name="conjunction" count="1">
+            <src entry-id="k260" word="nebenbei gesagt" other="concession "/>
+         </pdtb3>
+         <pdtb3 name="cause-reason" count="1">
+            <src entry-id="k120" word="ohnehin" unique="true"/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="concession">
+      <counts>
+         <pdtb3 name="concession-arg1-as-denier" count="9">
+            <src entry-id="k113" word="obgleich" unique="true"/>
+            <src entry-id="k114" word="obschon" unique="true"/>
+            <src entry-id="k115" word="obwohl" unique="true"/>
+            <src entry-id="k116" word="obzwar" unique="true"/>
+            <src entry-id="k142" word="trotz" unique="true"/>
+            <src entry-id="k143" word="trotzdem" other="opposition "/>
+            <src entry-id="k280" word="ungeachtet dessen, dass" unique="true"/>
+            <src entry-id="k164" word="wenngleich" unique="true"/>
+            <src entry-id="k187" word="zwar" other="evidence "/>
+         </pdtb3>
+         <pdtb3 name="conjunction" count="4">
+            <src entry-id="k201"
+                 word="abgesehen davon, dass"
+                 other="opposition continuation "/>
+            <src entry-id="k260" word="nebenbei gesagt" other="commentary "/>
+            <src entry-id="k116" word="obzwar" unique="true"/>
+            <src entry-id="k280" word="ungeachtet dessen, dass" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="exception-arg2-as-except" count="4">
+            <src entry-id="k201"
+                 word="abgesehen davon, dass"
+                 other="opposition continuation "/>
+            <src entry-id="k213" word="ausgenommen, dass" unique="true"/>
+            <src entry-id="k24" word="außer" other="parallel opposition "/>
+            <src entry-id="k299" word="außer, dass" other="parallel opposition "/>
+         </pdtb3>
+         <pdtb3 name="concession-arg2-as-denier" count="3">
+            <src entry-id="k113" word="obgleich" unique="true"/>
+            <src entry-id="k143" word="trotzdem" other="opposition "/>
+            <src entry-id="k164" word="wenngleich" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="contrast" count="2">
+            <src entry-id="k109" word="nur dass" unique="true"/>
+            <src entry-id="k173"
+                 word="während"
+                 other="background contrast temploc explanation_star "/>
+         </pdtb3>
+         <pdtb3 name="synchronous" count="2">
+            <src entry-id="k173"
+                 word="während"
+                 other="background contrast temploc explanation_star "/>
+            <src entry-id="k173"
+                 word="während"
+                 other="background contrast temploc explanation_star "/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="condition">
+      <counts>
+         <pdtb3 name="condition-arg1-as-consequent" count="10">
+            <src entry-id="k208" word="angenommen, dass" unique="true"/>
+            <src entry-id="k72" word="falls" other="goal "/>
+            <src entry-id="k236" word="für den Fall, dass" unique="true"/>
+            <src entry-id="k133" word="sofern" other="explanation_star "/>
+            <src entry-id="k267" word="solange" other="temporal "/>
+            <src entry-id="k139" word="soweit" other="explanation_star "/>
+            <src entry-id="k281" word="unterstellt, dass" unique="true"/>
+            <src entry-id="k298" word="vorausgesetzt" unique="true"/>
+            <src entry-id="k155" word="vorausgesetzt, dass" unique="true"/>
+            <src entry-id="k295"
+                 word="wenn"
+                 other="background background_inverse explanation flashback "/>
+         </pdtb3>
+         <pdtb3 name="" count="4">
+            <src entry-id="k296" word="insofern" other="explanation_star "/>
+            <src entry-id="k296" word="insofern" other="explanation_star "/>
+            <src entry-id="k94" word="insoweit" other="explanation_star "/>
+            <src entry-id="k94" word="insoweit" other="explanation_star "/>
+         </pdtb3>
+         <pdtb3 name="synchronous" count="3">
+            <src entry-id="k129"
+                 word="sobald"
+                 other="narration result flashback explanation "/>
+            <src entry-id="k267" word="solange" other="temporal "/>
+            <src entry-id="k295"
+                 word="wenn"
+                 other="background background_inverse explanation flashback "/>
+         </pdtb3>
+         <pdtb3 name="manner-arg2-as-manner" count="2">
+            <src entry-id="k208" word="angenommen, dass" unique="true"/>
+            <src entry-id="k90" word="indem" other="temploc "/>
+         </pdtb3>
+         <pdtb3 name="condition-arg1-as-consequence" count="1">
+            <src entry-id="k240" word="gesetzt, dass" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="asynchronous-succession" count="1">
+            <src entry-id="k267" word="solange" other="temporal "/>
+         </pdtb3>
+         <pdtb3 name="concession-arg2-as-denier" count="1">
+            <src entry-id="k163" word="wenn ... auch" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="concession-arg1-as-denier" count="1">
+            <src entry-id="k163" word="wenn ... auch" unique="true"/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="continuation">
+      <counts>
+         <pdtb3 name="conjunction" count="11">
+            <src entry-id="k201"
+                 word="abgesehen davon, dass"
+                 other="concession opposition "/>
+            <src entry-id="k26" word="außerdem" other="parallel "/>
+            <src entry-id="k220" word="daneben" unique="true"/>
+            <src entry-id="k43" word="dann" other="result narration "/>
+            <src entry-id="k59" word="des Weiteren" unique="true"/>
+            <src entry-id="k118" word="ohne dass" unique="true"/>
+            <src entry-id="k149" word="und" unique="true"/>
+            <src entry-id="k152" word="vielmehr" unique="true"/>
+            <src entry-id="k290" word="zu guter Letzt" other="narration "/>
+            <src entry-id="k292" word="zum anderen" unique="true"/>
+            <src entry-id="k185" word="zusätzlich" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="asynchronous-precedence" count="6">
+            <src entry-id="k41" word="danach" other="narration "/>
+            <src entry-id="k43" word="dann" other="result narration "/>
+            <src entry-id="k230" word="endlich" other="narration "/>
+            <src entry-id="k122" word="schließlich" other="summary narration "/>
+            <src entry-id="k149" word="und" unique="true"/>
+            <src entry-id="k290" word="zu guter Letzt" other="narration "/>
+         </pdtb3>
+         <pdtb3 name="negative-condition-arg2-as-consequent" count="3">
+            <src entry-id="k8" word="andernfalls" other="alternation opposition "/>
+            <src entry-id="k8" word="andernfalls" other="alternation opposition "/>
+            <src entry-id="k138" word="sonst" other="alternation opposition "/>
+         </pdtb3>
+         <pdtb3 name="contrast" count="3">
+            <src entry-id="k64" word="doch" other="opposition "/>
+            <src entry-id="k149" word="und" unique="true"/>
+            <src entry-id="k292" word="zum anderen" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="exception-arg2-as-except" count="1">
+            <src entry-id="k201"
+                 word="abgesehen davon, dass"
+                 other="concession opposition "/>
+         </pdtb3>
+         <pdtb3 name="condition-arg2-as-consequent" count="1">
+            <src entry-id="k43" word="dann" other="result narration "/>
+         </pdtb3>
+         <pdtb3 name="synchronous" count="1">
+            <src entry-id="k43" word="dann" other="result narration "/>
+         </pdtb3>
+         <pdtb3 name="cause-result" count="1">
+            <src entry-id="k52" word="dementsprechend" other="result "/>
+         </pdtb3>
+         <pdtb3 name="concession-arg2-as-denier" count="1">
+            <src entry-id="k64" word="doch" other="opposition "/>
+         </pdtb3>
+         <pdtb3 name="cause-reason" count="1">
+            <src entry-id="k122" word="schließlich" other="summary narration "/>
+         </pdtb3>
+         <pdtb3 name="substitution-arg2-as-subst" count="1">
+            <src entry-id="k152" word="vielmehr" unique="true"/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="contrast">
+      <counts>
+         <pdtb3 name="contrast" count="8">
+            <src entry-id="k7" word="andererseits" unique="true"/>
+            <src entry-id="k219" word="dahingegen" unique="true"/>
+            <src entry-id="k225" word="dementgegen" other="opposition "/>
+            <src entry-id="k243"
+                 word="gleichzeitig"
+                 other="temploc opposition parallel "/>
+            <src entry-id="k168" word="wogegen" unique="true"/>
+            <src entry-id="k288" word="wohingegen" unique="true"/>
+            <src entry-id="k173"
+                 word="während"
+                 other="concession background temploc explanation_star "/>
+            <src entry-id="k179"
+                 word="zugleich"
+                 other="temploc opposition parallel "/>
+         </pdtb3>
+         <pdtb3 name="conjunction" count="5">
+            <src entry-id="k7" word="andererseits" unique="true"/>
+            <src entry-id="k243"
+                 word="gleichzeitig"
+                 other="temploc opposition parallel "/>
+            <src entry-id="k137" word="sondern" unique="true"/>
+            <src entry-id="k288" word="wohingegen" unique="true"/>
+            <src entry-id="k179"
+                 word="zugleich"
+                 other="temploc opposition parallel "/>
+         </pdtb3>
+         <pdtb3 name="synchronous" count="4">
+            <src entry-id="k243"
+                 word="gleichzeitig"
+                 other="temploc opposition parallel "/>
+            <src entry-id="k173"
+                 word="während"
+                 other="concession background temploc explanation_star "/>
+            <src entry-id="k173"
+                 word="während"
+                 other="concession background temploc explanation_star "/>
+            <src entry-id="k179"
+                 word="zugleich"
+                 other="temploc opposition parallel "/>
+         </pdtb3>
+         <pdtb3 name="substitution-arg2-as-subst" count="1">
+            <src entry-id="k137" word="sondern" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="concession-arg1-as-denier" count="1">
+            <src entry-id="k288" word="wohingegen" unique="true"/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="detachment">
+      <counts>
+         <pdtb3 name="cause-reason" count="2">
+            <src entry-id="k119" word="ohnedies" unique="true"/>
+            <src entry-id="k271" word="sowieso" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="instantiation" count="1">
+            <src entry-id="k4" word="allenfalls" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="synchronous" count="1">
+            <src entry-id="k97" word="inzwischen" other="parallel "/>
+         </pdtb3>
+         <pdtb3 name="asynchronous-precedence" count="1">
+            <src entry-id="k97" word="inzwischen" other="parallel "/>
+         </pdtb3>
+         <pdtb3 name="" count="1">
+            <src entry-id="k128" word="so oder so" unique="true"/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="elaboration">
+      <counts>
+         <pdtb3 name="instantiation" count="3">
+            <src entry-id="k27" word="beispielsweise" unique="true"/>
+            <src entry-id="k250" word="insbesondere" unique="true"/>
+            <src entry-id="k182" word="zum Beispiel" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="conjunction" count="3">
+            <src entry-id="k232" word="erstens" other="explanation "/>
+            <src entry-id="k293" word="zum einen" unique="true"/>
+            <src entry-id="k184" word="zunächst" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="equivalence" count="2">
+            <src entry-id="k206" word="anders gesagt" other="result_star "/>
+            <src entry-id="k257" word="mit anderen Worten" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="contrast" count="2">
+            <src entry-id="k229" word="einerseits" unique="true"/>
+            <src entry-id="k293" word="zum einen" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="disjunction" count="2">
+            <src entry-id="k231" word="entweder...oder" other="alternation "/>
+            <src entry-id="k117" word="oder" other="alternation "/>
+         </pdtb3>
+         <pdtb3 name="asynchronous-succession" count="2">
+            <src entry-id="k289" word="zuerst" other="explanation "/>
+            <src entry-id="k184" word="zunächst" unique="true"/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="evidence">
+      <counts>
+         <pdtb3 name="conjunction" count="1">
+            <src entry-id="k246" word="im Übringen" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="exception-arg1-as-except" count="1">
+            <src entry-id="k246" word="im Übringen" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="concession-arg1-as-denier" count="1">
+            <src entry-id="k187" word="zwar" other="concession "/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="explanation">
+      <counts>
+         <pdtb3 name="cause-reason" count="8">
+            <src entry-id="k210"
+                 word="angesichts dessen, dass"
+                 other="explanation_star "/>
+            <src entry-id="k30" word="da" other="explanation_star "/>
+            <src entry-id="k33" word="dadurch , dass" unique="true"/>
+            <src entry-id="k57" word="denn" other="explanation_star "/>
+            <src entry-id="k147" word="umso mehr als" unique="true"/>
+            <src entry-id="k161" word="weil" other="explanation_star "/>
+            <src entry-id="k161" word="weil" other="explanation_star "/>
+            <src entry-id="k183" word="zumal" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="asynchronous-succession" count="3">
+            <src entry-id="k123" word="seit" other="flashback temploc "/>
+            <src entry-id="k123" word="seit" other="flashback temploc "/>
+            <src entry-id="k289" word="zuerst" other="elaboration "/>
+         </pdtb3>
+         <pdtb3 name="synchronous" count="2">
+            <src entry-id="k129"
+                 word="sobald"
+                 other="narration result condition flashback "/>
+            <src entry-id="k295"
+                 word="wenn"
+                 other="background background_inverse condition flashback "/>
+         </pdtb3>
+         <pdtb3 name="cause-result" count="1">
+            <src entry-id="k30" word="da" other="explanation_star "/>
+         </pdtb3>
+         <pdtb3 name="manner-arg2-as-manner" count="1">
+            <src entry-id="k33" word="dadurch , dass" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="conjunction" count="1">
+            <src entry-id="k232" word="erstens" other="elaboration "/>
+         </pdtb3>
+         <pdtb3 name="condition-arg1-as-consequent" count="1">
+            <src entry-id="k295"
+                 word="wenn"
+                 other="background background_inverse condition flashback "/>
+         </pdtb3>
+         <pdtb3 name="specification-arg2-as-detail" count="1">
+            <src entry-id="k183" word="zumal" unique="true"/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="explanation_star">
+      <counts>
+         <pdtb3 name="cause-reason" count="7">
+            <src entry-id="k210" word="angesichts dessen, dass" other="explanation "/>
+            <src entry-id="k30" word="da" other="explanation "/>
+            <src entry-id="k57" word="denn" other="explanation "/>
+            <src entry-id="k247" word="in Anbetracht dessen" unique="true"/>
+            <src entry-id="k248" word="in Anbetracht dessen, dass" unique="true"/>
+            <src entry-id="k161" word="weil" other="explanation "/>
+            <src entry-id="k161" word="weil" other="explanation "/>
+         </pdtb3>
+         <pdtb3 name="" count="4">
+            <src entry-id="k296" word="insofern" other="condition "/>
+            <src entry-id="k296" word="insofern" other="condition "/>
+            <src entry-id="k94" word="insoweit" other="condition "/>
+            <src entry-id="k94" word="insoweit" other="condition "/>
+         </pdtb3>
+         <pdtb3 name="condition-arg1-as-consequent" count="2">
+            <src entry-id="k133" word="sofern" other="condition "/>
+            <src entry-id="k139" word="soweit" other="condition "/>
+         </pdtb3>
+         <pdtb3 name="synchronous" count="2">
+            <src entry-id="k173"
+                 word="während"
+                 other="concession background contrast temploc "/>
+            <src entry-id="k173"
+                 word="während"
+                 other="concession background contrast temploc "/>
+         </pdtb3>
+         <pdtb3 name="cause-result" count="1">
+            <src entry-id="k30" word="da" other="explanation "/>
+         </pdtb3>
+         <pdtb3 name="contrast" count="1">
+            <src entry-id="k173"
+                 word="während"
+                 other="concession background contrast temploc "/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="flashback">
+      <counts>
+         <pdtb3 name="asynchronous-succession" count="6">
+            <src entry-id="k202" word="als" other="background background_inverse "/>
+            <src entry-id="k104" word="nachdem" unique="true"/>
+            <src entry-id="k123" word="seit" other="explanation temploc "/>
+            <src entry-id="k123" word="seit" other="explanation temploc "/>
+            <src entry-id="k156" word="vorher" unique="true"/>
+            <src entry-id="k186" word="zuvor" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="synchronous" count="3">
+            <src entry-id="k202" word="als" other="background background_inverse "/>
+            <src entry-id="k129"
+                 word="sobald"
+                 other="narration result condition explanation "/>
+            <src entry-id="k295"
+                 word="wenn"
+                 other="background background_inverse explanation condition "/>
+         </pdtb3>
+         <pdtb3 name="condition-arg1-as-consequent" count="1">
+            <src entry-id="k295"
+                 word="wenn"
+                 other="background background_inverse explanation condition "/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="goal">
+      <counts>
+         <pdtb3 name="purpose-arg2-as-goal" count="6">
+            <src entry-id="k18" word="auf dass" unique="true"/>
+            <src entry-id="k216" word="bis dass" other="result "/>
+            <src entry-id="k40" word="damit" other="result "/>
+            <src entry-id="k131" word="sodass" other="result "/>
+            <src entry-id="k144" word="um ... willen" unique="true"/>
+            <src entry-id="k188" word="zwecks" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="asynchronous-precedence" count="4">
+            <src entry-id="k28" word="bevor" other="narration temploc "/>
+            <src entry-id="k215" word="bis" other="background temploc "/>
+            <src entry-id="k216" word="bis dass" other="result "/>
+            <src entry-id="k228" word="ehe" other="narration temploc "/>
+         </pdtb3>
+         <pdtb3 name="cause-result" count="3">
+            <src entry-id="k40" word="damit" other="result "/>
+            <src entry-id="k127" word="so ... dass" other="result "/>
+            <src entry-id="k131" word="sodass" other="result "/>
+         </pdtb3>
+         <pdtb3 name="contrast" count="1">
+            <src entry-id="k36" word="dafür , dass" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="condition-arg1-as-consequent" count="1">
+            <src entry-id="k72" word="falls" other="condition "/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="narration">
+      <counts>
+         <pdtb3 name="asynchronous-precedence" count="10">
+            <src entry-id="k28" word="bevor" other="goal temploc "/>
+            <src entry-id="k41" word="danach" other="continuation "/>
+            <src entry-id="k43" word="dann" other="result continuation "/>
+            <src entry-id="k228" word="ehe" other="goal temploc "/>
+            <src entry-id="k230" word="endlich" other="continuation "/>
+            <src entry-id="k122" word="schließlich" other="summary continuation "/>
+            <src entry-id="k124" word="seitdem" other="result "/>
+            <src entry-id="k140" word="später" unique="true"/>
+            <src entry-id="k172" word="woraufhin" unique="true"/>
+            <src entry-id="k290" word="zu guter Letzt" other="continuation "/>
+         </pdtb3>
+         <pdtb3 name="synchronous" count="2">
+            <src entry-id="k43" word="dann" other="result continuation "/>
+            <src entry-id="k129"
+                 word="sobald"
+                 other="result condition flashback explanation "/>
+         </pdtb3>
+         <pdtb3 name="conjunction" count="2">
+            <src entry-id="k43" word="dann" other="result continuation "/>
+            <src entry-id="k290" word="zu guter Letzt" other="continuation "/>
+         </pdtb3>
+         <pdtb3 name="condition-arg2-as-consequent" count="1">
+            <src entry-id="k43" word="dann" other="result continuation "/>
+         </pdtb3>
+         <pdtb3 name="cause-reason" count="1">
+            <src entry-id="k122" word="schließlich" other="summary continuation "/>
+         </pdtb3>
+         <pdtb3 name="asynchronous-succession" count="1">
+            <src entry-id="k124" word="seitdem" other="result "/>
+         </pdtb3>
+         <pdtb3 name="cause-result" count="1">
+            <src entry-id="k172" word="woraufhin" unique="true"/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="opposition">
+      <counts>
+         <pdtb3 name="concession-arg2-as-denier" count="14">
+            <src entry-id="k1" word="aber" unique="true"/>
+            <src entry-id="k200" word="abgesehen davon" unique="true"/>
+            <src entry-id="k5" word="allerdings" unique="true"/>
+            <src entry-id="k31" word="dabei" other="temploc "/>
+            <src entry-id="k58" word="dennoch" unique="true"/>
+            <src entry-id="k62" word="dessen ungeachtet" unique="true"/>
+            <src entry-id="k64" word="doch" other="continuation "/>
+            <src entry-id="k78" word="gleichwohl" unique="true"/>
+            <src entry-id="k251" word="jedoch" unique="true"/>
+            <src entry-id="k261" word="nichtsdestominder" unique="true"/>
+            <src entry-id="k107" word="nichtsdestoweniger" unique="true"/>
+            <src entry-id="k143" word="trotzdem" other="concession "/>
+            <src entry-id="k284" word="wiederum" unique="true"/>
+            <src entry-id="k286" word="wobei" other="temploc parallel "/>
+         </pdtb3>
+         <pdtb3 name="contrast" count="11">
+            <src entry-id="k1" word="aber" unique="true"/>
+            <src entry-id="k3" word="allein" unique="true"/>
+            <src entry-id="k5" word="allerdings" unique="true"/>
+            <src entry-id="k225" word="dementgegen" other="contrast "/>
+            <src entry-id="k64" word="doch" other="continuation "/>
+            <src entry-id="k243"
+                 word="gleichzeitig"
+                 other="temploc parallel contrast "/>
+            <src entry-id="k249" word="indessen" unique="true"/>
+            <src entry-id="k249" word="indessen" unique="true"/>
+            <src entry-id="k251" word="jedoch" unique="true"/>
+            <src entry-id="k284" word="wiederum" unique="true"/>
+            <src entry-id="k179" word="zugleich" other="temploc parallel contrast "/>
+         </pdtb3>
+         <pdtb3 name="conjunction" count="9">
+            <src entry-id="k1" word="aber" unique="true"/>
+            <src entry-id="k200" word="abgesehen davon" unique="true"/>
+            <src entry-id="k201"
+                 word="abgesehen davon, dass"
+                 other="concession continuation "/>
+            <src entry-id="k221" word="davon abgesehen" unique="true"/>
+            <src entry-id="k222" word="davon abgesehen, dass" unique="true"/>
+            <src entry-id="k62" word="dessen ungeachtet" unique="true"/>
+            <src entry-id="k243"
+                 word="gleichzeitig"
+                 other="temploc parallel contrast "/>
+            <src entry-id="k284" word="wiederum" unique="true"/>
+            <src entry-id="k179" word="zugleich" other="temploc parallel contrast "/>
+         </pdtb3>
+         <pdtb3 name="concession-arg1-as-denier" count="7">
+            <src entry-id="k1" word="aber" unique="true"/>
+            <src entry-id="k200" word="abgesehen davon" unique="true"/>
+            <src entry-id="k5" word="allerdings" unique="true"/>
+            <src entry-id="k31" word="dabei" other="temploc "/>
+            <src entry-id="k222" word="davon abgesehen, dass" unique="true"/>
+            <src entry-id="k78" word="gleichwohl" unique="true"/>
+            <src entry-id="k143" word="trotzdem" other="concession "/>
+         </pdtb3>
+         <pdtb3 name="synchronous" count="6">
+            <src entry-id="k31" word="dabei" other="temploc "/>
+            <src entry-id="k243"
+                 word="gleichzeitig"
+                 other="temploc parallel contrast "/>
+            <src entry-id="k249" word="indessen" unique="true"/>
+            <src entry-id="k249" word="indessen" unique="true"/>
+            <src entry-id="k286" word="wobei" other="temploc parallel "/>
+            <src entry-id="k179" word="zugleich" other="temploc parallel contrast "/>
+         </pdtb3>
+         <pdtb3 name="exception-arg2-as-except" count="4">
+            <src entry-id="k201"
+                 word="abgesehen davon, dass"
+                 other="concession continuation "/>
+            <src entry-id="k24" word="außer" other="parallel concession "/>
+            <src entry-id="k299" word="außer, dass" other="parallel concession "/>
+            <src entry-id="k222" word="davon abgesehen, dass" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="negative-condition-arg2-as-consequent" count="3">
+            <src entry-id="k8" word="andernfalls" other="alternation continuation "/>
+            <src entry-id="k8" word="andernfalls" other="alternation continuation "/>
+            <src entry-id="k138" word="sonst" other="alternation continuation "/>
+         </pdtb3>
+         <pdtb3 name="exception-arg1-as-except" count="2">
+            <src entry-id="k200" word="abgesehen davon" unique="true"/>
+            <src entry-id="k221" word="davon abgesehen" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="substitution-arg2-as-subst" count="1">
+            <src entry-id="k15" word="anstelle dessen" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="manner-arg2-as-manner" count="1">
+            <src entry-id="k31" word="dabei" other="temploc "/>
+         </pdtb3>
+         <pdtb3 name="specification-arg2-as-detail" count="1">
+            <src entry-id="k286" word="wobei" other="temploc parallel "/>
+         </pdtb3>
+         <pdtb3 name="cause-reason" count="1">
+            <src entry-id="k286" word="wobei" other="temploc parallel "/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="parallel">
+      <counts>
+         <pdtb3 name="synchronous" count="12">
+            <src entry-id="k226" word="derweilen" unique="true"/>
+            <src entry-id="k226" word="derweilen" unique="true"/>
+            <src entry-id="k243"
+                 word="gleichzeitig"
+                 other="temploc opposition contrast "/>
+            <src entry-id="k97" word="inzwischen" other="detachment "/>
+            <src entry-id="k264" word="schlussendlich" unique="true"/>
+            <src entry-id="k125" word="seither" unique="true"/>
+            <src entry-id="k150" word="unterdessen " unique="true"/>
+            <src entry-id="k167" word="wie" unique="true"/>
+            <src entry-id="k286" word="wobei" other="opposition temploc "/>
+            <src entry-id="k174" word="währenddessen" unique="true"/>
+            <src entry-id="k174" word="währenddessen" unique="true"/>
+            <src entry-id="k179"
+                 word="zugleich"
+                 other="temploc opposition contrast "/>
+         </pdtb3>
+         <pdtb3 name="conjunction" count="11">
+            <src entry-id="k16" word="auch" unique="true"/>
+            <src entry-id="k26" word="außerdem" other="continuation "/>
+            <src entry-id="k226" word="derweilen" unique="true"/>
+            <src entry-id="k226" word="derweilen" unique="true"/>
+            <src entry-id="k60" word="desgleichen" unique="true"/>
+            <src entry-id="k67" word="ebenfalls" unique="true"/>
+            <src entry-id="k238" word="geschweige denn" unique="true"/>
+            <src entry-id="k243"
+                 word="gleichzeitig"
+                 other="temploc opposition contrast "/>
+            <src entry-id="k112" word="obendrein" unique="true"/>
+            <src entry-id="k169" word="womit" unique="true"/>
+            <src entry-id="k179"
+                 word="zugleich"
+                 other="temploc opposition contrast "/>
+         </pdtb3>
+         <pdtb3 name="contrast" count="5">
+            <src entry-id="k243"
+                 word="gleichzeitig"
+                 other="temploc opposition contrast "/>
+            <src entry-id="k150" word="unterdessen " unique="true"/>
+            <src entry-id="k174" word="währenddessen" unique="true"/>
+            <src entry-id="k174" word="währenddessen" unique="true"/>
+            <src entry-id="k179"
+                 word="zugleich"
+                 other="temploc opposition contrast "/>
+         </pdtb3>
+         <pdtb3 name="cause-result" count="4">
+            <src entry-id="k20" word="aufgrund dessen" unique="true"/>
+            <src entry-id="k21" word="aufgrund dessen, dass" unique="true"/>
+            <src entry-id="k287" word="wodurch" unique="true"/>
+            <src entry-id="k169" word="womit" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="similarity" count="4">
+            <src entry-id="k67" word="ebenfalls" unique="true"/>
+            <src entry-id="k241" word="gleichermaßen" unique="true"/>
+            <src entry-id="k242" word="gleichfalls" unique="true"/>
+            <src entry-id="k167" word="wie" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="cause-reason" count="3">
+            <src entry-id="k20" word="aufgrund dessen" unique="true"/>
+            <src entry-id="k145" word="um so mehr" unique="true"/>
+            <src entry-id="k286" word="wobei" other="opposition temploc "/>
+         </pdtb3>
+         <pdtb3 name="exception-arg2-as-except" count="3">
+            <src entry-id="k24" word="außer" other="concession opposition "/>
+            <src entry-id="k299" word="außer, dass" other="concession opposition "/>
+            <src entry-id="k25" word="außer wenn" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="asynchronous-precedence" count="3">
+            <src entry-id="k97" word="inzwischen" other="detachment "/>
+            <src entry-id="k264" word="schlussendlich" unique="true"/>
+            <src entry-id="k125" word="seither" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="" count="2">
+            <src entry-id="k111" word="ob" unique="true"/>
+            <src entry-id="k111" word="ob" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="manner-arg1-as-manner" count="2">
+            <src entry-id="k287" word="wodurch" unique="true"/>
+            <src entry-id="k169" word="womit" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="instantiation" count="1">
+            <src entry-id="k265" word="sei es" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="equivalence" count="1">
+            <src entry-id="k273" word="sprich" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="condition-arg1-as-consequent" count="1">
+            <src entry-id="k283" word="vorbehaltlich dessen, dass" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="specification-arg2-as-detail" count="1">
+            <src entry-id="k286" word="wobei" other="opposition temploc "/>
+         </pdtb3>
+         <pdtb3 name="concession-arg2-as-denier" count="1">
+            <src entry-id="k286" word="wobei" other="opposition temploc "/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="rephrasing">
+      <counts>
+         <pdtb3 name="specification-arg2-as-detail" count="1">
+            <src entry-id="k237" word="genauer gesagt" unique="true"/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="result">
+      <counts>
+         <pdtb3 name="cause-result" count="20">
+            <src entry-id="k6" word="also" other="result_star "/>
+            <src entry-id="k39" word="daher" unique="true"/>
+            <src entry-id="k40" word="damit" other="goal "/>
+            <src entry-id="k47" word="darum" unique="true"/>
+            <src entry-id="k52" word="dementsprechend" other="continuation "/>
+            <src entry-id="k55" word="demnach" unique="true"/>
+            <src entry-id="k56" word="demzufolge" unique="true"/>
+            <src entry-id="k61" word="deshalb" unique="true"/>
+            <src entry-id="k63" word="deswegen" unique="true"/>
+            <src entry-id="k74" word="folgerichtig" unique="true"/>
+            <src entry-id="k75" word="folglich" unique="true"/>
+            <src entry-id="k92" word="infolgedessen" other="result_star "/>
+            <src entry-id="k99" word="konsequenterweise" unique="true"/>
+            <src entry-id="k103" word="mithin" unique="true"/>
+            <src entry-id="k127" word="so ... dass" other="goal "/>
+            <src entry-id="k131" word="sodass" other="goal "/>
+            <src entry-id="k135" word="somit" unique="true"/>
+            <src entry-id="k154" word="von daher" unique="true"/>
+            <src entry-id="k165" word="weshalb" unique="true"/>
+            <src entry-id="k166" word="weswegen" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="asynchronous-precedence" count="4">
+            <src entry-id="k211" word="anschließend" unique="true"/>
+            <src entry-id="k216" word="bis dass" other="goal "/>
+            <src entry-id="k43" word="dann" other="narration continuation "/>
+            <src entry-id="k124" word="seitdem" other="narration "/>
+         </pdtb3>
+         <pdtb3 name="conjunction" count="3">
+            <src entry-id="k211" word="anschließend" unique="true"/>
+            <src entry-id="k43" word="dann" other="narration continuation "/>
+            <src entry-id="k99" word="konsequenterweise" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="purpose-arg2-as-goal" count="3">
+            <src entry-id="k216" word="bis dass" other="goal "/>
+            <src entry-id="k40" word="damit" other="goal "/>
+            <src entry-id="k131" word="sodass" other="goal "/>
+         </pdtb3>
+         <pdtb3 name="condition-arg2-as-consequent" count="2">
+            <src entry-id="k43" word="dann" other="narration continuation "/>
+            <src entry-id="k99" word="konsequenterweise" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="synchronous" count="2">
+            <src entry-id="k43" word="dann" other="narration continuation "/>
+            <src entry-id="k129"
+                 word="sobald"
+                 other="narration condition flashback explanation "/>
+         </pdtb3>
+         <pdtb3 name="cause-reason" count="2">
+            <src entry-id="k70" word="entsprechend" unique="true"/>
+            <src entry-id="k71" word="ergo" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="concession-arg2-as-denier" count="1">
+            <src entry-id="k103" word="mithin" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="asynchronous-succession" count="1">
+            <src entry-id="k124" word="seitdem" other="narration "/>
+         </pdtb3>
+         <pdtb3 name="manner-arg1-as-manner" count="1">
+            <src entry-id="k135" word="somit" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="specification-arg1-as-detail" count="1">
+            <src entry-id="k135" word="somit" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="equivalence" count="1">
+            <src entry-id="k135" word="somit" unique="true"/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="result_star">
+      <counts>
+         <pdtb3 name="asynchronous-precedence" count="2">
+            <src entry-id="k205" word="alsdann" unique="true"/>
+            <src entry-id="k170" word="wonach" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="cause-result" count="2">
+            <src entry-id="k6" word="also" other="result "/>
+            <src entry-id="k92" word="infolgedessen" other="result "/>
+         </pdtb3>
+         <pdtb3 name="conjunction" count="1">
+            <src entry-id="k205" word="alsdann" unique="true"/>
+         </pdtb3>
+         <pdtb3 name="equivalence" count="1">
+            <src entry-id="k206" word="anders gesagt" other="elaboration "/>
+         </pdtb3>
+         <pdtb3 name="specification-arg1-as-detail" count="1">
+            <src entry-id="k255" word="kurz gesagt" other="summary "/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="summary">
+      <counts>
+         <pdtb3 name="specification-arg1-as-detail" count="1">
+            <src entry-id="k255" word="kurz gesagt" other="result_star "/>
+         </pdtb3>
+         <pdtb3 name="asynchronous-precedence" count="1">
+            <src entry-id="k122" word="schließlich" other="continuation narration "/>
+         </pdtb3>
+         <pdtb3 name="cause-reason" count="1">
+            <src entry-id="k122" word="schließlich" other="continuation narration "/>
+         </pdtb3>
+         <pdtb3 name="conjunction" count="1">
+            <src entry-id="k275" word="überhaupt" unique="true"/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="temploc">
+      <counts>
+         <pdtb3 name="synchronous" count="6">
+            <src entry-id="k31" word="dabei" other="opposition "/>
+            <src entry-id="k243"
+                 word="gleichzeitig"
+                 other="opposition parallel contrast "/>
+            <src entry-id="k286" word="wobei" other="opposition parallel "/>
+            <src entry-id="k173"
+                 word="während"
+                 other="concession background contrast explanation_star "/>
+            <src entry-id="k173"
+                 word="während"
+                 other="concession background contrast explanation_star "/>
+            <src entry-id="k179"
+                 word="zugleich"
+                 other="opposition parallel contrast "/>
+         </pdtb3>
+         <pdtb3 name="asynchronous-precedence" count="3">
+            <src entry-id="k28" word="bevor" other="narration goal "/>
+            <src entry-id="k215" word="bis" other="background goal "/>
+            <src entry-id="k228" word="ehe" other="narration goal "/>
+         </pdtb3>
+         <pdtb3 name="contrast" count="3">
+            <src entry-id="k243"
+                 word="gleichzeitig"
+                 other="opposition parallel contrast "/>
+            <src entry-id="k173"
+                 word="während"
+                 other="concession background contrast explanation_star "/>
+            <src entry-id="k179"
+                 word="zugleich"
+                 other="opposition parallel contrast "/>
+         </pdtb3>
+         <pdtb3 name="manner-arg2-as-manner" count="2">
+            <src entry-id="k31" word="dabei" other="opposition "/>
+            <src entry-id="k90" word="indem" other="condition "/>
+         </pdtb3>
+         <pdtb3 name="concession-arg2-as-denier" count="2">
+            <src entry-id="k31" word="dabei" other="opposition "/>
+            <src entry-id="k286" word="wobei" other="opposition parallel "/>
+         </pdtb3>
+         <pdtb3 name="conjunction" count="2">
+            <src entry-id="k243"
+                 word="gleichzeitig"
+                 other="opposition parallel contrast "/>
+            <src entry-id="k179"
+                 word="zugleich"
+                 other="opposition parallel contrast "/>
+         </pdtb3>
+         <pdtb3 name="asynchronous-succession" count="2">
+            <src entry-id="k123" word="seit" other="flashback explanation "/>
+            <src entry-id="k123" word="seit" other="flashback explanation "/>
+         </pdtb3>
+         <pdtb3 name="concession-arg1-as-denier" count="1">
+            <src entry-id="k31" word="dabei" other="opposition "/>
+         </pdtb3>
+         <pdtb3 name="specification-arg2-as-detail" count="1">
+            <src entry-id="k286" word="wobei" other="opposition parallel "/>
+         </pdtb3>
+         <pdtb3 name="cause-reason" count="1">
+            <src entry-id="k286" word="wobei" other="opposition parallel "/>
+         </pdtb3>
+      </counts>
+   </entry>
+   <entry sdrt="temporal">
+      <counts>
+         <pdtb3 name="synchronous" count="1">
+            <src entry-id="k267" word="solange" other="condition "/>
+         </pdtb3>
+         <pdtb3 name="condition-arg1-as-consequent" count="1">
+            <src entry-id="k267" word="solange" other="condition "/>
+         </pdtb3>
+         <pdtb3 name="asynchronous-succession" count="1">
+            <src entry-id="k267" word="solange" other="condition "/>
+         </pdtb3>
+      </counts>
+   </entry>
+</map>

@@ -1,0 +1,5622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dimlex
+  SYSTEM "dimlex.dtd">
+<dimlex>
+   <entry id="c1" word="a causa di">
+      <orths>
+         <orth type="cont" canonical="1" onr="c1o1">
+            <part type="phrasal">a causa di</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c1o2">
+            <part type="phrasal">A causa di</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k19">aufgrund</synonym>
+         <synonym lexicon="dimlex" entry-id="k21">aufgrund dessen, dass</synonym>
+         <synonym lexicon="dimlex" entry-id="k160">wegen</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>prepositional</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:reason"/>
+            <example>A causa del maltempo il St. Gotthard è rimasto chiuso.</example>
+            <example>Una chiusura a causa del maltempo verrà presa in considerazione.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c2" word="a condizione che">
+      <orths>
+         <orth type="cont" canonical="1" onr="c2o1">
+            <part type="phrasal">a condizione che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c2o2">
+            <part type="phrasal">A condizione che</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k133">sofern</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Condition"/>
+            <example>Oggi usciamo, a condizione che venga Hans.</example>
+            <example>Vuole restare all'istituto a condizione che ottenga il posto di assistente.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c3" word="a dire il vero">
+      <orths>
+         <orth type="cont" canonical="1" onr="c3o1">
+            <part type="phrasal">a dire il vero</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c3o2">
+            <part type="phrasal">A dire il vero</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k5">allerdings</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c4" word="a dire la verità">
+      <orths>
+         <orth type="cont" canonical="1" onr="c4o1">
+            <part type="phrasal">a dire la verità</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c4o2">
+            <part type="phrasal">A dire la verità</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c4o3">
+            <part type="phrasal">in verità</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c4o4">
+            <part type="phrasal">In verità</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c4o5">
+            <part type="phrasal">per la verità</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c4o6">
+            <part type="phrasal">Per la verità</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c5" word="a dispetto di">
+      <orths>
+         <orth type="cont" canonical="1" onr="c5o1">
+            <part type="phrasal">a dispetto di</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c5o2">
+            <part type="phrasal">A dispetto di</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k142">trotz</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+            <example>Ci andiamo a dispetto del maltempo.</example>
+            <example>Una seconda Pantherin ha lavorato fino al 67 anno di età, per acquisire, a dispetto della bassa paga oraria, una pensione.</example>
+            <example>A dispetto del gran caldo estivo, il riscaldamento va a pieno regime.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c6" word="a meno che">
+      <orths>
+         <orth type="cont" canonical="1" onr="c6o1">
+            <part type="phrasal">a meno che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c6o2">
+            <part type="phrasal">A meno che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c6o3">
+            <part type="phrasal">a meno di</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c6o4">
+            <part type="phrasal">A meno di</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k24">außer</synonym>
+         <synonym lexicon="dimlex" entry-id="k133">sofern</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Negative-Condition:Arg2-as-negcond"/>
+            <example>In caso di divorzio la madre ottiene l'affidamento dei minori, a meno che il giudice non decida altrimenti.</example>
+            <example>Domani vado in montagna, a meno che il tempo non faccia brutti scherzi.</example>
+            <example>Oggi usciamo, a meno che Hans venga.</example>
+            <example>Vuole restare all'istituto, a meno che non ottenga il posto di assistente.</example>
+            <example>A meno che tu non abbia niente di meglio in programma, vieni al cinema domani?</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c7" word="a onor del vero">
+      <orths>
+         <orth type="cont" canonical="1" onr="c7o1">
+            <part type="phrasal">a onor del vero</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c7o2">
+            <part type="phrasal">A onor del vero</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c8" word="a tal fine">
+      <orths>
+         <orth type="cont" canonical="1" onr="c8o1">
+            <part type="phrasal">a tal fine</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c8o2">
+            <part type="phrasal">A tal fine</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k35">dafür</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Purpose:Arg1-as-goal"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c9" word="ad esempio">
+      <orths>
+         <orth type="cont" canonical="1" onr="c9o1">
+            <part type="phrasal">ad esempio</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c9o2">
+            <part type="phrasal">Ad esempio</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c9o3">
+            <part type="phrasal">per esempio</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c9o4">
+            <part type="phrasal">Per esempio</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Instantiation"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c10" word="ad ogni modo">
+      <orths>
+         <orth type="cont" canonical="1" onr="c10o1">
+            <part type="phrasal">ad ogni modo</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c10o2">
+            <part type="phrasal">Ad ogni modo</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c10o3">
+            <part type="phrasal">in ogni modo</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c10o4">
+            <part type="phrasal">In ogni modo</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c11" word="affinché">
+      <orths>
+         <orth type="cont" canonical="1" onr="c11o1">
+            <part type="single">affinché</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c11o2">
+            <part type="single">Affinché</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Purpose:Arg2-as-goal"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c12" word="al che">
+      <orths>
+         <orth type="cont" canonical="1" onr="c12o1">
+            <part type="phrasal">al che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c12o2">
+            <part type="phrasal">Al che</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k172">woraufhin</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:precedence"/>
+            <example>Il boxer incespicò impotente nella corda, al che l'arbitro interruppe l'incontro.</example>
+            <example>Il fantino del cavallo favorito era caduto dalla sella, al che le migliaia di spettatori, che avevano scommesso sull'animale, andarono su tutte le furie.</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example>Il boxer incespicò impotente nella corda, al che l'arbitro interruppe l'incontro.</example>
+            <example>Il fantino del cavallo favorito era caduto dalla sella, al che le migliaia di spettatori, che avevano scommesso sull'animale, andarono su tutte le furie.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c13" word="al contrario">
+      <orths>
+         <orth type="cont" canonical="1" onr="c13o1">
+            <part type="phrasal">al contrario</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c13o2">
+            <part type="phrasal">Al contrario</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k38">dagegen</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Contrast"/>
+            <example>Un imprenditore, che non ha ancora tagliato gole, non può essere chiamato strozzino. Al contrario un avvocato può indicare...</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c14" word="al massimo">
+      <orths>
+         <orth type="cont" canonical="1" onr="c14o1">
+            <part type="phrasal">al massimo</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c14o2">
+            <part type="phrasal">Al massimo</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Exception:Arg2-as-excpt"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c15" word="al posto di">
+      <orths>
+         <orth type="cont" canonical="1" onr="c15o1">
+            <part type="phrasal">al posto di</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c15o2">
+            <part type="phrasal">Al posto di</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k13">anstatt</synonym>
+         <synonym lexicon="dimlex" entry-id="k14">anstatt dass</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>prepositional</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Substitution:Arg1-as-subst"/>
+            <example>Al posto di mandare i bambini, ha mandato il nonno.</example>
+            <example>Al posto di venire, è rimasto a letto.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c16" word="alla fin fine">
+      <orths>
+         <orth type="cont" canonical="1" onr="c16o1">
+            <part type="phrasal">alla fin fine</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c16o2">
+            <part type="phrasal">Alla fin fine</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c17" word="alla fine">
+      <orths>
+         <orth type="cont" canonical="1" onr="c17o1">
+            <part type="phrasal">alla fine</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c17o2">
+            <part type="phrasal">Alla fine</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>prepositional</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c18" word="allo scopo di">
+      <orths>
+         <orth type="cont" canonical="1" onr="c18o1">
+            <part type="phrasal">allo scopo di</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c18o2">
+            <part type="phrasal">Allo scopo di</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c18o3">
+            <part type="phrasal">con lo scopo di</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c18o4">
+            <part type="phrasal">Con lo scopo di</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Purpose:Arg2-as-goal"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c19" word="allo stesso modo">
+      <orths>
+         <orth type="cont" canonical="1" onr="c19o1">
+            <part type="phrasal">allo stesso modo</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c19o2">
+            <part type="phrasal">Allo stesso modo</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k68">ebenso wenig</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>prepositional</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Similarity"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c20" word="allora">
+      <orths>
+         <orth type="cont" canonical="1" onr="c20o1">
+            <part type="single">allora</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c20o2">
+            <part type="single">Allora</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k6">also</synonym>
+         <synonym lexicon="dimlex" entry-id="k43">dann</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:precedence"/>
+            <example/>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example> Allora la radio ancora non c'era. Allora, gli abitanti di Heilbronn dovevano aspettare fino al lunedì successivo, per conoscere il segnale. </example>
+            <example>Ho trovato sotto il ginocchio della gamba sinistra un'altra scottatura, allora lì il flusso deve aver di nuovo abbandonato il corpo.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c21" word="altrimenti">
+      <orths>
+         <orth type="cont" canonical="1" onr="c21o1">
+            <part type="single">altrimenti</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c21o2">
+            <part type="single">Altrimenti</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k8">andernfalls</synonym>
+         <synonym lexicon="dimlex" entry-id="k138">sonst</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Negative-Condition:Arg1-as-negcond"/>
+            <example>Il quindicenne deve sottomettersi, altrimenti viene colpito sul muso.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c22" word="anche">
+      <orths>
+         <orth type="cont" canonical="1" onr="c22o1">
+            <part type="single">anche</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c22o2">
+            <part type="single">Anche</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k16">auch</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Conjunction"/>
+            <example>Klaus non è ancora tornato. Si è anche perso l'allenamento.</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c23" word="anche se">
+      <orths>
+         <orth type="cont" canonical="1" onr="c23o1">
+            <part type="phrasal">anche se</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c23o2">
+            <part type="phrasal">Anche se</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k115">obwohl</synonym>
+         <synonym lexicon="dimlex" entry-id="k163">wenn ... auch</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+            <example>Abbiamo perso, anche se ci eravamo preparati bene.</example>
+            <example>Anche se piove, vado al parco.</example>
+            <example>Vado al parco, anche se piove.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c24" word="anzi">
+      <orths>
+         <orth type="cont" canonical="1" onr="c24o1">
+            <part type="single">anzi</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c24o2">
+            <part type="single">Anzi</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k29">beziehungsweise</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Conjunction"/>
+            <example>Sapevano di aver perso, anzi non c'era più possibilità di una vittoria.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c25" word="anziché">
+      <orths>
+         <orth type="cont" canonical="1" onr="c25o1">
+            <part type="single">anziché</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c25o2">
+            <part type="single">Anziché</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Substitution:Arg1-as-subst"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c26" word="benché">
+      <orths>
+         <orth type="cont" canonical="1" onr="c26o1">
+            <part type="single">benché</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c26o2">
+            <part type="single">Benché</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k113">obgleich</synonym>
+         <synonym lexicon="dimlex" entry-id="k114">obschon</synonym>
+         <synonym lexicon="dimlex" entry-id="k115">obwohl</synonym>
+         <synonym lexicon="dimlex" entry-id="k116">obzwar</synonym>
+         <synonym lexicon="dimlex" entry-id="k164">wenngleich</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+            <example>Benché Greff fosse sposato, sembrava più un capo degli scout che un marito.</example>
+            <example>Esercitava ancora molte funzioni, benché fosse sofferente.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c27" word="bensì">
+      <orths>
+         <orth type="cont" canonical="1" onr="c27o1">
+            <part type="single">bensì</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c27o2">
+            <part type="single">Bensì</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k137">sondern</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Contrast"/>
+            <example>Con la vincita del lotto non ha comprato nessuna auto, bensì ha fatto più viaggi all'estero.</example>
+            <example>Non prese la decisione con leggerezza, bensì ci pensò molto sopra.</example>
+            <example>Non rimase nemmeno per voltarsi a guardare, bensì corse più veloce che poteva fino all'angolo successivo.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c28" word="cioè">
+      <orths>
+         <orth type="cont" canonical="1" onr="c28o1">
+            <part type="single">cioè</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c28o2">
+            <part type="single">Cioè</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k29">beziehungsweise</synonym>
+         <synonym lexicon="dimlex" entry-id="k49">das heißt</synonym>
+         <synonym lexicon="dimlex" entry-id="k110">nämlich</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Equivalence"/>
+            <pdtb3_relation sense="reformulation"/>
+            <example>Sapevano di aver perso, cioè non c'era più possibilità di una vittoria.</example>
+            <example>Dovresti leggere quel libro, cioè, dovresti averlo almeno nella libreria.</example>
+            <example>Per lo sbarramento del fiume dal prato lungo l'Oberrhein tra Basel e Iffezheim c'erano 130 chilometri quadrati, cioè circa il 60 percento della già esistente superficie alluvionata è persa.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c29" word="cionondimeno">
+      <orths>
+         <orth type="cont" canonical="1" onr="c29o1">
+            <part type="single">cionondimeno</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c29o2">
+            <part type="single">Cionondimeno</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c29o3">
+            <part type="phrasal">ciò nondimeno</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c29o4">
+            <part type="phrasal">Ciò nondimeno</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k58">dennoch</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c30" word="ciononostante">
+      <orths>
+         <orth type="cont" canonical="1" onr="c30o1">
+            <part type="single">ciononostante</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c30o2">
+            <part type="single">Ciononostante</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c30o3">
+            <part type="phrasal">nonostante ciò</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c30o4">
+            <part type="phrasal">Nonostante ciò</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c30o5">
+            <part type="phrasal">ciò nonostante</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c30o6">
+            <part type="phrasal">Ciò nonostante</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k62">dessen ungeachtet</synonym>
+         <synonym lexicon="dimlex" entry-id="k78">gleichwohl</synonym>
+         <synonym lexicon="dimlex" entry-id="k107">nichtsdestoweniger</synonym>
+         <synonym lexicon="dimlex" entry-id="k143">trotzdem</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example>Entrambe le pagine annunciavano un secondo incontro per martedì. Ciononostante le lotte nei campi andarono avanti anche il lunedì.</example>
+            <example>Adesso la procura della repubblica ha ordinato la restituzione dell'esemplare confiscato. Ciononostante l'istruttoria contro la casa editrice prosegue.</example>
+            <example>Lui non ha valutato correttamente la situazione della politica interna nella sua patria. Ciononostante è ritornato da quella parte in ogni caso.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c31" word="come">
+      <orths>
+         <orth type="cont" canonical="1" onr="c31o1">
+            <part type="single">come</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c31o2">
+            <part type="single">Come</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k167">wie</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Syncrony"/>
+            <pdtb3_relation sense="addition"/>
+            <example>Come i bambini videro il pupazzo di neve, corsero da lui.</example>
+            <example>Entrambi i gatti le si precipitarono contro, come lei aprì la porta.</example>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c32" word="come conseguenza">
+      <orths>
+         <orth type="cont" canonical="1" onr="c32o1">
+            <part type="phrasal">come conseguenza</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c32o2">
+            <part type="phrasal">Come conseguenza</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:precedence"/>
+            <example>Il boxer incespicò impotente nella corda, come conseguenza l'arbitro interruppe l'incontro.</example>
+            <example>Il fantino del cavallo favorito era caduto dalla sella, come conseguenza le migliaia di spettatori, che avevano scommesso sull'animale, andarono su tutte le furie.</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example>Il boxer incespicò impotente nella corda, come conseguenza l'arbitro interruppe l'incontro.</example>
+            <example>Il fantino del cavallo favorito era caduto dalla sella, come conseguenza le migliaia di spettatori, che avevano scommesso sull'animale, andarono su tutte le furie.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c33" word="comunque">
+      <orths>
+         <orth type="cont" canonical="1" onr="c33o1">
+            <part type="single">comunque</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c33o2">
+            <part type="single">Comunque</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k119">ohnedies</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Conjunction"/>
+            <example>Per me il Marocco d'estate è troppo caldo. Comunque ho paura di volare.</example>
+            <example>Chi in quei giorni criticava gli espugnatori russi della Cecenia, correva il rischio, di rendersi antipatico. Comunque era certo che Putin avrebbe vinto la seconda votazione.</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c34" word="con ciò">
+      <orths>
+         <orth type="cont" canonical="1" onr="c34o1">
+            <part type="phrasal">con ciò</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c34o2">
+            <part type="phrasal">Con ciò</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c34o3">
+            <part type="phrasal">con questo</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c34o4">
+            <part type="phrasal">Con questo</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k83">hierdurch</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="consequence"/>
+            <example>La compagnia telefonica Talkline respingeva l'ufficio di regolazione per le telecomunicazioni e le poste. Con ciò fu stabilita la posizione di monopolio della Telecom e criticata la Talkline.</example>
+            <example>Questo petrolio fu raffinato e venduto in Europa come benzina; con ciò in alcuni anni un terzo è entrato nella valuta estera.</example>
+            <example>Il gruppo industriale vendette il settore del carbone, rottami metallici e logistica. Con ciò il numero dei posti diminuì di 10 000.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c35" word="con tutto questo">
+      <orths>
+         <orth type="cont" canonical="1" onr="c35o1">
+            <part type="phrasal">con tutto questo</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c35o2">
+            <part type="phrasal">Con tutto questo</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c36" word="contrariamente a">
+      <orths>
+         <orth type="cont" canonical="1" onr="c36o1">
+            <part type="phrasal">contrariamente a</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c36o2">
+            <part type="phrasal">Contrariamente a</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k69">entgegen</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>prepositional</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Contrast"/>
+            <example>Contrariamente all'attuale ipotesi, alcune molecole di principi attivi non vengono del tutto distrutte durante la cottura.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c37" word="contuttociò">
+      <orths>
+         <orth type="cont" canonical="1" onr="c37o1">
+            <part type="single">contuttociò</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c37o2">
+            <part type="single">Contuttociò</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>prepositional</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c38" word="così">
+      <orths>
+         <orth type="cont" canonical="1" onr="c38o1">
+            <part type="single">così</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c38o2">
+            <part type="single">Così</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k83">hierdurch</synonym>
+         <synonym lexicon="dimlex" entry-id="k172">woraufhin</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>prepositional</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example>La compagnia telefonica Talkline respingeva l'ufficio di regolazione per le telecomunicazioni e le poste. Così fu stabilita la posizione di monopolio della Telecom e criticata la Talkline.</example>
+            <example>Questo petrolio fu raffinato e venduto in Europa come benzina; così in alcuni anni un terzo è entrato nella valuta estera.</example>
+            <example>Il gruppo industriale vendette il settore del carbone, rottami metallici e logistica. Così il numero dei posti diminuì di 10 000.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c39" word="così che">
+      <orths>
+         <orth type="cont" canonical="1" onr="c39o1">
+            <part type="phrasal">così che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c39o2">
+            <part type="phrasal">Così che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c39o3">
+            <part type="single">cosicché</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c39o4">
+            <part type="single">Cosicché</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k131">sodass</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>prepositional</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example>Il bambino aveva la febbre, così che doveva restare a letto.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c40" word="da allora">
+      <orths>
+         <orth type="cont" canonical="1" onr="c40o1">
+            <part type="phrasal">da allora</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c40o2">
+            <part type="phrasal">Da allora</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k124">seitdem</synonym>
+         <synonym lexicon="dimlex" entry-id="k125">seither</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:precedence"/>
+            <example>Il vulcano è ritornato attivo l'estate scorsa. Da allora sputa  ripetutamente cenere e vapore.</example>
+            <example>Nel 1948 andarono per la prima volta a Bruegge. Da allora ci vanno quasi tutti gli anni.</example>
+            <example>Suo fratello lo ha portato alla stazione di Heidelberger. Da allora manca e non si è più fatto sentire.</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c41" word="da ciò">
+      <orths>
+         <orth type="cont" canonical="1" onr="c41o1">
+            <part type="phrasal">da ciò</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c41o2">
+            <part type="phrasal">Da ciò</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k83">hierdurch</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example>La compagnia telefonica Talkline respingeva l'ufficio di regolazione per le telecomunicazioni e le poste. Da ciò fu stabilita la posizione di monopolio della Telecom e criticata la Talkline.</example>
+            <example>Il gruppo industriale vendette il settore del carbone, rottami metallici e logistica. Da ciò il numero dei posti diminuì di 10 000.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c42" word="da quando">
+      <orths>
+         <orth type="cont" canonical="1" onr="c42o1">
+            <part type="phrasal">da quando</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c42o2">
+            <part type="phrasal">Da quando</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k123">seit</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>classe</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:succession"/>
+            <example>Da quando conosco le Alpi, voglio sempre tornare là.</example>
+            <example>Voglio sempre tornare alle Alpi da quando le conosco.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c43" word="da ultimo">
+      <orths>
+         <orth type="cont" canonical="1" onr="c43o1">
+            <part type="phrasal">da ultimo</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c43o2">
+            <part type="phrasal">Da ultimo</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:precedence"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c44" word="da un canto ... dall'altro">
+      <orths>
+         <orth type="discont" canonical="1" onr="c44o1">
+            <part type="phrasal">da un canto</part>
+            <part type="phrasal">dall'altro</part>
+         </orth>
+         <orth type="discont" canonical="0" onr="c44o2">
+            <part type="phrasal">Da un canto</part>
+            <part type="phrasal">dall'altro</part>
+         </orth>
+         <orth type="discont" canonical="0" onr="c44o3">
+            <part type="phrasal">da un canto</part>
+            <part type="phrasal">Dall'altro</part>
+         </orth>
+         <orth type="discont" canonical="0" onr="c44o4">
+            <part type="phrasal">Da un canto</part>
+            <part type="phrasal">Dall'altro</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k7">andererseits</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>classe</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Contrast"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c45" word="da un lato ... dall'altro lato">
+      <orths>
+         <orth type="discont" canonical="1" onr="c45o1">
+            <part type="phrasal">da un lato</part>
+            <part type="phrasal">dall'altro lato</part>
+         </orth>
+         <orth type="discont" canonical="0" onr="c45o2">
+            <part type="phrasal">Da un lato</part>
+            <part type="phrasal">dall'altro lato</part>
+         </orth>
+         <orth type="discont" canonical="0" onr="c45o3">
+            <part type="phrasal">da un lato</part>
+            <part type="phrasal">Dall'altro lato</part>
+         </orth>
+         <orth type="discont" canonical="0" onr="c45o4">
+            <part type="phrasal">Da un lato</part>
+            <part type="phrasal">Dall'altro lato</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k7">andererseits</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>classe</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Contrast"/>
+            <example>Sabeth non credeva che io avessi capito qualcosa, e aveva da un lato una fiducia smisurata in me, dall'altra parte assolutamente nessun rispetto.</example>
+            <example>Il legislatore dimostra da un lato apparente durezza, ma dall'altro lato non fa male a nessuno.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c46" word="da una parte">
+      <orths>
+         <orth type="cont" canonical="1" onr="c46o1">
+            <part type="phrasal">da una parte</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c46o2">
+            <part type="phrasal">Da una parte</part>
+         </orth>
+         <orth type="discont" canonical="0" onr="c46o5">
+            <part type="phrasal">da una parte</part>
+            <part type="phrasal">dall'altra parte</part>
+         </orth>
+         <orth type="discont" canonical="0" onr="c46o6">
+            <part type="phrasal">Da una parte</part>
+            <part type="phrasal">dall'altra parte</part>
+         </orth>
+         <orth type="discont" canonical="0" onr="c46o7">
+            <part type="phrasal">da una parte</part>
+            <part type="phrasal">Dall'altra parte</part>
+         </orth>
+         <orth type="discont" canonical="0" onr="c46o8">
+            <part type="phrasal">Da una parte</part>
+            <part type="phrasal">Dall'altra parte</part>
+         </orth>
+         <orth type="discont" canonical="0" onr="c46o9">
+            <part type="phrasal">da una parte</part>
+            <part type="phrasal">dall'altra</part>
+         </orth>
+         <orth type="discont" canonical="0" onr="c46o10">
+            <part type="phrasal">Da una parte</part>
+            <part type="phrasal">dall'altra</part>
+         </orth>
+         <orth type="discont" canonical="0" onr="c46o11">
+            <part type="phrasal">da una parte</part>
+            <part type="phrasal">Dall'altra</part>
+         </orth>
+         <orth type="discont" canonical="0" onr="c46o12">
+            <part type="phrasal">Da una parte</part>
+            <part type="phrasal">Dall'altra</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k7">andererseits</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>classe</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Contrast"/>
+            <example>Sabeth non credeva che io avessi capito qualcosa, e aveva da una parte una fiducia smisurata in me, dall'altra parte assolutamente nessun rispetto.</example>
+            <example>Il legislatore dimostra da una parte apparente durezza, ma dall'altro lato non fa male a nessuno.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c47" word="dal momento che">
+      <orths>
+         <orth type="cont" canonical="1" onr="c47o1">
+            <part type="phrasal">dal momento che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c47o2">
+            <part type="phrasal">Dal momento che</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k30">da</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:reason"/>
+            <example>Dal momento che la cantante è malata, il concerto non può avere luogo.</example>
+            <example>Quel luogo è molto tranquillo, dal momento che si trova lontano dalle grandi strade.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c48" word="d'altra parte">
+      <orths>
+         <orth type="cont" canonical="1" onr="c48o1">
+            <part type="phrasal">d'altra parte</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c48o2">
+            <part type="phrasal">D'altra parte</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k53">demgegenüber</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="contrast"/>
+            <example>'La letteratura africana è una performance', spiegò Hove. La letteratura europea è d'altra parte un esercizio intellettuale.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c49" word="d'altro lato">
+      <orths>
+         <orth type="cont" canonical="1" onr="c49o1">
+            <part type="phrasal">d'altro lato</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c49o2">
+            <part type="phrasal">D'altro lato</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c50" word="del resto">
+      <orths>
+         <orth type="cont" canonical="1" onr="c50o1">
+            <part type="phrasal">del resto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c50o2">
+            <part type="phrasal">Del resto</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c51" word="di conseguenza">
+      <orths>
+         <orth type="cont" canonical="1" onr="c51o1">
+            <part type="phrasal">di conseguenza</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c51o2">
+            <part type="phrasal">Di conseguenza</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k39">daher</synonym>
+         <synonym lexicon="dimlex" entry-id="k103">mithin</synonym>
+         <synonym lexicon="dimlex" entry-id="k135">somit</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example>Non aveva ancora mangiato. Di conseguenza si sentiva indebolita.</example>
+            <example>Non aveva ancora mangiato e di conseguenza si sentiva indebolita.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c52" word="di fatto">
+      <orths>
+         <orth type="cont" canonical="1" onr="c52o1">
+            <part type="phrasal">di fatto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c52o2">
+            <part type="phrasal">Di fatto</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c53" word="di modo che">
+      <orths>
+         <orth type="cont" canonical="1" onr="c53o1">
+            <part type="phrasal">di modo che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c53o2">
+            <part type="phrasal">Di modo che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c53o3">
+            <part type="single">dimodoché</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c53o4">
+            <part type="single">Dimodoché</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c53o5">
+            <part type="phrasal">in modo che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c53o6">
+            <part type="phrasal">In modo che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c53o7">
+            <part type="phrasal">in modo da</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c53o8">
+            <part type="phrasal">In modo da</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c54" word="dopo">
+      <orths>
+         <orth type="cont" canonical="1" onr="c54o1">
+            <part type="single">dopo</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c54o2">
+            <part type="single">Dopo</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k41">danach</synonym>
+         <synonym lexicon="dimlex" entry-id="k45">daraufhin</synonym>
+         <synonym lexicon="dimlex" entry-id="k86">hiernach</synonym>
+         <synonym lexicon="dimlex" entry-id="k104">nachdem</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>avverbio</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:precedence"/>
+            <example>Scalfire i pomodori con un coltello affilato e annaffiare con acqua calda. Dopo si può spellarli senza problemi.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c55" word="dopo di che">
+      <orths>
+         <orth type="cont" canonical="1" onr="c55o1">
+            <part type="phrasal">dopo di che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c55o2">
+            <part type="phrasal">Dopo di che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c55o3">
+            <part type="single">dopodiché</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c55o4">
+            <part type="single">Dopodiché</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c55o5">
+            <part type="phrasal">dopo di ciò</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c55o6">
+            <part type="phrasal">Dopo di ciò</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k170">wonach</synonym>
+         <synonym lexicon="dimlex" entry-id="k171">worauf</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:precedence"/>
+            <example>Hanno camminato per cinque ore sotto la pioggerella minuta, dopodiché avevano tutti bisogno di un punch per riscaldarsi.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c56" word="dopotutto">
+      <orths>
+         <orth type="cont" canonical="1" onr="c56o1">
+            <part type="single">dopotutto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c56o2">
+            <part type="single">Dopotutto</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c57" word="dunque">
+      <orths>
+         <orth type="cont" canonical="1" onr="c57o1">
+            <part type="single">dunque</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c57o2">
+            <part type="single">Dunque</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k6">also</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example> Allora la radio ancora non c'era. Dunque, gli abitanti di Heilbronn dovevano aspettare fino al lunedì successivo, per conoscere il segnale. </example>
+            <example>Ho trovato sotto il ginocchio della gamba sinistra un'altra scottatura, dunque lì il flusso deve aver di nuovo abbandonato il corpo.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c58" word="e">
+      <orths>
+         <orth type="cont" canonical="1" onr="c58o1">
+            <part type="single">e</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c58o2">
+            <part type="single">E</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k149">und</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Conjunction"/>
+            <example>Il sole brilla e gli uccelli cinguettano.</example>
+            <example>In montagna c'è il sole e in pianura piove ancora.</example>
+            <example>Carla ha un pullover verde e Janka ne ha uno rosso.</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:precedence"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c59" word="ebbene">
+      <orths>
+         <orth type="cont" canonical="1" onr="c59o1">
+            <part type="single">ebbene</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c59o2">
+            <part type="single">Ebbene</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c60" word="eccetto">
+      <orths>
+         <orth type="cont" canonical="1" onr="c60o1">
+            <part type="single">eccetto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c60o2">
+            <part type="single">Eccetto</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k24">außer</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Exception:Arg2-as-except"/>
+            <example>In caso di divorzio la madre ottiene l'affidamento dei minori, eccetto che il giudice non decida altrimenti.</example>
+            <example>Domani vado in montagna, eccetto che il tempo non faccia brutti scherzi.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c61" word="eppure">
+      <orths>
+         <orth type="cont" canonical="1" onr="c61o1">
+            <part type="single">eppure</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c61o2">
+            <part type="single">Eppure</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k143">trotzdem</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example>Oggi i gatti non hanno più un'utilità pratica come animali domestici. Eppure sono estremamente amati.</example>
+            <example>In realtà per oggi era previsto bel tempo. Eppure piove a dirotto.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c62" word="fatto sta che">
+      <orths>
+         <orth type="cont" canonical="1" onr="c62o1">
+            <part type="phrasal">fatto sta che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c62o2">
+            <part type="phrasal">Fatto sta che</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c63" word="fin qui">
+      <orths>
+         <orth type="cont" canonical="1" onr="c63o1">
+            <part type="phrasal">fin qui</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c63o2">
+            <part type="phrasal">Fin qui</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k139">soweit</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Conjunction"/>
+            <example>Prima dell'elezione, il governo quanto l'opposizione, mettono in vista pesanti aumenti di assegni familiari e assegni di maternità. Fin qui non c'è nulla di nuovo.</example>
+            <example>Il neonato pesava 2600 grammi per una lunghezza di 46 centimetri. Fin qui un abbastanza normale e gioioso avvenimento.</example>
+            <example>Per agire contro la moria della foresta, resta solo la riduzione degli inquinanti. Fin qui i politici sono tutti d'accordo.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c64" word="fino a questo punto">
+      <orths>
+         <orth type="cont" canonical="1" onr="c64o1">
+            <part type="phrasal">fino a questo punto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c64o2">
+            <part type="phrasal">Fino a questo punto</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k139">soweit</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Conjunction"/>
+            <example>Prima dell'elezione, il governo quanto l'opposizione, mettono in vista pesanti aumenti di assegni familiari e assegni di maternità. Fino a questo punto non c'è nulla di nuovo.</example>
+            <example>Il neonato pesava 2600 grammi per una lunghezza di 46 centimetri. Fino a questo punto un abbastanza normale e gioioso avvenimento.</example>
+            <example>Per agire contro la moria della foresta, resta solo la riduzione degli inquinanti. Fino a questo punto i politici sono tutti d'accordo.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c65" word="frattanto">
+      <orths>
+         <orth type="cont" canonical="1" onr="c65o1">
+            <part type="single">frattanto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c65o2">
+            <part type="single">Frattanto</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k150">unterdessen </synonym>
+         <synonym lexicon="dimlex" entry-id="k174">währenddessen</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Syncrony"/>
+            <example>Frattanto le idee della Volks-AG nella navigazione marittima verranno collaudate anche in altri rami del campo dei trasporti.</example>
+            <example>Dopo due settimane di scioperi di massa, le persone della montagna hanno ripreso il lavoro. Frattanto gli scioperi nei Nachbarrevieren si sono allargati in modo rilevante.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c66" word="fuorché">
+      <orths>
+         <orth type="cont" canonical="1" onr="c66o1">
+            <part type="single">fuorché</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c66o2">
+            <part type="single">Fuorché</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k24">außer</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Exception:Arg2-as-except"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c67" word="giacché">
+      <orths>
+         <orth type="cont" canonical="1" onr="c67o1">
+            <part type="single">giacché</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c67o2">
+            <part type="single">Giacché</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k30">da</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:reason"/>
+            <example>Giacché la cantante è malata, il concerto non può avere luogo.</example>
+            <example>Quel luogo è molto tranquillo, giacché si trova lontano dalle grandi strade.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c68" word="in altre parole">
+      <orths>
+         <orth type="cont" canonical="1" onr="c68o1">
+            <part type="phrasal">in altre parole</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c68o2">
+            <part type="phrasal">In altre parole</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c68o3">
+            <part type="phrasal">in altri termini</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c68o4">
+            <part type="phrasal">In altri termini</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Equivalence"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c69" word="in base a">
+      <orths>
+         <orth type="cont" canonical="1" onr="c69o1">
+            <part type="phrasal">in base a</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c69o2">
+            <part type="phrasal">In base a</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k20">aufgrund dessen</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>prepositional</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:reason"/>
+            <example>Il rimprovero, in base al quale Alain Patrice N. fu trattenuto il 21 aprile, era per ottenimento di prestazioni con inganno.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c70" word="in breve">
+      <orths>
+         <orth type="cont" canonical="1" onr="c70o1">
+            <part type="phrasal">in breve</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c70o2">
+            <part type="phrasal">In breve</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Specification:Arg1-as-detail(Summarization)"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c71" word="in caso contrario">
+      <orths>
+         <orth type="cont" canonical="1" onr="c71o1">
+            <part type="phrasal">in caso contrario</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c71o2">
+            <part type="phrasal">In caso contrario</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k8">andernfalls</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Negative-Condition:Arg1-as-negcond"/>
+            <example>Il quindicenne deve sottomettersi, in caso contrario viene colpito sul muso.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c72" word="in conclusione">
+      <orths>
+         <orth type="cont" canonical="1" onr="c72o1">
+            <part type="phrasal">in conclusione</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c72o2">
+            <part type="phrasal">In conclusione</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Specification:Arg1-as-detail(Summarization)"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c73" word="in conseguenza di ciò">
+      <orths>
+         <orth type="cont" canonical="1" onr="c73o1">
+            <part type="phrasal">in conseguenza di ciò</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c73o2">
+            <part type="phrasal">In conseguenza di ciò</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k44">darauf</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>prepositional</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example>Ottenne la licenza di insegnante della scuola primaria al seminario di Rorschach e in conseguenza di ciò insegnò per alcuni anni a Kaltbrunn.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c74" word="in definitiva">
+      <orths>
+         <orth type="cont" canonical="1" onr="c74o1">
+            <part type="phrasal">in definitiva</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c74o2">
+            <part type="phrasal">In definitiva</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c75" word="in fin dei conti">
+      <orths>
+         <orth type="cont" canonical="1" onr="c75o1">
+            <part type="phrasal">in fin dei conti</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c75o2">
+            <part type="phrasal">In fin dei conti</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c76" word="in luogo di">
+      <orths>
+         <orth type="cont" canonical="1" onr="c76o1">
+            <part type="phrasal">in luogo di</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c76o2">
+            <part type="phrasal">In luogo di</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k141">statt</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>prepositional</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Substitution:Arg1-as-subst"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c77" word="in ogni caso">
+      <orths>
+         <orth type="cont" canonical="1" onr="c77o1">
+            <part type="phrasal">in ogni caso</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c77o2">
+            <part type="phrasal">In ogni caso</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k119">ohnedies</synonym>
+         <synonym lexicon="dimlex" entry-id="k174">währenddessen</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION: Conjunction"/>
+            <example>Per me il Marocco d'estate è troppo caldo. In ogni caso ho paura di volare.</example>
+            <example>Chi in quei giorni criticava gli espugnatori russi della Cecenia, correva il rischio, di rendersi antipatico. In ogni caso era certo che Putin avrebbe vinto la seconda votazione.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c78" word="in più">
+      <orths>
+         <orth type="cont" canonical="1" onr="c78o1">
+            <part type="phrasal">in più</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c78o2">
+            <part type="phrasal">In più</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k26">außerdem</synonym>
+         <synonym lexicon="dimlex" entry-id="k73">ferner</synonym>
+         <synonym lexicon="dimlex" entry-id="k185">zusätzlich</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Conjunction"/>
+            <example>Non ho voglia di andare al cinema, in più sono stanco.</example>
+            <example>Il pietrisco provoca meno ruggine sulle auto del sale per strade. In più è salutare per l'ambiente</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c79" word="in poche parole">
+      <orths>
+         <orth type="cont" canonical="1" onr="c79o1">
+            <part type="phrasal">in poche parole</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c79o2">
+            <part type="phrasal">In poche parole</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Specification:Arg1-as-detail(Summarization)"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c80" word="in quanto">
+      <orths>
+         <orth type="cont" canonical="1" onr="c80o1">
+            <part type="phrasal">in quanto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c80o2">
+            <part type="phrasal">In quanto</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k202">als</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:reason"/>
+            <example>È così ansiosa in quanto è già stata bocciata all'esame di guida due volte</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c81" word="in quanto al resto">
+      <orths>
+         <orth type="cont" canonical="1" onr="c81o1">
+            <part type="phrasal">in quanto al resto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c81o2">
+            <part type="phrasal">In quanto al resto</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k12">ansonsten</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>classe</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Exception:Arg1-as-except"/>
+            <example>L'EDV-Kurs purtroppo deve essere disdetto. In quanto al resto tutte le offerte possono essere passate.</example>
+            <example>L'associazione è intervenuta solo per il possibile pericolo di incendio. In quanto al resto ha approvato l'attività.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c82" word="in realtà">
+      <orths>
+         <orth type="cont" canonical="1" onr="c82o1">
+            <part type="phrasal">in realtà</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c82o2">
+            <part type="phrasal">In realtà</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>classe</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Specification:Arg2-as-detail(Specification)"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c83" word="in seguito">
+      <orths>
+         <orth type="cont" canonical="1" onr="c83o1">
+            <part type="phrasal">in seguito</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c83o2">
+            <part type="phrasal">In seguito</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k41">danach</synonym>
+         <synonym lexicon="dimlex" entry-id="k130">sodann</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:precedence"/>
+            <example>Scalfire i pomodori con un coltello affilato e annaffiare con acqua calda. In seguito si può spellarli senza problemi.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c84" word="in seguito a">
+      <orths>
+         <orth type="cont" canonical="1" onr="c84o1">
+            <part type="phrasal">in seguito a</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c84o2">
+            <part type="phrasal">In seguito a</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k91">infolge</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:reason"/>
+            <example>In seguito al maltempo, il St. Gotthard resta chiuso.</example>
+            <example>In seguito al maltempo una chiusura verrà presa in considerazione.</example>
+            <example>In futuro, in seguito ai Castor-Transoporten, anche a Berlino i danni alla salute per i poliziotti dovrebbero essere considerati come incidente sul lavoro.</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:succession"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c85" word="in seguito a ciò">
+      <orths>
+         <orth type="cont" canonical="1" onr="c85o1">
+            <part type="phrasal">in seguito a ciò</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c85o2">
+            <part type="phrasal">In seguito a ciò</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k45">daraufhin</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:precedence"/>
+            <example>La querelante desiderava che la società fosse protetta da lui. In seguito a ciò l'accusato scoppiò in lacrime.</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example>La querelante desiderava che la società fosse protetta da lui. In seguito a ciò l'accusato scoppiò in lacrime.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c86" word="in sintesi">
+      <orths>
+         <orth type="cont" canonical="1" onr="c86o1">
+            <part type="phrasal">in sintesi</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c86o2">
+            <part type="phrasal">In sintesi</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Specification:Arg1-as-detail(Summarization)"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c87" word="in sostanza">
+      <orths>
+         <orth type="cont" canonical="1" onr="c87o1">
+            <part type="phrasal">in sostanza</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c87o2">
+            <part type="phrasal">In sostanza</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Specification:Arg1-as-detail(Summarization)"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c88" word="in ultima analisi">
+      <orths>
+         <orth type="cont" canonical="1" onr="c88o1">
+            <part type="phrasal">in ultima analisi</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c88o2">
+            <part type="phrasal">In ultima analisi</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c89" word="infatti">
+      <orths>
+         <orth type="cont" canonical="1" onr="c89o1">
+            <part type="single">infatti</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c89o2">
+            <part type="single">Infatti</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c89o3">
+            <part type="single">difatti</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c89o4">
+            <part type="single">Difatti</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k110">nämlich</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Instantiation"/>
+            <example>La somiglianza non è così sorprendente. Infatti le due sono sorelle.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c90" word="infine">
+      <orths>
+         <orth type="cont" canonical="1" onr="c90o1">
+            <part type="single">infine</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c90o2">
+            <part type="single">Infine</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>avverbio</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c91" word="innanzitutto">
+      <orths>
+         <orth type="cont" canonical="1" onr="c91o1">
+            <part type="single">innanzitutto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c91o2">
+            <part type="single">Innanzitutto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c91o3">
+            <part type="phrasal">innanzi tutto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c91o4">
+            <part type="phrasal">Innanzi tutto</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>avverbio</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c92" word="inoltre">
+      <orths>
+         <orth type="cont" canonical="1" onr="c92o1">
+            <part type="single">inoltre</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c92o2">
+            <part type="single">Inoltre</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k26">außerdem</synonym>
+         <synonym lexicon="dimlex" entry-id="k73">ferner</synonym>
+         <synonym lexicon="dimlex" entry-id="k112">obendrein</synonym>
+         <synonym lexicon="dimlex" entry-id="k189">überdies</synonym>
+         <synonym lexicon="dimlex" entry-id="k162">weiterhin</synonym>
+         <synonym lexicon="dimlex" entry-id="k177">zudem</synonym>
+         <synonym lexicon="dimlex" entry-id="k185">zusätzlich</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Conjunction"/>
+            <example>Non ho voglia di andare al cinema, inoltre sono stanco.</example>
+            <example>Il pietrisco provoca meno ruggine sulle auto del sale per strade. Inoltre è salutare per l'ambiente</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c93" word="insomma">
+      <orths>
+         <orth type="cont" canonical="1" onr="c93o1">
+            <part type="single">insomma</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c93o2">
+            <part type="single">Insomma</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>avverbio</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Specification:Arg1-as-detail(Summarization)"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c94" word="intanto">
+      <orths>
+         <orth type="cont" canonical="1" onr="c94o1">
+            <part type="single">intanto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c94o2">
+            <part type="single">Intanto</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k174">währenddessen</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Syncrony"/>
+            <example>Applausi scrosciano dai 120.000 spettatori. Intanto un gruppo di 150 manifestanti contrari è tenuto sott'occhio da un forte spiegamento di polizia.</example>
+            <example>I bambini giocano in giardino. Intanto gli adulti discutono sul risultato elettorale.</example>
+            <example>Un'ambulanza con la luce blu serpeggia attraverso il fitto traffico. Intanto alcuni passanti si occupavano del ferito.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c95" word="invece">
+      <orths>
+         <orth type="cont" canonical="1" onr="c95o1">
+            <part type="single">invece</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c95o2">
+            <part type="single">Invece</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k1">aber</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Contrast"/>
+            <example>Lui è grande, invece sua moglie è piccola</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c96" word="invece di">
+      <orths>
+         <orth type="cont" canonical="1" onr="c96o1">
+            <part type="phrasal">invece di</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c96o2">
+            <part type="phrasal">Invece di</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c96o3">
+            <part type="phrasal">invece che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c96o4">
+            <part type="phrasal">Invece che</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k13">anstatt</synonym>
+         <synonym lexicon="dimlex" entry-id="k14">anstatt dass</synonym>
+         <synonym lexicon="dimlex" entry-id="k141">statt</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>prepositional</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Substitution:Arg1-as-subst"/>
+            <example>Invece di mandare i bambini, ha mandato il nonno.</example>
+            <example>Invece di venire, è rimasto a letto.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c97" word="invero">
+      <orths>
+         <orth type="cont" canonical="1" onr="c97o1">
+            <part type="single">invero</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c97o2">
+            <part type="single">Invero</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c98" word="ma">
+      <orths>
+         <orth type="cont" canonical="1" onr="c98o1">
+            <part type="single">ma</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c98o2">
+            <part type="single">Ma</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k1">aber</synonym>
+         <synonym lexicon="dimlex" entry-id="k5">allerdings</synonym>
+         <synonym lexicon="dimlex" entry-id="k137">sondern</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Contrast"/>
+            <example>Lui è grande, ma sua moglie è piccola</example>
+            <example>Lui è intelligente, ma pigro</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example>Lui è grande, ma non sa giocare a basket</example>
+            <example>La collega è malata, ma lavora</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c99" word="malgrado">
+      <orths>
+         <orth type="cont" canonical="1" onr="c99o1">
+            <part type="single">malgrado</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c99o2">
+            <part type="single">Malgrado</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k142">trotz</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+            <example>Ci andiamo malgrado il maltempo.</example>
+            <example>Una seconda Pantherin ha lavorato fino al 67 anno di età, per acquisire, malgrado la bassa paga oraria, una pensione.</example>
+            <example>Malgrado il gran caldo estivo, ilriscaldamento va a pieno regime.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c100" word="malgrado ciò">
+      <orths>
+         <orth type="cont" canonical="1" onr="c100o1">
+            <part type="phrasal">malgrado ciò</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c100o2">
+            <part type="phrasal">Malgrado ciò</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c100o3">
+            <part type="phrasal">malgrado questo</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c100o4">
+            <part type="phrasal">Malgrado questo</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k62">dessen ungeachtet</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example>Entrambe le pagine annunciavano un secondo incontro per martedì. Malgrado ciò le lotte nei campi andarono avanti anche il lunedì.</example>
+            <example>Adesso la procura della repubblica ha ordinato la restituzione dell'esemplare confiscato. Malgrado ciò l'istruttoria contro la casa editrice prosegue.</example>
+            <example>Lui non ha valutato correttamente la situazione della politica interna nella sua patria. Malgrado ciò è ritornato da quella parte.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c101" word="mentre">
+      <orths>
+         <orth type="cont" canonical="1" onr="c101o1">
+            <part type="single">mentre</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c101o2">
+            <part type="single">Mentre</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Syncrony"/>
+            <example>Mentre pioveva, eravamo in una trattoria.</example>
+            <example>L'avvenimento è successo mentre ero in viaggio.</example>
+            <example>Stormy, che, pazzo di gelosia, le distrugge addirittura l’ appartamento mentre lei è fuori per il week-end        </example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Conjunction"/>
+            <example>Nessuno degli aspiranti presidenti in Argentina conta su più del 15 % delle intenzioni di voto, mentre circa il 12 % degli elettori pensano di astenersi</example>
+         </sem>
+      </syn>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Contrast"/>
+            <example>Lei ha studiato, mentre suo fratello ha imparato un mestiere.</example>
+            <example>quel 13% di persone disponibili al consumo di alimenti contenenti Ogm è composto in prevalenza da studenti, mentre quel 53% che si dichiara drasticamente contrario è composto in maggioranza dai responsabili degli acquisti.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c102" word="né">
+      <orths>
+         <orth type="cont" canonical="1" onr="c102o1">
+            <part type="single">né</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c102o2">
+            <part type="single">Né</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Conjunction"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c103" word="né ... né">
+      <orths>
+         <orth type="discont" canonical="1" onr="c103o1">
+            <part type="single">né</part>
+            <part type="single">né</part>
+         </orth>
+         <orth type="discont" canonical="0" onr="c103o2">
+            <part type="single">Né</part>
+            <part type="single">né</part>
+         </orth>
+         <orth type="discont" canonical="0" onr="c103o3">
+            <part type="single">né</part>
+            <part type="single">Né</part>
+         </orth>
+         <orth type="discont" canonical="0" onr="c103o4">
+            <part type="single">Né</part>
+            <part type="single">Né</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k159">weder ... noch</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION: Conjunction"/>
+            <example>Ieri non ha né piovuto, né brillato il sole.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c104" word="nel contempo">
+      <orths>
+         <orth type="cont" canonical="1" onr="c104o1">
+            <part type="phrasal">nel contempo</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c104o2">
+            <part type="phrasal">Nel contempo</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k179">zugleich</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Syncrony"/>
+            <example>Lei diceva, che voleva rivolgersi direttamente alla base di Mitte e Prenzlauer Berg. Nel contempo criticava l'azione della presidenza federale.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c105" word="nel frattempo">
+      <orths>
+         <orth type="cont" canonical="1" onr="c105o1">
+            <part type="phrasal">nel frattempo</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c105o2">
+            <part type="phrasal">Nel frattempo</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k150">unterdessen </synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Syncrony"/>
+            <example>Nel frattempo le idee della Volks-AG nella navigazione marittima verranno collaudate anche in altri rami del campo dei trasporti.</example>
+            <example>Dopo due settimane di scioperi di massa, le persone della montagna hanno ripreso il lavoro. Nel frattempo gli scioperi nei Nachbarrevieren si sono allargati in modo rilevante.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c106" word="non appena">
+      <orths>
+         <orth type="cont" canonical="1" onr="c106o1">
+            <part type="phrasal">non appena</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c106o2">
+            <part type="phrasal">Non appena</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Syncrony"/>
+            <example>Non appena gli dai un dito, lui ti prende tutta la mano.</example>
+            <example>Ci darà una risposta, non appena avrà informazioni certe.</example>
+            <example>Non appena ci videro, corsero di là.</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Condition"/>
+            <example>Non appena gli dai un dito, lui ti prende tutta la mano.</example>
+            <example>Ci darà una risposta, non appena avrà informazioni certe.</example>
+            <example>Non appena ci videro, corsero di là.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c107" word="non prima di">
+      <orths>
+         <orth type="cont" canonical="1" onr="c107o1">
+            <part type="phrasal">non prima di</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c107o2">
+            <part type="phrasal">Non prima di</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k28">bevor</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>prepositional</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:succession"/>
+            <example>Vado a dormire, non prima di aver aerato per bene.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c108" word="nondimeno">
+      <orths>
+         <orth type="cont" canonical="1" onr="c108o1">
+            <part type="single">nondimeno</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c108o2">
+            <part type="single">Nondimeno</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier&#xA;"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c109" word="nonostante">
+      <orths>
+         <orth type="cont" canonical="1" onr="c109o1">
+            <part type="single">nonostante</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c109o2">
+            <part type="single">Nonostante</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k142">trotz</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+            <example>Ci andiamo nonostante il maltempo.</example>
+            <example>Una seconda Pantherin ha lavorato fino al 67 anno di età, per acquisire, nonostante la bassa paga oraria, una pensione.</example>
+            <example>Nonostante il gran caldo estivo, il riscaldamento va a pieno regime.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c110" word="nonpertanto">
+      <orths>
+         <orth type="cont" canonical="1" onr="c110o1">
+            <part type="single">nonpertanto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c110o2">
+            <part type="single">Nonpertanto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c110o3">
+            <part type="phrasal">non pertanto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c110o4">
+            <part type="phrasal">Non pertanto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c110o5">
+            <part type="phrasal">non per tanto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c110o6">
+            <part type="phrasal">Non per tanto</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c111" word="o">
+      <orths>
+         <orth type="cont" canonical="1" onr="c111o1">
+            <part type="single">o</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c111o2">
+            <part type="single">O</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k117">oder</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Disjunction"/>
+            <example>Puoi scrivergli, o puoi telefonargli.</example>
+            <example>Parliamo sempre della critica, o parliamo delle persone che pensano di poter influenzare la critica.</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Negative-Condition:Arg1-as-negcond"/>
+            <example>O mangi la tua minestra, o non puoi guardare la televisione.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c112" word="ogni volta che">
+      <orths>
+         <orth type="cont" canonical="1" onr="c112o1">
+            <part type="phrasal">ogni volta che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c112o2">
+            <part type="phrasal">Ogni volta che</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Syncrony"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c113" word="oltre a ciò">
+      <orths>
+         <orth type="cont" canonical="1" onr="c113o1">
+            <part type="phrasal">oltre a ciò</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c113o2">
+            <part type="phrasal">Oltre a ciò</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c113o3">
+            <part type="phrasal">oltre a questo</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c113o4">
+            <part type="phrasal">Oltre a questo</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k59">des Weiteren</synonym>
+         <synonym lexicon="dimlex" entry-id="k189">überdies</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION: Conjunction"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c114" word="oltretutto">
+      <orths>
+         <orth type="cont" canonical="1" onr="c114o1">
+            <part type="single">oltretutto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c114o2">
+            <part type="single">Oltretutto</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Conjunction"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c115" word="oppure">
+      <orths>
+         <orth type="cont" canonical="1" onr="c115o1">
+            <part type="single">oppure</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c115o2">
+            <part type="single">Oppure</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k117">oder</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Disjunction"/>
+            <example>Puoi scrivergli, oppure puoi telefonargli.</example>
+            <example>Parliamo sempre della critica, oppure parliamo delle persone che pensano di poter influenzare la critica.</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Negative-Condition:Arg1-as-negcond"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c116" word="ossia">
+      <orths>
+         <orth type="cont" canonical="1" onr="c116o1">
+            <part type="single">ossia</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c116o2">
+            <part type="single">Ossia</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Equivalence"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c117" word="parimenti">
+      <orths>
+         <orth type="cont" canonical="1" onr="c117o1">
+            <part type="single">parimenti</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c117o2">
+            <part type="single">Parimenti</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k60">desgleichen</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>avverbio</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Similarity"/>
+            <example>Non c'erano particolari riguardo le modalità di una riforma economica e monetaria, parimenti si aspettava invano per presentazioni del governo al riguardo..</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c118" word="per">
+      <orths>
+         <orth type="cont" canonical="1" onr="c118o1">
+            <part type="single">per</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c118o2">
+            <part type="single">Per</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k160">wegen</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>preposizione</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:reason"/>
+            <example>Per una festa privata oggi il locale resta chiuso.</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Purpose:Arg2-as-goal"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c119" word="per contro">
+      <orths>
+         <orth type="cont" canonical="1" onr="c119o1">
+            <part type="phrasal">per contro</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c119o2">
+            <part type="phrasal">Per contro</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example/>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Contrast"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c120" word="per cui">
+      <orths>
+         <orth type="cont" canonical="1" onr="c120o1">
+            <part type="phrasal">per cui</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c120o2">
+            <part type="phrasal">Per cui</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k6">also</synonym>
+         <synonym lexicon="dimlex" entry-id="k131">sodass</synonym>
+         <synonym lexicon="dimlex" entry-id="k165">weshalb</synonym>
+         <synonym lexicon="dimlex" entry-id="k166">weswegen</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example> Allora la radio ancora non c'era. Per cui, gli abitanti di Heilbronn dovevano aspettare fino al lunedì successivo, per conoscere il segnale. </example>
+            <example>Ho trovato sotto il ginocchio della gamba sinistra un'altra scottatura, per cui lì il flusso deve aver di nuovo abbandonato il corpo.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c121" word="per di più">
+      <orths>
+         <orth type="cont" canonical="1" onr="c121o1">
+            <part type="phrasal">per di più</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c121o2">
+            <part type="phrasal">Per di più</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k48">darüber hinaus</synonym>
+         <synonym lexicon="dimlex" entry-id="k112">obendrein</synonym>
+         <synonym lexicon="dimlex" entry-id="k177">zudem</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Conjunction"/>
+            <example>Durante la giornata gli articoli vengono stabilmente aggiornati. Per di più la distribuzione elettronica contiene più retroscena.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c122" word="per giunta">
+      <orths>
+         <orth type="cont" canonical="1" onr="c122o1">
+            <part type="phrasal">per giunta</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c122o2">
+            <part type="phrasal">Per giunta</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k112">obendrein</synonym>
+         <synonym lexicon="dimlex" entry-id="k189">überdies</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Conjunction"/>
+            <example>In Turchia era solo, per giunta all'inizio era atteso dal servizio militare.</example>
+            <example>Secondo il decreto molte case per animali sono sovraffollate. Per giunta le lotte di cani sono ben organizzate.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c123" word="per il fatto che">
+      <orths>
+         <orth type="cont" canonical="1" onr="c123o1">
+            <part type="phrasal">per il fatto che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c123o2">
+            <part type="phrasal">Per il fatto che</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k33">dadurch , dass</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:reason"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c124" word="per il resto">
+      <orths>
+         <orth type="cont" canonical="1" onr="c124o1">
+            <part type="phrasal">per il resto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c124o2">
+            <part type="phrasal">Per il resto</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k12">ansonsten</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>classe</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Exception:Arg1-as-except"/>
+            <example>L'EDV-Kurs purtroppo deve essere disdetto. Per il resto tutte le offerte possono essere passate.</example>
+            <example>L'associazione è intervenuta solo per il possibile pericolo di incendio. Per il resto ha approvato l'attività.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c125" word="per la qual cosa">
+      <orths>
+         <orth type="cont" canonical="1" onr="c125o1">
+            <part type="phrasal">per la qual cosa</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c125o2">
+            <part type="phrasal">Per la qual cosa</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c126" word="per meglio dire">
+      <orths>
+         <orth type="cont" canonical="1" onr="c126o1">
+            <part type="phrasal">per meglio dire</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c126o2">
+            <part type="phrasal">Per meglio dire</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c126o3">
+            <part type="phrasal">o meglio</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c126o4">
+            <part type="phrasal">O meglio</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k29">beziehungsweise</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example>EXPANSION:Equivalence</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c127" word="per poco che">
+      <orths>
+         <orth type="cont" canonical="1" onr="c127o1">
+            <part type="phrasal">per poco che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c127o2">
+            <part type="phrasal">Per poco che</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c128" word="per prima cosa">
+      <orths>
+         <orth type="cont" canonical="1" onr="c128o1">
+            <part type="phrasal">per prima cosa</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c128o2">
+            <part type="phrasal">Per prima cosa</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>adverbial</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c129" word="per quanto">
+      <orths>
+         <orth type="cont" canonical="1" onr="c129o1">
+            <part type="phrasal">per quanto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c129o2">
+            <part type="phrasal">Per quanto</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k139">soweit</synonym>
+         <synonym lexicon="dimlex" entry-id="k142">trotz</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Condition"/>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+            <example>Voleva risparmiare alla moglie questa delusione, per quanto fosse possibile.</example>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c130" word="per questa ragione">
+      <orths>
+         <orth type="cont" canonical="1" onr="c130o1">
+            <part type="phrasal">per questa ragione</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c130o2">
+            <part type="phrasal">Per questa ragione</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k32">dadurch</synonym>
+         <synonym lexicon="dimlex" entry-id="k39">daher</synonym>
+         <synonym lexicon="dimlex" entry-id="k92">infolgedessen</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="cCONTINGENCY:Cause:result"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c131" word="per questo">
+      <orths>
+         <orth type="cont" canonical="1" onr="c131o1">
+            <part type="phrasal">per questo</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c131o2">
+            <part type="phrasal">Per questo</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k35">dafür</synonym>
+         <synonym lexicon="dimlex" entry-id="k47">darum</synonym>
+         <synonym lexicon="dimlex" entry-id="k61">deshalb</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example>Il suo Oldtimer è in ottimo stato. Per questo è costato un sacco di soldi.</example>
+            <example>I Phoenicurus sono diventati molto rari. Per questo ci sono più picchi in Langen.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c132" word="per questo motivo">
+      <orths>
+         <orth type="cont" canonical="1" onr="c132o1">
+            <part type="phrasal">per questo motivo</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c132o2">
+            <part type="phrasal">Per questo motivo</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k39">daher</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example>Non aveva ancora mangiato. Per questo motivo si sentiva indebolita.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c133" word="peraltro">
+      <orths>
+         <orth type="cont" canonical="1" onr="c133o1">
+            <part type="single">peraltro</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c133o2">
+            <part type="single">Peraltro</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c133o3">
+            <part type="phrasal">per altro</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c133o4">
+            <part type="phrasal">Per altro</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c134" word="perché">
+      <orths>
+         <orth type="cont" canonical="1" onr="c134o1">
+            <part type="single">perché</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c134o2">
+            <part type="single">Perché</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k57">denn</synonym>
+         <synonym lexicon="dimlex" entry-id="k161">weil</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:reason"/>
+            <example>Il concerto non può avere luogo perché la cantante è malata.</example>
+            <example>I fiori sul balcone sono congelati perché stanotte è venuta una gelata.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c135" word="perciò">
+      <orths>
+         <orth type="cont" canonical="1" onr="c135o1">
+            <part type="single">perciò</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c135o2">
+            <part type="single">Perciò</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k6">also</synonym>
+         <synonym lexicon="dimlex" entry-id="k35">dafür</synonym>
+         <synonym lexicon="dimlex" entry-id="k39">daher</synonym>
+         <synonym lexicon="dimlex" entry-id="k44">darauf</synonym>
+         <synonym lexicon="dimlex" entry-id="k47">darum</synonym>
+         <synonym lexicon="dimlex" entry-id="k61">deshalb</synonym>
+         <synonym lexicon="dimlex" entry-id="k63">deswegen</synonym>
+         <synonym lexicon="dimlex" entry-id="k75">folglich</synonym>
+         <synonym lexicon="dimlex" entry-id="k92">infolgedessen</synonym>
+         <synonym lexicon="dimlex" entry-id="k103">mithin</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="cCONTINGENCY:Cause:resulte"/>
+            <example> Allora la radio ancora non c'era. Perciò, gli abitanti di Heilbronn dovevano aspettare fino al lunedì successivo, per conoscere il segnale. </example>
+            <example>Ho trovato sotto il ginocchio della gamba sinistra un'altra scottatura, perciò lì il flusso deve aver di nuovo abbandonato il corpo.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c136" word="però">
+      <orths>
+         <orth type="cont" canonical="1" onr="c136o1">
+            <part type="single">però</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c136o2">
+            <part type="single">Però</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k1">aber</synonym>
+         <synonym lexicon="dimlex" entry-id="k5">allerdings</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Contrast"/>
+            <example>Lui è grande, però sua moglie è piccola</example>
+            <example>Lui è intelligente, però pigro</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example>Lui è grande, però non sa giocare a basket</example>
+            <example>La collega è malata, però lavora</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c137" word="persino">
+      <orths>
+         <orth type="cont" canonical="1" onr="c137o1">
+            <part type="single">persino</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c137o2">
+            <part type="single">Persino</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c137o3">
+            <part type="single">perfino</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c137o4">
+            <part type="single">Perfino</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k16">auch</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>avverbio</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Conjunction"/>
+            <example>Klaus non è ancora tornato. Si è persino perso l'allenamento.</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c138" word="pertanto">
+      <orths>
+         <orth type="cont" canonical="1" onr="c138o1">
+            <part type="single">pertanto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c138o2">
+            <part type="single">Pertanto</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k172">woraufhin</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example>Il boxer incespicò impotente nella corda, pertanto l'arbitro interruppe l'incontro.</example>
+            <example>Il fantino del cavallo favorito era caduto dalla sella, pertanto le migliaia di spettatori, che avevano scommesso sull'animale, andarono su tutte le furie.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c139" word="più che altro">
+      <orths>
+         <orth type="cont" canonical="1" onr="c139o1">
+            <part type="phrasal">più che altro</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c139o2">
+            <part type="phrasal">Più che altro</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c140" word="più tardi">
+      <orths>
+         <orth type="cont" canonical="1" onr="c140o1">
+            <part type="phrasal">più tardi</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c140o2">
+            <part type="phrasal">Più tardi</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k41">danach</synonym>
+         <synonym lexicon="dimlex" entry-id="k86">hiernach</synonym>
+         <synonym lexicon="dimlex" entry-id="k140">später</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:precedence"/>
+            <example>Scalfire i pomodori con un coltello affilato e annaffiare con acqua calda. Più tardi si può spellarli senza problemi.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c141" word="piuttosto">
+      <orths>
+         <orth type="cont" canonical="1" onr="c141o1">
+            <part type="single">piuttosto</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c141o2">
+            <part type="single">Piuttosto</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k152">vielmehr</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Substitution:Arg1-as-subst"/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c142" word="poi">
+      <orths>
+         <orth type="cont" canonical="1" onr="c142o1">
+            <part type="single">poi</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c142o2">
+            <part type="single">Poi</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k41">danach</synonym>
+         <synonym lexicon="dimlex" entry-id="k43">dann</synonym>
+         <synonym lexicon="dimlex" entry-id="k45">daraufhin</synonym>
+         <synonym lexicon="dimlex" entry-id="k86">hiernach</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>avverbio</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:precedence"/>
+            <example>Scalfire i pomodori con un coltello affilato e annaffiare con acqua calda. Poi si può spellarli senza problemi.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c143" word="poiché">
+      <orths>
+         <orth type="cont" canonical="1" onr="c143o1">
+            <part type="single">poiché</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c143o2">
+            <part type="single">Poiché</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k202">als</synonym>
+         <synonym lexicon="dimlex" entry-id="k30">da</synonym>
+         <synonym lexicon="dimlex" entry-id="k33">dadurch , dass</synonym>
+         <synonym lexicon="dimlex" entry-id="k110">nämlich</synonym>
+         <synonym lexicon="dimlex" entry-id="k161">weil</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>avverbio</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:reason"/>
+            <pdtb3_relation sense="consequence"/>
+            <example>È così ansiosa poiché è già stata bocciata all'esame di guida due volte.</example>
+            <example>La somiglianza non è così sorprendente poiché le due sono sorelle.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c144" word="precedentemente">
+      <orths>
+         <orth type="cont" canonical="1" onr="c144o1">
+            <part type="single">precedentemente</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c144o2">
+            <part type="single">Precedentemente</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k156">vorher</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>avverbio</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:succession"/>
+            <example>In autunno sarà pubblicato il nuovo album di Zachary Richard. Precedentemente farà per la prima volta un tour in Germania.</example>
+            <example>È consigliabile di leggere il testo a fondo precedentemente.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c145" word="prima">
+      <orths>
+         <orth type="cont" canonical="1" onr="c145o1">
+            <part type="single">prima</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c145o2">
+            <part type="single">Prima</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k28">bevor</synonym>
+         <synonym lexicon="dimlex" entry-id="k156">vorher</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>avverbio</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:succession"/>
+            <example>In autunno sarà pubblicato il nuovo album di Zachary Richard. Prima farà per la prima volta un tour in Germania.</example>
+            <example>È consigliabile di leggere prima il testo a fondo.</example>
+            <example>Domani volo in Spagna. Prima c'è ancora molto da fare</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c146" word="prima che">
+      <orths>
+         <orth type="cont" canonical="1" onr="c146o1">
+            <part type="phrasal">prima che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c146o2">
+            <part type="phrasal">Prima che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c146o3">
+            <part type="phrasal">prima di</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c146o4">
+            <part type="phrasal">Prima di</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>prepositional</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:precedence"/>
+            <example>Prima che la lezione cominci, gli studenti tirano fuori libri e quaderni.</example>
+            <example>La studentessa elabora una struttura, prima di mettere per iscritto il tema.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c147" word="purché">
+      <orths>
+         <orth type="cont" canonical="1" onr="c147o1">
+            <part type="single">purché</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c147o2">
+            <part type="single">Purché</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k133">sofern</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Condition"/>
+            <example>Oggi usciamo, purché venga Hans.</example>
+            <example>Vuole restare all'istituto, purché riceva il posto di assistente.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c148" word="pure">
+      <orths>
+         <orth type="cont" canonical="1" onr="c148o1">
+            <part type="single">pure</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c148o2">
+            <part type="single">Pure</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k67">ebenfalls</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>avverbio</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Conjunction"/>
+            <example/>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c149" word="quando">
+      <orths>
+         <orth type="cont" canonical="1" onr="c149o1">
+            <part type="single">quando</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c149o2">
+            <part type="single">Quando</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k202">als</synonym>
+         <synonym lexicon="dimlex" entry-id="k295">wenn</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Syncrony"/>
+            <example>Quando lasciò l'appartamento, arrivò la chiamata</example>
+            <example>Quando il rospo ebbe mangiato, volle andare a dormire nel letto della figlia del re</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Condition"/>
+            <example>Quando si preme sul bottone, la porta si apre da sola.</example>
+            <example>Quando me lo chiedi, lo lascerò stare.</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:succession"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c150" word="quantunque">
+      <orths>
+         <orth type="cont" canonical="1" onr="c150o1">
+            <part type="single">quantunque</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c150o2">
+            <part type="single">Quantunque</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k164">wenngleich</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+            <example>Il palazzo ci dà ancora oggi un'idea della grandezza del tempo, quantunque la gran parte è andata in rovina.</example>
+            <example>Quantunque il programma a volte fosse inconsueto per orecchie europee, l'engagement musicale e l'abilità tecnica dell'orchestra conquistarono il pubblico.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c151" word="quindi">
+      <orths>
+         <orth type="cont" canonical="1" onr="c151o1">
+            <part type="single">quindi</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c151o2">
+            <part type="single">Quindi</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k6">also</synonym>
+         <synonym lexicon="dimlex" entry-id="k43">dann</synonym>
+         <synonym lexicon="dimlex" entry-id="k45">daraufhin</synonym>
+         <synonym lexicon="dimlex" entry-id="k75">folglich</synonym>
+         <synonym lexicon="dimlex" entry-id="k103">mithin</synonym>
+         <synonym lexicon="dimlex" entry-id="k135">somit</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:result"/>
+            <example> Allora la radio ancora non c'era. Quindi, gli abitanti di Heilbronn dovevano aspettare fino al lunedì successivo, per conoscere il segnale. </example>
+            <example>Ho trovato sotto il ginocchio della gamba sinistra un'altra scottatura, quindi lì il flusso deve aver di nuovo abbandonato il corpo.</example>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="TEMPORAL:Asynchronous:precedence"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c152" word="salvo che">
+      <orths>
+         <orth type="cont" canonical="1" onr="c152o1">
+            <part type="phrasal">salvo che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c152o2">
+            <part type="phrasal">Salvo che</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k24">außer</synonym>
+         <synonym lexicon="dimlex" entry-id="k299">außer, dass</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Negative-Condition:Arg2-as-negcond"/>
+            <example>In caso di divorzio la madre ottiene l'affidamento dei minori, salvo che il giudice non decida altrimenti.</example>
+            <example>Domani vado in montagna, salvo che il tempo non faccia brutti scherzi.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c153" word="se">
+      <orths>
+         <orth type="cont" canonical="1" onr="c153o1">
+            <part type="single">se</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c153o2">
+            <part type="single">Se</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k72">falls</synonym>
+         <synonym lexicon="dimlex" entry-id="k295">wenn</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Condition"/>
+            <pdtb3_relation sense="consequence"/>
+            <example>Se viene a Dresda, ci viene a visitare.</example>
+            <example>Prendi un ombrello, se piove.</example>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c154" word="sebbene">
+      <orths>
+         <orth type="cont" canonical="1" onr="c154o1">
+            <part type="single">sebbene</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c154o2">
+            <part type="single">Sebbene</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k113">obgleich</synonym>
+         <synonym lexicon="dimlex" entry-id="k114">obschon</synonym>
+         <synonym lexicon="dimlex" entry-id="k115">obwohl</synonym>
+         <synonym lexicon="dimlex" entry-id="k116">obzwar</synonym>
+         <synonym lexicon="dimlex" entry-id="k164">wenngleich</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+            <example>Sebbene Greff fosse sposato, sembrava più un capo degli scout che un marito.</example>
+            <example>Esercitava ancora molte funzioni, sebbene fosse sofferente.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c155" word="semmai">
+      <orths>
+         <orth type="cont" canonical="1" onr="c155o1">
+            <part type="single">semmai</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c155o2">
+            <part type="single">Semmai</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k4">allenfalls</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>classe</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION: Conjunction"/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c156" word="sennò">
+      <orths>
+         <orth type="cont" canonical="1" onr="c156o1">
+            <part type="single">sennò</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c156o2">
+            <part type="single">Sennò</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Negative-Condition:Arg1-as-negcond"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c157" word="sennonché">
+      <orths>
+         <orth type="cont" canonical="1" onr="c157o1">
+            <part type="single">sennonché</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c157o2">
+            <part type="single">Sennonché</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k109">nur dass</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c158" word="siccome">
+      <orths>
+         <orth type="cont" canonical="1" onr="c158o1">
+            <part type="single">siccome</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c158o2">
+            <part type="single">Siccome</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k30">da</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Cause:reason"/>
+            <example>Siccome la cantante è malata, il concerto non può avere luogo.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c159" word="solamente">
+      <orths>
+         <orth type="cont" canonical="1" onr="c159o1">
+            <part type="single">solamente</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c159o2">
+            <part type="single">Solamente</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k3">allein</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>avverbio</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example>Sento bene il messaggio, solamente mi manca la convinzione</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c160" word="solo">
+      <orths>
+         <orth type="cont" canonical="1" onr="c160o1">
+            <part type="single">solo</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c160o2">
+            <part type="single">Solo</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k3">allein</synonym>
+         <synonym lexicon="dimlex" entry-id="k109">nur dass</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>avverbio</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example>Sento bene il messaggio, solo mi manca la convinzione</example>
+            <example>In vacanza è stato molto bello, solo che a volte era torrido.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c161" word="sopra ogni altra cosa">
+      <orths>
+         <orth type="cont" canonical="1" onr="c161o1">
+            <part type="phrasal">sopra ogni altra cosa</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c161o2">
+            <part type="phrasal">Sopra ogni altra cosa</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c162" word="supposto che">
+      <orths>
+         <orth type="cont" canonical="1" onr="c162o1">
+            <part type="phrasal">supposto che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c162o2">
+            <part type="phrasal">Supposto che</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k155">vorausgesetzt, dass</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Condition"/>
+            <example>Per 230 anni i collezionisti possono acquistare i pezzi - supposto che la KPM ci sia per così a lungo.</example>
+            <example>Verrebbe anche lui in paradiso - supposto che i berlinesi vadano in paradiso...</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c163" word="tanto più che">
+      <orths>
+         <orth type="cont" canonical="1" onr="c163o1">
+            <part type="phrasal">tanto più che</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c163o2">
+            <part type="phrasal">Tanto più che</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k183">zumal</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>subordinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Conjunction"/>
+            <pdtb3_relation sense="consequence"/>
+            <example>I cambi di nome delle strade a Goerlitz sono ancora non chiari. Tanto più che nel nuovo quartiere in costruzione resteranno i nomi vecchi delle strade</example>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c164" word="tra l'altro">
+      <orths>
+         <orth type="cont" canonical="1" onr="c164o1">
+            <part type="phrasal">tra l'altro</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c164o2">
+            <part type="phrasal">Tra l'altro</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c165" word="tra le altre cose">
+      <orths>
+         <orth type="cont" canonical="1" onr="c165o1">
+            <part type="phrasal">tra le altre cose</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c165o2">
+            <part type="phrasal">Tra le altre cose</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c166" word="tranne">
+      <orths>
+         <orth type="cont" canonical="1" onr="c166o1">
+            <part type="single">tranne</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c166o2">
+            <part type="single">Tranne</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k24">außer</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>prepositional</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Exception:Arg2-as-except"/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c167" word="tranne quando">
+      <orths>
+         <orth type="cont" canonical="1" onr="c167o1">
+            <part type="phrasal">tranne quando</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c167o2">
+            <part type="phrasal">Tranne quando</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k25">außer wenn</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="CONTINGENCY:Negative-Condition:Arg2-as-negcond"/>
+            <example>Lei è sempre di buon umore, tranne quando non ha dormito abbastanza.</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c168" word="tutt'al più">
+      <orths>
+         <orth type="cont" canonical="1" onr="c168o1">
+            <part type="phrasal">tutt'al più</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c168o2">
+            <part type="phrasal">Tutt'al più</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c168o3">
+            <part type="single">tuttalpiù</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c168o4">
+            <part type="single">Tuttalpiù</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c169" word="tuttavia">
+      <orths>
+         <orth type="cont" canonical="1" onr="c169o1">
+            <part type="single">tuttavia</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c169o2">
+            <part type="single">Tuttavia</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k1">aber</synonym>
+         <synonym lexicon="dimlex" entry-id="k5">allerdings</synonym>
+         <synonym lexicon="dimlex" entry-id="k78">gleichwohl</synonym>
+         <synonym lexicon="dimlex" entry-id="k107">nichtsdestoweniger</synonym>
+         <synonym lexicon="dimlex" entry-id="k143">trotzdem</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example>Lui è grande, tuttavia non sa giocare a basket</example>
+            <example>La collega è malata, tuttavia lavora</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c170" word="tutto sommato">
+      <orths>
+         <orth type="cont" canonical="1" onr="c170o1">
+            <part type="phrasal">tutto sommato</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c170o2">
+            <part type="phrasal">Tutto sommato</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense=""/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c171" word="ugualmente">
+      <orths>
+         <orth type="cont" canonical="1" onr="c171o1">
+            <part type="single">ugualmente</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c171o2">
+            <part type="single">Ugualmente</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k60">desgleichen</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>avverbio</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Similarity"/>
+            <example>Non c'erano particolari riguardo le modalità di una riforma economica e monetaria, ugualmente si aspettava invano per presentazioni del governo al riguardo...</example>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c172" word="vale a dire">
+      <orths>
+         <orth type="cont" canonical="1" onr="c172o1">
+            <part type="phrasal">vale a dire</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c172o2">
+            <part type="phrasal">Vale a dire</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms>
+         <synonym lexicon="dimlex" entry-id="k110">nämlich</synonym>
+      </synonyms>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="EXPANSION:Specification:Arg2-as-detail(Specification)"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+   <entry id="c173" word="viceversa">
+      <orths>
+         <orth type="cont" canonical="1" onr="c173o1">
+            <part type="single">viceversa</part>
+         </orth>
+         <orth type="cont" canonical="0" onr="c173o2">
+            <part type="single">Viceversa</part>
+         </orth>
+      </orths>
+      <ambiguity>
+         <non_conn/>
+         <sem_ambiguity/>
+      </ambiguity>
+      <focuspart/>
+      <correlate/>
+      <synonyms/>
+      <non_conn_reading/>
+      <stts/>
+      <syn>
+         <cat>coodinating</cat>
+         <integr/>
+         <ordering/>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+            <example/>
+         </sem>
+         <sem>
+            <pdtb3_relation sense="COMPARISON:Contrast"/>
+            <example/>
+         </sem>
+      </syn>
+   </entry>
+</dimlex>

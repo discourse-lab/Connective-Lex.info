@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE vals
+  SYSTEM "dimlex.dtd">
+<vals><!--
+        konnadv (adverb),
+        padv    (adverb with prepositional part),
+        konj    (coordinating conjunction), 'und'
+        subj    (subordinating conjunction), 'weil', 'obwohl' (requires verb-final complement, can be moved in matrix clause)
+        v2emb   (v2-embedder), 'vorausgesetzt' (V2 complement, but embedded clause can be moved in matrix)
+        postp   (postponer), 'weshalb' (verb-final complement, cannot be moved in matrix clause)
+        appr    (preposition), 'anstatt'
+        appo    (postposition), 'wegen'
+        apci    (circumposition), 'um ... willen'
+        einzel  (isolated) 'dass'
+        -->
+   <syn-cats>
+      <cat name="PP"/>
+      <cat name="IN"/>
+      <cat name="ADVP"/>
+      <cat name="INTJ"/>
+      <cat name="ADVP-TMP"/>
+      <cat name="CC"/>
+      <cat name="RB"/>
+      <cat name="ADVP-PRD"/>
+      <cat name="VB"/>
+      <cat name="PP-TMP"/>
+      <cat name="phrase"/>
+      <cat name="ADVP-TMP-2"/>
+      <cat name="ADVP-TMP=2"/>
+      <cat name="JJ"/>
+      <cat name="PP-LOC"/>
+      <cat name="ADVP-MNR"/>
+      <cat name="RBR"/>
+      <cat name="PP-PRP"/>
+      <cat name="PP-CLR"/>
+      <cat name="ADVP-PRP"/>
+      <cat name="UCP"/>
+      <cat name="NN"/>
+      <cat name="WHADVP-3"/>
+      <cat name="WHADVP-2"/>
+      <cat name="WHADVP-1"/>
+      <cat name="WHADVP-14"/>
+      <cat name="WHADVP-7"/>
+      <cat name="WHADVP-6"/>
+      <cat name="WHADVP-5"/>
+      <cat name="WHADVP-4"/>
+      <cat name="WHADVP"/>
+      <cat name="WHNP-4"/>
+      <cat name="NNP"/>
+   </syn-cats>
+   <!--
+        KON     nebenordnende Konjunktion   und, oder, aber
+        ADV     Adverb  schon, bald, doch
+        APPR    Präposition; Zirkumposition links   in [der Stadt], ohne [mich]
+        KOUI    unterordnende Konjunktion mit (zu-)Infinitiv    um [zu leben], anstatt [zu fragen]
+        XXX         anstelle dessen
+        PAV     Pronominaladverb	dafür, dabei, deswegen, trotzdem (=PROAV)
+        KOUS    unterordnende Konjunktion   weil, dass, damit, wenn, ob
+        PROAV   Pronominaladverb 
+        PWAV    adverbiales Interrogativpronomen    warum, wo, wann, worüber, wobei
+        -->
+   <stts-types/>
+   <relations>
+            | Comparison
+            | Comparison.Concession
+            | Comparison.Concession.Contra-expectation
+            | Comparison.Concession.Expectation
+            | Comparison.Contrast
+            | Comparison.Contrast.Juxtaposition
+            | Comparison.Contrast.Opposition
+            | Comparison.Pragmatic concession
+            | Comparison.Pragmatic contrast
+            | Contingency
+            | Contingency.Cause.Reason
+            | Contingency.Cause.Result
+            | Contingency.Condition
+            | Contingency.Condition.Factual past
+            | Contingency.Condition.Factual present
+            | Contingency.Condition.General
+            | Contingency.Condition.Hypothetical
+            | Contingency.Condition.Unreal past
+            | Contingency.Condition.Unreal present
+            | Contingency.Pragmatic cause.Justification
+            | Contingency.Pragmatic condition.Implicit assertion
+            | Contingency.Pragmatic condition.Relevance
+            | Expansion
+            | Expansion.Alternative
+            | Expansion.Alternative.Chosen alternative
+            | Expansion.Alternative.Conjunctive
+            | Expansion.Alternative.Disjunctive
+            | Expansion.Conjunction
+            | Expansion.Exception
+            | Expansion.Instantiation
+            | Expansion.List
+            | Expansion.Restatement
+            | Expansion.Restatement.Equivalence
+            | Expansion.Restatement.Generalization
+            | Expansion.Restatement.Specification
+            | Temporal
+            | Temporal.Asynchronous
+            | Temporal.Asynchronous.Precedence
+            | Temporal.Asynchronous.Succession
+            | Temporal.Synchrony</relations>
+</vals>

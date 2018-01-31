@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE vals
+  SYSTEM "dimlex.dtd">
+<vals><!--
+        konnadv (adverb),
+        padv    (adverb with prepositional part),
+        konj    (coordinating conjunction), 'und'
+        subj    (subordinating conjunction), 'weil', 'obwohl' (requires verb-final complement, can be moved in matrix clause)
+        v2emb   (v2-embedder), 'vorausgesetzt' (V2 complement, but embedded clause can be moved in matrix)
+        postp   (postponer), 'weshalb' (verb-final complement, cannot be moved in matrix clause)
+        appr    (preposition), 'anstatt'
+        appo    (postposition), 'wegen'
+        apci    (circumposition), 'um ... willen'
+        einzel  (isolated) 'dass'
+        -->
+   <syn-cats>
+      <cat name="prepositional"/>
+      <cat name="subordinating"/>
+      <cat name="adverbial"/>
+      <cat name="coodinating"/>
+      <cat name="locuzione congiuntiva"/>
+      <cat name="classe"/>
+      <cat name="avverbio"/>
+      <cat name="preposizione"/>
+   </syn-cats>
+   <!--
+        KON     nebenordnende Konjunktion   und, oder, aber
+        ADV     Adverb  schon, bald, doch
+        APPR    Präposition; Zirkumposition links   in [der Stadt], ohne [mich]
+        KOUI    unterordnende Konjunktion mit (zu-)Infinitiv    um [zu leben], anstatt [zu fragen]
+        XXX         anstelle dessen
+        PAV     Pronominaladverb	dafür, dabei, deswegen, trotzdem (=PROAV)
+        KOUS    unterordnende Konjunktion   weil, dass, damit, wenn, ob
+        PROAV   Pronominaladverb 
+        PWAV    adverbiales Interrogativpronomen    warum, wo, wann, worüber, wobei
+        -->
+   <stts-types/>
+   <relations>
+            | 
+            | COMPARISON:Concession:Arg1-as-denier
+            | COMPARISON:Concession:Arg2-as-denier
+            | COMPARISON:Concession:Arg2-as-denier
+
+            | COMPARISON:Contrast
+            | COMPARISON:Similarity
+            | CONTINGENCY:Cause:reason
+            | CONTINGENCY:Cause:result
+            | CONTINGENCY:Condition
+            | CONTINGENCY:Negative-Condition:Arg1-as-negcond
+            | CONTINGENCY:Negative-Condition:Arg2-as-negcond
+            | CONTINGENCY:Purpose:Arg1-as-goal
+            | CONTINGENCY:Purpose:Arg2-as-goal
+            | EXPANSION: Conjunction
+            | EXPANSION:Conjunction
+            | EXPANSION:Disjunction
+            | EXPANSION:Equivalence
+            | EXPANSION:Exception:Arg1-as-except
+            | EXPANSION:Exception:Arg2-as-except
+            | EXPANSION:Exception:Arg2-as-excpt
+            | EXPANSION:Instantiation
+            | EXPANSION:Specification:Arg1-as-detail(Summarization)
+            | EXPANSION:Specification:Arg2-as-detail(Specification)
+            | EXPANSION:Substitution:Arg1-as-subst
+            | TEMPORAL:Asynchronous:Precedence
+            | TEMPORAL:Asynchronous:precedence
+            | TEMPORAL:Asynchronous:succession
+            | TEMPORAL:Syncrony
+            | addition
+            | cCONTINGENCY:Cause:result
+            | cCONTINGENCY:Cause:resulte
+            | concession
+            | condition
+            | consequence
+            | contrast
+            | reformulation</relations>
+</vals>

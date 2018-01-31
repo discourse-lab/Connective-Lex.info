@@ -1,0 +1,3126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dimlex SYSTEM "dimlex.dtd">
+<dimlex>
+   <entry id="25" word="in addition">
+      <orths>
+         <orth canonical="0" orth_id="25o1" type="cont">
+            <part type="phrasal">In addition</part>
+         </orth>
+         <orth canonical="1" orth_id="25o2" type="cont">
+            <part type="phrasal">in addition</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP</cat>
+         <sem>
+            <pdtb2_relation anno_N="165" freq="165" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="80" word="lest">
+      <orths>
+         <orth canonical="1" orth_id="80o1" type="cont">
+            <part type="single">lest</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="2" freq="1" sense="Contingency.Condition.Hypothetical" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="2" freq="1" sense="Expansion.Alternative.Disjunctive" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="37" word="indeed">
+      <orths>
+         <orth canonical="0" orth_id="37o1" type="cont">
+            <part type="single">Indeed</part>
+         </orth>
+         <orth canonical="1" orth_id="37o2" type="cont">
+            <part type="single">indeed</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="104" freq="1" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="104" freq="54" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="104" freq="1" sense="Expansion.Instantiation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="104" freq="4" sense="Contingency.Pragmatic cause.Justification" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="104" freq="1" sense="Expansion.Restatement.Equivalence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="104" freq="3" sense="Expansion" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="104" freq="1" sense="Expansion.Restatement.Generalization" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="104" freq="31" sense="Expansion.Restatement.Specification" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="104" freq="7" sense="Expansion.Restatement" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>INTJ</cat>
+         <sem>
+            <pdtb2_relation anno_N="104" freq="1" sense="Expansion.Restatement.Specification" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="21" word="still">
+      <orths>
+         <orth canonical="1" orth_id="21o1" type="cont">
+            <part type="single">still</part>
+         </orth>
+         <orth canonical="0" orth_id="21o2" type="cont">
+            <part type="single">Still</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>INTJ</cat>
+         <sem>
+            <pdtb2_relation anno_N="190" freq="2" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="190" freq="1" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="190" freq="14" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="190" freq="7" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="190" freq="15" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="190" freq="1" sense="Comparison.Contrast.Opposition" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="190" freq="8" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="190" freq="1" sense="Comparison.Concession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="190" freq="16" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="190" freq="4" sense="Comparison.Contrast.Opposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="190" freq="64" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="190" freq="2" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="190" freq="52" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="190" freq="2" sense="Comparison.Concession.Expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="190" freq="1" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="33" word="yet">
+      <orths>
+         <orth canonical="0" orth_id="33o1" type="cont">
+            <part type="single">Yet</part>
+         </orth>
+         <orth canonical="1" orth_id="33o2" type="cont">
+            <part type="single">yet</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>CC</cat>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="4" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="2" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="5" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="1" sense="Comparison.Contrast.Opposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="16" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="11" sense="Comparison.Contrast" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="8" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="1" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="10" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="1" sense="Comparison.Contrast.Opposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="13" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="8" sense="Comparison.Contrast" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>RB</cat>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="7" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="6" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="4" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="4" sense="Comparison.Contrast.Opposition" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="56" word="by comparison">
+      <orths>
+         <orth canonical="1" orth_id="56o1" type="cont">
+            <part type="phrasal">by comparison</part>
+         </orth>
+         <orth canonical="0" orth_id="56o2" type="cont">
+            <part type="phrasal">By comparison</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP</cat>
+         <sem>
+            <pdtb2_relation anno_N="11" freq="1" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="11" freq="3" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="11" freq="7" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="18" word="also">
+      <orths>
+         <orth canonical="1" orth_id="18o1" type="cont">
+            <part type="single">also</part>
+         </orth>
+         <orth canonical="0" orth_id="18o2" type="cont">
+            <part type="single">Also</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP-PRD</cat>
+         <sem>
+            <pdtb2_relation anno_N="1746" freq="2" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="1746" freq="10" sense="Expansion.List" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1746" freq="1712" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1746" freq="1" sense="Expansion.Restatement.Specification" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1746" freq="1" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>RB</cat>
+         <sem>
+            <pdtb2_relation anno_N="1746" freq="20" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="76" word="except">
+      <orths>
+         <orth canonical="1" orth_id="76o1" type="cont">
+            <part type="single">except</part>
+         </orth>
+         <orth canonical="0" orth_id="76o2" type="cont">
+            <part type="single">Except</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>VB</cat>
+         <sem>
+            <pdtb2_relation anno_N="10" freq="1" sense="Expansion.Exception" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="10" freq="8" sense="Expansion.Exception" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="10" freq="1" sense="Expansion.Alternative.Disjunctive" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="66" word="meantime">
+      <orths>
+         <orth canonical="1" orth_id="66o1" type="cont">
+            <part type="single">meantime</part>
+         </orth>
+         <orth canonical="0" orth_id="66o2" type="cont">
+            <part type="single">Meantime</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="15" freq="1" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="15" freq="1" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="15" freq="1" sense="Temporal.Asynchronous" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="15" freq="11" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="15" freq="1" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="59" word="finally">
+      <orths>
+         <orth canonical="1" orth_id="59o1" type="cont">
+            <part type="single">finally</part>
+         </orth>
+         <orth canonical="0" orth_id="59o2" type="cont">
+            <part type="single">Finally</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="32" freq="5" sense="Expansion.List" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="32" freq="6" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="32" freq="8" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="32" freq="1" sense="Expansion" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="32" freq="2" sense="Expansion.List" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="32" freq="6" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="32" freq="4" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="75" word="as soon as">
+      <orths>
+         <orth canonical="1" orth_id="75o1" type="cont">
+            <part type="phrasal">as soon as</part>
+         </orth>
+         <orth canonical="0" orth_id="75o2" type="cont">
+            <part type="phrasal">As soon as</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="20" freq="9" sense="Temporal.Synchrony" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="20" freq="11" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="14" word="then">
+      <orths>
+         <orth canonical="0" orth_id="14o1" type="cont">
+            <part type="single">Then</part>
+         </orth>
+         <orth canonical="1" orth_id="14o2" type="cont">
+            <part type="single">then</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP-TMP-2</cat>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="1" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP-TMP=2</cat>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="1" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="1" sense="Expansion.List" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="2" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="1" sense="Contingency.Condition.Unreal present" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="1" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="159" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="4" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>RB</cat>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="1" sense="Contingency.Cause.Reason" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="81" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="3" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="1" sense="Comparison.Contrast" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="1" sense="Expansion.List" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="6" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="1" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="1" sense="Expansion.Alternative" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="4" sense="Contingency.Cause.Result" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="70" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="1" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="62" word="thereby">
+      <orths>
+         <orth canonical="1" orth_id="62o1" type="cont">
+            <part type="single">thereby</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="12" freq="12" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="32" word="meanwhile">
+      <orths>
+         <orth canonical="1" orth_id="32o1" type="cont">
+            <part type="single">meanwhile</part>
+         </orth>
+         <orth canonical="0" orth_id="32o2" type="cont">
+            <part type="single">Meanwhile</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="193" freq="1" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="193" freq="53" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="193" freq="16" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="193" freq="5" sense="Comparison.Contrast.Opposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="193" freq="1" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="193" freq="4" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="193" freq="81" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="193" freq="1" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="193" freq="1" sense="Comparison.Contrast.Opposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="193" freq="17" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="193" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="193" freq="12" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="55" word="overall">
+      <orths>
+         <orth canonical="1" orth_id="55o1" type="cont">
+            <part type="single">overall</part>
+         </orth>
+         <orth canonical="0" orth_id="55o2" type="cont">
+            <part type="single">Overall</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="12" freq="3" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="12" freq="3" sense="Expansion.Restatement.Specification" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="12" freq="3" sense="Expansion.Restatement" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="12" freq="2" sense="Expansion.Restatement.Generalization" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>JJ</cat>
+         <sem>
+            <pdtb2_relation anno_N="12" freq="1" sense="Expansion.Restatement.Specification" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="27" word="on the other hand">
+      <orths>
+         <orth canonical="0" orth_id="27o1" type="cont">
+            <part type="phrasal">On the other hand</part>
+         </orth>
+         <orth canonical="1" orth_id="27o2" type="cont">
+            <part type="phrasal">on the other hand</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP</cat>
+         <sem>
+            <pdtb2_relation anno_N="37" freq="1" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="37" freq="13" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="37" freq="12" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="37" freq="1" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="37" freq="8" sense="Comparison.Contrast.Opposition" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>PP-LOC</cat>
+         <sem>
+            <pdtb2_relation anno_N="37" freq="1" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="37" freq="1" sense="Comparison.Contrast.Opposition" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="95" word="in sum">
+      <orths>
+         <orth canonical="0" orth_id="95o1" type="cont">
+            <part type="phrasal">In sum</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP</cat>
+         <sem>
+            <pdtb2_relation anno_N="2" freq="2" sense="Expansion.Restatement.Generalization" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="16" word="as long as">
+      <orths>
+         <orth canonical="1" orth_id="16o1" type="cont">
+            <part type="phrasal">as long as</part>
+         </orth>
+         <orth canonical="0" orth_id="16o2" type="cont">
+            <part type="phrasal">As long as</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="24" freq="8" sense="Contingency.Condition.Hypothetical" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="24" freq="6" sense="Contingency.Condition.General" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="24" freq="2" sense="Contingency.Condition.Factual present" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="24" freq="7" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="24" freq="1" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="52" word="nor">
+      <orths>
+         <orth canonical="1" orth_id="52o1" type="cont">
+            <part type="single">nor</part>
+         </orth>
+         <orth canonical="0" orth_id="52o2" type="cont">
+            <part type="single">Nor</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>CC</cat>
+         <sem>
+            <pdtb2_relation anno_N="31" freq="2" sense="Expansion.Alternative" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="31" freq="1" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="31" freq="25" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="31" freq="3" sense="Expansion.Alternative.Conjunctive" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="67" word="by contrast">
+      <orths>
+         <orth canonical="0" orth_id="67o1" type="cont">
+            <part type="phrasal">By contrast</part>
+         </orth>
+         <orth canonical="1" orth_id="67o2" type="cont">
+            <part type="phrasal">by contrast</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP</cat>
+         <sem>
+            <pdtb2_relation anno_N="27" freq="11" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="27" freq="12" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="27" freq="4" sense="Comparison.Contrast.Opposition" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="70" word="in the end">
+      <orths>
+         <orth canonical="1" orth_id="70o1" type="cont">
+            <part type="phrasal">in the end</part>
+         </orth>
+         <orth canonical="0" orth_id="70o2" type="cont">
+            <part type="phrasal">In the end</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="9" freq="1" sense="Contingency.Cause.Result" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="9" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="9" freq="1" sense="Expansion" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="9" freq="1" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="9" freq="2" sense="Expansion.Restatement.Generalization" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="9" freq="1" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>PP</cat>
+         <sem>
+            <pdtb2_relation anno_N="9" freq="1" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="9" freq="1" sense="Expansion.Restatement.Specification" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="97" word="insofar as">
+      <orths>
+         <orth canonical="0" orth_id="97o1" type="cont">
+            <part type="phrasal">Insofar as</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="1" freq="1" sense="Contingency.Cause.Reason" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="53" word="alternatively">
+      <orths>
+         <orth canonical="1" orth_id="53o1" type="cont">
+            <part type="single">alternatively</part>
+         </orth>
+         <orth canonical="0" orth_id="53o2" type="cont">
+            <part type="single">Alternatively</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="6" freq="2" sense="Expansion.Alternative" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="6" freq="4" sense="Expansion.Alternative.Disjunctive" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="20" word="separately">
+      <orths>
+         <orth canonical="0" orth_id="20o1" type="cont">
+            <part type="single">Separately</part>
+         </orth>
+         <orth canonical="1" orth_id="20o2" type="cont">
+            <part type="single">separately</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP-MNR</cat>
+         <sem>
+            <pdtb2_relation anno_N="74" freq="1" sense="Expansion.Alternative" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="74" freq="6" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="74" freq="1" sense="Expansion.List" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="74" freq="66" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="4" word="because">
+      <orths>
+         <orth canonical="1" orth_id="4o1" type="cont">
+            <part type="single">because</part>
+         </orth>
+         <orth canonical="0" orth_id="4o2" type="cont">
+            <part type="single">Because</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="858" freq="73" sense="Contingency.Cause.Reason" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="858" freq="2" sense="Contingency.Pragmatic condition.Implicit assertion" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>RB</cat>
+         <sem>
+            <pdtb2_relation anno_N="858" freq="14" sense="Contingency.Cause.Reason" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="858" freq="2" sense="Contingency.Pragmatic cause.Justification" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="858" freq="767" sense="Contingency.Cause.Reason" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="77" word="in short">
+      <orths>
+         <orth canonical="0" orth_id="77o1" type="cont">
+            <part type="phrasal">In short</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP</cat>
+         <sem>
+            <pdtb2_relation anno_N="4" freq="4" sense="Expansion.Restatement.Generalization" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="99" word="as an alternative">
+      <orths>
+         <orth canonical="0" orth_id="99o1" type="cont">
+            <part type="phrasal">As an alternative</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP</cat>
+         <sem>
+            <pdtb2_relation anno_N="2" freq="2" sense="Expansion.Alternative.Disjunctive" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="46" word="further">
+      <orths>
+         <orth canonical="0" orth_id="46o1" type="cont">
+            <part type="single">Further</part>
+         </orth>
+         <orth canonical="1" orth_id="46o2" type="cont">
+            <part type="single">further</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="9" freq="8" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>RBR</cat>
+         <sem>
+            <pdtb2_relation anno_N="9" freq="1" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="39" word="ultimately">
+      <orths>
+         <orth canonical="1" orth_id="39o1" type="cont">
+            <part type="single">ultimately</part>
+         </orth>
+         <orth canonical="0" orth_id="39o2" type="cont">
+            <part type="single">Ultimately</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="18" freq="4" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="18" freq="2" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="18" freq="1" sense="Expansion" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="18" freq="10" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="18" freq="1" sense="Expansion.Restatement" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="94" word="for">
+      <orths>
+         <orth canonical="1" orth_id="94o1" type="cont">
+            <part type="single">for</part>
+         </orth>
+         <orth canonical="0" orth_id="94o2" type="cont">
+            <part type="single">For</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="3" freq="3" sense="Contingency.Cause.Reason" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="79" word="furthermore">
+      <orths>
+         <orth canonical="0" orth_id="79o1" type="cont">
+            <part type="single">Furthermore</part>
+         </orth>
+         <orth canonical="1" orth_id="79o2" type="cont">
+            <part type="single">furthermore</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="11" freq="11" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="34" word="since">
+      <orths>
+         <orth canonical="1" orth_id="34o1" type="cont">
+            <part type="single">since</part>
+         </orth>
+         <orth canonical="0" orth_id="34o2" type="cont">
+            <part type="single">Since</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="184" freq="6" sense="Contingency.Cause.Reason" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="184" freq="6" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="184" freq="1" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="184" freq="1" sense="Temporal.Synchrony" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="184" freq="90" sense="Contingency.Cause.Reason" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="184" freq="80" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="6" word="before">
+      <orths>
+         <orth canonical="0" orth_id="6o1" type="cont">
+            <part type="single">Before</part>
+         </orth>
+         <orth canonical="1" orth_id="6o2" type="cont">
+            <part type="single">before</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="326" freq="43" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="326" freq="1" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="326" freq="2" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>RB</cat>
+         <sem>
+            <pdtb2_relation anno_N="326" freq="13" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="326" freq="267" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="19" word="after">
+      <orths>
+         <orth canonical="1" orth_id="19o1" type="cont">
+            <part type="single">after</part>
+         </orth>
+         <orth canonical="0" orth_id="19o2" type="cont">
+            <part type="single">After</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="577" freq="2" sense="Comparison.Concession.Expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="577" freq="88" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>RB</cat>
+         <sem>
+            <pdtb2_relation anno_N="577" freq="10" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="577" freq="477" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="93" word="simultaneously">
+      <orths>
+         <orth canonical="0" orth_id="93o1" type="cont">
+            <part type="single">Simultaneously</part>
+         </orth>
+         <orth canonical="1" orth_id="93o2" type="cont">
+            <part type="single">simultaneously</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="6" freq="6" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="17" word="however">
+      <orths>
+         <orth canonical="0" orth_id="17o1" type="cont">
+            <part type="single">However</part>
+         </orth>
+         <orth canonical="1" orth_id="17o2" type="cont">
+            <part type="single">however</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="485" freq="49" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="485" freq="2" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="485" freq="5" sense="Comparison.Concession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="485" freq="89" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="485" freq="32" sense="Comparison.Contrast.Opposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="485" freq="1" sense="Comparison.Pragmatic concession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="485" freq="70" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="485" freq="1" sense="Comparison.Pragmatic contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="485" freq="234" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="485" freq="2" sense="Comparison.Concession.Expectation" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="50" word="besides">
+      <orths>
+         <orth canonical="1" orth_id="50o1" type="cont">
+            <part type="single">besides</part>
+         </orth>
+         <orth canonical="0" orth_id="50o2" type="cont">
+            <part type="single">Besides</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="19" freq="7" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="19" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="19" freq="10" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="19" freq="1" sense="Expansion.Alternative.Conjunctive" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="47" word="afterward">
+      <orths>
+         <orth canonical="0" orth_id="47o1" type="cont">
+            <part type="single">Afterwards</part>
+         </orth>
+         <orth canonical="0" orth_id="47o2" type="cont">
+            <part type="single">Afterward</part>
+         </orth>
+         <orth canonical="1" orth_id="47o3" type="cont">
+            <part type="single">afterward</part>
+         </orth>
+         <orth canonical="0" orth_id="47o4" type="cont">
+            <part type="single">afterwards</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="11" freq="11" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="40" word="as a result">
+      <orths>
+         <orth canonical="0" orth_id="40o1" type="cont">
+            <part type="phrasal">As a result</part>
+         </orth>
+         <orth canonical="1" orth_id="40o2" type="cont">
+            <part type="phrasal">as a result</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP</cat>
+         <sem>
+            <pdtb2_relation anno_N="78" freq="44" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>PP-PRP</cat>
+         <sem>
+            <pdtb2_relation anno_N="78" freq="33" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>PP-CLR</cat>
+         <sem>
+            <pdtb2_relation anno_N="78" freq="1" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="78" word="neither nor">
+      <orths>
+         <orth canonical="1" orth_id="78o1" type="discont">
+            <part type="single">neither</part>
+            <part type="single">nor</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="3" freq="1" sense="Expansion.Alternative.Disjunctive" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3" freq="1" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3" freq="1" sense="Comparison.Contrast.Opposition" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="87" word="plus">
+      <orths>
+         <orth canonical="0" orth_id="87o1" type="cont">
+            <part type="single">Plus</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>CC</cat>
+         <sem>
+            <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="41" word="either or">
+      <orths>
+         <orth canonical="0" orth_id="41o1" type="discont">
+            <part type="single">Either</part>
+            <part type="single">or</part>
+         </orth>
+         <orth canonical="1" orth_id="41o2" type="discont">
+            <part type="single">either</part>
+            <part type="single">or</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="4" freq="1" sense="Expansion.Alternative" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="4" freq="2" sense="Expansion.Alternative.Disjunctive" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="4" freq="1" sense="Expansion.Alternative.Conjunctive" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="89" word="hence">
+      <orths>
+         <orth canonical="0" orth_id="89o1" type="cont">
+            <part type="single">Hence</part>
+         </orth>
+         <orth canonical="1" orth_id="89o2" type="cont">
+            <part type="single">hence</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="4" freq="4" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="84" word="consequently">
+      <orths>
+         <orth canonical="1" orth_id="84o1" type="cont">
+            <part type="single">consequently</part>
+         </orth>
+         <orth canonical="0" orth_id="84o2" type="cont">
+            <part type="single">Consequently</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP-PRP</cat>
+         <sem>
+            <pdtb2_relation anno_N="10" freq="1" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="10" freq="8" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="10" freq="1" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="23" word="or">
+      <orths>
+         <orth canonical="1" orth_id="23o1" type="cont">
+            <part type="single">or</part>
+         </orth>
+         <orth canonical="0" orth_id="23o2" type="cont">
+            <part type="single">Or</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>CC</cat>
+         <sem>
+            <pdtb2_relation anno_N="98" freq="5" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="98" freq="2" sense="Contingency.Pragmatic condition.Implicit assertion" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="98" freq="12" sense="Expansion.Alternative.Disjunctive" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="98" freq="34" sense="Expansion.Alternative" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="98" freq="41" sense="Expansion.Alternative.Conjunctive" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="98" freq="1" sense="Expansion.Restatement.Equivalence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="98" freq="1" sense="Expansion" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="98" freq="1" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="98" freq="1" sense="Expansion.Restatement" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="60" word="otherwise">
+      <orths>
+         <orth canonical="1" orth_id="60o1" type="cont">
+            <part type="single">otherwise</part>
+         </orth>
+         <orth canonical="0" orth_id="60o2" type="cont">
+            <part type="single">Otherwise</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="24" freq="1" sense="Expansion.Alternative.Conjunctive" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="24" freq="2" sense="Expansion.Exception" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="24" freq="21" sense="Expansion.Alternative.Disjunctive" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="71" word="regardless">
+      <orths>
+         <orth canonical="1" orth_id="71o1" type="cont">
+            <part type="single">regardless</part>
+         </orth>
+         <orth canonical="0" orth_id="71o2" type="cont">
+            <part type="single">Regardless</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="2" freq="2" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="1" word="although">
+      <orths>
+         <orth canonical="1" orth_id="1o1" type="cont">
+            <part type="single">although</part>
+         </orth>
+         <orth canonical="0" orth_id="1o2" type="cont">
+            <part type="single">Although</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="328" freq="16" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="328" freq="1" sense="Expansion.Exception" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="328" freq="1" sense="Comparison.Concession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="328" freq="34" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="328" freq="9" sense="Comparison.Contrast.Opposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="328" freq="21" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="328" freq="114" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="328" freq="132" sense="Comparison.Concession.Expectation" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="10" word="previously">
+      <orths>
+         <orth canonical="0" orth_id="10o1" type="cont">
+            <part type="single">Previously</part>
+         </orth>
+         <orth canonical="1" orth_id="10o2" type="cont">
+            <part type="single">previously</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="49" freq="2" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="49" freq="46" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="49" freq="1" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="72" word="thereafter">
+      <orths>
+         <orth canonical="1" orth_id="72o1" type="cont">
+            <part type="single">thereafter</part>
+         </orth>
+         <orth canonical="0" orth_id="72o2" type="cont">
+            <part type="single">Thereafter</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="11" freq="10" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="11" freq="1" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="29" word="for instance">
+      <orths>
+         <orth canonical="1" orth_id="29o1" type="cont">
+            <part type="phrasal">for instance</part>
+         </orth>
+         <orth canonical="0" orth_id="29o2" type="cont">
+            <part type="phrasal">For instance</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="98" freq="1" sense="Expansion.Instantiation" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>PP</cat>
+         <sem>
+            <pdtb2_relation anno_N="98" freq="97" sense="Expansion.Instantiation" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="24" word="moreover">
+      <orths>
+         <orth canonical="0" orth_id="24o1" type="cont">
+            <part type="single">Moreover</part>
+         </orth>
+         <orth canonical="1" orth_id="24o2" type="cont">
+            <part type="single">moreover</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="1" sense="Expansion.List" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="99" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="101" freq="1" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="49" word="similarly">
+      <orths>
+         <orth canonical="1" orth_id="49o1" type="cont">
+            <part type="single">similarly</part>
+         </orth>
+         <orth canonical="0" orth_id="49o2" type="cont">
+            <part type="single">Similarly</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP-MNR</cat>
+         <sem>
+            <pdtb2_relation anno_N="18" freq="1" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="18" freq="17" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="7" word="for example">
+      <orths>
+         <orth canonical="1" orth_id="7o1" type="cont">
+            <part type="phrasal">for example</part>
+         </orth>
+         <orth canonical="0" orth_id="7o2" type="cont">
+            <part type="phrasal">For example</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP</cat>
+         <sem>
+            <pdtb2_relation anno_N="196" freq="194" sense="Expansion.Instantiation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="196" freq="2" sense="Expansion.Restatement.Specification" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="82" word="specifically">
+      <orths>
+         <orth canonical="1" orth_id="82o1" type="cont">
+            <part type="single">specifically</part>
+         </orth>
+         <orth canonical="0" orth_id="82o2" type="cont">
+            <part type="single">Specifically</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP-MNR</cat>
+         <sem>
+            <pdtb2_relation anno_N="10" freq="1" sense="Expansion.Restatement.Specification" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="10" freq="1" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="10" freq="8" sense="Expansion.Restatement.Specification" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="48" word="next">
+      <orths>
+         <orth canonical="0" orth_id="48o1" type="cont">
+            <part type="single">Next</part>
+         </orth>
+         <orth canonical="1" orth_id="48o2" type="cont">
+            <part type="single">next</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="7" freq="5" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="7" freq="1" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>RB</cat>
+         <sem>
+            <pdtb2_relation anno_N="7" freq="1" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="91" word="accordingly">
+      <orths>
+         <orth canonical="0" orth_id="91o1" type="cont">
+            <part type="single">Accordingly</part>
+         </orth>
+         <orth canonical="1" orth_id="91o2" type="cont">
+            <part type="single">accordingly</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP-MNR</cat>
+         <sem>
+            <pdtb2_relation anno_N="5" freq="1" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="5" freq="4" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="42" word="therefore">
+      <orths>
+         <orth canonical="1" orth_id="42o1" type="cont">
+            <part type="single">therefore</part>
+         </orth>
+         <orth canonical="0" orth_id="42o2" type="cont">
+            <part type="single">Therefore</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="26" freq="26" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="92" word="on the contrary">
+      <orths>
+         <orth canonical="0" orth_id="92o1" type="cont">
+            <part type="phrasal">On the contrary</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP</cat>
+         <sem>
+            <pdtb2_relation anno_N="4" freq="2" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="4" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="4" freq="1" sense="Comparison.Contrast.Opposition" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="45" word="in particular">
+      <orths>
+         <orth canonical="1" orth_id="45o1" type="cont">
+            <part type="phrasal">in particular</part>
+         </orth>
+         <orth canonical="0" orth_id="45o2" type="cont">
+            <part type="phrasal">In particular</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP</cat>
+         <sem>
+            <pdtb2_relation anno_N="15" freq="9" sense="Expansion.Restatement.Specification" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="15" freq="6" sense="Expansion.Instantiation" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="8" word="until">
+      <orths>
+         <orth canonical="0" orth_id="8o1" type="cont">
+            <part type="single">Until</part>
+         </orth>
+         <orth canonical="1" orth_id="8o2" type="cont">
+            <part type="single">until</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="162" freq="4" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="162" freq="1" sense="Expansion.Alternative.Disjunctive" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="162" freq="16" sense="Contingency.Condition.Hypothetical" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="162" freq="2" sense="Expansion.Alternative.Disjunctive" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="162" freq="2" sense="Contingency.Condition.General" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="162" freq="7" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="162" freq="129" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="162" freq="1" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="68" word="if then">
+      <orths>
+         <orth canonical="0" orth_id="68o1" type="discont">
+            <part type="single">If</part>
+            <part type="single">then</part>
+         </orth>
+         <orth canonical="1" orth_id="68o2" type="discont">
+            <part type="single">if</part>
+            <part type="single">then</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="38" freq="22" sense="Contingency.Condition.Hypothetical" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="38" freq="5" sense="Contingency.Condition.General" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="38" freq="1" sense="Contingency.Condition.Unreal past" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="38" freq="1" sense="Contingency.Pragmatic condition.Implicit assertion" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="38" freq="9" sense="Contingency.Condition.Factual present" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="96" word="when and if">
+      <orths>
+         <orth canonical="0" orth_id="96o1" type="cont">
+            <part type="phrasal">When and if</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>UCP</cat>
+         <sem>
+            <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="3" word="but">
+      <orths>
+         <orth canonical="1" orth_id="3o1" type="cont">
+            <part type="single">but</part>
+         </orth>
+         <orth canonical="0" orth_id="3o2" type="cont">
+            <part type="single">But</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>CC</cat>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="262" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="1" sense="Contingency.Cause.Result" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="82" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="2" sense="Expansion.Exception" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="2" sense="Comparison.Concession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="638" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="2" sense="Expansion.Restatement.Specification" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="2" sense="Expansion" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="175" sense="Comparison.Contrast.Opposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="4" sense="Comparison.Pragmatic concession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="495" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="2" sense="Expansion.Alternative.Chosen alternative" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="2" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="16" sense="Comparison.Pragmatic contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="1609" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="12" sense="Comparison.Concession.Expectation" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="1" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3308" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="98" word="else">
+      <orths>
+         <orth canonical="1" orth_id="98o1" type="cont">
+            <part type="single">else</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Alternative" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="88" word="And">
+      <orths>
+         <orth canonical="1" orth_id="88o1" type="cont">
+            <part type="single">And</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>CC</cat>
+         <sem>
+            <pdtb2_relation anno_N="1" freq="1" sense="Expansion.List" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="15" word="while">
+      <orths>
+         <orth canonical="1" orth_id="15o1" type="cont">
+            <part type="single">while</part>
+         </orth>
+         <orth canonical="0" orth_id="15o2" type="cont">
+            <part type="single">While</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="781" freq="3" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>NN</cat>
+         <sem>
+            <pdtb2_relation anno_N="781" freq="1" sense="Comparison.Contrast.Opposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="781" freq="2" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="781" freq="4" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="781" freq="21" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="781" freq="54" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="781" freq="9" sense="Expansion.List" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="781" freq="1" sense="Comparison.Concession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="781" freq="195" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="781" freq="84" sense="Comparison.Contrast.Opposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="781" freq="3" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="781" freq="128" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="781" freq="81" sense="Comparison.Concession.Expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="781" freq="195" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="12" word="and">
+      <orths>
+         <orth canonical="0" orth_id="12o1" type="cont">
+            <part type="single">And</part>
+         </orth>
+         <orth canonical="1" orth_id="12o2" type="cont">
+            <part type="single">and</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>CC</cat>
+         <sem>
+            <pdtb2_relation anno_N="2999" freq="209" sense="Expansion.List" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="2999" freq="2" sense="Contingency.Condition.Hypothetical" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="2999" freq="13" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="2999" freq="2689" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Instantiation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="2999" freq="3" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="2999" freq="65" sense="Contingency.Cause.Result" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="2999" freq="5" sense="Comparison.Contrast.Opposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="2999" freq="1" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Restatement.Generalization" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="2999" freq="5" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Restatement.Specification" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="2999" freq="1" sense="Contingency.Condition.General" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>JJ</cat>
+         <sem>
+            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>NN</cat>
+         <sem>
+            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="69" word="likewise">
+      <orths>
+         <orth canonical="0" orth_id="69o1" type="cont">
+            <part type="single">Likewise</part>
+         </orth>
+         <orth canonical="1" orth_id="69o2" type="cont">
+            <part type="single">likewise</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="8" freq="8" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="44" word="thus">
+      <orths>
+         <orth canonical="0" orth_id="44o1" type="cont">
+            <part type="single">Thus</part>
+         </orth>
+         <orth canonical="1" orth_id="44o2" type="cont">
+            <part type="single">thus</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP-MNR</cat>
+         <sem>
+            <pdtb2_relation anno_N="112" freq="1" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="112" freq="102" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>RB</cat>
+         <sem>
+            <pdtb2_relation anno_N="112" freq="9" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="28" word="as">
+      <orths>
+         <orth canonical="1" orth_id="28o1" type="cont">
+            <part type="single">as</part>
+         </orth>
+         <orth canonical="0" orth_id="28o2" type="cont">
+            <part type="single">As</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="743" freq="1" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="743" freq="1" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="743" freq="3" sense="Contingency.Cause.Reason" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="743" freq="1" sense="Comparison.Contrast.Opposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="743" freq="1" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="743" freq="2" sense="Comparison.Concession.Expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="743" freq="23" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>RB</cat>
+         <sem>
+            <pdtb2_relation anno_N="743" freq="2" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="743" freq="4" sense="Contingency.Cause.Reason" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="743" freq="5" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="743" freq="2" sense="Contingency.Pragmatic cause.Justification" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="743" freq="14" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="743" freq="205" sense="Contingency.Cause.Reason" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="743" freq="1" sense="Expansion" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="743" freq="478" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="83" word="conversely">
+      <orths>
+         <orth canonical="0" orth_id="83o1" type="cont">
+            <part type="single">Conversely</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="2" freq="2" sense="Comparison.Contrast" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="9" word="if">
+      <orths>
+         <orth canonical="0" orth_id="9o1" type="cont">
+            <part type="single">If</part>
+         </orth>
+         <orth canonical="0" orth_id="9o2" type="cont">
+            <part type="single">IF</part>
+         </orth>
+         <orth canonical="1" orth_id="9o3" type="cont">
+            <part type="single">if</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="1" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="54" sense="Contingency.Condition.Hypothetical" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="1" sense="Contingency.Cause.Result" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="1" sense="Comparison.Pragmatic contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="1" sense="Contingency.Pragmatic condition.Relevance" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="1" sense="Comparison.Concession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="6" sense="Contingency.Condition.General" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="4" sense="Contingency.Condition.Unreal present" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="3" sense="Contingency.Condition.Unreal past" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="3" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="4" sense="Contingency.Condition.Factual present" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="33" sense="Comparison.Concession.Expectation" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="632" sense="Contingency.Condition.Hypothetical" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="4" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="29" sense="Contingency.Pragmatic condition.Implicit assertion" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="171" sense="Contingency.Condition.General" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="1" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="118" sense="Contingency.Condition.Unreal present" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="50" sense="Contingency.Condition.Unreal past" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="19" sense="Contingency.Pragmatic condition.Relevance" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="9" sense="Contingency.Condition.Factual past" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="71" sense="Contingency.Condition.Factual present" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="4" sense="Comparison.Concession.Expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="1" sense="Expansion.Restatement.Specification" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="1223" freq="2" sense="Contingency.Condition" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="43" word="in turn">
+      <orths>
+         <orth canonical="1" orth_id="43o1" type="cont">
+            <part type="phrasal">in turn</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP</cat>
+         <sem>
+            <pdtb2_relation anno_N="30" freq="17" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="30" freq="3" sense="Contingency.Cause.Result" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="30" freq="7" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="30" freq="1" sense="Expansion.Restatement.Specification" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="30" freq="1" sense="Temporal.Asynchronous" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>PP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="30" freq="1" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="100" word="on the one hand on the other hand">
+      <orths>
+         <orth canonical="0" orth_id="100o1" type="discont">
+            <part type="single">On</part>
+            <part type="single">the</part>
+            <part type="single">one</part>
+            <part type="single">hand</part>
+            <part type="single">On</part>
+            <part type="single">the</part>
+            <part type="single">other</part>
+            <part type="single">hand</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="1" freq="1" sense="Comparison.Contrast" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="30" word="nonetheless">
+      <orths>
+         <orth canonical="1" orth_id="30o1" type="cont">
+            <part type="single">nonetheless</part>
+         </orth>
+         <orth canonical="0" orth_id="30o2" type="cont">
+            <part type="single">Nonetheless</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="27" freq="5" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="27" freq="4" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="27" freq="1" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="27" freq="17" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="61" word="as if">
+      <orths>
+         <orth canonical="1" orth_id="61o1" type="cont">
+            <part type="phrasal">as if</part>
+         </orth>
+         <orth canonical="0" orth_id="61o2" type="cont">
+            <part type="phrasal">As if</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="16" freq="1" sense="Comparison.Pragmatic concession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="16" freq="4" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="16" freq="11" sense="Expansion" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="54" word="whereas">
+      <orths>
+         <orth canonical="0" orth_id="54o1" type="cont">
+            <part type="single">Whereas</part>
+         </orth>
+         <orth canonical="1" orth_id="54o2" type="cont">
+            <part type="single">whereas</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="5" freq="1" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="5" freq="3" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="5" freq="1" sense="Comparison.Contrast.Opposition" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="11" word="when">
+      <orths>
+         <orth canonical="1" orth_id="11o1" type="cont">
+            <part type="single">when</part>
+         </orth>
+         <orth canonical="0" orth_id="11o2" type="cont">
+            <part type="single">WHEN</part>
+         </orth>
+         <orth canonical="0" orth_id="11o3" type="cont">
+            <part type="single">When</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>WHADVP-3</cat>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Hypothetical" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Pragmatic condition.Implicit assertion" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="12" sense="Contingency.Condition.General" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Cause.Reason" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Factual present" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="28" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="79" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>WHADVP-2</cat>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="3" sense="Contingency.Condition.Hypothetical" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Pragmatic condition.Implicit assertion" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="3" sense="Temporal" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="37" sense="Contingency.Condition.General" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="10" sense="Contingency.Cause.Reason" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Contrast.Opposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Factual present" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="60" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="3" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="2" sense="Comparison.Concession.Expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="153" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>WHADVP-1</cat>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="4" sense="Contingency.Condition.Hypothetical" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="8" sense="Contingency.Pragmatic condition.Implicit assertion" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Expansion.Alternative.Disjunctive" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="2" sense="Temporal" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="67" sense="Contingency.Condition.General" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="4" sense="Contingency.Cause.Reason" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Pragmatic condition.Relevance" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="120" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Factual present" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="3" sense="Comparison.Concession.Expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="263" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>WHADVP-14</cat>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>WHADVP-7</cat>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>WHADVP-6</cat>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="2" sense="Temporal.Synchrony" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Pragmatic condition.Implicit assertion" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>WHADVP-5</cat>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="4" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Concession.Expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="3" sense="Contingency.Condition.General" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="7" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>WHADVP-4</cat>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Cause.Reason" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Concession.Expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="17" sense="Temporal.Synchrony" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="9" sense="Contingency.Condition.General" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="7" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>WHADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="3" sense="Contingency.Condition.Hypothetical" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="5" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Cause.Reason" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Condition.General" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="21" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>WHNP-4</cat>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Hypothetical" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Expansion.Alternative.Disjunctive" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Condition.General" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Cause.Reason" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Factual present" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="2" sense="Comparison.Concession.Expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="14" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="57" word="till">
+      <orths>
+         <orth canonical="1" orth_id="57o1" type="cont">
+            <part type="single">till</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="3" freq="3" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="63" word="now that">
+      <orths>
+         <orth canonical="0" orth_id="63o1" type="cont">
+            <part type="phrasal">Now that</part>
+         </orth>
+         <orth canonical="1" orth_id="63o2" type="cont">
+            <part type="phrasal">now that</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="22" freq="1" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="22" freq="1" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="22" freq="2" sense="Contingency.Cause.Result" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="22" freq="13" sense="Contingency.Cause.Reason" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="22" freq="5" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="74" word="in other words">
+      <orths>
+         <orth canonical="1" orth_id="74o1" type="cont">
+            <part type="phrasal">in other words</part>
+         </orth>
+         <orth canonical="0" orth_id="74o2" type="cont">
+            <part type="phrasal">In other words</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP</cat>
+         <sem>
+            <pdtb2_relation anno_N="17" freq="10" sense="Expansion.Restatement.Equivalence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="17" freq="4" sense="Expansion.Restatement" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="17" freq="3" sense="Expansion.Restatement.Generalization" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="26" word="instead">
+      <orths>
+         <orth canonical="0" orth_id="26o1" type="cont">
+            <part type="single">Instead</part>
+         </orth>
+         <orth canonical="1" orth_id="26o2" type="cont">
+            <part type="single">instead</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="112" freq="105" sense="Expansion.Alternative.Chosen alternative" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="112" freq="2" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="112" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="112" freq="4" sense="Expansion.Alternative" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="86" word="much as">
+      <orths>
+         <orth canonical="1" orth_id="86o1" type="cont">
+            <part type="phrasal">much as</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="6" freq="2" sense="Expansion.Alternative.Chosen alternative" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="6" freq="2" sense="Comparison.Concession.Expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="6" freq="1" sense="Expansion.Restatement.Specification" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="6" freq="1" sense="Comparison" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="31" word="unless">
+      <orths>
+         <orth canonical="0" orth_id="31o1" type="cont">
+            <part type="single">Unless</part>
+         </orth>
+         <orth canonical="1" orth_id="31o2" type="cont">
+            <part type="single">unless</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="95" freq="1" sense="Contingency.Condition.Hypothetical" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="95" freq="94" sense="Expansion.Alternative.Disjunctive" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="2" word="though">
+      <orths>
+         <orth canonical="0" orth_id="2o1" type="cont">
+            <part type="single">Though</part>
+         </orth>
+         <orth canonical="1" orth_id="2o2" type="cont">
+            <part type="single">though</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="2" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="5" sense="Comparison.Concession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="5" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Contrast.Opposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="15" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="52" sense="Comparison.Concession.Expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="15" sense="Comparison.Contrast" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>NNP</cat>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="10" sense="Comparison.Concession.Expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="2" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Contrast.Opposition" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="4" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Concession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="14" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Contrast.Opposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="14" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="33" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Concession.Expectation" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="6" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="53" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="26" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="42" sense="Comparison.Concession.Expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="320" freq="16" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="36" word="in fact">
+      <orths>
+         <orth canonical="0" orth_id="36o1" type="cont">
+            <part type="phrasal">In fact</part>
+         </orth>
+         <orth canonical="1" orth_id="36o2" type="cont">
+            <part type="phrasal">in fact</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP</cat>
+         <sem>
+            <pdtb2_relation anno_N="82" freq="1" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="82" freq="33" sense="Expansion.Conjunction" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="82" freq="2" sense="Expansion.Instantiation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="82" freq="3" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="82" freq="2" sense="Expansion" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="82" freq="1" sense="Expansion.Restatement.Generalization" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="82" freq="2" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="82" freq="35" sense="Expansion.Restatement.Specification" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="82" freq="2" sense="Expansion.Restatement" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>PP-LOC</cat>
+         <sem>
+            <pdtb2_relation anno_N="82" freq="1" sense="Expansion.Restatement.Specification" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="73" word="earlier">
+      <orths>
+         <orth canonical="0" orth_id="73o1" type="cont">
+            <part type="single">Earlier</part>
+         </orth>
+         <orth canonical="1" orth_id="73o2" type="cont">
+            <part type="single">earlier</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="15" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="15" freq="14" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="58" word="in contrast">
+      <orths>
+         <orth canonical="0" orth_id="58o1" type="cont">
+            <part type="phrasal">In contrast</part>
+         </orth>
+         <orth canonical="1" orth_id="58o2" type="cont">
+            <part type="phrasal">in contrast</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP</cat>
+         <sem>
+            <pdtb2_relation anno_N="12" freq="5" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="12" freq="5" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="12" freq="2" sense="Comparison.Contrast.Opposition" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="51" word="if and when">
+      <orths>
+         <orth canonical="1" orth_id="51o1" type="cont">
+            <part type="phrasal">if and when</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="3" freq="1" sense="Contingency.Condition.Hypothetical" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="3" freq="1" sense="Contingency.Condition.General" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>UCP</cat>
+         <sem>
+            <pdtb2_relation anno_N="3" freq="1" sense="Contingency.Condition.Hypothetical" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="65" word="additionally">
+      <orths>
+         <orth canonical="1" orth_id="65o1" type="cont">
+            <part type="single">additionally</part>
+         </orth>
+         <orth canonical="0" orth_id="65o2" type="cont">
+            <part type="single">Additionally</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="7" freq="7" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="81" word="as though">
+      <orths>
+         <orth canonical="1" orth_id="81o1" type="cont">
+            <part type="phrasal">as though</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="5" freq="3" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="5" freq="2" sense="Expansion.Restatement.Specification" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="85" word="as well">
+      <orths>
+         <orth canonical="0" orth_id="85o1" type="cont">
+            <part type="phrasal">As well</part>
+         </orth>
+         <orth canonical="1" orth_id="85o2" type="cont">
+            <part type="phrasal">as well</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="6" freq="6" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="22" word="so that">
+      <orths>
+         <orth canonical="1" orth_id="22o1" type="cont">
+            <part type="phrasal">so that</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="31" freq="31" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="5" word="nevertheless">
+      <orths>
+         <orth canonical="0" orth_id="5o1" type="cont">
+            <part type="single">Nevertheless</part>
+         </orth>
+         <orth canonical="1" orth_id="5o2" type="cont">
+            <part type="single">nevertheless</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="44" freq="1" sense="Comparison" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="44" freq="7" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="44" freq="1" sense="Comparison.Contrast.Opposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="44" freq="5" sense="Comparison.Pragmatic concession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="44" freq="19" sense="Comparison.Concession.Contra-expectation" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="44" freq="11" sense="Comparison.Contrast" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="64" word="before and after">
+      <orths>
+         <orth canonical="1" orth_id="64o1" type="cont">
+            <part type="phrasal">before and after</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>phrase</cat>
+         <sem>
+            <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="38" word="later">
+      <orths>
+         <orth canonical="1" orth_id="38o1" type="cont">
+            <part type="single">later</part>
+         </orth>
+         <orth canonical="0" orth_id="38o2" type="cont">
+            <part type="single">Later</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="91" freq="89" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="91" freq="1" sense="Expansion.Conjunction" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="91" freq="1" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="35" word="rather">
+      <orths>
+         <orth canonical="0" orth_id="35o1" type="cont">
+            <part type="single">Rather</part>
+         </orth>
+         <orth canonical="1" orth_id="35o2" type="cont">
+            <part type="single">rather</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="17" freq="5" sense="Expansion.Alternative.Chosen alternative" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="17" freq="3" sense="Comparison.Contrast" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="17" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="17" freq="7" sense="Expansion.Restatement.Specification" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>RB</cat>
+         <sem>
+            <pdtb2_relation anno_N="17" freq="1" sense="Expansion.Alternative.Chosen alternative" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="13" word="so">
+      <orths>
+         <orth canonical="0" orth_id="13o1" type="cont">
+            <part type="single">So</part>
+         </orth>
+         <orth canonical="1" orth_id="13o2" type="cont">
+            <part type="single">so</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>CC</cat>
+         <sem>
+            <pdtb2_relation anno_N="263" freq="13" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP-MNR</cat>
+         <sem>
+            <pdtb2_relation anno_N="263" freq="1" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="263" freq="48" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>RB</cat>
+         <sem>
+            <pdtb2_relation anno_N="263" freq="61" sense="Contingency.Cause.Result" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="263" freq="139" sense="Contingency.Cause.Result" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="263" freq="1" sense="Contingency.Cause.Reason" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="90" word="by then">
+      <orths>
+         <orth canonical="1" orth_id="90o1" type="cont">
+            <part type="phrasal">by then</part>
+         </orth>
+         <orth canonical="0" orth_id="90o2" type="cont">
+            <part type="phrasal">By then</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>PP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="7" freq="2" sense="Temporal.Asynchronous.Precedence" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="7" freq="2" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="7" freq="2" sense="Temporal.Synchrony" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>ADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="7" freq="1" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+   </entry>
+   <entry id="0" word="once">
+      <orths>
+         <orth canonical="0" orth_id="0o1" type="cont">
+            <part type="single">ONCE</part>
+         </orth>
+         <orth canonical="0" orth_id="0o2" type="cont">
+            <part type="single">Once</part>
+         </orth>
+         <orth canonical="1" orth_id="0o3" type="cont">
+            <part type="single">once</part>
+         </orth>
+      </orths>
+      <syn>
+         <cat>ADVP-TMP</cat>
+         <sem>
+            <pdtb2_relation anno_N="84" freq="2" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>RB</cat>
+         <sem>
+            <pdtb2_relation anno_N="84" freq="2" sense="Temporal.Synchrony" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="84" freq="2" sense="Contingency.Condition.General" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="84" freq="38" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+      <syn>
+         <cat>IN</cat>
+         <sem>
+            <pdtb2_relation anno_N="84" freq="1" sense="Contingency.Condition.Hypothetical" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="84" freq="1" sense="Contingency.Condition.General" />
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="84" freq="38" sense="Temporal.Asynchronous.Succession" />
+         </sem>
+      </syn>
+   </entry>
+</dimlex>

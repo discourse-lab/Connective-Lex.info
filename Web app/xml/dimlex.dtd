@@ -1,0 +1,170 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT dimlex (entry)+>
+<!ATTLIST dimlex
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT entry (orths, ambiguity, focuspart, correlate?, synonyms?, non_conn_reading?, stts, syn+)>
+<!ATTLIST entry
+  xmlns CDATA #FIXED ''
+  edit NMTOKEN #IMPLIED
+  id ID #REQUIRED
+  word CDATA #REQUIRED
+  type CDATA #IMPLIED>
+
+<!ELEMENT orths (orth+)>
+<!ATTLIST orths
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT orth (part+)>
+<!ATTLIST orth
+  xmlns CDATA #FIXED ''
+  canonical (0 | 1) #REQUIRED
+  onr ID #REQUIRED
+  type (cont | discont) #REQUIRED>
+  
+<!ELEMENT part (#PCDATA)>
+<!ATTLIST part
+  xmlns CDATA #FIXED ''
+  type (single | phrasal) #REQUIRED>
+
+<!ELEMENT ambiguity (non_conn, sem_ambiguity)>
+<!ATTLIST ambiguity
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT non_conn (#PCDATA)>
+<!ATTLIST non_conn
+  xmlns CDATA #FIXED ''
+  edit NMTOKEN #IMPLIED
+  freq CDATA #IMPLIED
+  anno_N CDATA #IMPLIED>
+
+<!ELEMENT sem_ambiguity (#PCDATA)>
+<!ATTLIST sem_ambiguity
+  xmlns CDATA #FIXED ''
+  edit NMTOKEN #IMPLIED>
+
+<!ELEMENT focuspart (#PCDATA)>
+<!ATTLIST focuspart
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT correlate ((is_correlate, has_correlate)?, correlatee?)>
+<!ATTLIST correlate
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT is_correlate (#PCDATA)>
+<!ATTLIST is_correlate
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT has_correlate (#PCDATA)>
+<!ATTLIST has_correlate
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT correlatee (corr+)>
+<!ATTLIST correlatee
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT corr (#PCDATA)>
+<!ATTLIST corr
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT synonyms (synonym*)>
+<!ATTLIST synonyms
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT synonym (#PCDATA)>
+<!ATTLIST synonym
+  xmlns CDATA #FIXED ''
+  lexicon NMTOKEN #IMPLIED
+  version CDATA #IMPLIED
+  entry-id NMTOKEN #IMPLIED
+  language CDATA #IMPLIED
+  word CDATA #IMPLIED>
+
+<!ELEMENT non_conn_reading (#PCDATA|example)*>
+<!ATTLIST non_conn_reading
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT stts (example*)>
+<!ATTLIST stts
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT example (#PCDATA)>
+<!ATTLIST example
+  xmlns CDATA #FIXED ''
+  tfreq CDATA #IMPLIED
+  type NMTOKEN #IMPLIED>
+
+<!ELEMENT syn (cat, (integr | praep)?, ordering?, sem+)>
+<!ATTLIST syn
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT cat (#PCDATA)>
+<!ATTLIST cat
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT integr (#PCDATA)>
+<!ATTLIST integr
+  xmlns CDATA #FIXED ''
+  edit NMTOKEN #IMPLIED>
+  
+<!ELEMENT praep (ante, post, circum, case+)>
+<!ATTLIST praep
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT ante (#PCDATA)>
+<!ATTLIST ante
+  xmlns CDATA #FIXED ''
+  edit NMTOKEN #IMPLIED>
+
+<!ELEMENT post (#PCDATA)>
+<!ATTLIST post
+  xmlns CDATA #FIXED ''
+  edit NMTOKEN #IMPLIED>
+  
+<!ELEMENT circum (#PCDATA)>
+<!ATTLIST circum
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT case (#PCDATA)>
+<!ATTLIST case
+  xmlns CDATA #FIXED ''
+  edit NMTOKEN #IMPLIED>
+  
+<!ELEMENT ordering (ante?, post?, insert?, desintegr?)>
+<!ATTLIST ordering
+  xmlns CDATA #FIXED ''
+  edit NMTOKEN #IMPLIED>
+  
+<!ELEMENT insert (#PCDATA)>
+<!ATTLIST insert
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT desintegr (#PCDATA)>
+<!ATTLIST desintegr
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT sem (pdtb3_relation*, pdtb2_relation*, sdrt_relation*, example*, synonyms?)>
+<!ATTLIST sem
+  xmlns CDATA #FIXED ''
+  edit NMTOKEN #IMPLIED>
+
+<!ELEMENT pdtb3_relation EMPTY>
+<!ATTLIST pdtb3_relation
+  xmlns CDATA #FIXED ''
+  sense CDATA #REQUIRED
+  freq CDATA #IMPLIED
+  anno_N CDATA #IMPLIED>
+
+<!ELEMENT pdtb2_relation EMPTY>
+<!ATTLIST pdtb2_relation
+  xmlns CDATA #FIXED ''
+  sense CDATA #REQUIRED
+  freq CDATA #IMPLIED
+  anno_N CDATA #IMPLIED>
+  
+<!ELEMENT sdrt_relation EMPTY>
+<!ATTLIST sdrt_relation
+  xmlns CDATA #FIXED ''
+  sense CDATA #REQUIRED
+  type (sub | coord | unknown) #REQUIRED>

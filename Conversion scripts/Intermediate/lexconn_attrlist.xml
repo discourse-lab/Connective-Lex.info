@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE vals
+  SYSTEM "dimlex.dtd">
+<vals><!--
+        prep    Preposition     avant de
+        csu     Subordinating conjunction
+        adv     Adverb
+        cco     Coordinating conjunction
+        unknown
+        prep-V-ant  Preposition with present participle (Gérondif)   en, tout en
+        -->
+   <cats>
+      <cat name="adv"/>
+      <cat name="cco"/>
+      <cat name="csu"/>
+      <cat name="prep"/>
+      <cat name="prep-V-ant"/>
+      <cat name="unknown"/>
+   </cats>
+   <rels>     
+      alternation
+      background
+      background-inverse
+      concession
+      condition
+      consequence
+      continuation
+      contrast
+      detachment
+      digression
+      elaboration
+      evidence
+      explanation
+      explanation*
+      flashback
+      flashback,explanation
+      goal
+      goal,condition
+      goal,result
+      narration
+      narration,result
+      parallel
+      rephrasing
+      result
+      result*
+      summary
+      temploc
+      unknown
+      violation
+   </rels>
+   <types>
+      <type name="coord"/>
+      <type name="sub"/>
+      <type name="unknown"/>
+   </types>
+   <pos-advs>
+      <pos-adv name="initiale"/>
+      <pos-adv name="interne"/>
+   </pos-advs>
+   <pos-subs>
+      <pos-sub name="antéposée"/>
+      <pos-sub name="postposée"/>
+      <pos-sub name="postposée?"/>
+   </pos-subs>
+</vals>

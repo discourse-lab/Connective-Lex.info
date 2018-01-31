@@ -1,0 +1,138 @@
+
+
+
+**Excel file
+
+Each column contains information on a field of the lexicon.
+
+The first row makes explicit how the field is later on converted to a structured xml file. Each column receives a label that corresponds to the location of the information in the xml structure. The last part of the label needs to be unique. 
+ 
+We follow the main components of DIMLEX: orthographical, syntactic, semantic (no discourse relations in DIMLEX but it is planned) and examples. However, the contents of each component differ due to specificities of each project.
+
+Each row corresponds to a connective/category/meaning association. So, the same word form will occur in two different rows if it has two different categories or two different meanings.
+This is handled differently in DIMLEX (a single entry aggregates different categories and meanings) but it would be complex to render in excel.
+
+List of excel columns (=fields of the lexicon)
+
+A 	word form of the connective
+
+B 	unique numerical id (if you drag the cursor down the column, the number will be automatically attributed)
+---
+C-G 	this set of columns encode orthographical information. We only consider for now one orthographical variant of the connective, but there could be more and this is why the columns are referring to "orth1". To add variants, add the same columns for "orth2". DIMLEX considers orthographical variants. The connective may be continuous or discontinuous. If continuous, only part 1 is filled in. If discontinuous, both part 1 and part 2 are described.
+
+C 	type of the orthographical form: continuous / discontinuous
+The excel file contains an example of continuous and of discontinous connectives.
+
+D	type of part 1 of the connective: single / phrasal 
+
+E 	word form of part 1 of the connective 
+
+F 	type of part 2 of the connective: single / phrasal
+
+G 	word form of part 2 of the connective
+
+---
+
+H 	type of the discourse connective: we distinguish here between primary and secondary connectives
+
+I 	category of the discourse connective: POS category (this is project dependent. We mainly follow LEXCONN: csu (subordinate conjunction), cco (coordinate conjunction), prep (preposition), adv (adverb and adverbial phrases)). 
+
+J 	restrictions over the argument of the connective. Here, restrictions on the mood of the clause introduced by the connective.
+
+K 	restrictions on the tense of the clause introduced by the connective.
+
+L 	modifier of the connective, if any.
+
+M 	another modifier of the connective, if any. We only consider two fields for modifiers, but there could be more. 
+
+---
+
+N 	discourse relation: PDTB3 level 1 
+
+O 	discourse relation: PDTB3 level 2
+
+P 	discourse relation: PDTB3 level 3
+
+---
+
+Q 	English synonym 1 (required). At least 1 synonym for linking purposes.
+
+R 	English synonym 2 (optional)
+
+S 	English synonym 3 (optional)
+
+---
+
+T 	source of example 1
+
+U 	example 1
+
+V 	source of example 2 (optional) 
+
+W 	example 2 (optional)
+
+X 	source of example 3 (optional)
+
+Y 	example 3 (optional)
+
+---
+
+Z 	comments
+
+-------------
+
+The content of the columns described above will fill this xml structure:
+
+<dmarker word="" id="">
+			<orth1 type="">
+				<part1 type=""></part1>
+				<part2 type=""></part2>
+			</orth1>				
+		<syn>
+			<type></type>
+			<cat></cat>	
+			<context>
+				<mood></mood> 
+				<tense></tense>
+			</context>	
+			<modifier1></modifier1>
+			<modifier2></modifier2>
+		</syn>	
+		<sem>
+			<relationl1></relationl1>
+			<relationl2></relationl2>
+			<relationl3></relationl3>
+		</sem>	
+		<ENsynonym>
+			<ENsyn1></ENsyn1>
+			<ENsyn2></ENsyn2>	
+			<ENsyn3></ENsyn3>	
+		</ENsynonym>
+		<examples>
+			<example1 source=""></example1>
+			<example2 source=""></example2>
+			<example3 source=""></example3>			
+		</examples>
+		<comment></comment>
+	</dmarker>"
+
+
+**Perl script
+
+The first part of the perl script starts by listing all the labels (last word) of the columns. 
+
+The second part contains the xml structure above, with each label inserted in the place where the info is to be copied.
+
+When making changes to the excel file, the listing in the first part of the perl script has to reflect the changes.
+And the new fields also have to be copied in the appropriate place of the XML structure, in the second part of the script. 
+ 
+
+**Conversion to xml
+
+- save your excel file as tab delimited text (txt file).
+- check that the encoding of the file is correct. For instance, save the file as utf8, unix LF in the editor TextWrangler.
+- run the perl script:
+perl csv2xml_dimlex.pl file.txt > file.xml
+
+For instance: 
+perl csv2xml_dimlex.pl LDM_sample.txt > LDM_sample.xml

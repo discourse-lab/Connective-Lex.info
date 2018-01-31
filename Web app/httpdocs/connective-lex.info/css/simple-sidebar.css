@@ -1,0 +1,161 @@
+/*!
+ * Start Bootstrap - Simple Sidebar (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+
+/* Toggle Styles */
+
+#wrapper {
+  padding-left: 0;
+  -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
+  transition: all .3s ease;
+}
+
+#wrapper.toggled {
+  padding-left: 22rem;
+}
+
+#sidebar-wrapper {
+  position: fixed;
+  left: 22rem;
+  height: 100%;
+  margin-left: -22rem;
+  overflow-y: auto;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+#wrapper.toggled #sidebar-wrapper {
+  width: 22rem;
+}
+
+#page-content-wrapper {
+  width: 100%;
+  position: absolute;
+  padding: 15px;
+}
+
+#wrapper.toggled #page-content-wrapper {
+  position: absolute;
+  margin-right: -22rem;
+}
+
+#menu-toggle {
+  position: fixed;
+  left: 19rem;
+  top: 50px;
+  border: 2px solid darkseagreen;
+  height: 35px;
+  width: 3rem;
+  padding: 3px 0;
+  font-weight: bold;
+  font-size: 14pt;
+  color: darkseagreen;
+  background-color: white;
+}
+
+#menu-toggle.toggled {
+  left: 0px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  width: 2rem;
+  z-index: 1000;
+}
+
+#togglebutton-content::before {
+  content: "<";
+}
+
+#togglebutton-content.toggled::before {
+  content: ">";
+}
+
+
+/*@media(min-width: 992px) {*/
+
+#wrapper {
+  padding-left: 0;
+}
+
+#wrapper.toggled {
+  padding-left: 22rem;
+}
+
+#sidebar-wrapper {
+  width: 0;
+}
+
+#wrapper.toggled #sidebar-wrapper {
+  width: 22rem;
+}
+
+#page-content-wrapper {
+  padding: 1rem;
+  position: relative;
+}
+
+#wrapper.toggled #page-content-wrapper {
+  position: relative;
+  margin-right: 0;
+}
+
+
+/*}*/
+
+
+/* Sidebar Styles */
+
+.sidebar-nav {
+  position: absolute;
+  top: 0;
+  width: 22rem;
+  margin: 0;
+  padding: 0 0 0 0rem;
+  list-style: none;
+}
+
+.sidebar-section {
+  padding: 0 0 .5rem .5rem;
+  margin-bottom: 0;
+}
+
+.sidebar-subsection {
+  margin: .5rem 0;
+  padding-left: .5rem;
+}
+
+.sidebar-placeholder {
+  display: block;
+  height: 60px;
+}
+
+.sidebar-header {
+  font-size: 13pt;
+  font-weight: normal;
+  background-color: darkseagreen;
+  padding: .5rem;
+  margin-bottom: 0;
+}
+
+.sidebar-subheader {
+  font-size: 12pt;
+  font-weight: normal;
+  background-color: #B1CC74;
+  padding: .5rem;
+  margin-bottom: 0;
+}
+
+.sidebar-subsection {}
+
+.sidebar-placeholder {
+  min-height: 35px;
+}
+
+
+/* } */

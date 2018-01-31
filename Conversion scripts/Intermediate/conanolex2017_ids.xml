@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <entry id="1" orth="aber"/>
+   <entry id="2" orth="abgesehen davon"/>
+   <entry id="3" orth="abgesehen davon , dass"/>
+   <entry id="4" orth="alldieweil"/>
+   <entry id="5" orth="allein"/>
+   <entry id="6" orth="allenfalls"/>
+   <entry id="7" orth="allerdings"/>
+   <entry id="8" orth="als"/>
+   <entry id="9" orth="als ob"/>
+   <entry id="10" orth="als wenn"/>
+   <entry id="11" orth="alsdann"/>
+   <entry id="12" orth="also"/>
+   <entry id="13" orth="andererseits"/>
+   <entry id="14" orth="andernfalls"/>
+   <entry id="15" orth="anders gesagt"/>
+   <entry id="16" orth="angenommen"/>
+   <entry id="17" orth="angenommen , dass"/>
+   <entry id="18" orth="angesichts"/>
+   <entry id="19" orth="angesichts dessen"/>
+   <entry id="20" orth="angesichts dessen , dass"/>
+   <entry id="21" orth="anhand"/>
+   <entry id="22" orth="anlässlich"/>
+   <entry id="23" orth="anschließend"/>
+   <entry id="24" orth="ansonsten"/>
+   <entry id="25" orth="anstatt"/>
+   <entry id="26" orth="anstatt dass"/>
+   <entry id="27" orth="anstelle dessen"/>
+   <entry id="28" orth="auch"/>
+   <entry id="29" orth="aufhin"/>
+   <entry id="30" orth="auf dass"/>
+   <entry id="31" orth="aufgrund"/>
+   <entry id="32" orth="aufgrund dessen"/>
+   <entry id="33" orth="aufgrund dessen , dass"/>
+   <entry id="34" orth="ausgenommen"/>
+   <entry id="35" orth="ausgenommen, dass"/>
+   <entry id="36" orth="außer"/>
+   <entry id="37" orth="außer dass"/>
+   <entry id="38" orth="außer wenn"/>
+   <entry id="39" orth="außerdem"/>
+   <entry id="40" orth="beispielsweise"/>
+   <entry id="41" orth="besonders"/>
+   <entry id="42" orth="bevor"/>
+   <entry id="43" orth="beziehungsweise"/>
+   <entry id="44" orth="bis"/>
+   <entry id="45" orth="bis dass"/>
+   <entry id="46" orth="bloß"/>
+   <entry id="47" orth="bloß dass"/>
+   <entry id="48" orth="da"/>
+   <entry id="49" orth="dabei"/>
+   <entry id="50" orth="dadurch"/>
+   <entry id="51" orth="dadurch , dass"/>
+   <entry id="52" orth="dafür"/>
+   <entry id="53" orth="dafür , dass"/>
+   <entry id="54" orth="dagegen"/>
+   <entry id="55" orth="daher"/>
+   <entry id="56" orth="dahingegen"/>
+   <entry id="57" orth="damit"/>
+   <entry id="58" orth="danach"/>
+   <entry id="59" orth="daneben"/>
+   <entry id="60" orth="dank"/>
+   <entry id="61" orth="dann"/>
+   <entry id="62" orth="darauf"/>
+   <entry id="63" orth="daraufhin"/>
+   <entry id="64" orth="darum"/>
+   <entry id="65" orth="darüber hinaus"/>
+   <entry id="66" orth="das heißt"/>
+   <entry id="67" orth="dass"/>
+   <entry id="68" orth="davon abgesehen"/>
+   <entry id="69" orth="davon abgesehen, dass"/>
+   <entry id="70" orth="davor"/>
+   <entry id="71" orth="dazu"/>
+   <entry id="72" orth="dazu, dass"/>
+   <entry id="73" orth="dementgegen"/>
+   <entry id="74" orth="dementsprechend"/>
+   <entry id="75" orth="demgegenüber"/>
+   <entry id="76" orth="demgemäß"/>
+   <entry id="77" orth="demnach"/>
+   <entry id="78" orth="demzufolge"/>
+   <entry id="79" orth="denn"/>
+   <entry id="80" orth="dennoch"/>
+   <entry id="81" orth="derweilen"/>
+   <entry id="82" orth="des Weiteren"/>
+   <entry id="83" orth="desgleichen"/>
+   <entry id="84" orth="deshalb"/>
+   <entry id="85" orth="dessen ungeachtet"/>
+   <entry id="86" orth="deswegen"/>
+   <entry id="87" orth="doch"/>
+   <entry id="88" orth="drum"/>
+   <entry id="89" orth="durch"/>
+   <entry id="90" orth="eben"/>
+   <entry id="91" orth="ebenfalls"/>
+   <entry id="92" orth="ebenso wenig"/>
+   <entry id="93" orth="eh"/>
+   <entry id="94" orth="ehe"/>
+   <entry id="95" orth="einerseits"/>
+   <entry id="96" orth="endlich"/>
+   <entry id="97" orth="entgegen"/>
+   <entry id="98" orth="entsprechend"/>
+   <entry id="99" orth="entwederoder"/>
+   <entry id="100" orth="ergo"/>
+   <entry id="101" orth="erstens"/>
+   <entry id="102" orth="erst mal"/>
+   <entry id="103" orth="es sei denn"/>
+   <entry id="104" orth="falls"/>
+   <entry id="105" orth="ferner"/>
+   <entry id="106" orth="folgerichtig"/>
+   <entry id="107" orth="folglich"/>
+   <entry id="108" orth="freilich"/>
+   <entry id="109" orth="für"/>
+   <entry id="110" orth="für den Fall, dass"/>
+   <entry id="111" orth="gemäß"/>
+   <entry id="112" orth="genauer gesagt"/>
+   <entry id="113" orth="geschweige denn"/>
+   <entry id="114" orth="gesetzt"/>
+   <entry id="115" orth="gesetzt, dass"/>
+   <entry id="116" orth="gleichermaßen"/>
+   <entry id="117" orth="gleichfalls"/>
+   <entry id="118" orth="gleichwohl"/>
+   <entry id="119" orth="gleichzeitig"/>
+   <entry id="120" orth="halber"/>
+   <entry id="121" orth="halt"/>
+   <entry id="122" orth="hierauf"/>
+   <entry id="123" orth="hieraufhin"/>
+   <entry id="124" orth="hierdurch"/>
+   <entry id="125" orth="hierfür"/>
+   <entry id="126" orth="hiermit"/>
+   <entry id="127" orth="hiernach"/>
+   <entry id="128" orth="hierzu"/>
+   <entry id="129" orth="hingegen"/>
+   <entry id="130" orth="hinterher"/>
+   <entry id="131" orth="höchstens"/>
+   <entry id="132" orth="immerhin"/>
+   <entry id="133" orth="im Übrigen"/>
+   <entry id="134" orth="in Anbetracht dessen"/>
+   <entry id="135" orth="in Anbetracht dessen, dass"/>
+   <entry id="136" orth="indem"/>
+   <entry id="137" orth="indessen"/>
+   <entry id="138" orth="infolge"/>
+   <entry id="139" orth="infolgedessen"/>
+   <entry id="140" orth="insbesondere"/>
+   <entry id="141" orth="insofern"/>
+   <entry id="142" orth="insofernals"/>
+   <entry id="143" orth="insoweit"/>
+   <entry id="144" orth="inzwischen"/>
+   <entry id="145" orth="jedoch"/>
+   <entry id="146" orth="je nachdem"/>
+   <entry id="147" orth="kaum"/>
+   <entry id="148" orth="kaum dass"/>
+   <entry id="149" orth="konsequenterweise"/>
+   <entry id="150" orth="kraft"/>
+   <entry id="151" orth="kurz gesagt"/>
+   <entry id="152" orth="mal"/>
+   <entry id="153" orth="mangels"/>
+   <entry id="154" orth="mit anderen Worten"/>
+   <entry id="155" orth="mithin"/>
+   <entry id="156" orth="nachdem"/>
+   <entry id="157" orth="nachher"/>
+   <entry id="158" orth="nebenbei"/>
+   <entry id="159" orth="nebenbei gesagt"/>
+   <entry id="160" orth="nebenher"/>
+   <entry id="161" orth="nicht umsonst"/>
+   <entry id="162" orth="nichtsdestominder"/>
+   <entry id="163" orth="nichtsdestoweniger"/>
+   <entry id="164" orth="noch"/>
+   <entry id="165" orth="nun einmal"/>
+   <entry id="166" orth="nur"/>
+   <entry id="167" orth="nur dass"/>
+   <entry id="168" orth="nämlich"/>
+   <entry id="169" orth="ob"/>
+   <entry id="170" orth="obendrein"/>
+   <entry id="171" orth="obgleich"/>
+   <entry id="172" orth="obschon"/>
+   <entry id="173" orth="obwohl"/>
+   <entry id="174" orth="obzwar"/>
+   <entry id="175" orth="oder"/>
+   <entry id="176" orth="ohne dass"/>
+   <entry id="177" orth="ohnedies"/>
+   <entry id="178" orth="ohnehin"/>
+   <entry id="179" orth="qua"/>
+   <entry id="180" orth="schließlich"/>
+   <entry id="181" orth="schlussendlich"/>
+   <entry id="182" orth="sei es"/>
+   <entry id="183" orth="seit"/>
+   <entry id="184" orth="seitdem"/>
+   <entry id="185" orth="seither"/>
+   <entry id="186" orth="sintemal"/>
+   <entry id="187" orth="so...dass"/>
+   <entry id="188" orth="so oder so"/>
+   <entry id="189" orth="sobald"/>
+   <entry id="190" orth="sodann"/>
+   <entry id="191" orth="sodass"/>
+   <entry id="192" orth="sofern"/>
+   <entry id="193" orth="sogleich"/>
+   <entry id="194" orth="solange"/>
+   <entry id="195" orth="solcherartdass"/>
+   <entry id="196" orth="somit"/>
+   <entry id="197" orth="sonach"/>
+   <entry id="198" orth="sondern"/>
+   <entry id="199" orth="sonst"/>
+   <entry id="200" orth="sooft"/>
+   <entry id="201" orth="sosehr"/>
+   <entry id="202" orth="soweit"/>
+   <entry id="203" orth="sowie"/>
+   <entry id="204" orth="sowieso"/>
+   <entry id="205" orth="sowohlals auch"/>
+   <entry id="206" orth="später"/>
+   <entry id="207" orth="sprich"/>
+   <entry id="208" orth="statt"/>
+   <entry id="209" orth="stattdessen"/>
+   <entry id="210" orth="teilsteils"/>
+   <entry id="211" orth="trotz"/>
+   <entry id="212" orth="trotzdem"/>
+   <entry id="213" orth="umwillen"/>
+   <entry id="214" orth="überdies"/>
+   <entry id="215" orth="überhaupt"/>
+   <entry id="216" orth="um so mehr"/>
+   <entry id="217" orth="umsoals"/>
+   <entry id="218" orth="umso mehrals"/>
+   <entry id="219" orth="umso wenigerals"/>
+   <entry id="220" orth="unbeschadet dessen"/>
+   <entry id="221" orth="unbeschadet dessen, dass"/>
+   <entry id="222" orth="und"/>
+   <entry id="223" orth="und zwar"/>
+   <entry id="224" orth="ungeachtet dessen, dass"/>
+   <entry id="225" orth="unterdessen"/>
+   <entry id="226" orth="unterstellt, dass"/>
+   <entry id="227" orth="vermöge"/>
+   <entry id="228" orth="vielmehr"/>
+   <entry id="229" orth="vonwegen"/>
+   <entry id="230" orth="von daher"/>
+   <entry id="231" orth="vorausgesetzt"/>
+   <entry id="232" orth="vorausgesetzt, dass"/>
+   <entry id="233" orth="vorbehaltlich dessen"/>
+   <entry id="234" orth="vorbehaltlich dessen, dass"/>
+   <entry id="235" orth="vorher"/>
+   <entry id="236" orth="warum"/>
+   <entry id="237" orth="wedernoch"/>
+   <entry id="238" orth="wegen"/>
+   <entry id="239" orth="weil"/>
+   <entry id="240" orth="weiterhin"/>
+   <entry id="241" orth="wenn"/>
+   <entry id="242" orth="wennauch"/>
+   <entry id="243" orth="wenngleich"/>
+   <entry id="244" orth="weshalb"/>
+   <entry id="245" orth="weswegen"/>
+   <entry id="246" orth="wie"/>
+   <entry id="247" orth="wiederum"/>
+   <entry id="248" orth="wo"/>
+   <entry id="249" orth="wobei"/>
+   <entry id="250" orth="wodurch"/>
+   <entry id="251" orth="wogegen"/>
+   <entry id="252" orth="wohingegen"/>
+   <entry id="253" orth="womit"/>
+   <entry id="254" orth="wonach"/>
+   <entry id="255" orth="worauf"/>
+   <entry id="256" orth="woraufhin"/>
+   <entry id="257" orth="während"/>
+   <entry id="258" orth="währenddessen"/>
+   <entry id="259" orth="zuals dass"/>
+   <entry id="260" orth="zudem"/>
+   <entry id="261" orth="zuerst"/>
+   <entry id="262" orth="zugleich"/>
+   <entry id="263" orth="zu guter Letzt"/>
+   <entry id="264" orth="zuletzt"/>
+   <entry id="265" orth="zum anderen"/>
+   <entry id="266" orth="zum Beispiel"/>
+   <entry id="267" orth="zum einen"/>
+   <entry id="268" orth="zumal"/>
+   <entry id="269" orth="zunächst"/>
+   <entry id="270" orth="zusätzlich"/>
+   <entry id="271" orth="zuvor"/>
+   <entry id="272" orth="zwar"/>
+   <entry id="273" orth="zwecks"/>
+   <entry id="274" orth="zweitens"/>
+</map>

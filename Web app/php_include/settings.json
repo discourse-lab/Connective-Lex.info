@@ -1,0 +1,13 @@
+{
+  "//": "Path relative to script directory (where filelist.php/getfile.php are) containing XML files.",
+  "xmlDirectory": "../../xml",
+
+  "//": "Automatically convert new XML files to JSON when a file listing is requested.",
+  "autoConvert": true,
+
+  "//": "Use whitespace for JSON output to increase readability, but also size.",
+  "prettyPrintJson": false,
+
+  "//": "Using the 'force' flag during file listing forces a reparse of all XML files.",
+  "allowForceReparse": true
+}
