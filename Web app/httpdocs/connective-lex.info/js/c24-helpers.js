@@ -93,12 +93,18 @@ class LexiconPreprocessor {
   PreprocessEntry(entry, ientry, aentry) {
     entry['lexId'] = this.lexId;
     let metadata = this.metadata[this.lexId];
+    if (!metadata.color) {
+      metadata.color = '#' + (metadata.lexiconName.hashCode() & 0xFFFFFF).toString(16).substring(0, 6);
+    }
+    entry['color'] = metadata.color;
     entry['lexName'] = metadata.lexiconName;
     entry['posTagset'] = metadata.parseInfo.posTagset;
     entry['senseTagset'] = metadata.parseInfo.senseTagset;
+    entry['language'] = metadata.languageEnglish;
 
     this.CreatePathIfNotExists(entry, 'synonyms.synonym');
     entry.synonyms.synonym = entry.synonyms.synonym.filter(elem => elem.t);
+    entry['hasSynonyms'] = this.HasSynonyms(entry);
 
     this.CreatePathIfNotExists(entry, 'stts.example');
     entry.stts.example = entry.stts.example.filter(elem => elem.t);
@@ -227,6 +233,28 @@ class LexiconPreprocessor {
       resultSems.push(newSem);
     }
   }
+
+  HasSynonyms(entry) {
+    if (entry.synonyms && entry.synonyms.synonym && entry.synonyms.synonym.length > 0) {
+      return true;
+    }
+
+    for (let i in entry.syn) {
+      let syni = entry.syn[i];
+      if (syni.synonyms && syni.synonyms.synonym && syni.synonyms.synonym.length > 0) {
+        return true;
+      }
+
+      for (let j in syni.sem) {
+        let semj = syni.sem[j];
+        if (semj.synonyms && semj.synonyms.synonym && semj.synonyms.synonym.length > 0) {
+          return true;
+        }
+      }
+    }
+
+    return false;
+  }
 }
 
 /*********************************************************************************************************
@@ -241,13 +269,9 @@ class LexiconPreprocessor {
 class ResultsFilter {
 
   /**
-   * A new ResultsFilter instance should be constructed for each search.
-   * @param {number} totalSize - The total number of entries, used for calculating progress during the search.
+   * @constructor
    */
-  constructor(totalSize) {
-    this.totalSize = totalSize;
-    this.count = 0;
-  }
+  constructor() {}
 
   /**
    * Test if a single entry fits the search criteria.
@@ -258,7 +282,6 @@ class ResultsFilter {
    * @return {boolean} - true if it fits, else false
    */
   TestEntry(entry, ientry, aentry) {
-    ShowProgress(100 * ++this.count / this.totalSize);
     try {
       return (
         this.TestEntryText(entry, ientry, aentry) &&

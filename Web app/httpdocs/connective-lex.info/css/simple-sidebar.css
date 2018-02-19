@@ -38,7 +38,7 @@
 #page-content-wrapper {
   width: 100%;
   position: absolute;
-  padding: 15px;
+  padding: 15px 0;
 }
 
 #wrapper.toggled #page-content-wrapper {
@@ -49,7 +49,7 @@
 #menu-toggle {
   position: fixed;
   left: 19rem;
-  top: 50px;
+  top: 48px;
   border: 2px solid darkseagreen;
   height: 35px;
   width: 3rem;
@@ -93,11 +93,6 @@
 
 #wrapper.toggled #sidebar-wrapper {
   width: 22rem;
-}
-
-#page-content-wrapper {
-  padding: 1rem;
-  position: relative;
 }
 
 #wrapper.toggled #page-content-wrapper {

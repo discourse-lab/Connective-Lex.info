@@ -20,6 +20,8 @@ function InitApp() {
   gListService = new LexListService();
   gFileService = new LexFileService();
   gLocationService = new LocationDataService();
+  gRenderService = new EntryRenderService();
+
   gSelectorComponent = new LexSelectorComponent();
   gOptionsComponent = new OptionsComponent();
   gResultsComponent = new ResultsComponent();
@@ -66,18 +68,21 @@ function ShowErrorMessage(ownMessage, systemMessage) {
  */
 function ShowProgress(percentComplete) {
   let progress = $('#progress');
-  let visible = progress.is(':visible');
-  if (percentComplete >= 100) {
+  let progressbar = $('#progressbar');
+
+  let visible = true; // progress.is(':visible');
+  if (percentComplete > 100) {
     percentComplete = 100;
   }
-  $('#progressbar').width(`${percentComplete}%`);
+
+  progressbar.width(`${percentComplete}%`);
+  //document.location.hash = `${percentComplete}%`;
   if (percentComplete >= 100 && visible) {
     //$('#progress').fadeOut();
     return;
-  }
-  if (percentComplete < 100) {
+  } else if (percentComplete < 100) {
     if (!visible) {
-      $('#progress').show();
+      progress.show();
     }
   }
 }
@@ -142,6 +147,19 @@ function InitGui() {
       }
     });
   };
+
+  // https://stackoverflow.com/questions/7616461/generate-a-hash-from-string-in-javascript-jquery
+  String.prototype.hashCode = function() {
+    var hash = 0,
+      i, chr;
+    if (this.length === 0) return hash;
+    for (i = 0; i < this.length; i++) {
+      chr = this.charCodeAt(i);
+      hash = ((hash << 5) - hash) + chr;
+      hash |= 0; // Convert to 32bit integer
+    }
+    return hash;
+  };
 }
 
 /******************************************
@@ -154,6 +172,7 @@ function InitGui() {
 let gListService;
 let gFileService;
 let gLocationService;
+let gRenderService;
 let gSelectorComponent;
 let gOptionsComponent;
 let gResultsComponent;

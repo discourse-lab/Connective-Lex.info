@@ -497,6 +497,13 @@ class ResultsComponent {
 
     /** Array of active search timeout handles. */
     this.activeSearches = [];
+
+    /** The helper object for checking if an entry matches the filter settings. */
+    this.resultsFilter = new ResultsFilter();
+
+    /** Variables needed to keep track of current search progress. */
+    this.totalSize = 0;
+    this.processedCount = 0;
   }
 
   /**
@@ -540,13 +547,18 @@ class ResultsComponent {
    * This ensures that the search will never make the GUI irresponsive.
    */
   ExecuteQuery() {
-    //setTimeout(() => this.SetResults([]), 0);
-    let tempResults = [];
+    ShowProgress(0);
+
     let lexIds = Object.keys(gSelectorComponent.lex);
-    let totalSize = lexIds.map(lexId => gSelectorComponent.lex[lexId].entry.length).reduce((acc, val) => acc + val,
+    this.totalSize = lexIds.map(lexId => gSelectorComponent.lex[lexId].entry.length).reduce(
+      (acc, val) => acc + val,
       0);
-    let resultsFilter = new ResultsFilter(totalSize);
-    let processAtOnce = 20;
+
+    setTimeout(() => this.SetResults([]), 0);
+
+    let tempResults = [];
+    this.processedCount = 0;
+    const processAtOnce = 20;
 
     this.activeSearches.forEach(timeoutId => clearTimeout(timeoutId));
     this.activeSearches.length = 0;
@@ -555,6 +567,7 @@ class ResultsComponent {
        by processing a slice of entries and then enqueuing the next slice to be processed so that
        the browser has time to process user events and render the GUI between slices. */
     let processingFunction = (lexIdIndex, entryIndex) => {
+      ShowProgress(100 * this.processedCount / this.totalSize);
       if (lexIdIndex >= lexIds.length) {
         this.activeSearches.push(setTimeout(() => this.SetResults(tempResults), 0));
         return;
@@ -571,19 +584,22 @@ class ResultsComponent {
 
       for (let i = 0; i < processAtOnce; ++i, ++entryIndex) {
         if (entryIndex >= entries.length) {
-          this.activeSearches.push(setTimeout(processingFunction, 0, ++lexIdIndex, 0));
+          this.activeSearches.push(setTimeout(processingFunction.bind(this), 0, ++lexIdIndex, 0));
           return;
         }
-
-        if (resultsFilter.TestEntry(entries[entryIndex])) {
+        ++this.processedCount;
+        if (this.resultsFilter.TestEntry(entries[entryIndex])) {
+          if (!entries[entryIndex].html) {
+            entries[entryIndex].html = gRenderService.RenderEntry(entries[entryIndex]);
+          }
           tempResults.push(entries[entryIndex]);
         }
       }
 
-      this.activeSearches.push(setTimeout(processingFunction, 0, lexIdIndex, entryIndex));
+      this.activeSearches.push(setTimeout(processingFunction.bind(this), 0, lexIdIndex, entryIndex));
     };
 
-    this.activeSearches.push(setTimeout(processingFunction, 0, 0, 0));
+    this.activeSearches.push(setTimeout(processingFunction.bind(this), 0, 0, 0));
   }
 
   /**
@@ -595,6 +611,9 @@ class ResultsComponent {
     if (gSettings.useBootstrapTooltips) {
       $(() => $('[data-toggle="tooltip"]').tooltip({ html: true })); // Can be disabled via options because of bug in Bootstrap tooltips
     }
+    let totalSize = this.totalSize;
+    this.totalSize = 0;
+    $.observable(this).setProperty('totalSize', totalSize);
     setTimeout(() => {
       let newResultCounts = {};
       for (let i in this.results) {

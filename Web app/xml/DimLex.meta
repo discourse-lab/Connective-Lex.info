@@ -26,8 +26,12 @@
     ],
     "publications": [
       {
-         "cite": "Manfred Stede. \"DiMLex: A Lexical Approach to Discourse Markers\" In: A. Lenci, V. Di Tomaso (eds.): Exploring the Lexicon - Theory and Computation. Alessandria (Italy): Edizioni dell'Orso, 2002.",
-         "url": "http://www.ling.uni-potsdam.de/~stede/Papers/lenci02.pdf"
+        "cite": "Manfred Stede. \"DiMLex: A Lexical Approach to Discourse Markers\" In: A. Lenci, V. Di Tomaso (eds.): Exploring the Lexicon - Theory and Computation. Alessandria (Italy): Edizioni dell'Orso, 2002.",
+        "url": "http://www.ling.uni-potsdam.de/~stede/Papers/lenci02.pdf"
+      },
+      {
+        "cite": "Tatjana Scheffler and Manfred Stede. \"Adding Semantic Relations to a Large-Coverage Connective Lexicon of German.\" Proceedings of LREC. Portorož, Slovenia. 2016.",
+        "url": "http://www.lrec-conf.org/proceedings/lrec2016/pdf/274_Paper.pdf"
       }
     ]
   }

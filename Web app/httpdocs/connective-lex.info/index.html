@@ -9,24 +9,24 @@
   <title>Connective-Lex.info</title>
 
   <!-- Bootstrap 4 layouting framework. https://v4-alpha.getbootstrap.com/ -->
-  <link rel="stylesheet" href="lib/bootstrap.min.css" type="text/css">
+  <link rel="stylesheet" href="lib/bootstrap.min.css?20170919" type="text/css">
 
   <!-- Simple Sidebar for Bootstrap. http://startbootstrap.com/  -->
-  <link rel="stylesheet" href="css/simple-sidebar.css" type="text/css">
+  <link rel="stylesheet" href="css/simple-sidebar.css?20170919" type="text/css">
 
   <!-- Connective-Lex.info stylesheet. -->
-  <link rel="stylesheet" href="css/c24.css" type="text/css">
+  <link rel="stylesheet" href="css/c24.css?20170919" type="text/css">
 </head>
 
 <body>
   <!-- jQuery framework for DOM manipulation, Ajax, and some object utilities. https://jquery.com/ -->
-  <script src="lib/jquery-3.2.1.min.js"></script>
+  <script src="lib/jquery-3.2.1.min.js?20170919"></script>
 
-  <!-- Tether library, only required for Bootstrap tooltips & selection box. http://tether.io/ -->
-  <script src="lib/tether.min.js"></script>
+  <!-- Popper library, only required for Bootstrap tooltips. https://popper.js.org/ -->
+  <script src="lib/popper.min.js?20170919"></script>
 
   <!-- Bootstrap 4 controls libary. Addendum to the stylesheet above. -->
-  <script src="lib/bootstrap.min.js"></script>
+  <script src="lib/bootstrap.min.js?20170919"></script>
 
   <!-- Lodash library for object manipulation. -->
   <script src="lib/lodash.min.js"></script>
@@ -39,11 +39,11 @@
   <script src="lib/lz-string.js"></script>
 
   <!-- Connective-Lex.info app. -->
-  <script src="js/c24-settings.js"></script>
-  <script src="js/c24-services.js"></script>
-  <script src="js/c24-helpers.js"></script>
-  <script src="js/c24-components.js"></script>
-  <script src="js/c24.js"></script>
+  <script src="js/c24-settings.js?20170919"></script>
+  <script src="js/c24-services.js?20170919"></script>
+  <script src="js/c24-helpers.js?20170919"></script>
+  <script src="js/c24-components.js?20170919"></script>
+  <script src="js/c24.js?20170919"></script>
 
   <!--
     About dialog. This modal dialog is displayed when the user clicks 'About / Imprint' in the header bar.
@@ -58,9 +58,14 @@
         </div>
         <div class="modal-body">
           <p>
-            This webapp was developed by Felix Dombek as part of a Bachelor thesis under supervision of Prof. Dr. Manfred Stede and Dr.
-            Tatjana Scheffler at Universität Potsdam, Department of Linguistics, 2017.
+            This web app was developed by Felix Dombek as part of a bachelor thesis in computational linguistics under supervision of
+            Prof. Dr. Manfred Stede and Dr. Tatjana Scheffler at <a target="_blank" href="http://www.ling.uni-potsdam.de/en/">Department of Linguistics</a>,
+            Universität Potsdam, 2017.
           </p>
+		  <p>
+		    The work on synchronizing the various lexicons originated as part of the activity of the 
+			<a target="_blank" href="http://textlink.ii.metu.edu.tr/">TextLink</a> COST action (2014–2018).
+		  </p>
           <hr>
           <h4>
             Imprint
@@ -132,7 +137,7 @@
               <p>
                 This webapp was created at Universität Potsdam to integrate their own <em>DiMLex</em> lexicon for German
                 connectors and similar lexicons for other languages created at other universities. Each lexicon has a few
-                hundred entries; each entry contains a connective and associated linguistic information, such as syntactical
+                hundred entries; each entry contains a connective and associated linguistic information, such as syntactic
                 categories (word classes), discourse relations (semantic senses), synonyms and/or examples of their usage,
                 among others.
               </p>
@@ -153,9 +158,6 @@
                     entries which contain this word. In the dropdown menu next to the text field, you can select where this
                     word may occur in an entry:
                     <ul>
-                      <li><strong>All:</strong> Display all results which contain the filter word in their connective, synonym
-                        list, or example list.
-                      </li>
                       <li><strong>Word (default):</strong> Only display results whose connective contains the filter word.
                       </li>
                       <li><strong>Word + Synonyms:</strong> Only display results whose connective or synonym list contains the
@@ -164,16 +166,19 @@
                       <li><strong>Word + Examples:</strong> Only display results whose connective or example list contains the
                         filter word.
                       </li>
+                      <li><strong>All:</strong> Display all results which contain the filter word in their connective, synonym
+                        list, or example list.
+                      </li>
                     </ul>
                   </li>
-                  <li><strong>Syntactical Category:</strong> Select one or more word classes to filter by. Hover the mouse over
+                  <li><strong>Syntactic Category:</strong> Select one or more word classes to filter by. Hover the mouse over
                     an abbreviation to see which word class it stands for. If none of the checkboxes are selected, the behaviour
                     is the same as if all of them were selected, i.e. connectors of all word classes are displayed in the
                     result list.
                   </li>
-                  <li><strong>Discourse Relation:</strong> Select one or more semantic senses to filter by. As with the syntactical
-                    category, the behaviour if no senses are selected is the same as if all senses were selected. The set
-                    of discourse relations we use is the <em>Penn Discourse Treebank 3</em> (PDTB3) tagset:<br>
+                  <li><strong>Discourse Relation (PDTB3):</strong> Select one or more semantic senses to filter by. As with the
+                    syntactical category, the behaviour if no senses are selected is the same as if all senses were selected.
+                    The set of discourse relations we use is the <em>Penn Discourse Treebank 3</em> (PDTB3) tagset:<br>
                     <a href="http://www.aclweb.org/anthology/W16-1704">A discourse-annotated corpus of conjoined VPs. 
                       Bonnie Webber, Rashmi Prasad, Alan Lee, and Aravind Joshi. 
                       Proceedings of the 10th Linguistic Annotation Workshop, ACL, Berlin, Germany. 2016.</a>
@@ -343,7 +348,7 @@
         </label>
         </span>
         <span class="col-3">
-          <a href="void(0)" onClick="ShowMetadata('{{:key}}');" data-toggle="modal" data-target="#metadataDialog" 
+          <a href="javascript:void(0)" onClick="ShowMetadata('{{:key}}');" data-toggle="modal" data-target="#metadataDialog" 
           class="aboutlink c24-darklink-color">about</a>
         </span>
       </div>
@@ -392,7 +397,7 @@
             </div>
           </div>
         </div>
-        <h3 class="sidebar-subheader c24-sidebarsubheader-bg">Syntactical Category</h3>
+        <h3 class="sidebar-subheader c24-sidebarsubheader-bg">Syntactic Category</h3>
         <div class="sidebar-subsection syn">
           <label data-toggle="tooltip" data-placement="right" title="Coordinating conjunction">
             <input type="checkbox" data-link="syn.cco" value="syn.cco"> cco </label>
@@ -407,7 +412,7 @@
         </div>
       </div>
       <div>
-        <h3 class="sidebar-subheader c24-sidebarsubheader-bg">Discourse Relation</h3>
+        <h3 class="sidebar-subheader c24-sidebarsubheader-bg">Discourse Relation (PDTB3)</h3>
         <div class="sidebar-subsection sense" id="sense-subsection">
           <label><input type="checkbox" data-link="sense.comparison.all" value="sense.comparison.all"> COMPARISON </label>
           <blockquote class="sense-subtypes">
@@ -501,36 +506,33 @@
     conform to the search criteria.
   -->
   <script id="resultListTemplate" type="text/html">
-    {^{if results.length === 0}}
+    {^{if totalSize === 0}}
     <div class="row">
       <div class="col-12">
-        <div class="card">
-          <div class="card-block flex-column no-results-text">
-            No results
+        <div class="jumbotron c24-lighter-bg">
+          <div class="lead no-results-text">
+            Welcome to Connective-Lex.info. Start by selecting one or more lexicons on the left!
           </div>
         </div>
       </div>
     </div>
     {{else}}
-    <div class="row">
-      <div class="col-12">
-        <ul class="list-group mb-4">
-          <li class="list-group-item flex-column c24-darker-bg row">
-            <div class="col-12 result-header-text">
-              Found <strong class="result-header-number"> {^{: results.length}} </strong> matching results. &emsp; {^{if
-              results.length > 0}}
-              <span class="result-header-number">
+    <ul class="list-group mb-4">
+      <li class="list-group-item flex-column c24-darker-bg">
+        <div class="col-12 result-header-text pl-0">
+          Found <strong class="result-header-number"> {^{: results.length}} </strong> matching results. &emsp; {^{if results.length
+          > 0}}
+          <span class="result-header-number">
                 {^{props resultCounts}}
                 <a href="javascript:void(0)" onclick="document.documentElement.scrollTop = document.body.scrollTop = $('a[name=\'{{:key}}\']').offset().top - 70; return false;" class="c24-darkerlink-color">
                   {{:key}}</a>: 
                   <strong>{{:prop}}</strong><span class="sep-not-if-last"> &ensp; </span>{{/props}}
-              </span> {{/if}}
-            </div>
-          </li>
-          {^{for results tmpl="#resultListItemTemplate" /}}
-        </ul>
-      </div>
-    </div>
+          </span> {{/if}}
+        </div>
+      </li>
+      {^{for results tmpl="#resultListItemRenderedTemplate" /}}
+    </ul>
+
     {{/if}}
   </script>
 
@@ -538,45 +540,47 @@
     Result item template. Renders a single search result within the Result list template.
   -->
   <script id="resultListItemTemplate" type="text/html">
-    {{include ~hasSynonymsVar=~hasSynonyms(#data)}}
-    <li class="list-group-item row c24-lighter-bg" id="entry{{:lexId}}{{:id}}">
+    <li class="result list-group-item c24-lighter-bg container-fluid" id="entry{{:lexId}}{{:id}}" data-link="
+      {on 'mouseover' '.main-word, .synonym, .example' onMouseOverTranslatableElement}
+    ">
       <!--
-        Head part: word, 'Veriants' and 'Synonyms' buttons, lexicon name and id.
+        Head part: word, 'Veriants' and 'Synonyms' buttons, language, lexicon name and id.
       -->
-      <div class="col-4">
-        <strong class="main-word"><a name="{{:lexName}}">{{:word}}</a></strong>
-        <!---->
-        {{if type}} &emsp;
-        <small class="text-muted conn-type" title="
+      <div class="row">
+        <div class="col-4">
+          <strong class="main-word"><a name="{{:lexName}}">{{:word}}</a></strong>
+          <!---->
+          {{if type}} &emsp;
+          <small class="text-muted conn-type" title="
         {{if type==='primary connective'}}Fully grammaticalized connective, usually a single word.
         {{else type==='secondary connective'}}A short phrase always used as a connective.
         {{else type==='altlex'}}Alternative lexicalization sometimes used in place of a real connective.{{/if}}
         ">{{:type}}</small> {{/if}}
-        <!---->
-        {{if focuspart && focuspart.t}} &emsp;
-        <small class="text-muted focuspart" title="Can be a focus particle.">focus</small>{{/if}}
-      </div>
-      <div class="col">
-        <button class="btn btn-block btn-sm c24-darker-bg result-button" title="Show variants" data-toggle="collapse" data-target="#variants{{:lexId}}{{:id}}"
-          data-parent="#entry{{:lexId}}{{:id}}">
+          <!---->
+          {{if focuspart && focuspart.t}} &emsp;
+          <small class="text-muted focuspart" title="Can be a focus particle.">focus</small>{{/if}}
+        </div>
+        <div class="col">
+          <button class="btn btn-block btn-sm c24-darker-bg result-button" title="Show variants" data-toggle="collapse" data-target="#variants{{:lexId}}{{:id}}"
+            data-parent="#entry{{:lexId}}{{:id}}">
           Variants
         </button>
-      </div>
-      <div class="col">
-        <button class="btn btn-block btn-sm c24-darker-bg result-button" title="Show synonyms" data-toggle="collapse" data-target="#synonyms{{:lexId}}{{:id}}"
-          data-parent="#entry{{:lexId}}{{:id}}" {{if !~hasSynonymsVar}}disabled{{/if}}>
+        </div>
+        <div class="col">
+          <button class="btn btn-block btn-sm c24-darker-bg result-button" title="Show synonyms" data-toggle="collapse" data-target="#synonyms{{:lexId}}{{:id}}"
+            data-parent="#entry{{:lexId}}{{:id}}" {{if !hasSynonyms}}disabled{{/if}}>
           Synonyms
         </button>
+        </div>
+        <div class="col-5 d-flex justify-content-end">
+          <small class="ml-auto text-muted word-source-lex">{{:language}} &ndash; {{:lexName}} {{:id}}</small>
+        </div>
       </div>
-      <div class="col-5 d-flex justify-content-end">
-        <small class="ml-auto text-muted word-source-lex">{{:lexName}} {{:id}} </small>
-      </div>
-
       <!--
         Collapsible part: Variants and synonyms which are hidden by default, 
         but can be toggled into view with the buttons above.
       -->
-      <div class="col-12 collapse" id="variants{{:lexId}}{{:id}}" data-parent="#entry{{:lexId}}{{:id}}">
+      <div class="col-12 collapse" id="variants{{:lexId}}{{:id}}" data-parent="#entry{{:lexId}}{{:id}}" aria-expanded="false">
         <div class="card m-2 p-2">
           {{for orths.orth}}
           <div>
@@ -587,13 +591,13 @@
             </span>
             <!---->
             {{if canonical}}
-            <span class="badge badge-default canonical-badge">canonical</span>{{/if}}
+            <span class="badge badge-secondary canonical-badge ml-2">canonical</span>{{/if}}
           </div> {{/for}}
         </div>
       </div>
 
-      {{if ~hasSynonymsVar}}
-      <div class="col-12 collapse" id="synonyms{{:lexId}}{{:id}}" data-parent="#entry{{:lexId}}{{:id}}">
+      {{if hasSynonyms}}
+      <div class="col-12 collapse" id="synonyms{{:lexId}}{{:id}}" data-parent="#entry{{:lexId}}{{:id}}" aria-expanded="false">
         <div class="card m-2 p-2">
           <span class="synonyms-header">Synonyms:</span>
           <!---->
@@ -621,7 +625,7 @@
         can be expressed by the connective when it has this word class. Each word class and/or semantic
         relation can have associated examples which are also displayed here.
       -->
-      {{include ~result=~root.results[#parent.getIndex()]}}
+      {{include ~result=#data}}
       <div class="col-12">
         {{for syn}}
         <div class="card m-2 p-2">
@@ -700,22 +704,27 @@
         {{/if}}
       </div>
     </li>
-    {{/include}}
+  </script>
+
+  <script id="resultListItemRenderedTemplate" type="text/html">
+    {{:html}}
   </script>
 
   <!--
     The static navbar, i.e. page header.
   -->
-  <nav class="navbar navbar-toggleable-xl navbar-inverse fixed-top c24-main-bg">
+  <nav class="navbar navbar-expand navbar-dark fixed-top c24-main-bg">
     <span class="navbar-brand navbar-inverse"><a class="main-title" href="http://connective-lex.info">Connective-Lex.info</a></span>
-    <ul class="navbar-nav collapse navbar-collapse">
-      <li class="nav-item active">
-        <a class="nav-link" href="#" data-toggle="modal" data-target="#aboutDialog">About / Imprint</a>
-      </li>
-      <li class="nav-item active">
-        <a class="nav-link" href="#" data-toggle="modal" data-target="#helpDialog">Help</a>
-      </li>
-    </ul>
+    <div class="collapse navbar-collapse">
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          <a class="nav-link" href="javascript:void(0)" data-toggle="modal" data-target="#aboutDialog">About / Imprint</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="javascript:void(0)" data-toggle="modal" data-target="#helpDialog">Help</a>
+        </li>
+      </ul>
+    </div>
   </nav>
 
   <!--
@@ -726,7 +735,7 @@
     <!--
       Sidebar. Contains the LexSelectionComponent and OptionsComponent templates.
     -->
-    <div id="sidebar-wrapper" class="bg-faded">
+    <div id="sidebar-wrapper" class="bg-light">
       <div class="sidebar-nav">
         <h2 class="sidebar-header c24-sidebarheader-bg">Lexicon Selection</h2>
         <div class="sidebar-section" id="lexSelection"></div>
@@ -740,7 +749,7 @@
       Main area, used for search results.
     -->
     <div id="page-content-wrapper">
-      <a href="#menu-toggle" class="btn bg-faded" id="menu-toggle" title="Toggle sidebar"><span id="togglebutton-content"></span></a>
+      <a href="#menu-toggle" class="btn bg-light" id="menu-toggle" title="Toggle sidebar"><span id="togglebutton-content"></span></a>
       <div class="container-fluid" id="resultList">
       </div>
     </div>
@@ -776,7 +785,7 @@
           "<div class=\"jumbotron alert-danger\">" +
           "<h1 class=\"display-3\">:'(</h1>" +
           "<br>" +
-          "<p class=\"lead\">You need a recent version of Chrome, Firefox, Edge, Safari or Opera to use this wep app.</p>" +
+          "<p class=\"lead\">You need a recent version of Chrome, Firefox, Edge, Safari, or Opera to use this wep app.</p>" +
           "</div>"
         );
       }

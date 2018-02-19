@@ -12,7 +12,7 @@
  * 
  ******************************************/
 
-
+'use strict';
 
 /** 
  * LexListService:
@@ -150,7 +150,7 @@ class LocationDataService {
 
   /**
    * Adds info to the current URL or modifies it.
-   * The total size of all data cannot exceed ~2 KB in JSON-serialized form.
+   * The total size of all data must not exceed ~2 KB in JSON-serialized form.
    * 
    * @param {string} objectName - An identifier under which the data can be accessed later, e.g. Component name. Keep it short.
    * @param {*} objectData - The data the component wants to write. Can be any JSON-serializable data object.
@@ -197,4 +197,41 @@ class LocationDataService {
         this.stateObjects[objectName]) :
       $.extend({}, this.stateObjects);
   }
+}
+
+/*********************************************************************************************************
+ * 
+ ********************************************************************************************************/
+
+/**
+ * EntryRenderService:
+ * Cached entry rendering on demand
+ */
+class EntryRenderService {
+
+  /**
+   * Initializes the object's cache as empty.
+   */
+  constructor() {
+    this.renderCache = {};
+    this.entryTemplate = $.templates('#resultListItemTemplate');
+  }
+
+  /**
+   * Renders an entry or takes the rendered representation from the cache, if possible.
+   * 
+   * @param {Object} entry - A lexicon entry
+   */
+  RenderEntry(entry) {
+    let lexCache = this.renderCache[entry.lexId];
+    if (!lexCache) {
+      lexCache = this.renderCache[entry.lexId] = {};
+    }
+    let entryCache = lexCache[entry.id];
+    if (!entryCache) {
+      entryCache = lexCache[entry.id] = this.entryTemplate.render(entry);
+    }
+    return entryCache;
+  }
+
 }

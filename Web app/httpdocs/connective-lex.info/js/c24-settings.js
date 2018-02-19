@@ -28,5 +28,10 @@ let gSettings = {
   /**
    * Use bootstrap tooltips or regular, native ones.
    */
-  useBootstrapTooltips: true
+  useBootstrapTooltips: true,
+
+  /**
+   * TODO: Use differently colored borders for results from different lexicons.
+   */
+  colorResultsPerLexicon: true
 }

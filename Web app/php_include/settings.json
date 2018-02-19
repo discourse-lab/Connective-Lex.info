@@ -1,6 +1,6 @@
 {
   "//": "Path relative to script directory (where filelist.php/getfile.php are) containing XML files.",
-  "xmlDirectory": "../../xml",
+  "xmlDirectory": "xml",
 
   "//": "Automatically convert new XML files to JSON when a file listing is requested.",
   "autoConvert": true,

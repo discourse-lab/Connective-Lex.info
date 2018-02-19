@@ -9,6 +9,7 @@
   "locale": "fr-FR",
   "islrn": "",
   "homepage": "http://www.linguist.univ-paris-diderot.fr/~croze/",
+  "about": "LexConn's sense tagset, SDRT, has been preliminarily mapped to the app tagset, PDTB3, by the authors of this web app. The results in this web app display the mapped PDTB3 tags which are not part of the LexConn source.",
   "parseInfo": {
     "posTagset": "lexconn",
     "senseTagset": "sdrt"

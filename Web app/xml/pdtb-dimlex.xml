@@ -13,7 +13,7 @@
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="165" freq="165" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="165" freq="165" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
    </entry>
@@ -26,10 +26,10 @@
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="2" freq="1" sense="Contingency.Condition.Hypothetical" />
+            <pdtb2_relation anno_N="2" freq="1" sense="Contingency.Condition.Hypothetical"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2" freq="1" sense="Expansion.Alternative.Disjunctive" />
+            <pdtb2_relation anno_N="2" freq="1" sense="Expansion.Alternative.Disjunctive"/>
          </sem>
       </syn>
    </entry>
@@ -45,37 +45,37 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="104" freq="1" sense="Comparison" />
+            <pdtb2_relation anno_N="104" freq="1" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="104" freq="54" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="104" freq="54" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="104" freq="1" sense="Expansion.Instantiation" />
+            <pdtb2_relation anno_N="104" freq="1" sense="Expansion.Instantiation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="104" freq="4" sense="Contingency.Pragmatic cause.Justification" />
+            <pdtb2_relation anno_N="104" freq="4" sense="Contingency.Pragmatic cause.Justification"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="104" freq="1" sense="Expansion.Restatement.Equivalence" />
+            <pdtb2_relation anno_N="104" freq="1" sense="Expansion.Restatement.Equivalence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="104" freq="3" sense="Expansion" />
+            <pdtb2_relation anno_N="104" freq="3" sense="Expansion"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="104" freq="1" sense="Expansion.Restatement.Generalization" />
+            <pdtb2_relation anno_N="104" freq="1" sense="Expansion.Restatement.Generalization"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="104" freq="31" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="104" freq="31" sense="Expansion.Restatement.Specification"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="104" freq="7" sense="Expansion.Restatement" />
+            <pdtb2_relation anno_N="104" freq="7" sense="Expansion.Restatement"/>
          </sem>
       </syn>
       <syn>
          <cat>INTJ</cat>
          <sem>
-            <pdtb2_relation anno_N="104" freq="1" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="104" freq="1" sense="Expansion.Restatement.Specification"/>
          </sem>
       </syn>
    </entry>
@@ -91,55 +91,55 @@
       <syn>
          <cat>INTJ</cat>
          <sem>
-            <pdtb2_relation anno_N="190" freq="2" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="190" freq="2" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="190" freq="1" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="190" freq="1" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="190" freq="14" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="190" freq="14" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="190" freq="7" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="190" freq="7" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="190" freq="15" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="190" freq="15" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="190" freq="1" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="190" freq="1" sense="Comparison.Contrast.Opposition"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="190" freq="8" sense="Comparison" />
+            <pdtb2_relation anno_N="190" freq="8" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="190" freq="1" sense="Comparison.Concession" />
+            <pdtb2_relation anno_N="190" freq="1" sense="Comparison.Concession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="190" freq="16" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="190" freq="16" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="190" freq="4" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="190" freq="4" sense="Comparison.Contrast.Opposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="190" freq="64" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="190" freq="64" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="190" freq="2" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="190" freq="2" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="190" freq="52" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="190" freq="52" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="190" freq="2" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="190" freq="2" sense="Comparison.Concession.Expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="190" freq="1" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="190" freq="1" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
    </entry>
@@ -155,58 +155,58 @@
       <syn>
          <cat>CC</cat>
          <sem>
-            <pdtb2_relation anno_N="101" freq="4" sense="Comparison" />
+            <pdtb2_relation anno_N="101" freq="4" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="101" freq="2" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="101" freq="2" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="101" freq="5" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="101" freq="5" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="101" freq="1" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="101" freq="1" sense="Comparison.Contrast.Opposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="101" freq="16" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="101" freq="16" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="101" freq="11" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="101" freq="11" sense="Comparison.Contrast"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="101" freq="8" sense="Comparison" />
+            <pdtb2_relation anno_N="101" freq="8" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="101" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="101" freq="1" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="101" freq="10" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="101" freq="10" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="101" freq="1" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="101" freq="1" sense="Comparison.Contrast.Opposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="101" freq="13" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="101" freq="13" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="101" freq="8" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="101" freq="8" sense="Comparison.Contrast"/>
          </sem>
       </syn>
       <syn>
          <cat>RB</cat>
          <sem>
-            <pdtb2_relation anno_N="101" freq="7" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="101" freq="7" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="101" freq="6" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="101" freq="6" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="101" freq="4" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="101" freq="4" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="101" freq="4" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="101" freq="4" sense="Comparison.Contrast.Opposition"/>
          </sem>
       </syn>
    </entry>
@@ -222,13 +222,13 @@
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="11" freq="1" sense="Comparison" />
+            <pdtb2_relation anno_N="11" freq="1" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="11" freq="3" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="11" freq="3" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="11" freq="7" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="11" freq="7" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
       </syn>
    </entry>
@@ -244,28 +244,28 @@
       <syn>
          <cat>ADVP-PRD</cat>
          <sem>
-            <pdtb2_relation anno_N="1746" freq="2" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="1746" freq="2" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="1746" freq="10" sense="Expansion.List" />
+            <pdtb2_relation anno_N="1746" freq="10" sense="Expansion.List"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1746" freq="1712" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="1746" freq="1712" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1746" freq="1" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="1746" freq="1" sense="Expansion.Restatement.Specification"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1746" freq="1" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="1746" freq="1" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>RB</cat>
          <sem>
-            <pdtb2_relation anno_N="1746" freq="20" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="1746" freq="20" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
    </entry>
@@ -281,16 +281,16 @@
       <syn>
          <cat>VB</cat>
          <sem>
-            <pdtb2_relation anno_N="10" freq="1" sense="Expansion.Exception" />
+            <pdtb2_relation anno_N="10" freq="1" sense="Expansion.Exception"/>
          </sem>
       </syn>
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="10" freq="8" sense="Expansion.Exception" />
+            <pdtb2_relation anno_N="10" freq="8" sense="Expansion.Exception"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="10" freq="1" sense="Expansion.Alternative.Disjunctive" />
+            <pdtb2_relation anno_N="10" freq="1" sense="Expansion.Alternative.Disjunctive"/>
          </sem>
       </syn>
    </entry>
@@ -306,22 +306,22 @@
       <syn>
          <cat>PP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="15" freq="1" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="15" freq="1" sense="Temporal.Asynchronous.Succession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="15" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="15" freq="1" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="15" freq="1" sense="Temporal.Asynchronous" />
+            <pdtb2_relation anno_N="15" freq="1" sense="Temporal.Asynchronous"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="15" freq="11" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="15" freq="11" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="15" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="15" freq="1" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
    </entry>
@@ -337,28 +337,28 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="32" freq="5" sense="Expansion.List" />
+            <pdtb2_relation anno_N="32" freq="5" sense="Expansion.List"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="32" freq="6" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="32" freq="6" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="32" freq="8" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="32" freq="8" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="32" freq="1" sense="Expansion" />
+            <pdtb2_relation anno_N="32" freq="1" sense="Expansion"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="32" freq="2" sense="Expansion.List" />
+            <pdtb2_relation anno_N="32" freq="2" sense="Expansion.List"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="32" freq="6" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="32" freq="6" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="32" freq="4" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="32" freq="4" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
    </entry>
@@ -374,10 +374,10 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="20" freq="9" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="20" freq="9" sense="Temporal.Synchrony"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="20" freq="11" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="20" freq="11" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
    </entry>
@@ -393,73 +393,73 @@
       <syn>
          <cat>ADVP-TMP-2</cat>
          <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="340" freq="1" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP-TMP=2</cat>
          <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="340" freq="1" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Expansion.List" />
+            <pdtb2_relation anno_N="340" freq="1" sense="Expansion.List"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="340" freq="2" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="340" freq="2" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Contingency.Condition.Unreal present" />
+            <pdtb2_relation anno_N="340" freq="1" sense="Contingency.Condition.Unreal present"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="340" freq="1" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="340" freq="159" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="340" freq="159" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="340" freq="4" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="340" freq="4" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>RB</cat>
          <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="340" freq="1" sense="Contingency.Cause.Reason"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="340" freq="81" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="340" freq="81" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="340" freq="3" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="340" freq="3" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="340" freq="1" sense="Comparison.Contrast"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Expansion.List" />
+            <pdtb2_relation anno_N="340" freq="1" sense="Expansion.List"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="340" freq="6" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="340" freq="6" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Comparison" />
+            <pdtb2_relation anno_N="340" freq="1" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Expansion.Alternative" />
+            <pdtb2_relation anno_N="340" freq="1" sense="Expansion.Alternative"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="340" freq="4" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="340" freq="4" sense="Contingency.Cause.Result"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="340" freq="70" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="340" freq="70" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="340" freq="1" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
    </entry>
@@ -472,7 +472,7 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="12" freq="12" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="12" freq="12" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
    </entry>
@@ -488,46 +488,46 @@
       <syn>
          <cat>PP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="193" freq="1" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="193" freq="1" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="193" freq="53" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="193" freq="53" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="193" freq="16" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="193" freq="16" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="193" freq="5" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="193" freq="5" sense="Comparison.Contrast.Opposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="193" freq="1" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="193" freq="1" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="193" freq="4" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="193" freq="4" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="193" freq="81" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="193" freq="81" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="193" freq="1" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="193" freq="1" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="193" freq="1" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="193" freq="1" sense="Comparison.Contrast.Opposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="193" freq="17" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="193" freq="17" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="193" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="193" freq="1" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="193" freq="12" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="193" freq="12" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
    </entry>
@@ -543,22 +543,22 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="12" freq="3" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="12" freq="3" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="12" freq="3" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="12" freq="3" sense="Expansion.Restatement.Specification"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="12" freq="3" sense="Expansion.Restatement" />
+            <pdtb2_relation anno_N="12" freq="3" sense="Expansion.Restatement"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="12" freq="2" sense="Expansion.Restatement.Generalization" />
+            <pdtb2_relation anno_N="12" freq="2" sense="Expansion.Restatement.Generalization"/>
          </sem>
       </syn>
       <syn>
          <cat>JJ</cat>
          <sem>
-            <pdtb2_relation anno_N="12" freq="1" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="12" freq="1" sense="Expansion.Restatement.Specification"/>
          </sem>
       </syn>
    </entry>
@@ -574,28 +574,28 @@
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="37" freq="1" sense="Comparison" />
+            <pdtb2_relation anno_N="37" freq="1" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="37" freq="13" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="37" freq="13" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="37" freq="12" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="37" freq="12" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="37" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="37" freq="1" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="37" freq="8" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="37" freq="8" sense="Comparison.Contrast.Opposition"/>
          </sem>
       </syn>
       <syn>
          <cat>PP-LOC</cat>
          <sem>
-            <pdtb2_relation anno_N="37" freq="1" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="37" freq="1" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="37" freq="1" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="37" freq="1" sense="Comparison.Contrast.Opposition"/>
          </sem>
       </syn>
    </entry>
@@ -608,7 +608,7 @@
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="2" freq="2" sense="Expansion.Restatement.Generalization" />
+            <pdtb2_relation anno_N="2" freq="2" sense="Expansion.Restatement.Generalization"/>
          </sem>
       </syn>
    </entry>
@@ -624,22 +624,22 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="24" freq="8" sense="Contingency.Condition.Hypothetical" />
+            <pdtb2_relation anno_N="24" freq="8" sense="Contingency.Condition.Hypothetical"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="24" freq="6" sense="Contingency.Condition.General" />
+            <pdtb2_relation anno_N="24" freq="6" sense="Contingency.Condition.General"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="24" freq="2" sense="Contingency.Condition.Factual present" />
+            <pdtb2_relation anno_N="24" freq="2" sense="Contingency.Condition.Factual present"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="24" freq="7" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="24" freq="7" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="24" freq="1" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="24" freq="1" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
    </entry>
@@ -655,16 +655,16 @@
       <syn>
          <cat>CC</cat>
          <sem>
-            <pdtb2_relation anno_N="31" freq="2" sense="Expansion.Alternative" />
+            <pdtb2_relation anno_N="31" freq="2" sense="Expansion.Alternative"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="31" freq="1" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="31" freq="1" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="31" freq="25" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="31" freq="25" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="31" freq="3" sense="Expansion.Alternative.Conjunctive" />
+            <pdtb2_relation anno_N="31" freq="3" sense="Expansion.Alternative.Conjunctive"/>
          </sem>
       </syn>
    </entry>
@@ -680,13 +680,13 @@
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="27" freq="11" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="27" freq="11" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="27" freq="12" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="27" freq="12" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="27" freq="4" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="27" freq="4" sense="Comparison.Contrast.Opposition"/>
          </sem>
       </syn>
    </entry>
@@ -702,31 +702,31 @@
       <syn>
          <cat>PP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="9" freq="1" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="9" freq="1" sense="Contingency.Cause.Result"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="9" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="9" freq="1" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="9" freq="1" sense="Expansion" />
+            <pdtb2_relation anno_N="9" freq="1" sense="Expansion"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="9" freq="1" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="9" freq="1" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="9" freq="2" sense="Expansion.Restatement.Generalization" />
+            <pdtb2_relation anno_N="9" freq="2" sense="Expansion.Restatement.Generalization"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="9" freq="1" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="9" freq="1" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
       </syn>
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="9" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="9" freq="1" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="9" freq="1" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="9" freq="1" sense="Expansion.Restatement.Specification"/>
          </sem>
       </syn>
    </entry>
@@ -739,7 +739,7 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="1" freq="1" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="1" freq="1" sense="Contingency.Cause.Reason"/>
          </sem>
       </syn>
    </entry>
@@ -755,10 +755,10 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="6" freq="2" sense="Expansion.Alternative" />
+            <pdtb2_relation anno_N="6" freq="2" sense="Expansion.Alternative"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="6" freq="4" sense="Expansion.Alternative.Disjunctive" />
+            <pdtb2_relation anno_N="6" freq="4" sense="Expansion.Alternative.Disjunctive"/>
          </sem>
       </syn>
    </entry>
@@ -774,19 +774,19 @@
       <syn>
          <cat>ADVP-MNR</cat>
          <sem>
-            <pdtb2_relation anno_N="74" freq="1" sense="Expansion.Alternative" />
+            <pdtb2_relation anno_N="74" freq="1" sense="Expansion.Alternative"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="74" freq="6" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="74" freq="6" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="74" freq="1" sense="Expansion.List" />
+            <pdtb2_relation anno_N="74" freq="1" sense="Expansion.List"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="74" freq="66" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="74" freq="66" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
    </entry>
@@ -802,25 +802,25 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="858" freq="73" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="858" freq="73" sense="Contingency.Cause.Reason"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="858" freq="2" sense="Contingency.Pragmatic condition.Implicit assertion" />
+            <pdtb2_relation anno_N="858" freq="2" sense="Contingency.Pragmatic condition.Implicit assertion"/>
          </sem>
       </syn>
       <syn>
          <cat>RB</cat>
          <sem>
-            <pdtb2_relation anno_N="858" freq="14" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="858" freq="14" sense="Contingency.Cause.Reason"/>
          </sem>
       </syn>
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="858" freq="2" sense="Contingency.Pragmatic cause.Justification" />
+            <pdtb2_relation anno_N="858" freq="2" sense="Contingency.Pragmatic cause.Justification"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="858" freq="767" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="858" freq="767" sense="Contingency.Cause.Reason"/>
          </sem>
       </syn>
    </entry>
@@ -833,7 +833,7 @@
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="4" freq="4" sense="Expansion.Restatement.Generalization" />
+            <pdtb2_relation anno_N="4" freq="4" sense="Expansion.Restatement.Generalization"/>
          </sem>
       </syn>
    </entry>
@@ -846,7 +846,7 @@
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="2" freq="2" sense="Expansion.Alternative.Disjunctive" />
+            <pdtb2_relation anno_N="2" freq="2" sense="Expansion.Alternative.Disjunctive"/>
          </sem>
       </syn>
    </entry>
@@ -862,13 +862,13 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="9" freq="8" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="9" freq="8" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
       <syn>
          <cat>RBR</cat>
          <sem>
-            <pdtb2_relation anno_N="9" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="9" freq="1" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
    </entry>
@@ -884,22 +884,22 @@
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="18" freq="4" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="18" freq="4" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="18" freq="2" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="18" freq="2" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="18" freq="1" sense="Expansion" />
+            <pdtb2_relation anno_N="18" freq="1" sense="Expansion"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="18" freq="10" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="18" freq="10" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="18" freq="1" sense="Expansion.Restatement" />
+            <pdtb2_relation anno_N="18" freq="1" sense="Expansion.Restatement"/>
          </sem>
       </syn>
    </entry>
@@ -915,7 +915,7 @@
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="3" freq="3" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="3" freq="3" sense="Contingency.Cause.Reason"/>
          </sem>
       </syn>
    </entry>
@@ -931,7 +931,7 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="11" freq="11" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="11" freq="11" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
    </entry>
@@ -947,28 +947,28 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="184" freq="6" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="184" freq="6" sense="Contingency.Cause.Reason"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="184" freq="6" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="184" freq="6" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="184" freq="1" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="184" freq="1" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
       </syn>
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="184" freq="1" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="184" freq="1" sense="Temporal.Synchrony"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="184" freq="90" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="184" freq="90" sense="Contingency.Cause.Reason"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="184" freq="80" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="184" freq="80" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
    </entry>
@@ -984,28 +984,28 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="326" freq="43" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="326" freq="43" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="326" freq="1" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="326" freq="1" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="326" freq="2" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="326" freq="2" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
       <syn>
          <cat>RB</cat>
          <sem>
-            <pdtb2_relation anno_N="326" freq="13" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="326" freq="13" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
       </syn>
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="326" freq="267" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="326" freq="267" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
       </syn>
    </entry>
@@ -1021,22 +1021,22 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="577" freq="2" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="577" freq="2" sense="Comparison.Concession.Expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="577" freq="88" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="577" freq="88" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
       <syn>
          <cat>RB</cat>
          <sem>
-            <pdtb2_relation anno_N="577" freq="10" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="577" freq="10" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="577" freq="477" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="577" freq="477" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
    </entry>
@@ -1052,7 +1052,7 @@
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="6" freq="6" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="6" freq="6" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
    </entry>
@@ -1068,34 +1068,34 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="485" freq="49" sense="Comparison" />
+            <pdtb2_relation anno_N="485" freq="49" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="485" freq="2" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="485" freq="2" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="485" freq="5" sense="Comparison.Concession" />
+            <pdtb2_relation anno_N="485" freq="5" sense="Comparison.Concession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="485" freq="89" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="485" freq="89" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="485" freq="32" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="485" freq="32" sense="Comparison.Contrast.Opposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="485" freq="1" sense="Comparison.Pragmatic concession" />
+            <pdtb2_relation anno_N="485" freq="1" sense="Comparison.Pragmatic concession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="485" freq="70" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="485" freq="70" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="485" freq="1" sense="Comparison.Pragmatic contrast" />
+            <pdtb2_relation anno_N="485" freq="1" sense="Comparison.Pragmatic contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="485" freq="234" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="485" freq="234" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="485" freq="2" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="485" freq="2" sense="Comparison.Concession.Expectation"/>
          </sem>
       </syn>
    </entry>
@@ -1111,19 +1111,19 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="19" freq="7" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="19" freq="7" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="19" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="19" freq="1" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="19" freq="10" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="19" freq="10" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="19" freq="1" sense="Expansion.Alternative.Conjunctive" />
+            <pdtb2_relation anno_N="19" freq="1" sense="Expansion.Alternative.Conjunctive"/>
          </sem>
       </syn>
    </entry>
@@ -1145,7 +1145,7 @@
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="11" freq="11" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="11" freq="11" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
       </syn>
    </entry>
@@ -1161,19 +1161,19 @@
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="78" freq="44" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="78" freq="44" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
       <syn>
          <cat>PP-PRP</cat>
          <sem>
-            <pdtb2_relation anno_N="78" freq="33" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="78" freq="33" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
       <syn>
          <cat>PP-CLR</cat>
          <sem>
-            <pdtb2_relation anno_N="78" freq="1" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="78" freq="1" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
    </entry>
@@ -1187,13 +1187,13 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="3" freq="1" sense="Expansion.Alternative.Disjunctive" />
+            <pdtb2_relation anno_N="3" freq="1" sense="Expansion.Alternative.Disjunctive"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="3" freq="1" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3" freq="1" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="3" freq="1" sense="Comparison.Contrast.Opposition"/>
          </sem>
       </syn>
    </entry>
@@ -1206,7 +1206,7 @@
       <syn>
          <cat>CC</cat>
          <sem>
-            <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
    </entry>
@@ -1224,13 +1224,13 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="4" freq="1" sense="Expansion.Alternative" />
+            <pdtb2_relation anno_N="4" freq="1" sense="Expansion.Alternative"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="4" freq="2" sense="Expansion.Alternative.Disjunctive" />
+            <pdtb2_relation anno_N="4" freq="2" sense="Expansion.Alternative.Disjunctive"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="4" freq="1" sense="Expansion.Alternative.Conjunctive" />
+            <pdtb2_relation anno_N="4" freq="1" sense="Expansion.Alternative.Conjunctive"/>
          </sem>
       </syn>
    </entry>
@@ -1246,7 +1246,7 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="4" freq="4" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="4" freq="4" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
    </entry>
@@ -1262,19 +1262,19 @@
       <syn>
          <cat>ADVP-PRP</cat>
          <sem>
-            <pdtb2_relation anno_N="10" freq="1" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="10" freq="1" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="10" freq="8" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="10" freq="8" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="10" freq="1" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="10" freq="1" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
    </entry>
@@ -1290,31 +1290,31 @@
       <syn>
          <cat>CC</cat>
          <sem>
-            <pdtb2_relation anno_N="98" freq="5" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="98" freq="5" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="98" freq="2" sense="Contingency.Pragmatic condition.Implicit assertion" />
+            <pdtb2_relation anno_N="98" freq="2" sense="Contingency.Pragmatic condition.Implicit assertion"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="98" freq="12" sense="Expansion.Alternative.Disjunctive" />
+            <pdtb2_relation anno_N="98" freq="12" sense="Expansion.Alternative.Disjunctive"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="98" freq="34" sense="Expansion.Alternative" />
+            <pdtb2_relation anno_N="98" freq="34" sense="Expansion.Alternative"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="98" freq="41" sense="Expansion.Alternative.Conjunctive" />
+            <pdtb2_relation anno_N="98" freq="41" sense="Expansion.Alternative.Conjunctive"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="98" freq="1" sense="Expansion.Restatement.Equivalence" />
+            <pdtb2_relation anno_N="98" freq="1" sense="Expansion.Restatement.Equivalence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="98" freq="1" sense="Expansion" />
+            <pdtb2_relation anno_N="98" freq="1" sense="Expansion"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="98" freq="1" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="98" freq="1" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="98" freq="1" sense="Expansion.Restatement" />
+            <pdtb2_relation anno_N="98" freq="1" sense="Expansion.Restatement"/>
          </sem>
       </syn>
    </entry>
@@ -1330,13 +1330,13 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="24" freq="1" sense="Expansion.Alternative.Conjunctive" />
+            <pdtb2_relation anno_N="24" freq="1" sense="Expansion.Alternative.Conjunctive"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="24" freq="2" sense="Expansion.Exception" />
+            <pdtb2_relation anno_N="24" freq="2" sense="Expansion.Exception"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="24" freq="21" sense="Expansion.Alternative.Disjunctive" />
+            <pdtb2_relation anno_N="24" freq="21" sense="Expansion.Alternative.Disjunctive"/>
          </sem>
       </syn>
    </entry>
@@ -1352,7 +1352,7 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="2" freq="2" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="2" freq="2" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
       </syn>
    </entry>
@@ -1368,28 +1368,28 @@
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="328" freq="16" sense="Comparison" />
+            <pdtb2_relation anno_N="328" freq="16" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="328" freq="1" sense="Expansion.Exception" />
+            <pdtb2_relation anno_N="328" freq="1" sense="Expansion.Exception"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="328" freq="1" sense="Comparison.Concession" />
+            <pdtb2_relation anno_N="328" freq="1" sense="Comparison.Concession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="328" freq="34" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="328" freq="34" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="328" freq="9" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="328" freq="9" sense="Comparison.Contrast.Opposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="328" freq="21" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="328" freq="21" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="328" freq="114" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="328" freq="114" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="328" freq="132" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="328" freq="132" sense="Comparison.Concession.Expectation"/>
          </sem>
       </syn>
    </entry>
@@ -1405,16 +1405,16 @@
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="49" freq="2" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="49" freq="2" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="49" freq="46" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="49" freq="46" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="49" freq="1" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="49" freq="1" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
    </entry>
@@ -1430,10 +1430,10 @@
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="11" freq="10" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="11" freq="10" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="11" freq="1" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="11" freq="1" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
    </entry>
@@ -1449,13 +1449,13 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="98" freq="1" sense="Expansion.Instantiation" />
+            <pdtb2_relation anno_N="98" freq="1" sense="Expansion.Instantiation"/>
          </sem>
       </syn>
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="98" freq="97" sense="Expansion.Instantiation" />
+            <pdtb2_relation anno_N="98" freq="97" sense="Expansion.Instantiation"/>
          </sem>
       </syn>
    </entry>
@@ -1471,16 +1471,16 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="101" freq="1" sense="Expansion.List" />
+            <pdtb2_relation anno_N="101" freq="1" sense="Expansion.List"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="101" freq="99" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="101" freq="99" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="101" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="101" freq="1" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
    </entry>
@@ -1496,13 +1496,13 @@
       <syn>
          <cat>ADVP-MNR</cat>
          <sem>
-            <pdtb2_relation anno_N="18" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="18" freq="1" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="18" freq="17" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="18" freq="17" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
    </entry>
@@ -1518,10 +1518,10 @@
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="196" freq="194" sense="Expansion.Instantiation" />
+            <pdtb2_relation anno_N="196" freq="194" sense="Expansion.Instantiation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="196" freq="2" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="196" freq="2" sense="Expansion.Restatement.Specification"/>
          </sem>
       </syn>
    </entry>
@@ -1537,16 +1537,16 @@
       <syn>
          <cat>ADVP-MNR</cat>
          <sem>
-            <pdtb2_relation anno_N="10" freq="1" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="10" freq="1" sense="Expansion.Restatement.Specification"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="10" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="10" freq="1" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="10" freq="8" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="10" freq="8" sense="Expansion.Restatement.Specification"/>
          </sem>
       </syn>
    </entry>
@@ -1562,16 +1562,16 @@
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="7" freq="5" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="7" freq="5" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="7" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="7" freq="1" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
       <syn>
          <cat>RB</cat>
          <sem>
-            <pdtb2_relation anno_N="7" freq="1" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="7" freq="1" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
       </syn>
    </entry>
@@ -1587,13 +1587,13 @@
       <syn>
          <cat>ADVP-MNR</cat>
          <sem>
-            <pdtb2_relation anno_N="5" freq="1" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="5" freq="1" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="5" freq="4" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="5" freq="4" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
    </entry>
@@ -1609,7 +1609,7 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="26" freq="26" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="26" freq="26" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
    </entry>
@@ -1622,13 +1622,13 @@
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="4" freq="2" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="4" freq="2" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="4" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="4" freq="1" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="4" freq="1" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="4" freq="1" sense="Comparison.Contrast.Opposition"/>
          </sem>
       </syn>
    </entry>
@@ -1644,10 +1644,10 @@
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="15" freq="9" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="15" freq="9" sense="Expansion.Restatement.Specification"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="15" freq="6" sense="Expansion.Instantiation" />
+            <pdtb2_relation anno_N="15" freq="6" sense="Expansion.Instantiation"/>
          </sem>
       </syn>
    </entry>
@@ -1663,31 +1663,31 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="162" freq="4" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="162" freq="4" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="162" freq="1" sense="Expansion.Alternative.Disjunctive" />
+            <pdtb2_relation anno_N="162" freq="1" sense="Expansion.Alternative.Disjunctive"/>
          </sem>
       </syn>
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="162" freq="16" sense="Contingency.Condition.Hypothetical" />
+            <pdtb2_relation anno_N="162" freq="16" sense="Contingency.Condition.Hypothetical"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="162" freq="2" sense="Expansion.Alternative.Disjunctive" />
+            <pdtb2_relation anno_N="162" freq="2" sense="Expansion.Alternative.Disjunctive"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="162" freq="2" sense="Contingency.Condition.General" />
+            <pdtb2_relation anno_N="162" freq="2" sense="Contingency.Condition.General"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="162" freq="7" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="162" freq="7" sense="Temporal.Asynchronous.Succession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="162" freq="129" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="162" freq="129" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="162" freq="1" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="162" freq="1" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
    </entry>
@@ -1705,19 +1705,19 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="38" freq="22" sense="Contingency.Condition.Hypothetical" />
+            <pdtb2_relation anno_N="38" freq="22" sense="Contingency.Condition.Hypothetical"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="38" freq="5" sense="Contingency.Condition.General" />
+            <pdtb2_relation anno_N="38" freq="5" sense="Contingency.Condition.General"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="38" freq="1" sense="Contingency.Condition.Unreal past" />
+            <pdtb2_relation anno_N="38" freq="1" sense="Contingency.Condition.Unreal past"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="38" freq="1" sense="Contingency.Pragmatic condition.Implicit assertion" />
+            <pdtb2_relation anno_N="38" freq="1" sense="Contingency.Pragmatic condition.Implicit assertion"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="38" freq="9" sense="Contingency.Condition.Factual present" />
+            <pdtb2_relation anno_N="38" freq="9" sense="Contingency.Condition.Factual present"/>
          </sem>
       </syn>
    </entry>
@@ -1730,7 +1730,7 @@
       <syn>
          <cat>UCP</cat>
          <sem>
-            <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
    </entry>
@@ -1746,61 +1746,61 @@
       <syn>
          <cat>CC</cat>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="262" sense="Comparison" />
+            <pdtb2_relation anno_N="3308" freq="262" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="1" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="3308" freq="1" sense="Contingency.Cause.Result"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="82" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="3308" freq="82" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="2" sense="Expansion.Exception" />
+            <pdtb2_relation anno_N="3308" freq="2" sense="Expansion.Exception"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="2" sense="Comparison.Concession" />
+            <pdtb2_relation anno_N="3308" freq="2" sense="Comparison.Concession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="638" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="3308" freq="638" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="2" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="3308" freq="2" sense="Expansion.Restatement.Specification"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="2" sense="Expansion" />
+            <pdtb2_relation anno_N="3308" freq="2" sense="Expansion"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="175" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="3308" freq="175" sense="Comparison.Contrast.Opposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="4" sense="Comparison.Pragmatic concession" />
+            <pdtb2_relation anno_N="3308" freq="4" sense="Comparison.Pragmatic concession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="495" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="3308" freq="495" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="2" sense="Expansion.Alternative.Chosen alternative" />
+            <pdtb2_relation anno_N="3308" freq="2" sense="Expansion.Alternative.Chosen alternative"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="2" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="3308" freq="2" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="16" sense="Comparison.Pragmatic contrast" />
+            <pdtb2_relation anno_N="3308" freq="16" sense="Comparison.Pragmatic contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="1609" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="3308" freq="1609" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="12" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="3308" freq="12" sense="Comparison.Concession.Expectation"/>
          </sem>
       </syn>
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="1" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="3308" freq="1" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3308" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="3308" freq="1" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
       </syn>
    </entry>
@@ -1813,7 +1813,7 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Alternative" />
+            <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Alternative"/>
          </sem>
       </syn>
    </entry>
@@ -1826,7 +1826,7 @@
       <syn>
          <cat>CC</cat>
          <sem>
-            <pdtb2_relation anno_N="1" freq="1" sense="Expansion.List" />
+            <pdtb2_relation anno_N="1" freq="1" sense="Expansion.List"/>
          </sem>
       </syn>
    </entry>
@@ -1842,52 +1842,52 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="781" freq="3" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="781" freq="3" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>NN</cat>
          <sem>
-            <pdtb2_relation anno_N="781" freq="1" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="781" freq="1" sense="Comparison.Contrast.Opposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="781" freq="2" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="781" freq="2" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="781" freq="4" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="781" freq="4" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="781" freq="21" sense="Comparison" />
+            <pdtb2_relation anno_N="781" freq="21" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="781" freq="54" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="781" freq="54" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="781" freq="9" sense="Expansion.List" />
+            <pdtb2_relation anno_N="781" freq="9" sense="Expansion.List"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="781" freq="1" sense="Comparison.Concession" />
+            <pdtb2_relation anno_N="781" freq="1" sense="Comparison.Concession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="781" freq="195" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="781" freq="195" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="781" freq="84" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="781" freq="84" sense="Comparison.Contrast.Opposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="781" freq="3" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="781" freq="3" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="781" freq="128" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="781" freq="128" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="781" freq="81" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="781" freq="81" sense="Comparison.Concession.Expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="781" freq="195" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="781" freq="195" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
    </entry>
@@ -1903,58 +1903,58 @@
       <syn>
          <cat>CC</cat>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="209" sense="Expansion.List" />
+            <pdtb2_relation anno_N="2999" freq="209" sense="Expansion.List"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="2" sense="Contingency.Condition.Hypothetical" />
+            <pdtb2_relation anno_N="2999" freq="2" sense="Contingency.Condition.Hypothetical"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="13" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="2999" freq="13" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="2689" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="2999" freq="2689" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Instantiation" />
+            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Instantiation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="3" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="2999" freq="3" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="65" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="2999" freq="65" sense="Contingency.Cause.Result"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion" />
+            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="5" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="2999" freq="5" sense="Comparison.Contrast.Opposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="1" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="2999" freq="1" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Restatement.Generalization" />
+            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Restatement.Generalization"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="5" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="2999" freq="5" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Restatement.Specification"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="1" sense="Contingency.Condition.General" />
+            <pdtb2_relation anno_N="2999" freq="1" sense="Contingency.Condition.General"/>
          </sem>
       </syn>
       <syn>
          <cat>JJ</cat>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
       <syn>
          <cat>NN</cat>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
    </entry>
@@ -1970,7 +1970,7 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="8" freq="8" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="8" freq="8" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
    </entry>
@@ -1986,19 +1986,19 @@
       <syn>
          <cat>ADVP-MNR</cat>
          <sem>
-            <pdtb2_relation anno_N="112" freq="1" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="112" freq="1" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="112" freq="102" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="112" freq="102" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
       <syn>
          <cat>RB</cat>
          <sem>
-            <pdtb2_relation anno_N="112" freq="9" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="112" freq="9" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
    </entry>
@@ -2014,55 +2014,55 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="743" freq="1" sense="Comparison" />
+            <pdtb2_relation anno_N="743" freq="1" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="743" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="743" freq="1" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="743" freq="3" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="743" freq="3" sense="Contingency.Cause.Reason"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="743" freq="1" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="743" freq="1" sense="Comparison.Contrast.Opposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="743" freq="1" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="743" freq="1" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="743" freq="2" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="743" freq="2" sense="Comparison.Concession.Expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="743" freq="23" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="743" freq="23" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>RB</cat>
          <sem>
-            <pdtb2_relation anno_N="743" freq="2" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="743" freq="2" sense="Temporal.Asynchronous.Succession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="743" freq="4" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="743" freq="4" sense="Contingency.Cause.Reason"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="743" freq="5" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="743" freq="5" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="743" freq="2" sense="Contingency.Pragmatic cause.Justification" />
+            <pdtb2_relation anno_N="743" freq="2" sense="Contingency.Pragmatic cause.Justification"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="743" freq="14" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="743" freq="14" sense="Temporal.Asynchronous.Succession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="743" freq="205" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="743" freq="205" sense="Contingency.Cause.Reason"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="743" freq="1" sense="Expansion" />
+            <pdtb2_relation anno_N="743" freq="1" sense="Expansion"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="743" freq="478" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="743" freq="478" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
    </entry>
@@ -2075,7 +2075,7 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="2" freq="2" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="2" freq="2" sense="Comparison.Contrast"/>
          </sem>
       </syn>
    </entry>
@@ -2094,82 +2094,82 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="1" sense="Comparison" />
+            <pdtb2_relation anno_N="1223" freq="1" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="54" sense="Contingency.Condition.Hypothetical" />
+            <pdtb2_relation anno_N="1223" freq="54" sense="Contingency.Condition.Hypothetical"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="1" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="1223" freq="1" sense="Contingency.Cause.Result"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="1" sense="Comparison.Pragmatic contrast" />
+            <pdtb2_relation anno_N="1223" freq="1" sense="Comparison.Pragmatic contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="1" sense="Contingency.Pragmatic condition.Relevance" />
+            <pdtb2_relation anno_N="1223" freq="1" sense="Contingency.Pragmatic condition.Relevance"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="1" sense="Comparison.Concession" />
+            <pdtb2_relation anno_N="1223" freq="1" sense="Comparison.Concession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="6" sense="Contingency.Condition.General" />
+            <pdtb2_relation anno_N="1223" freq="6" sense="Contingency.Condition.General"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="4" sense="Contingency.Condition.Unreal present" />
+            <pdtb2_relation anno_N="1223" freq="4" sense="Contingency.Condition.Unreal present"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="3" sense="Contingency.Condition.Unreal past" />
+            <pdtb2_relation anno_N="1223" freq="3" sense="Contingency.Condition.Unreal past"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="3" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="1223" freq="3" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="4" sense="Contingency.Condition.Factual present" />
+            <pdtb2_relation anno_N="1223" freq="4" sense="Contingency.Condition.Factual present"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="33" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="1223" freq="33" sense="Comparison.Concession.Expectation"/>
          </sem>
       </syn>
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="632" sense="Contingency.Condition.Hypothetical" />
+            <pdtb2_relation anno_N="1223" freq="632" sense="Contingency.Condition.Hypothetical"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="4" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="1223" freq="4" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="29" sense="Contingency.Pragmatic condition.Implicit assertion" />
+            <pdtb2_relation anno_N="1223" freq="29" sense="Contingency.Pragmatic condition.Implicit assertion"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="171" sense="Contingency.Condition.General" />
+            <pdtb2_relation anno_N="1223" freq="171" sense="Contingency.Condition.General"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="1" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="1223" freq="1" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="118" sense="Contingency.Condition.Unreal present" />
+            <pdtb2_relation anno_N="1223" freq="118" sense="Contingency.Condition.Unreal present"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="50" sense="Contingency.Condition.Unreal past" />
+            <pdtb2_relation anno_N="1223" freq="50" sense="Contingency.Condition.Unreal past"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="19" sense="Contingency.Pragmatic condition.Relevance" />
+            <pdtb2_relation anno_N="1223" freq="19" sense="Contingency.Pragmatic condition.Relevance"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="9" sense="Contingency.Condition.Factual past" />
+            <pdtb2_relation anno_N="1223" freq="9" sense="Contingency.Condition.Factual past"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="71" sense="Contingency.Condition.Factual present" />
+            <pdtb2_relation anno_N="1223" freq="71" sense="Contingency.Condition.Factual present"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="4" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="1223" freq="4" sense="Comparison.Concession.Expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="1" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="1223" freq="1" sense="Expansion.Restatement.Specification"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1223" freq="2" sense="Contingency.Condition" />
+            <pdtb2_relation anno_N="1223" freq="2" sense="Contingency.Condition"/>
          </sem>
       </syn>
    </entry>
@@ -2182,25 +2182,25 @@
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="30" freq="17" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="30" freq="17" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="30" freq="3" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="30" freq="3" sense="Contingency.Cause.Result"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="30" freq="7" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="30" freq="7" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="30" freq="1" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="30" freq="1" sense="Expansion.Restatement.Specification"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="30" freq="1" sense="Temporal.Asynchronous" />
+            <pdtb2_relation anno_N="30" freq="1" sense="Temporal.Asynchronous"/>
          </sem>
       </syn>
       <syn>
          <cat>PP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="30" freq="1" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="30" freq="1" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
       </syn>
    </entry>
@@ -2220,7 +2220,7 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="1" freq="1" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="1" freq="1" sense="Comparison.Contrast"/>
          </sem>
       </syn>
    </entry>
@@ -2236,16 +2236,16 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="27" freq="5" sense="Comparison" />
+            <pdtb2_relation anno_N="27" freq="5" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="27" freq="4" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="27" freq="4" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="27" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="27" freq="1" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="27" freq="17" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="27" freq="17" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
       </syn>
    </entry>
@@ -2261,13 +2261,13 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="16" freq="1" sense="Comparison.Pragmatic concession" />
+            <pdtb2_relation anno_N="16" freq="1" sense="Comparison.Pragmatic concession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="16" freq="4" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="16" freq="4" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="16" freq="11" sense="Expansion" />
+            <pdtb2_relation anno_N="16" freq="11" sense="Expansion"/>
          </sem>
       </syn>
    </entry>
@@ -2283,13 +2283,13 @@
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="5" freq="1" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="5" freq="1" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="5" freq="3" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="5" freq="3" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="5" freq="1" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="5" freq="1" sense="Comparison.Contrast.Opposition"/>
          </sem>
       </syn>
    </entry>
@@ -2308,214 +2308,214 @@
       <syn>
          <cat>WHADVP-3</cat>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Hypothetical" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Hypothetical"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Pragmatic condition.Implicit assertion" />
+            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Pragmatic condition.Implicit assertion"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="12" sense="Contingency.Condition.General" />
+            <pdtb2_relation anno_N="989" freq="12" sense="Contingency.Condition.General"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Cause.Reason"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Factual present" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Factual present"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="28" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="989" freq="28" sense="Temporal.Asynchronous.Succession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="79" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="989" freq="79" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>WHADVP-2</cat>
          <sem>
-            <pdtb2_relation anno_N="989" freq="3" sense="Contingency.Condition.Hypothetical" />
+            <pdtb2_relation anno_N="989" freq="3" sense="Contingency.Condition.Hypothetical"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Pragmatic condition.Implicit assertion" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Pragmatic condition.Implicit assertion"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="3" sense="Temporal" />
+            <pdtb2_relation anno_N="989" freq="3" sense="Temporal"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="37" sense="Contingency.Condition.General" />
+            <pdtb2_relation anno_N="989" freq="37" sense="Contingency.Condition.General"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="10" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="989" freq="10" sense="Contingency.Cause.Reason"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Contrast.Opposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Factual present" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Factual present"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="60" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="989" freq="60" sense="Temporal.Asynchronous.Succession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="3" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="989" freq="3" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="2" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="989" freq="2" sense="Comparison.Concession.Expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="153" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="989" freq="153" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>WHADVP-1</cat>
          <sem>
-            <pdtb2_relation anno_N="989" freq="4" sense="Contingency.Condition.Hypothetical" />
+            <pdtb2_relation anno_N="989" freq="4" sense="Contingency.Condition.Hypothetical"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="8" sense="Contingency.Pragmatic condition.Implicit assertion" />
+            <pdtb2_relation anno_N="989" freq="8" sense="Contingency.Pragmatic condition.Implicit assertion"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Expansion.Alternative.Disjunctive" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Expansion.Alternative.Disjunctive"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="2" sense="Temporal" />
+            <pdtb2_relation anno_N="989" freq="2" sense="Temporal"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="67" sense="Contingency.Condition.General" />
+            <pdtb2_relation anno_N="989" freq="67" sense="Contingency.Condition.General"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="4" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="989" freq="4" sense="Contingency.Cause.Reason"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Pragmatic condition.Relevance" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Pragmatic condition.Relevance"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="120" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="989" freq="120" sense="Temporal.Asynchronous.Succession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Factual present" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Factual present"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="3" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="989" freq="3" sense="Comparison.Concession.Expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="263" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="989" freq="263" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>WHADVP-14</cat>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>WHADVP-7</cat>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>WHADVP-6</cat>
          <sem>
-            <pdtb2_relation anno_N="989" freq="2" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="989" freq="2" sense="Temporal.Synchrony"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Pragmatic condition.Implicit assertion" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Pragmatic condition.Implicit assertion"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
       <syn>
          <cat>WHADVP-5</cat>
          <sem>
-            <pdtb2_relation anno_N="989" freq="4" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="989" freq="4" sense="Temporal.Asynchronous.Succession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Concession.Expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="3" sense="Contingency.Condition.General" />
+            <pdtb2_relation anno_N="989" freq="3" sense="Contingency.Condition.General"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="7" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="989" freq="7" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>WHADVP-4</cat>
          <sem>
-            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Cause.Reason"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Concession.Expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="17" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="989" freq="17" sense="Temporal.Synchrony"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="9" sense="Contingency.Condition.General" />
+            <pdtb2_relation anno_N="989" freq="9" sense="Contingency.Condition.General"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="7" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="989" freq="7" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
       <syn>
          <cat>WHADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="989" freq="3" sense="Contingency.Condition.Hypothetical" />
+            <pdtb2_relation anno_N="989" freq="3" sense="Contingency.Condition.Hypothetical"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="5" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="989" freq="5" sense="Temporal.Asynchronous.Succession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Cause.Reason"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Condition.General" />
+            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Condition.General"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="21" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="989" freq="21" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>WHNP-4</cat>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Hypothetical" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Hypothetical"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Expansion.Alternative.Disjunctive" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Expansion.Alternative.Disjunctive"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Condition.General" />
+            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Condition.General"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Cause.Reason"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Factual present" />
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Factual present"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="2" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="989" freq="2" sense="Comparison.Concession.Expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="989" freq="14" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="989" freq="14" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
    </entry>
@@ -2528,7 +2528,7 @@
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="3" freq="3" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="3" freq="3" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
       </syn>
    </entry>
@@ -2544,19 +2544,19 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="22" freq="1" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="22" freq="1" sense="Temporal.Asynchronous.Succession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="22" freq="1" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="22" freq="1" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="22" freq="2" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="22" freq="2" sense="Contingency.Cause.Result"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="22" freq="13" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="22" freq="13" sense="Contingency.Cause.Reason"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="22" freq="5" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="22" freq="5" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
    </entry>
@@ -2572,13 +2572,13 @@
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="17" freq="10" sense="Expansion.Restatement.Equivalence" />
+            <pdtb2_relation anno_N="17" freq="10" sense="Expansion.Restatement.Equivalence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="17" freq="4" sense="Expansion.Restatement" />
+            <pdtb2_relation anno_N="17" freq="4" sense="Expansion.Restatement"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="17" freq="3" sense="Expansion.Restatement.Generalization" />
+            <pdtb2_relation anno_N="17" freq="3" sense="Expansion.Restatement.Generalization"/>
          </sem>
       </syn>
    </entry>
@@ -2594,16 +2594,16 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="112" freq="105" sense="Expansion.Alternative.Chosen alternative" />
+            <pdtb2_relation anno_N="112" freq="105" sense="Expansion.Alternative.Chosen alternative"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="112" freq="2" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="112" freq="2" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="112" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="112" freq="1" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="112" freq="4" sense="Expansion.Alternative" />
+            <pdtb2_relation anno_N="112" freq="4" sense="Expansion.Alternative"/>
          </sem>
       </syn>
    </entry>
@@ -2616,16 +2616,16 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="6" freq="2" sense="Expansion.Alternative.Chosen alternative" />
+            <pdtb2_relation anno_N="6" freq="2" sense="Expansion.Alternative.Chosen alternative"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="6" freq="2" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="6" freq="2" sense="Comparison.Concession.Expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="6" freq="1" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="6" freq="1" sense="Expansion.Restatement.Specification"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="6" freq="1" sense="Comparison" />
+            <pdtb2_relation anno_N="6" freq="1" sense="Comparison"/>
          </sem>
       </syn>
    </entry>
@@ -2641,10 +2641,10 @@
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="95" freq="1" sense="Contingency.Condition.Hypothetical" />
+            <pdtb2_relation anno_N="95" freq="1" sense="Contingency.Condition.Hypothetical"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="95" freq="94" sense="Expansion.Alternative.Disjunctive" />
+            <pdtb2_relation anno_N="95" freq="94" sense="Expansion.Alternative.Disjunctive"/>
          </sem>
       </syn>
    </entry>
@@ -2660,82 +2660,82 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="320" freq="2" sense="Comparison" />
+            <pdtb2_relation anno_N="320" freq="2" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="5" sense="Comparison.Concession" />
+            <pdtb2_relation anno_N="320" freq="5" sense="Comparison.Concession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="5" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="320" freq="5" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Contrast.Opposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="15" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="320" freq="15" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="52" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="320" freq="52" sense="Comparison.Concession.Expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="15" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="320" freq="15" sense="Comparison.Contrast"/>
          </sem>
       </syn>
       <syn>
          <cat>NNP</cat>
          <sem>
-            <pdtb2_relation anno_N="320" freq="10" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="320" freq="10" sense="Comparison.Concession.Expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="2" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="320" freq="2" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Contrast.Opposition"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="320" freq="4" sense="Comparison" />
+            <pdtb2_relation anno_N="320" freq="4" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Concession" />
+            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Concession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="14" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="320" freq="14" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Contrast.Opposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="14" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="320" freq="14" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="33" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="320" freq="33" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="320" freq="1" sense="Comparison.Concession.Expectation"/>
          </sem>
       </syn>
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="320" freq="6" sense="Comparison" />
+            <pdtb2_relation anno_N="320" freq="6" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="53" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="320" freq="53" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="26" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="320" freq="26" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="42" sense="Comparison.Concession.Expectation" />
+            <pdtb2_relation anno_N="320" freq="42" sense="Comparison.Concession.Expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="320" freq="16" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="320" freq="16" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
       </syn>
    </entry>
@@ -2751,37 +2751,37 @@
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="82" freq="1" sense="Comparison" />
+            <pdtb2_relation anno_N="82" freq="1" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="82" freq="33" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="82" freq="33" sense="Expansion.Conjunction"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="82" freq="2" sense="Expansion.Instantiation" />
+            <pdtb2_relation anno_N="82" freq="2" sense="Expansion.Instantiation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="82" freq="3" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="82" freq="3" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="82" freq="2" sense="Expansion" />
+            <pdtb2_relation anno_N="82" freq="2" sense="Expansion"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="82" freq="1" sense="Expansion.Restatement.Generalization" />
+            <pdtb2_relation anno_N="82" freq="1" sense="Expansion.Restatement.Generalization"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="82" freq="2" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="82" freq="2" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="82" freq="35" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="82" freq="35" sense="Expansion.Restatement.Specification"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="82" freq="2" sense="Expansion.Restatement" />
+            <pdtb2_relation anno_N="82" freq="2" sense="Expansion.Restatement"/>
          </sem>
       </syn>
       <syn>
          <cat>PP-LOC</cat>
          <sem>
-            <pdtb2_relation anno_N="82" freq="1" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="82" freq="1" sense="Expansion.Restatement.Specification"/>
          </sem>
       </syn>
    </entry>
@@ -2797,10 +2797,10 @@
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="15" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="15" freq="1" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="15" freq="14" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="15" freq="14" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
    </entry>
@@ -2816,13 +2816,13 @@
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="12" freq="5" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="12" freq="5" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="12" freq="5" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="12" freq="5" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="12" freq="2" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="12" freq="2" sense="Comparison.Contrast.Opposition"/>
          </sem>
       </syn>
    </entry>
@@ -2835,16 +2835,16 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="3" freq="1" sense="Contingency.Condition.Hypothetical" />
+            <pdtb2_relation anno_N="3" freq="1" sense="Contingency.Condition.Hypothetical"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="3" freq="1" sense="Contingency.Condition.General" />
+            <pdtb2_relation anno_N="3" freq="1" sense="Contingency.Condition.General"/>
          </sem>
       </syn>
       <syn>
          <cat>UCP</cat>
          <sem>
-            <pdtb2_relation anno_N="3" freq="1" sense="Contingency.Condition.Hypothetical" />
+            <pdtb2_relation anno_N="3" freq="1" sense="Contingency.Condition.Hypothetical"/>
          </sem>
       </syn>
    </entry>
@@ -2860,7 +2860,7 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="7" freq="7" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="7" freq="7" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
    </entry>
@@ -2873,10 +2873,10 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="5" freq="3" sense="Comparison" />
+            <pdtb2_relation anno_N="5" freq="3" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="5" freq="2" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="5" freq="2" sense="Expansion.Restatement.Specification"/>
          </sem>
       </syn>
    </entry>
@@ -2892,7 +2892,7 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="6" freq="6" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="6" freq="6" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
    </entry>
@@ -2905,7 +2905,7 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="31" freq="31" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="31" freq="31" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
    </entry>
@@ -2921,22 +2921,22 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="44" freq="1" sense="Comparison" />
+            <pdtb2_relation anno_N="44" freq="1" sense="Comparison"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="44" freq="7" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="44" freq="7" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="44" freq="1" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="44" freq="1" sense="Comparison.Contrast.Opposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="44" freq="5" sense="Comparison.Pragmatic concession" />
+            <pdtb2_relation anno_N="44" freq="5" sense="Comparison.Pragmatic concession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="44" freq="19" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="44" freq="19" sense="Comparison.Concession.Contra-expectation"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="44" freq="11" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="44" freq="11" sense="Comparison.Contrast"/>
          </sem>
       </syn>
    </entry>
@@ -2949,7 +2949,7 @@
       <syn>
          <cat>phrase</cat>
          <sem>
-            <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous" />
+            <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous"/>
          </sem>
       </syn>
    </entry>
@@ -2965,16 +2965,16 @@
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="91" freq="89" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="91" freq="89" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="91" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="91" freq="1" sense="Expansion.Conjunction"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="91" freq="1" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="91" freq="1" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
       </syn>
    </entry>
@@ -2990,22 +2990,22 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="17" freq="5" sense="Expansion.Alternative.Chosen alternative" />
+            <pdtb2_relation anno_N="17" freq="5" sense="Expansion.Alternative.Chosen alternative"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="17" freq="3" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="17" freq="3" sense="Comparison.Contrast"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="17" freq="1" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="17" freq="1" sense="Comparison.Contrast.Juxtaposition"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="17" freq="7" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="17" freq="7" sense="Expansion.Restatement.Specification"/>
          </sem>
       </syn>
       <syn>
          <cat>RB</cat>
          <sem>
-            <pdtb2_relation anno_N="17" freq="1" sense="Expansion.Alternative.Chosen alternative" />
+            <pdtb2_relation anno_N="17" freq="1" sense="Expansion.Alternative.Chosen alternative"/>
          </sem>
       </syn>
    </entry>
@@ -3021,34 +3021,34 @@
       <syn>
          <cat>CC</cat>
          <sem>
-            <pdtb2_relation anno_N="263" freq="13" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="263" freq="13" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP-MNR</cat>
          <sem>
-            <pdtb2_relation anno_N="263" freq="1" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="263" freq="1" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="263" freq="48" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="263" freq="48" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
       <syn>
          <cat>RB</cat>
          <sem>
-            <pdtb2_relation anno_N="263" freq="61" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="263" freq="61" sense="Contingency.Cause.Result"/>
          </sem>
       </syn>
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="263" freq="139" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="263" freq="139" sense="Contingency.Cause.Result"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="263" freq="1" sense="Contingency.Cause.Reason" />
+            <pdtb2_relation anno_N="263" freq="1" sense="Contingency.Cause.Reason"/>
          </sem>
       </syn>
    </entry>
@@ -3064,19 +3064,19 @@
       <syn>
          <cat>PP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="7" freq="2" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="7" freq="2" sense="Temporal.Asynchronous.Precedence"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="7" freq="2" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="7" freq="2" sense="Temporal.Asynchronous.Succession"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="7" freq="2" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="7" freq="2" sense="Temporal.Synchrony"/>
          </sem>
       </syn>
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="7" freq="1" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="7" freq="1" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
    </entry>
@@ -3095,31 +3095,31 @@
       <syn>
          <cat>ADVP-TMP</cat>
          <sem>
-            <pdtb2_relation anno_N="84" freq="2" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="84" freq="2" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
       <syn>
          <cat>RB</cat>
          <sem>
-            <pdtb2_relation anno_N="84" freq="2" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="84" freq="2" sense="Temporal.Synchrony"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="84" freq="2" sense="Contingency.Condition.General" />
+            <pdtb2_relation anno_N="84" freq="2" sense="Contingency.Condition.General"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="84" freq="38" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="84" freq="38" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
       <syn>
          <cat>IN</cat>
          <sem>
-            <pdtb2_relation anno_N="84" freq="1" sense="Contingency.Condition.Hypothetical" />
+            <pdtb2_relation anno_N="84" freq="1" sense="Contingency.Condition.Hypothetical"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="84" freq="1" sense="Contingency.Condition.General" />
+            <pdtb2_relation anno_N="84" freq="1" sense="Contingency.Condition.General"/>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="84" freq="38" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="84" freq="38" sense="Temporal.Asynchronous.Succession"/>
          </sem>
       </syn>
    </entry>
