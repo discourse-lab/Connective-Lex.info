@@ -1,0 +1,4930 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE dimlex
+  SYSTEM "dimlex.dtd">
+<dimlex>
+  <entry id="c1" word="aan de andere kant">
+    <orths>
+      <orth type="cont" canonical="1" onr="c1o1">
+        <part type="phrasal">aan de andere kant</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c1o2">
+        <part type="phrasal">Aan de andere kant</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Dat is helemaal aan de andere kant van de stad!</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Wellicht hebben ze het bij het rechte eind, maar aan de andere kant dachten beleidsmakers in de VS dat de ineenstorting van één investeringsbank, Bear Sterns, de markt had voorbereid op het bankroet van een andere, Lehman Brothers.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c2" word="aangenomen dat">
+    <orths>
+      <orth type="cont" canonical="1" onr="c2o1">
+        <part type="phrasal">aangenomen dat</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c2o2">
+        <part type="phrasal">Aangenomen dat</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>In Lissabon is een actieplan aangenomen dat nu in praktijk moet worden gebracht.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Aangenomen dat morgen alles goed zal verlopen, lijkt het ons een genoegen om met haar op deze en andere gebieden te mogen samenwerken.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c3" word="aangezien">
+    <orths>
+      <orth type="cont" canonical="1" onr="c3o1">
+        <part type="single">aangezien</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c3o2">
+        <part type="single">Aangezien</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c3o3">
+        <part type="single">Gezien</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c3o4">
+        <part type="single">gezien</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Eindelijk voor vol aangezien.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Aangezien hem sterk werd aangeraden naar Londen te reizen, is hij onmiddellijk vertrokken.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c4" word="aansluitend">
+    <orths>
+      <orth type="cont" canonical="1" onr="c4o1">
+        <part type="single">aansluitend</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c4o2">
+        <part type="single">Aansluitend</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Vervolgens moet ik, vaak in de rij aansluitend, een kaartje kopen aan het loket.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Aansluitend zal ik ook nog iets zeggen over twee andere belangrijke kwesties die in Luik aan de orde kwamen.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c5" word="afgezien van">
+    <orths>
+      <orth type="cont" canonical="1" onr="c5o1">
+        <part type="phrasal">afgezien van</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c5o2">
+        <part type="phrasal">Afgezien van</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Enkele afgevaardigden hebben daarom afgezien van hun interventie.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Kunt u mij zeggen wat u van plan bent te doen, afgezien van het formeel invoeren van de wet?</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="exception-arg2-as-except"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c6" word="alhoewel">
+    <orths>
+      <orth type="cont" canonical="1" onr="c6o1">
+        <part type="single">alhoewel</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c6o2">
+        <part type="single">Alhoewel</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Alhoewel veel vooruitgang is geboekt, zijn wij van mening dat de strategie van Lissabon actueler is dan ooit.
+</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="concession-arg1-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c7" word="allereerst">
+    <orths>
+      <orth type="cont" canonical="1" onr="c7o1">
+        <part type="single">allereerst</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c7o2">
+        <part type="single">Allereerst</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Ik heb allereerst de praktijk willen stroomlijnen door de bepalingen van verschillende richtlijnen die betrekking hebben op het proces te harmoniseren.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-succession"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c8" word="naargelang">
+    <orths>
+      <orth type="cont" canonical="1" onr="c8o1">
+        <part type="single">naargelang</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c8o2">
+        <part type="single">Naargelang</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c8o3">
+        <part type="phrasal">Al naargelang</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c8o4">
+        <part type="phrasal">al naargelang</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Hij zal zich wel meer op zijn gemak gaan voelen naargelang hij hier langer is.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-succession"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c9" word="als">
+    <orths>
+      <orth type="cont" canonical="1" onr="c9o1">
+        <part type="single">als</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c9o2">
+        <part type="single">Als</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Ik ben net zo groot als jij.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Als het negen uur is, luiden de kerkklokken.</example>
+      <example>Als de geachte afgevaardigde daarmee instemt, zal ik haar schriftelijk de redenen meedelen.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+      <sem>
+            <pdtb3_relation sense="condition-arg1-as-consequent" freq="15" anno_N="28"/>
+         </sem>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c10" word="als gevolg van">
+    <orths>
+      <orth type="cont" canonical="1" onr="c10o1">
+        <part type="phrasal">als gevolg van</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c10o2">
+        <part type="phrasal">Als gevolg van</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Als gevolg van oorzaak onderscheiden moeilijk is, wordt het ingewikkeld.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>De steunverlening is onwenselijk, omdat ongezonde bedrijven als gevolg van subsidies blijven produceren.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c11" word="met als gevolg">
+    <orths>
+      <orth type="cont" canonical="1" onr="c11o1">
+        <part type="phrasal">met als gevolg</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c11o2">
+        <part type="phrasal">Met als gevolg</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Het is immers niet verplicht zich aanvullend te verzekeren, met als gevolg dat de ongelijkheid aanzienlijk zal toenemen.</example>
+    </stts>
+    <syn>
+      <cat>prep</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c12" word="als gevolg hiervan"><!-- its own entry because this one is anaphoric, in contradiction to 'als gevolg van' -->
+    <orths>
+      <orth type="cont" canonical="1" onr="c12o1">
+        <part type="phrasal">als gevolg hiervan</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c12o2">
+        <part type="phrasal">Als gevolg hiervan</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c10o3">
+        <part type="phrasal">Als gevolg daarvan</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c10o4">
+        <part type="phrasal">als gevolg daarvan</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading/>
+    <stts>
+      <example>We hebben de optie van het verwerven van nucleaire wapens zelfs nooit overwogen, omdat we geloven dat deze wapens onze nationale veiligheidsbelangen kunnen ondermijnen; als gevolg hiervan is er geen plaats voor ze in de Iraanse veiligheidsdoctrine.</example>
+    </stts>
+    <syn>
+      <cat>other</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c13" word="alvorens">
+    <orths>
+      <orth type="cont" canonical="1" onr="c13o1">
+        <part type="single">alvorens</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c13o2">
+        <part type="single">Alvorens</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Er is nog een lange weg te gaan alvorens de wet in de praktijk wordt uitgevoerd.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-succession"/>
+      </sem>
+    </syn>
+  </entry>
+  <!-- amper is in here because 'kaum' is in DiMLex. Find it hard to think of a connective use of it though. -->
+  <!--
+  <entry id="c14" word="amper">
+    <orths>
+      <orth type="cont" canonical="1" onr="c14o1">
+        <part type="single">amper</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c14o2">
+        <part type="single">Amper</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>_todo_</sem_ambiguity>
+    </ambiguity>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>example_here</example>
+    </non_conn_reading>
+    <stts>
+      <example>example_here</example>
+    </stts>
+    <syn>
+      <cat>_todo_</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="sense_here"/>
+      </sem>
+    </syn>
+    </entry>
+    -->
+  <entry id="c15" word="anders">
+    <orths>
+      <orth type="cont" canonical="1" onr="c15o1">
+        <part type="single">anders</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c15o2">
+        <part type="single">Anders</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Ook hier heb ik de resultaten anders geïnterpreteerd dan Caroline.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Anders dan veel gemakkelijke kritiek doet vermoeden, kan Europa niet verweten worden dat het bezuinigingen aan de Grieken heeft opgelegd.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="negative-condition-arg2-as-consequent"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c16" word="enerzijds...anderzijds">
+    <orths>
+      <orth type="discont" canonical="1" onr="c16o1">
+	<part type="single">enerzijds</part>
+	<part type="single">anderzijds</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="c16o2">
+	<part type="single">Enerzijds</part>
+        <part type="single">Anderzijds</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Over het opstellen van adequate immigratieprocedures wordt enerzijds niet overlegd met het Europees Parlement en bestaat er anderzijds geen overeenstemming tussen de regeringen van de vijftien lidstaten.</example>
+    </stts>
+    <syn>
+      <cat>other</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+      <!-- 'andererseits' in DiMLex also has conjunction sense -->
+    </syn>
+  </entry>
+  <entry id="c17" word="behalve">
+    <orths>
+      <orth type="cont" canonical="1" onr="c17o1">
+        <part type="single">behalve</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c17o2">
+        <part type="single">Behalve</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Het doet mij genoegen dat er behalve de indiening van deze klacht nu ook een defensief mechanisme in werking zal treden</example>
+    </stts>
+    <syn>
+      <cat>cco</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="exception-arg2-as-except"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c18" word="bijgevolg">
+    <orths>
+      <orth type="cont" canonical="1" onr="c18o1">
+        <part type="single">bijgevolg</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c18o2">
+        <part type="single">Bijgevolg</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Het ziet er immers naar uit dat de richtlijn in werking zal treden nog vóór de eerste kandidaat-landen tot de Unie toetreden. Op het tijdstip van hun toetreding moeten zij zich bijgevolg aan dezelfde verplichtingen houden als de huidige lidstaten.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c19" word="bijvoorbeeld">
+    <orths>
+      <orth type="cont" canonical="1" onr="c19o1">
+        <part type="single">bijvoorbeeld</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c19o2">
+        <part type="single">Bijvoorbeeld</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c19o3">
+        <part type="single">bijv.</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Ik denk bijvoorbeeld aan mijn stad, Vigo, in het noordwesten van Spanje.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="instantiation"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c20" word="bovendien">
+    <orths>
+      <orth type="cont" canonical="1" onr="c20o1">
+        <part type="single">bovendien</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c20o2">
+        <part type="single">Bovendien</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Ook de Raad kan zich in het ontwerp vinden en bovendien is er rekening gehouden met de volkomen gerechtvaardigde eisen van de Commissie.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c22" word="buiten">
+    <orths>
+      <orth type="cont" canonical="1" onr="c22o1">
+        <part type="single">buiten</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c22o2">
+        <part type="single">Buiten</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Kom, we gaan buiten spelen!</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Buiten een aantal zakelijke kringen, vakorganisaties en NGO's helpt nog een hele reeks andere organen ons handelsbeleid te bepalen.</example>
+    </stts>
+    <syn>
+      <cat>cco</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="exception-arg2-as-except"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c23" word="daarbuiten">
+    <orths>
+      <orth type="cont" canonical="1" onr="c23o1">
+        <part type="single">daarbuiten</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c23o2">
+        <part type="single">Daarbuiten</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Wij weten dat deze strijd tegen de corruptie in de hele Europese Unie en ook daarbuiten moet worden gevoerd.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Natuurlijk moeten de Verenigde Staten, ook militair, in staat zijn om in hun eigen achtertuin de vrede te bewaren. Daarbuiten moeten we vooral doen waar we goed in zijn: dat is praten, praten, nog eens praten, compromissen sluiten en uiteindelijk betalen.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="exception-arg2-as-except"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c24" word="daardoor">
+    <orths>
+      <orth type="cont" canonical="1" onr="c24o1">
+        <part type="single">daardoor</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c24o2">
+        <part type="single">Daardoor</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Als in de VS de olieprijzen stijgen, dan stijgen daardoor ook de inkomens in Texas en Montana.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c25" word="daarentegen">
+    <orths>
+      <orth type="cont" canonical="1" onr="c25o1">
+        <part type="single">daarentegen</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c25o2">
+        <part type="single">Daarentegen</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Er komt niet meer geld voor onderzoek omdat de lidstaten een en ander via de EU-autoriteiten regelen.
+Daarentegen komt er meer bureaucratie en stijgen de kosten.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c26" word="daarmee">
+    <orths>
+      <orth type="cont" canonical="1" onr="c26o1">
+        <part type="single">daarmee</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c26o2">
+        <part type="single">Daarmee</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>We gaan pas als je daarmee klaar bent.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Zij menen dat de Europese Unie veel te veel het succes van het proces van de tien toetredingslanden poogt te kopiëren in de Zuidoost-Europa. Daarmee stelt de Unie in feite te hoge eisen aan staten die daaraan nog niet toe zijn.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c27" word="daarna">
+    <orths>
+      <orth type="cont" canonical="1" onr="c27o1">
+        <part type="single">daarna</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c27o2">
+        <part type="single">Daarna</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Het is niet aan mij om hier de conclusies van de Raad te onthullen, maar ik roep de leden van dit Parlement op om de conclusies te lezen. Ik stel voor dat wij elkaar daarna opnieuw spreken.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c28" word="daarnaast">
+    <orths>
+      <orth type="cont" canonical="1" onr="c28o1">
+        <part type="single">daarnaast</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c28o2">
+        <part type="single">Daarnaast</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Marie stond in het bushokje en Jan vlak daarnaast.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Wij zijn steeds voorstander geweest van het concept dat leden van het Europees Parlement niet anders behandeld mogen worden dan andere ingezetenen van hun lidstaten. Daarnaast is het van groot belang dat wij vandaag een punt zetten achter de hele onkostenkwestie.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c29" word="daarom">
+    <orths>
+      <orth type="cont" canonical="1" onr="c29o1">
+        <part type="single">daarom</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c29o2">
+        <part type="single">Daarom</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Wat betreft die situatie; daarom maak ik me al zorgen, dat hoef jij niet te doen.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Dit risico kunnen wij weliswaar beperken, maar nooit helemaal uitsluiten en daarom wil ik een lans breken voor meer vervoer over het spoor.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c30" word="daarop">
+    <orths>
+      <orth type="cont" canonical="1" onr="c30o1">
+        <part type="single">daarop</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c30o2">
+        <part type="single">Daarop</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>De tafel staat in de keuken en die doos staat daarop.</example>
+    </non_conn_reading>
+    <ambiguity><non_conn>1</non_conn><sem_ambiguity>0</sem_ambiguity></ambiguity><stts>
+      <example>Nee, ik ben er zeker van dat de recente recessie vooral het gevolg is van een wereldwijde krediethausse en de rampspoed die daarop volgde.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c31" word="daartegenover">
+    <orths>
+      <orth type="cont" canonical="1" onr="c31o1">
+        <part type="single">daartegenover</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c31o2">
+        <part type="single">Daartegenover</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Dat gaat geld kosten. Daartegenover staat dat het ons ook duur te staan zal komen als er géén uitbreiding komt.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c32" word="daartoe">
+    <orths>
+      <orth type="cont" canonical="1" onr="c32o1">
+        <part type="single">daartoe</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c32o2">
+        <part type="single">Daartoe</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>De belangrijkste input bij de productie van nieuwe kennis is eerdere kennis, en patenten belemmeren de toegang daartoe.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Los van de details en de concrete voorstellen, hoe belangrijk die ook zijn, komt het er in Laken vooral op aan om een nieuw perspectief te openen, een grondwettelijk perspectief. Daartoe is het, zoals ik al zei, onontbeerlijk het tij te keren.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="purpose-arg1-as-goal"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c33" word="daarvoor">
+    <orths>
+      <orth type="cont" canonical="1" onr="c33o1">
+        <part type="single">daarvoor</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c33o2">
+        <part type="single">Daarvoor</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Kijk even bij de boeken, wat je zoekt staat daarvoor.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Zo concludeerden de Harvard-econometristen James Stock (nu lid van de raad van economische adviseurs van president Barack Obama) en Mark Watson in 2005, vlak voor het losbarsten van de financiële crisis, dat de ontwikkelde economieën in de veertig jaar daarvoor minder volatiel en onafhankelijker van elkaar waren geworden.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/> <!-- note sure about this sense -->
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c34" word="dankzij"> <!-- not sure if both args can be clausal (can only think of Arg2 as NP examples))-->
+    <orths>
+      <orth type="cont" canonical="1" onr="c34o1">
+        <part type="single">dankzij</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c34o2">
+        <part type="single">Dankzij</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading/>
+    <stts>
+      <example>Dankzij het internet doen afstanden er niet meer toe, de hele wereld kan nu ons klaslokaal zijn.</example>
+    </stts>
+    <syn>
+      <cat>prep</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c35" word="dat wil zeggen">
+    <orths>
+      <orth type="cont" canonical="1" onr="c35o1">
+        <part type="phrasal">dat wil zeggen</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c35o2">
+        <part type="phrasal">Dat wil zeggen</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c35o3">
+        <part type="phrasal">d.w.z.</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c35o4">
+        <part type="phrasal">D.w.z.</part>
+      </orth>
+    </orths>
+    <focuspart>cco</focuspart>
+    <non_conn_reading>
+      <example>Als ik dat wil zeggen, moet dat gewoon kunnen.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Op deze manier vallen ongeveer 1.500 stoffen, dat wil zeggen 5 % van alle stoffen, onder deze toelatingsprocedure.</example>
+    </stts>
+    <syn>
+      <cat>other</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="equivalence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c36" word="derhalve">
+    <orths>
+      <orth type="cont" canonical="1" onr="c36o1">
+        <part type="single">derhalve</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c36o2">
+        <part type="single">Derhalve</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>De getroffen maatregelen kosten de overheid en de burgers immers buitengewoon veel geld. Wij mogen derhalve geen overbodige maatregelen eisen, hoewel vragen uiteraard altijd vrij staat.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c37" word="desalniettemin">
+    <orths>
+      <orth type="cont" canonical="1" onr="c37o1">
+        <part type="single">desalniettemin</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c37o2">
+        <part type="single">Desalniettemin</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Dat is uitermate onvoorspelbaar. Desalniettemin kunnen we ons vrij gemakkelijk voorstellen hoe dit proces gekeerd kan worden.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="concession-arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c38" word="desondanks">
+    <orths>
+      <orth type="cont" canonical="1" onr="c38o1">
+        <part type="single">desondanks</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c38o2">
+        <part type="single">Desondanks</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Daardoor bestaat het risico dat er vissen worden gevangen die op zichzelf zeer waardevol zijn en desondanks in zee worden teruggegooid.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="concession-arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c39" word="des te meer">
+    <orths>
+      <orth type="cont" canonical="1" onr="c39o1">
+        <part type="phrasal">des te meer</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c39o2">
+        <part type="phrasal">Des te meer</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Hoe meer we voelen, des te meer we ergens om geven – en des te moreler onze beweegredenen zijn.</example>
+    </stts>
+    <syn>
+      <cat>other</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c40" word="des te minder">
+    <orths>
+      <orth type="cont" canonical="1" onr="c42o1">
+        <part type="phrasal">des te minder</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c42o2">
+        <part type="phrasal">Des te minder</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Hoe dieper de inzinking in andere landen en hoe hoger de dollarkoers, des te minder de Verenigde Staten zich zullen kunnen indekken tegen de slapte elders in de wereld, zelfs nu de binnenlandse vraag sterk lijkt.</example>
+    </stts>
+    <syn>
+      <cat>other</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c41" word="dienovereenkomstig">
+    <orths>
+      <orth type="cont" canonical="1" onr="c41o1">
+        <part type="single">dienovereenkomstig</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c41o2">
+        <part type="single">Dienovereenkomstig</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Iran en zijn internationale gespreksgenoten moeten van het verleden leren en dienovereenkomstig de verwachtingen in goede banen leiden.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c42" word="dientengevolge">
+    <orths>
+      <orth type="cont" canonical="1" onr="c42o1">
+        <part type="single">dientengevolge</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c42o2">
+        <part type="single">Dientengevolge</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Vervolgens weigerde de Romney-campagne op de verkiezingsavond, toen de televisiezenders de nederlaag van de Republikein in Ohio voorspelden en dientengevolge de herverkiezing van Obama, de uitslag te aanvaarden.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c43" word="doch">
+    <orths>
+      <orth type="cont" canonical="1" onr="c43o1">
+        <part type="single">doch</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c43o2">
+        <part type="single">Doch</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Mocht deze snelle, doch niet adequate marsroute gekozen worden, dan heeft dat ingrijpende gevolgen.</example>
+    </stts>
+    <syn>
+      <cat>cco</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+      <!-- Question: Is 'Ze is streng, doch rechtvaardig' perhaps a case of concession-arg2-as-denier ?-->
+    </syn>
+  </entry>
+  <entry id="c44" word="dus">
+    <orths>
+      <orth type="cont" canonical="1" onr="c44o1">
+        <part type="single">dus</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c44o2">
+        <part type="single">Dus</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Het van buitenaf opleggen van dit soort programma's is eenvoudigweg geen effectieve optie. Dus als hervormingen vat op het land willen krijgen, zullen de Griekse regering en haar electoraat erin moeten geloven.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c45" word="echter">
+    <orths>
+      <orth type="cont" canonical="1" onr="c45o1">
+        <part type="single">echter</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c45o2">
+        <part type="single">Echter</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Die versie ziet er echter uit.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>De Wereldbank schat dat dergelijke beperkingen China 2,3% van zijn bbp kosten. China heeft echter nog geen gebrek aan water.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="concession-arg2-as-denier"/>
+      </sem>
+      <!-- maybe in line with 'aber' in dimlex, this one should aso have concession-arg1-as-denier as sense? -->
+    </syn>
+  </entry>
+  <entry id="c46" word="eerst">
+    <orths>
+      <orth type="cont" canonical="1" onr="c46o1">
+        <part type="single">eerst</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c46o2">
+        <part type="single">Eerst</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Marie was eerst aan de beurt!</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Onafhankelijke wetenschappers, die de bevindingen van deze onderzoeken willen controleren, zullen eerst deze cijfers moeten reproduceren en daarna de programma's.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c47" word="en">
+    <orths>
+      <orth type="cont" canonical="1" onr="c47o1">
+        <part type="single">en</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c47o2">
+        <part type="single">En</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Klaus en Maria zijn man en vrouw..</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Die aanpak heeft er namelijk toe geleid dat de rapporteur - en dat is toch tamelijk ongebruikelijk - zich uiteindelijk niet in het resultaat heeft kunnen vinden en haar naam niet langer met dit verslag wilde verbinden.</example>
+    </stts>
+    <syn>
+      <cat>cco</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c48" word="enerzijds">
+    <orths>
+      <orth type="cont" canonical="1" onr="c48o1">
+        <part type="single">enerzijds</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c48o2">
+        <part type="single">Enerzijds</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Wij moeten ervoor zorgen dat wij altijd het evenwicht bewaren tussen enerzijds de bescherming van ons milieu en anderzijds de economische vooruitgang.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c49" word="eveneens">
+    <orths>
+      <orth type="cont" canonical="1" onr="c49o1">
+        <part type="single">eveneens</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c49o2">
+        <part type="single">Eveneens</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>U wilt call-back, mijnheer Goebbels, ik wil call-back en de heer Bolkestein eveneens.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c50" word="evenmin">
+    <orths>
+      <orth type="cont" canonical="1" onr="c50o1">
+        <part type="single">evenmin</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c50o2">
+        <part type="single">Evenmin</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Onderzoeksjournalistiek en serieus commentaar hebben evenmin een winstmodel als religie.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c51" word="evenzeer">
+    <orths>
+      <orth type="cont" canonical="1" onr="c51o1">
+        <part type="single">evenzeer</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c51o2">
+        <part type="single">Evenzeeer</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>We kunnen deze niet eerdaags uitroeien of vernietigen, omdat het evenzeer een netwerk en idee is als een organisatie en de facto staat die gebied en hulpbronnen controleert.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c52" word="evenzo">
+    <orths>
+      <orth type="cont" canonical="1" onr="c52o1">
+        <part type="single">evenzo</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c52o2">
+        <part type="single">Evenzo</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>De creatie van Israël komt evenzo voort uit de Balfour-verklaring uit 1917.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c53" word="gelet op">
+    <orths>
+      <orth type="cont" canonical="1" onr="c53o1">
+        <part type="phrasal">gelet op</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c53o2">
+        <part type="phrasal">Gelet op</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Hij had te slecht gelet op het verkeer.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>En dan praten we wel over een potentiële nabuur van de Europese Unie, gelet op de kandidaatstatus van Turkije.</example>
+    </stts>
+    <syn>
+      <cat>other</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="conjunction"/> <!-- not sure about this sense -->
+      </sem>
+    </syn>
+    </entry>
+  <entry id="c54" word="gesteld">
+    <orths>
+      <orth type="cont" canonical="1" onr="c54o1">
+        <part type="single">gesteld</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c54o2">
+        <part type="single">Gesteld</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c54o3">
+        <part type="phrasal">Gesteld dat</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c54o4">
+        <part type="phrasal">gesteld dat</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c54o5">
+        <part type="phrasal">Vastgesteld dat</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c54o6">
+        <part type="phrasal">vastgesteld dat</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>De Begrotingscommissie is van mening dat er geen geld meer beschikbaar mag worden gesteld als niet aan deze twee punten wordt voldaan.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>En bovendien, gesteld dat Irak over wapens zou beschikken, waar halen wij dan het recht vandaan het land te beroven van de middelen om zich te verdedigen?</example>
+    </stts>
+    <syn>
+      <cat>other</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c55" word="hierdoor">
+    <orths>
+      <orth type="cont" canonical="1" onr="c55o1">
+        <part type="single">hierdoor</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c55o2">
+        <part type="single">Hierdoor</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+  </ambiguity><!-- think the usage in 'Om bij dat dorpje uit te komen moeten we hier door.' is mandatorily with a whitespace (and run-together is incorrect), but not sure. -->
+    <stts>
+      <example>In het ergste geval zullen een paar duizend vissers werkloos worden. Zweden zal hierdoor het zwaarst worden getroffen aangezien Denemarken en Finland ook visgronden in de Atlantische Oceaan hebben.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="manner-arg1-as-manner"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c56" word="hierop">
+    <orths>
+      <orth type="cont" canonical="1" onr="c56o1">
+        <part type="single">hierop</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c56o2">
+        <part type="single">Hierop</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Er stond een tafel. Hierop lag een boek.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Het omvangrijke vraagstuk waarop in dit rapport werd ingegaan betrof de noodzaak de asielstelsels weer in de hand te krijgen. Hierop volgde een mededeling van de Commissie waarin de eenvoudige vragen ingewikkeld worden gemaakt.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c57" word="hierentegen">
+    <orths>
+      <orth type="cont" canonical="1" onr="c57o1">
+        <part type="single">hierentegen</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c57o2">
+        <part type="single">Hierentegen</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Ons team speelde offensief. De anderen hierentegen bleven verdedigend spelen.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c58" word="hiertoe">
+    <orths>
+      <orth type="cont" canonical="1" onr="c58o1">
+        <part type="single">hiertoe</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c58o2">
+        <part type="single">Hiertoe</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Als zij hiertoe niet bereid zijn, zijn wij gedwongen prioriteiten te stellen, wat wellicht minder goed zal uitpakken.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Zo is er voor 1 januari 2006 een tussenstap voorzien waarbij de gewichtsklasse die buiten mededinging blijft, met maar liefst de helft wordt verlaagd: van 100 naar 50 gram. Maar die tussenstap verloopt automatisch. Hiertoe wordt nu al besloten zonder dat de gevolgen werkelijk en serieus zijn onderzocht.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="purpose-arg1-as-goal"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c59" word="hiervoor">
+    <orths>
+      <orth type="cont" canonical="1" onr="c59o1">
+        <part type="single">hiervoor</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c59o2">
+        <part type="single">Hiervoor</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>We zijn dus ruim op tijd om de financiën hiervoor vast te leggen.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Alle soorten handel in cellen en weefsels moeten in principe strafbaar zijn. Hiervoor moeten wij echter een nauwkeurigere formulering gebruiken.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="purpose-arg1-as-goal"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/> <!-- not sure about this one. Also, 'daarvoor' now only has this sense. Perhaps it should also have purpose-arg1-as-goal? -->
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c60" word="hoe dan ook">
+    <orths>
+      <orth type="cont" canonical="1" onr="c60o1">
+        <part type="phrasal">hoe dan ook</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c60o2">
+        <part type="phrasal">Hoe dan ook</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Een aantal vragen had hoe dan ook schriftelijk beantwoord moeten worden.</example>
+    </stts>
+    <syn>
+      <cat>other</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c61" word="hoewel">
+    <orths>
+      <orth type="cont" canonical="1" onr="c61o1">
+        <part type="single">hoewel</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c61o2">
+        <part type="single">Hoewel</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Hoewel de controle een nationale bevoegdheid is, neemt dit niet weg dat er een tweejaarlijks verslag moet worden opgesteld over de resultaten van de controle, dat aan de Commissie moet worden voorgelegd.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="concession-arg1-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c62" word="hoezeer">
+    <orths>
+      <orth type="cont" canonical="1" onr="c62o1">
+        <part type="single">hoezeer</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c62o2">
+        <part type="single">Hoezeer</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Ik wil nogmaals hier onderstrepen hoezeer ik dat betreur.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Hoezeer we ook van mening kunnen verschillen over een conflict als dat in Tsjetsjenië, er kan en mag nooit enige rechtvaardiging worden gevonden voor dit soort gruweldaden.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c63" word="immers">
+    <orths>
+      <orth type="cont" canonical="1" onr="c63o1">
+        <part type="single">immers</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c63o2">
+        <part type="single">Immers</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Er bestaat immers bewijs dat ook zij gepest worden.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/> <!-- immerhin in dimlex also has contrast and concession-arg2-as-denier as sense, but find it hard to imagine this for immers -->
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c64" word="in plaats van">
+    <orths>
+      <orth type="cont" canonical="1" onr="c64o1">
+        <part type="phrasal">in plaats van</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c64o2">
+        <part type="phrasal">In plaats van</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c64o3">
+        <part type="phrasal">In de plaats van</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c64o4">
+        <part type="phrasal">in de plaats van</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>We zijn in Volendam, in de plaats van de palingzangers.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Misschien zouden in plaats van obligaties en goudgerande aandelen zelfs pensioenfondsen kunnen worden gebruikt om hogere groeiopbrengsten te realiseren.</example>
+    </stts>
+    <syn>
+      <cat>prep</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="substitution-arg1-as-subst"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c65" word="inmiddels">
+    <orths>
+      <orth type="cont" canonical="1" onr="c65o1">
+        <part type="single">inmiddels</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c65o2">
+        <part type="single">Inmiddels</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Met betrekking tot de noodzaak onmiddellijk op te treden is inmiddels aan beide kanten een nieuwe houding waarneembaar.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+    </syn>
+    </entry>
+  <entry id="c66" word="integendeel">
+    <orths>
+      <orth type="cont" canonical="1" onr="c66o1">
+        <part type="single">integendeel</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c66o2">
+        <part type="single">Integendeel</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>In juli constateerden de Commissie en het Parlement, ieder na een uitgebreid eigen onderzoek, dat er niks veranderd was. Integendeel, de zaak verslechterde.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c67" word="in tegenstelling tot">
+    <orths>
+      <orth type="cont" canonical="1" onr="c67o1">
+        <part type="phrasal">in tegenstelling tot</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c67o2">
+        <part type="phrasal">In tegenstelling tot</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>In tegenstelling tot hetgeen sommige instanties eisen, is de Milieucommissie van mening dat in dit verband nu alleen zwavel moet worden behandeld.</example>
+    </stts>
+    <syn>
+      <cat>prep</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c68" word="intussen">
+    <orths>
+      <orth type="cont" canonical="1" onr="c68o1">
+        <part type="single">intussen</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c68o2">
+        <part type="single">Intussen</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Deze schepen worden vervolgens vernietigd, maar de vloot bouwt intussen wel oneigenlijke reserves aan kilowatts op.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+    </syn>
+  </entry>
+  <!--
+  <entry id="c69" word="in tweede plaats">
+    <orths>
+      <orth type="cont" canonical="1" onr="c69o1">
+        <part type="phrasal">in tweede plaats</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c69o2">
+        <part type="phrasal">In tweede plaats</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c69o3">
+        <part type="phrasal">In de tweede plaats</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c69o4">
+        <part type="phrasal">in de tweede plaats</part>
+      </orth>
+    </orths>
+    <focuspart>csu</focuspart>
+    <non_conn_reading>
+      <example>Verstappen eindige in tweede plaats.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Het is hierbij van belang dat de Conventie de kans krijgt meer globale en definitieve voorstellen te doen over het toekomstige institutionele bestel van de Europese Unie. In de tweede plaats wil ik aangeven dat wij de beginselen van samenhang, doelmatigheid en transparantie onderschrijven waarop de heer Solana in zijn verslag de hervorming van de Raad wil baseren.</example>
+    </stts>
+    <syn>
+      <cat>_todo_</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+    </entry>
+  -->
+  <entry id="c70" word="in zover">
+    <orths>
+      <orth type="cont" canonical="1" onr="c70o1">
+        <part type="phrasal">in zover</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c70o2">
+        <part type="phrasal">In zover</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Met onze amendementen willen wij de Europese Unie ook geen standpunt ten aanzien van abortus doen innemen. In zover het om het demografisch beleid gaat, moeten wij de conferentie van Caïro ernstig nemen.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c71" word="in zoverre"> <!-- I think this needs its own entry (and is not an orth of in zover), because it can be more anaphoric. I think 'In zoverre klopt het wat je zegt.' is ok, while 'In zover klopt het wat je zegt.' is not. -->
+    <orths>
+      <orth type="cont" canonical="1" onr="c71o1">
+        <part type="phrasal">in zoverre</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c71o2">
+        <part type="phrasal">In zoverre</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading/>
+    <stts>
+      <example>Die actie heeft in zoverre succes gehad dat de klandizie van deze exploitanten is teruggelopen, maar de actiegroep wacht nog steeds op schadeloosstelling en teruggave van het geld.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c72" word="kortom">
+    <orths>
+      <orth type="cont" canonical="1" onr="c72o1">
+        <part type="single">kortom</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c72o2">
+        <part type="single">Kortom</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Tot die maatregelen behoren doeltreffend strafrechtelijk onderzoek en optreden, efficiënte strafrechtelijke sancties en effectieve politiële, strafrechtelijke en administratieve samenwerking. Kortom, het gaat erom een bestand van strafrechtelijke sancties voor milieudelicten te creëren.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="specification-arg1-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c73" word="laat staan">
+    <orths>
+      <orth type="cont" canonical="1" onr="c73o1">
+        <part type="phrasal">laat staan</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c73o2">
+        <part type="phrasal">Laat staan</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Ik hoop dat hij de taart laat staan!</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Het is voor de Europese Commissie zo goed als onmogelijk om de situatie op nationaal en regionaal vlak te controleren, laat staan in de afzonderlijke bedrijven.</example>
+    </stts>
+    <syn>
+      <cat>other</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c74" word="later">
+    <orths>
+      <orth type="cont" canonical="1" onr="c74o1">
+        <part type="single">later</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c74o2">
+        <part type="single">Later</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Klaus stelde 9 uur voor, want later kan hij niet.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Laatste punt: uw rapporteur heeft bij al zijn werkzaamheden de volle medewerking gehad van de Commissie en van het Belgische en later Spaanse voorzitterschap van de Raad.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c75" word="lees">
+    <orths>
+      <orth type="cont" canonical="1" onr="c75o1">
+        <part type="single">lees</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c75o2">
+        <part type="single">Lees</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Ik lees een krant.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Zou dat misschien de reden kunnen zijn waarom de autoriteiten, lees de Amerikanen en de Britten, weigeren om Hans Blix en zijn VN-inspectieteam toe te laten?</example>
+    </stts>
+    <syn>
+      <cat>other</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="equivalence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c76" word="logischerwijs">
+    <orths>
+      <orth type="cont" canonical="1" onr="c76o1">
+        <part type="single">logischerwijs</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c76o2">
+        <part type="single">Logischerwijs</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c76o3">
+        <part type="single">Logischerwijze</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c76o4">
+        <part type="single">logischerwijze</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Als de toetredingskandidaten lid worden, zouden zij logischerwijs ook moeten toetreden tot het Cohesiefonds.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c77" word="los daarvan">
+    <orths>
+      <orth type="cont" canonical="1" onr="c77o1">
+        <part type="phrasal">los daarvan</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c77o2">
+        <part type="phrasal">Los daarvan</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Dit moet je los daarvan zien.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Ik wil de commissaris nu verzoeken antwoord te geven op de vraag van mevrouw Theato. Los daarvan nemen wij de kritiek op de agenda van de donderdag mee.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="exception-arg1-as-except"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="concession-arg1-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="concession-arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c78" word="met andere woorden">
+    <orths>
+      <orth type="cont" canonical="1" onr="c78o1">
+        <part type="phrasal">met andere woorden</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c78o2">
+        <part type="phrasal">Met andere woorden</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Dat kun je ook met andere woorden zeggen.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Het statuut van de Europese onderneming dan weer wel, met andere woorden een kaderrichtlijn is nodig.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="equivalence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c79" word="naar aanleiding daarvan">
+    <orths>
+      <orth type="cont" canonical="1" onr="c79o1">
+        <part type="phrasal">naar aanleiding daarvan</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c79o2">
+        <part type="phrasal">Naar aanleiding daarvan</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>De evaluatie bevatte ook een aantal aanbevelingen en specifieke kritiekpunten en we hebben naar aanleiding daarvan ook serieus actie ondernomen.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c80" word="naar aanleiding van">
+    <orths>
+      <orth type="cont" canonical="1" onr="c80o1">
+        <part type="phrasal">naar aanleiding van</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c80o2">
+        <part type="phrasal">Naar aanleiding van</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Eerst was er naar aanleiding van de Raad van Gent het onderonsje tussen drie landen en toen volgde de gewraakte bijeenkomst in Londen.</example>
+    </stts>
+    <syn>
+      <cat>prep</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c81" word="naast">
+    <orths>
+      <orth type="cont" canonical="1" onr="c81o1">
+        <part type="single">naast</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c81o2">
+        <part type="single">Naast</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Maar tot nu toe heeft de commissaris nagelaten uit te leggen waarom ze dit standpunt naast zich neer heeft gelegd.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Bovendien hebben wij, in tegenstelling tot de Commissie, transport een veel hogere prioriteit gegeven, naast meer aandacht voor energie.</example>
+    </stts>
+    <syn>
+      <cat>cco</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c82" word="nadat">
+    <orths>
+      <orth type="cont" canonical="1" onr="c82o1">
+        <part type="single">nadat</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c82o2">
+        <part type="single">Nadat</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity><stts>
+      <example>De MOP's zijn in het leven geroepen nadat de TAC - de totaal toegestane vangsten - waren vastgesteld.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-succession"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c83" word="naderhand">
+    <orths>
+      <orth type="cont" canonical="1" onr="c83o1">
+        <part type="single">naderhand</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c83o2">
+        <part type="single">Naderhand</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Waarmee we wel akkoord kunnen gaan is dat er naderhand voorstellen betreffende deze gebieden worden ingediend.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-succession"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c84" word="nadien">
+    <orths>
+      <orth type="cont" canonical="1" onr="c84o1">
+        <part type="single">nadien</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c84o2">
+        <part type="single">Nadien</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>De buurvrouw heet Nadien.</example> <!-- not sure if we want to count proper names... -->
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Toen was dat zeer relevant, want we moesten ongeveer bij nul beginnen. Nadien is er veel bereikt, maar nu bekruipt me meer en meer een ongemakkelijk gevoel.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-succession"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c85" word="namelijk">
+    <orths>
+      <orth type="cont" canonical="1" onr="c85o1">
+        <part type="single">namelijk</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c85o2">
+        <part type="single">Namelijk</part>
+      </orth>
+    </orths>
+    <focuspart>adv</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Ik wil toch nog één keer terugkomen op één dossier, namelijk dat van de belasting op de speculatieve kapitaalstromen.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="specification-arg2-as-detail"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <!-- kaum is in dimlex, but analogous to amper (currently also commented out), find it hard to think of a connective reading. -->
+  <!-- 
+  <entry id="c91" word="nauwelijks">
+    <orths>
+      <orth type="cont" canonical="1" onr="c91o1">
+        <part type="single">nauwelijks</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c91o2">
+        <part type="single">text_here</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>_todo_</sem_ambiguity>
+    </ambiguity>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>example_here</example>
+    </non_conn_reading>
+    <stts>
+      <example>example_here</example>
+    </stts>
+    <syn>
+      <cat>_todo_</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="sense_here"/>
+      </sem>
+    </syn>
+  </entry>
+  -->
+  <entry id="c86" word="net zomin"> <!-- net zo min (http://taaladvies.net/taal/advies/vraag/1680/zomin_zo_min/) has slightly different meaning, so not included as orth -->
+    <orths>
+      <orth type="cont" canonical="1" onr="c86o1">
+        <part type="phrasal">net zomin</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c86o2">
+        <part type="phrasal">Net zomin</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading/>
+    <stts>
+      <example>Net zomin als de rode gentechnologie alleen gepaard gaat met kansen, brengt de groene gentechnologie alleen gevaren met zich mee.</example>
+    </stts>
+    <syn>
+      <cat>other</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c87" word="niettegenstaande">
+    <orths>
+      <orth type="cont" canonical="1" onr="c87o1">
+        <part type="single">niettegenstaande</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c87o2">
+        <part type="single">Niettegenstaande</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Mijnheer de Voorzitter, via een nog steeds geheim gehouden correspondentie, niettegenstaande mijn herhaalde verzoeken, heeft de heer Bush de heer Prodi veertig onaanvaardbare eisen gesteld.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="concession-arg2-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="concession-arg1-as-denier"/> <!-- note that for trotzdem, this sense is linked to another syn cat. Revisit this once I've filled in syns -->
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c88" word="niettemin">
+    <orths>
+      <orth type="cont" canonical="1" onr="c88o1">
+        <part type="single">niettemin</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c88o2">
+        <part type="single">Niettemin</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Wat Cyprus betreft, hebben wij weliswaar goede nota genomen van de positieve punten het verslag-Poos, maar onthouden wij ons niettemin van stemming.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="concession-arg2-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="concession-arg1-as-denier"/> <!-- note that for trotzdem, this sense is linked to another syn cat. Revisit this once I've filled in syns -->
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c89" word="niet zomaar">
+    <orths>
+      <orth type="cont" canonical="1" onr="c89o1">
+        <part type="phrasal">niet zomaar</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c89o2">
+        <part type="phrasal">Niet zomaar</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Multilaterale milieuakkoorden kunnen niet zomaar terzijde worden geschoven omwille van de vrije handel.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Niet zomaar is de schuldencrisis een groot probleem geworden.</example>
+    </stts>
+    <syn>
+      <cat>other</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c90" word="noch">
+    <orths>
+      <orth type="cont" canonical="1" onr="c90o1">
+        <part type="single">noch</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c90o2">
+        <part type="single">Noch</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Het in stand houden van het bevroren conflict met Armenië is niet in het langetermijnbelang van Turkije, noch in dat van enige andere staat in de regio.</example>
+    </stts>
+    <syn>
+      <cat>cco</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c91" word="nochtans">
+    <orths>
+      <orth type="cont" canonical="1" onr="c91o1">
+        <part type="single">nochtans</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c91o2">
+        <part type="single">Nochtans</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Ik heb de vereiste hervormingen van de arbeidsmarkt nog niet gezien, die nochtans onontbeerlijk zijn voor de groei en voor meer banen.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <!-- senses here are based on jedoch in dimlex. But find it difficult to decide for this one. -->
+      <sem>
+        <pdtb3_relation sense="contrast" freq="18" anno_N="22"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="concession-arg2-as-denier" freq="4" anno_N="22"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c92" word="nog">
+    <orths>
+      <orth type="cont" canonical="1" onr="c92o1">
+        <part type="single">nog</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c92o2">
+        <part type="single">Nog</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Ik wil u nog een verzoek doen, mijnheer de voorzitter van de Raad.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>De wereld verkeert nog steeds in een shocktoestand door de aanslagen in New York en Washington.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c93" word="of">
+    <orths>
+      <orth type="cont" canonical="1" onr="c93o1">
+        <part type="single">of</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c93o2">
+        <part type="single">Of</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Het gaat dus niet om de theoretische kennis van het genoom over tien of vijftien jaar.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Gaan we naar IJsland of willen we toch naar Soedan?</example>
+    </stts>
+    <syn>
+      <cat>cco</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="disjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c94" word="omdat">
+    <orths>
+      <orth type="cont" canonical="1" onr="c94o1">
+        <part type="single">omdat</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c94o2">
+        <part type="single">Omdat</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Er zij overigens aan herinnerd dat zij zich niet tegen de Joodse bezetter verzetten omdat hij Jood is, maar omdat hij hun bezetter is.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c95" word="om te beginnen">
+    <orths>
+      <orth type="cont" canonical="1" onr="c95o1">
+        <part type="phrasal">om te beginnen</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c95o2">
+        <part type="phrasal">Om te beginnen</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Soms kost het veel moeite om te beginnen.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Om te beginnen wil ik Rodi Kratsa-Tsagaropoulou graag bedanken voor het uitmuntende werk dat zij heeft geleverd.</example>
+    </stts>
+    <syn>
+      <cat>other</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c96" word="omwille van">
+    <orths>
+      <orth type="cont" canonical="1" onr="c96o1">
+        <part type="phrasal">omwille van</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c96o2">
+        <part type="phrasal">Omwille van</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Deze duidelijke verantwoordelijkheid moet omwille van de burgers door de publieke overheden worden genomen.</example>
+    </stts>
+    <syn>
+      <cat>prep</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c97" word="ondanks">
+    <orths>
+      <orth type="cont" canonical="1" onr="c97o1">
+        <part type="single">ondanks</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c97o2">
+        <part type="single">Ondanks</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Ondanks de civiele insteek zal het systeem op termijn ook een militaire component kennen.</example>
+    </stts>
+    <syn>
+      <cat>prep</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="concession-arg1-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c98" word="ondertussen">
+    <orths>
+      <orth type="cont" canonical="1" onr="c98o1">
+        <part type="single">ondertussen</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c98o2">
+        <part type="single">Ondertussen</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Kredieten beschikbaar stellen en tegelijkertijd geen harde eisen stellen en ondertussen de illegale exploitatie van natuurlijke hulpbronnen laten doorgaan, is niet de meest geloofwaardige manier.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c99" word="op basis van">
+    <orths>
+      <orth type="cont" canonical="1" onr="c99o1">
+        <part type="phrasal">op basis van</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c99o2">
+        <part type="phrasal">Op basis van</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity><!-- to me, in something like 'Deze auto is gebouwd op de basis van het oudere model.' the 'de' is obligatory, hence no non-conn reading for 'op basis van'. But other people may disagree. -->
+    <stts>
+      <example>Voor het eerst sinds mensenheugenis heeft het een stabiele regering, gekozen op basis van een democratisch mandaat.</example>
+    </stts>
+    <syn>
+      <cat>prep</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c100" word="op die manier">
+    <orths>
+      <orth type="cont" canonical="1" onr="c100o1">
+        <part type="phrasal">op die manier</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c100o2">
+        <part type="phrasal">Op die manier</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Je kunt dat beter niet op die manier doen.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Wij zijn van mening dat onze discussies vruchtbaarder en zinvoller waren geweest als de Commissie, toen zij dit debat op gang bracht, eigen ideeën ter tafel had gebracht. Op die manier had zij die discussies kunnen bevorderen.</example>
+    </stts>
+    <syn>
+      <cat>other</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c101" word="op grond van">
+    <orths>
+      <orth type="cont" canonical="1" onr="c101o1">
+        <part type="phrasal">op grond van</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c101o2">
+        <part type="phrasal">Op grond van</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Niet handig om dat op grond van een vreemde boer te doen.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Gelukkig laat de Raad nu doorschemeren dat correcties op grond van conjuncturele variaties eventueel toegestaan zullen worden.</example>
+    </stts>
+    <syn>
+      <cat>prep</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c102" word="op grond daarvan">
+    <orths>
+      <orth type="cont" canonical="1" onr="c102o1">
+        <part type="phrasal">op grond daarvan</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c102o2">
+        <part type="phrasal">Op grond daarvan</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c102o3">
+        <part type="phrasal">op grond waarvan</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c102o4">
+        <part type="phrasal">Op grond waarvan</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Degenen die tot dat publiek behoren, kunnen op grond daarvan eventueel aanvoeren dat zij ten onrechte zijn uitgesloten.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c103" word="overeenkomstig">
+    <orths>
+      <orth type="cont" canonical="1" onr="c103o1">
+        <part type="single">overeenkomstig</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c103o2">
+        <part type="single">Overeenkomstig</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Ik heb een heel zakelijke brief geschreven waarin ik haar verzocht, overeenkomstig het tussen de Commissie en het Parlement gesloten akkoord, naar onze commissie te komen.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c104" word="per slot van rekening">
+    <orths>
+      <orth type="cont" canonical="1" onr="c104o1">
+        <part type="phrasal">per slot van rekening</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c104o2">
+        <part type="phrasal">Per slot van rekening</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Per slot van rekening worden al deze kleine landen steeds autonomer en is het dus essentieel dat die autonomie ook wordt erkend.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <!-- This one is in DimLex as well, but I find it hard to think of a connective example. -->
+  <!--
+  <entry id="c114" word="qua">
+    <orths>
+      <orth type="cont_discont" canonical="1" onr="c114o1">
+        <part type="single_phrasal">qua</part>
+      </orth>
+      <orth type="cont_discont" canonical="0" onr="c114o2">
+        <part type="single_phrasal">text_here</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>_todo_</sem_ambiguity>
+    </ambiguity>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>example_here</example>
+    </non_conn_reading>
+    <stts>
+      <example>example_here</example>
+    </stts>
+    <syn>
+      <cat>_todo_</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="sense_here"/>
+      </sem>
+    </syn>
+  </entry>
+  -->
+  <entry id="c105" word="sedert">
+    <orths>
+      <orth type="cont" canonical="1" onr="c105o1">
+        <part type="single">sedert</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c105o2">
+        <part type="single">Sedert</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Sedert 1996 is substantiële vooruitgang geboekt.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Er zijn immers bijna zes jaar verstreken sedert de Raad de integratie van het gendergelijkheidsaspect tot een beginsel van het ontwikkelingsbeleid van de Gemeenschap heeft uitgeroepen en een actieprogramma daarvoor uitvaardigde.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-succession"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c106" word="sedertdien">
+    <orths>
+      <orth type="cont" canonical="1" onr="c106o1">
+        <part type="single">sedertdien</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c106o2">
+        <part type="single">Sedertdien</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Kort daarna heeft de Commissie trouwens tijdens de Top van Helsinki in december 1999 een mededeling over de sociale dimensie van de sport aan de staatshoofden en regeringsleiders voorgelegd. Sedertdien is er niets veranderd.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat> <!-- perhaps also a syn entry for csu (see seitdem in dimlex)-->
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-succession"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c107" word="sinds">
+    <orths>
+      <orth type="cont" canonical="1" onr="c107o1">
+        <part type="single">sinds</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c107o2">
+        <part type="single">Sinds</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Ik ben er al sinds vanmiddag.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Sinds dit initiatief vorig jaar maart werd voorgesteld, hebben lidstaten, in nauwe samenwerking met de Commissie, al aanzienlijke vooruitgang geboekt.</example>
+    </stts>
+    <syn>
+      <cat>prep</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-succession"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c108" word="sindsdien">
+    <orths>
+      <orth type="cont" canonical="1" onr="c108o1">
+        <part type="single">sindsdien</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c108o2">
+        <part type="single">Sindsdien</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>De voorbereiding hebben sindsdien gestaag hun beslag gekregen.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat> <!-- perhaps also a syn entry for csu (see seitdem in dimlex)-->
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <!-- nur dass is in dimlex with example 'Das Konzert was gut, nur dass mir staendig Leute auf die Fuesse gesprungen sind.' I think for Dutch, 'slechts' does not work this way-->
+  <!--
+  <entry id="c121" word="slechts">
+    <orths>
+      <orth type="cont" canonical="1" onr="c121o1">
+        <part type="single">slechts</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c121o2">
+        <part type="single">Slechts</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>_todo_</sem_ambiguity>
+    </ambiguity>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Ik heb slechts twee knikkers.</example>
+    </non_conn_reading>
+    <stts>
+      <example>example_here</example>
+    </stts>
+    <syn>
+      <cat>_todo_</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="sense_here"/>
+      </sem>
+    </syn>
+  </entry>
+  -->
+  <entry id="c109" word="sowieso">
+    <orths>
+      <orth type="cont" canonical="1" onr="c109o1">
+        <part type="single">sowieso</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c109o2">
+        <part type="single">Sowieso</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>We moeten de hele wapenproductie sowieso bekijken.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c110" word="straks">
+    <orths>
+      <orth type="cont" canonical="1" onr="c110o1">
+        <part type="single">straks</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c110o2">
+        <part type="single">Straks</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>We moeten nu even praten want straks kan het niet.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn><!-- I find the difference between the non_conn and conn reading difficult, but these examples are take directly from dimlex, and I think straks is basically the same as später in meaning and usage -->
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Nu komt er voetbal op tv. Straks kunnen we verder praten.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c111" word="tegelijk">
+    <orths>
+      <orth type="cont" canonical="1" onr="c111o1">
+        <part type="single">tegelijk</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c111o2">
+        <part type="single">Tegelijk</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Jullie moeten tegelijk aan het zeil trekken!</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Alleen zo kunnen we het aantal overlijdens en de ziekteverschijnselen beperken en tegelijk alle andere sociale gevolgen op positieve wijze opvangen.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="contrast"/> <!-- Jan gaat het goed. Tegelijk gaat het Marie erg slecht. -->
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c112" word="tegelijkertijd">
+    <orths>
+      <orth type="cont" canonical="1" onr="c112o1">
+        <part type="single">tegelijkertijd</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c112o2">
+        <part type="single">Tegelijkertijd</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c112o3">
+        <part type="single">Tezelfdertijd</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c112o4">
+        <part type="single">tezelfdertijd</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>De beide feestjes vonden tegelijkertijd plaats.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Er was een vicieuze cirkel van afschuwelijk geweld, maar tegelijkertijd wist men dat kort tevoren in Camp David en Taba een mogelijke oplossing dichterbij was gekomen.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c113" word="temeer daar">
+    <orths>
+      <orth type="cont" canonical="1" onr="c113o1">
+        <part type="phrasal">temeer daar</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c113o2">
+        <part type="phrasal">Temeer daar</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>De gegevens zijn bevredigend, temeer daar de aanbevelingen van het Parlement zijn opgevolgd.</example>
+    </stts>
+    <syn>
+      <cat>other</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c114" word="teneinde">
+    <orths>
+      <orth type="cont" canonical="1" onr="c114o1">
+        <part type="single">teneinde</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c114o2">
+        <part type="single">Teneinde</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity><!-- in 'De show is ten einde', the whitespace is obligatory-->
+    <stts>
+      <example>We hopen dat de Commissie werkelijk hervormd zal worden teneinde efficiënter te kunnen werken.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="purpose-arg2-as-goal"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c115" word="ten gevolge van">
+    <orths>
+      <orth type="cont" canonical="1" onr="c115o1">
+        <part type="phrasal">ten gevolge van</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c115o2">
+        <part type="phrasal">Ten gevolge van</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c115o3">
+        <part type="phrasal">ten gevolg van</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c115o4">
+        <part type="phrasal">Ten gevolg van</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Eenderde van alle sociale uitkeringen die in Europa aan werknemers worden uitbetaald ten gevolge van schade door beroepsziekten, betreft gehoorschade.</example>
+    </stts>
+    <syn>
+      <cat>prep</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c116" word="tenslotte">
+    <orths>
+      <orth type="cont" canonical="1" onr="c116o1">
+        <part type="single">tenslotte</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c116o2">
+        <part type="single">Tenslotte</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c116o3">
+        <part type="single">tot slot</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c116o4">
+        <part type="single">Tot slot</part>
+      </orth>
+      <!-- left out ten slotte due to this entry: http://taaladvies.net/taal/advies/vraag/782/ten_slotte_tenslotte_ten_minste_tenminste_ten_einde_teneinde/ -->
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Tenslotte nog iets over de open coördinatiemethode.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <!-- if 'ten eerste' is not in here, so shouldn't 'ten tweede'. But perhaps both need to be added. -->
+  <!--
+  <entry id="c117" word="ten tweede">
+    <orths>
+      <orth type="cont" canonical="1" onr="c117o1">
+        <part type="phrasal">ten tweede</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c117o2">
+        <part type="phrasal">Ten tweede</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Ten eerste belangrijk voor de Turkse bevolking op Cyprus, en ten tweede zeker ook voor de Griekse bevolking op Cyprus, voor heel Europa en voor Turkije zelf.</example>
+    </stts>
+    <syn>
+      <cat>_todo_</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+    </entry>
+  -->
+  <entry id="c118" word="tenzij">
+    <orths>
+      <orth type="cont" canonical="1" onr="c118o1">
+        <part type="single">tenzij</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c118o2">
+        <part type="single">Tenzij</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>De verliezer in dit onaangename spel is de democratie, en de winst voor vluchtelingen is twijfelachtig, tenzij je generaal bent in het leger van Saddam Hussein.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="negative-condition-arg1-as-consequent"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c119" word="terwijl">
+    <orths>
+      <orth type="cont" canonical="1" onr="c119o1">
+        <part type="single">terwijl</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c119o2">
+        <part type="single">Terwijl</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Ik ga liever niet naar buiten terwijl het regent.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Integendeel, men probeert er een Iers probleem van te maken, terwijl het in feite natuurlijk een probleem voor de hele EU is.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c120" word="toch">
+    <orths>
+      <orth type="cont" canonical="1" onr="c120o1">
+        <part type="single">toch</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c120o2">
+        <part type="single">Toch</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Doe toch niet zo gek!</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Mijnheer Titley, ik begrijp heel goed dat de collega' s van wie de naam niet genoemd is, teleurgesteld zijn. Toch moet ik eraan herinneren dat het een uitwisseling van vragen en antwoorden betrof.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <!-- NOTE: for trotzdem, dimlex has these two senses, but the first one (arg2-as-denier) is attached to padv syn cat, while the second (arg1-as-denier) attaches to subj syn cat. -->
+      <sem>
+        <pdtb3_relation sense="concession-arg2-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="concession-arg1-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c121" word="totdat">
+    <orths>
+      <orth type="cont" canonical="1" onr="c121o1">
+        <part type="single">totdat</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c121o2">
+        <part type="single">Totdat</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Tragedies zoals die in Wexford zullen blijven plaatsvinden totdat deze tegenstrijdigheid serieus aangepakt wordt door alle lidstaatregeringen van de EU.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c122" word="überhaupt">
+    <orths>
+      <orth type="cont" canonical="1" onr="c122o1">
+        <part type="single">überhaupt</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c122o2">
+        <part type="single">Überhaupt</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Ik heb überhaupt geen zin in aarbei-eis.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Dat is anders één van de klassieke mogelijkheden die vrouwen hebben om überhaupt vertegenwoordigd te zijn bij dit soort werkzaamheden.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c123" word="uitgezonderd">
+    <orths>
+      <orth type="cont" canonical="1" onr="c123o1">
+        <part type="single">uitgezonderd</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c123o2">
+        <part type="single">Uitgezonderd</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Jantje wordt de hele tijd uitgezonderd op school.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Dit gaat op voor alle landen waarmee wij onderhandelen, uitgezonderd Bulgarije en Roemenië, waarbij ik echter wil benadrukken dat ook in deze landen opmerkelijke vooruitgang is geboekt.</example>
+    </stts>
+    <syn>
+      <cat>other</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="exception-arg2-as-except"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c124" word="vandaar">
+    <orths>
+      <orth type="cont" canonical="1" onr="c124o1">
+        <part type="single">vandaar</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c124o2">
+        <part type="single">Vandaar</part>
+      </orth>
+      <!-- according to http://taaladvies.net/taal/advies/vraag/1767/vandaar_daarvandaan/, van daar is also acceptable -->
+      <orth type="cont" canonical="0" onr="c124o3">
+        <part type="single">Van daar</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c124o4">
+        <part type="single">van daar</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Van daar is het nog maar vijf minuten lopen.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Zo moeten lidstaten toezicht houden op de eerbiediging van het mandaat van de inlichtingendiensten. Vandaar mijn amendement om communicatie te beschermen tegen interceptie waarop controle ontbreekt.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c125" word="vanwege">
+    <orths>
+      <orth type="cont" canonical="1" onr="c125o1">
+        <part type="single">vanwege</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c125o2">
+        <part type="single">vanwege</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Ik heb begrepen dat het gemeenschappelijk standpunt wordt aangepast vanwege het nieuwe stelsel voor de toekenning van Eco-labels.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c126" word="vastgesteld dat">
+    <orths>
+      <orth type="cont" canonical="1" onr="c126o1">
+        <part type="phrasal">vastgesteld dat</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c126o2">
+        <part type="phrasal">Vastgesteld dat</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Ik heb zojuist vastgesteld dat het hier voor geen meter loopt.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Vastgesteld dat er geen alternatief is, wil ik overgaan tot actie.</example>
+    </stts>
+    <syn>
+      <cat>other</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c127" word="verder">
+    <orths>
+      <orth type="cont" canonical="1" onr="c127o1">
+        <part type="single">verder</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c127o2">
+        <part type="single">Verder</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Leeuwarden is verder dan Eindhoven.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Verder wil ik het over de positieve lijst hebben.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c128" word="vervolgens">
+    <orths>
+      <orth type="cont" canonical="1" onr="c128o1">
+        <part type="single">vervolgens</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c128o2">
+        <part type="single">Vervolgens</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Het is dus niet de bedoeling dat wij ons beperken tot het goedkeuren van de voorstellen van de Raad, maar dat wij degenen zijn die de voorstellen op tafel leggen om vervolgens met de Raad tot een eindresultaat te komen.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c129" word="vooral">
+    <orths>
+      <orth type="cont" canonical="1" onr="c129o1">
+        <part type="single">vooral</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c129o2">
+        <part type="single">Vooral</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Het is vooral heel erg lang.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Ik onderstreep graag dat de werkzaamheden van de voorlopige eenheid vooral tijdens de afgelopen weken het belang en het nut van een eenheid als Eurojust ten overvloede hebben bewezen.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="specification"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c130" word="vooraleer">
+    <orths>
+      <orth type="cont" canonical="1" onr="c130o1">
+        <part type="single">vooraleer</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c130o2">
+        <part type="single">Vooraleer</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Hoe lang moeten de Basken nog wachten vooraleer Europa beseft dat de vrede in zijn handen ligt?</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-succession"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c131" word="vooropgesteld dat">
+    <orths>
+      <orth type="cont" canonical="1" onr="c131o1">
+        <part type="phrasal">vooropgesteld dat</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c131o2">
+        <part type="phrasal">Vooropgesteld dat</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>De Unie kan ook socialer worden - ook dat vind ik heel belangrijk - vooropgesteld dat we vasthouden aan de in deel I geformuleerde doelstellingen en waarden.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c132" word="voorts">
+    <orths>
+      <orth type="cont" canonical="1" onr="c132o1">
+        <part type="single">voorts</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c132o2">
+        <part type="single">Voorts</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Dit Parlement heeft voorts besloten om een delegatie op hoog niveau naar het Midden-Oosten te sturen.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c133" word="voor zover">
+    <orths>
+      <orth type="cont" canonical="1" onr="c133o1">
+        <part type="phrasal">voor zover</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c133o2">
+        <part type="phrasal">Voor zover</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c133o3">
+        <part type="single">Voorzover</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c133o4">
+        <part type="single">voorzover</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Voor zover dat mogelijk is, val ik vanmiddag voor hem in, omdat hij naar een belangrijke bijeenkomst in Canada is.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c134" word="waardoor">
+    <orths>
+      <orth type="cont" canonical="1" onr="c134o1">
+        <part type="single">waardoor</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c134o2">
+        <part type="single">text_here</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Waardoor kwam dat dan?</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Dientengevolge was onze commissie op dit gebied niet langer tot fijnsturing in staat, waardoor wij ons niet goed van onze controletaak kunnen kwijten.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c135" word="waarmee">
+    <orths>
+      <orth type="cont" canonical="1" onr="c135o1">
+        <part type="single">waarmee</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c135o2">
+        <part type="single">Waarmee</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Waarmee ben je gekomen?</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>In het verslag-Gahrton wordt geheel ten juiste benadrukt dat wij geduldig verschillende parallelle wegen moeten bewandelen, waarmee naar verwachting veel tijd gemoeid zal zijn en waarbij moet worden uitgegaan van de beschikbare middelen en van de vorig jaar geboekte vooruitgang.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="manner-arg1-as-manner"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c136" word="waarna">
+    <orths>
+      <orth type="cont" canonical="1" onr="c136o1">
+        <part type="single">waarna</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c136o2">
+        <part type="single">Waarna</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Waarna komen jullie?</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Dit zou met name het geval zijn bij plotselinge problemen, zoals een golfklap, waarna een eenmalige geluidsmeting nodig is.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c137" word="waarom">
+    <orths>
+      <orth type="cont" canonical="1" onr="c137o1">
+        <part type="single">waarom</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c137o2">
+        <part type="single">Waarom</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Waarom is dat zo?</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Dit verslag gaat in de goede richting, en dat is ook de reden waarom wij ervoor gestemd hebben.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c138" word="waarop">
+    <orths>
+      <orth type="cont" canonical="1" onr="c138o1">
+        <part type="single">waarop</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c138o2">
+        <part type="single">Waarop</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Waarop heb jij je geld gezet?</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Ik zei dat ik naar Groenland vlieg, waarop mijn vrouw geschokt reageerde.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c139" word="wanneer">
+    <orths>
+      <orth type="cont" canonical="1" onr="c139o1">
+        <part type="single">wanneer</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c139o2">
+        <part type="single">Wanneer</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Wanneer ga je naar huis?</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Ik denk echter dat wanneer deze dialoog niet vergezeld gaat van politieke actie, het gevaar bestaat dat bepaalde situaties in stand worden gehouden.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c140" word="want">
+    <orths>
+      <orth type="cont" canonical="1" onr="c140o1">
+        <part type="single">want</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c140o2">
+        <part type="single">Want</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading>
+      <example>Vorige winter heb ik mijn want verloren.</example>
+    </non_conn_reading>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Binnen de Europese Unie moeten wij hiertegen vechten, want de afzonderlijke lidstaten hebben het laten afweten.</example>
+    </stts>
+    <syn>
+      <cat>cco</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c141" word="wegens">
+    <orths>
+      <orth type="cont" canonical="1" onr="c141o1">
+        <part type="single">wegens</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c141o2">
+        <part type="single">Wegens</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Dit hoofdstuk geldt niet voor Denemarken wegens de uitzondering die via Protocol aan Denemarken is toegestaan.</example>
+    </stts>
+    <syn>
+      <cat>prep</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c142" word="zodat">
+    <orths>
+      <orth type="cont" canonical="1" onr="c142o1">
+        <part type="single">zodat</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c142o2">
+        <part type="single">Zodat</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>En hier volgen, mevrouw de Voorzitter, de conclusies van de Raad, zodat u volledig op de hoogte bent:</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="purpose-arg2-as-goal"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c143" word="zodoende">
+    <orths>
+      <orth type="cont" canonical="1" onr="c143o1">
+        <part type="single">zodoende</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c143o2">
+        <part type="single">Zodoende</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Bovendien moet de Commissie ons vóór het einde van het volgend jaar een positieve lijst of in ieder geval een ontwerp daarvan presenteren. Zodoende hebben wij de mogelijkheid om nog binnen deze wetgevingsperiode een positief resultaat te bereiken.</example>
+    </stts>
+    <syn>
+      <cat>adv</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c144" word="zodra">
+    <orths>
+      <orth type="cont" canonical="1" onr="c144o1">
+        <part type="single">zodra</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c144o2">
+        <part type="single">Zodra</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Het Voorzitterschap zal de nodige verklaring afleggen zodra de lijst van moties van orde is afgehandeld.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c145" word="zolang">
+    <orths>
+      <orth type="cont" canonical="1" onr="c145o1">
+        <part type="single">zolang</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="c145o2">
+        <part type="single">Zolang</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/> <!-- non conn reading is with whitespace: https://onzetaal.nl/taaladvies/zolang-zo-lang/-->
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Zolang ik het verzoek niet via de Spaanse regeringsautoriteiten heb ontvangen, zal ik het dus niet in overweging nemen.</example>
+    </stts>
+    <syn>
+      <cat>csu</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="condition-arg1-as-consequent"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="asynchronous-succession"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c146" word="zowel...als">
+    <orths>
+      <orth type="discont" canonical="1" onr="c146o1">
+	<part type="single">zowel</part>
+	<part type="single">als</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="c146o2">
+        <part type="single">Zowel</part>
+	<part type="single">als</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="c146o3">
+        <part type="single">Zowel</part>
+	<part type="phrasal">als ook</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="c146o4">
+        <part type="single">zowel</part>
+	<part type="phrasal">als ook</part>
+      </orth>
+    </orths>
+    <focuspart>_todo_</focuspart>
+    <non_conn_reading/>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <stts>
+      <example>Mijn oprechte felicitaties, zowel aan u als aan de heer Seguro.</example>
+    </stts>
+    <syn>
+      <cat>cco</cat>
+      <integr/>
+      <ordering>
+        <ante>_todo_</ante>
+        <post>_todo_</post>
+        <insert>_todo_</insert>
+      </ordering>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+</dimlex>

@@ -19,7 +19,10 @@
 ::transform -s:../XML/LDM-PT/LDM_Lexicon_Discourse_Markers_1_3_dimlex.xml -xsl:ldm-pt2dimlex.xsl -o:ldm-pt_d.xml
 
 :: CONCOLEDISCO
-transform -s:../xml/concoledisco/concoledisco.xml -xsl:concoledisco2dimlex.xsl -o:concoledisco_d.xml
+::transform -s:../xml/concoledisco/concoledisco.xml -xsl:concoledisco2dimlex.xsl -o:concoledisco_d.xml
+
+:: ARABIC
+::transform -s:"../Original lexicons/Arabic Discours cues.xml" -xsl:arabic2dimlex.xsl -o:arabic_d.xml
 
 :: ATTRIBUTE LISTS
 :: - LEXCONN
@@ -42,6 +45,9 @@ transform -s:../xml/concoledisco/concoledisco.xml -xsl:concoledisco2dimlex.xsl -
 
 :: - CONCOLEDISCO
 ::transform -s:../xml/concoledisco/concoledisco.xml -xsl:Intermediate/lexconn2attrlist.xsl -o:Intermediate/lexconn_attrlist.xml
+
+:: ARABIC
+transform -s:arabic_d.xml -xsl:Intermediate/dimlex2attrlist.xsl -o:Intermediate/arabic_attrlist.xml
 
 :: MAPS
 ::transform -s:"../XML/dimlex public 2016/ConAnoConnectorLexicon.xml"  -xsl:Intermediate/make_id_map.xsl -o:Intermediate/conanolex2016_ids.xml

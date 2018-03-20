@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Liste>
+<marqueur   id="1"  type="discursif" nature="strict" cat="other"><lemme>ومن نتائج كل ذلك</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="2"  type="discursif" nature="strict" cat="other"><lemme>خلاصة الامر ان</lemme><rel-AR>تلخيص </rel-AR><rel-EN>Thematic:Summary</rel-EN></marqueur>
+<marqueur   id="3"  type="discursif" nature="strict" cat="csu"><lemme>حتى لو افترضنا</lemme><rel-AR>استنتاج </rel-AR><rel-EN>Causal:Cause-effect:Logical consequence</rel-EN></marqueur>
+<marqueur   id="4"  type="discursif" nature="strict" cat="csu"><lemme>وفي الواقع ان</lemme><rel-AR>تعليق</rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="5"  type="discursif" nature="strict" cat="adv"><lemme>وفي وقت لاحق</lemme><rel-AR>تأطير </rel-AR><rel-EN>Temporal:Frame</rel-EN></marqueur>
+<marqueur   id="6"  type="discursif" nature="ambigu" cat="csu"><lemme>ومن المتوقع</lemme><rel-AR>ربط دون ترتيب زمني </rel-AR><rel-EN>Thematic:Continuation</rel-EN></marqueur>
+<marqueur   id="7"  type="discursif" nature="strict" cat="csu"><lemme>ومن المرجح ان</lemme><rel-AR>تعليق</rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="8"  type="discursif" nature="strict" cat="other"><lemme>يضاف الى ذلك</lemme><rel-AR>معية</rel-AR><rel-EN>Structural:Parallel</rel-EN></marqueur>
+<marqueur   id="9"  type="discursif" nature="strict" cat="csu"><lemme>باعتبار ان</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="10"  type="discursif" nature="strict" cat="other"><lemme>وجاء في بيان</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="11"  type="discursif" nature="strict" cat="csu"><lemme>وخلاصة الخبر</lemme><rel-AR>تلخيص</rel-AR><rel-EN>Thematic:Summary</rel-EN></marqueur>
+<marqueur   id="12"  type="discursif" nature="ambigu" cat="other"><lemme>ومن المتوقع</lemme><rel-AR>تعليق</rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="13"  type="discursif" nature="strict" cat="other"><lemme>ومن لا يكون</lemme><rel-AR>شرط </rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="14"  type="discursif" nature="strict" cat="other"><lemme>مشيراً الى</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="15"  type="discursif" nature="ambigu" cat="other"><lemme>يمكن القول</lemme><rel-AR>تعليق</rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="16"  type="discursif" nature="ambigu" cat="other"><lemme>يمكن القول</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="17"  type="discursif" nature="strict" cat="other"><lemme>اشار الى ان</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="18"  type="discursif" nature="strict" cat="csu"><lemme>الا وهي ان</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="19"  type="discursif" nature="strict" cat="csu"><lemme>الهادفة الى</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="21"  type="discursif" nature="strict" cat="csu"><lemme>الى درجة ان</lemme><rel-AR>إضراب</rel-AR><rel-EN>Structural:Correction</rel-EN></marqueur>
+<marqueur   id="22"  type="discursif" nature="strict" cat="other"><lemme>تشير الى ان</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="23"  type="discursif" nature="strict" cat="csu"><lemme>على اساس ان</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="24"  type="discursif" nature="strict" cat="csu"><lemme>في المقابل</lemme><rel-AR>مقابلة</rel-AR><rel-EN>Structural:Opposition:Contrast</rel-EN></marqueur>
+<marqueur   id="25"  type="discursif" nature="strict" cat="csu"><lemme>في غضون ذلك</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="26"  type="discursif" nature="strict" cat="csu"><lemme>مع العلم ان</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="27"  type="discursif" nature="strict" cat="csu"><lemme>والنتيجة ان</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="28"  type="discursif" nature="strict" cat="adv"><lemme>وذلك قبل ان</lemme><rel-AR>ربط مع الترتيب ببطء </rel-AR><rel-EN>Temporal:Temporal Ordering:Slow ordering</rel-EN></marqueur>
+<marqueur   id="29"  type="discursif" nature="ambigu" cat="csu"><lemme>ومن شأن ذلك</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="30"  type="discursif" nature="ambigu" cat="csu"><lemme>ومن شأن ذلك</lemme><rel-AR>معية </rel-AR><rel-EN>Structural:Parallel</rel-EN></marqueur>
+<marqueur   id="31"  type="discursif" nature="strict" cat="csu"><lemme>اما في حال</lemme><rel-AR>شرط</rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="32"  type="discursif" nature="strict" cat="csu"><lemme>باعتبار ان</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="33"  type="discursif" nature="strict" cat="adv"><lemme>خصوصاً</lemme><rel-AR>تخصيص </rel-AR><rel-EN>Thematic:Elaboration:Specification</rel-EN></marqueur>
+<marqueur   id="34"  type="discursif" nature="strict" cat="other"><lemme>داعياً الى</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="35"  type="discursif" nature="strict" cat="other"><lemme>سيكون ذلك</lemme><rel-AR>تعليق</rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="36"  type="discursif" nature="strict" cat="prep"><lemme>على خلفية</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="37"  type="discursif" nature="strict" cat="prep"><lemme>على ما قال</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="38"  type="discursif" nature="strict" cat="csu"><lemme>فضلا عن ان</lemme><rel-AR>ربط دون ترتيب زمني</rel-AR><rel-EN>Thematic:Continuation</rel-EN></marqueur>
+<marqueur   id="39"  type="discursif" nature="ambigu" cat="prep"><lemme>فمن المؤكد</lemme><rel-AR>تعليق</rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="40"  type="discursif" nature="ambigu" cat="prep"><lemme>فمن المؤكد</lemme><rel-AR>استنتاج</rel-AR><rel-EN>Causal:Cause-effect:Logical consequence</rel-EN></marqueur>
+<marqueur   id="41"  type="discursif" nature="strict" cat="csu"><lemme>في الخلاصة</lemme><rel-AR>تلخيص</rel-AR><rel-EN>Thematic:Summary</rel-EN></marqueur>
+<marqueur   id="42"  type="discursif" nature="ambigu" cat="csu"><lemme>في حين ان</lemme><rel-AR>مقابلة</rel-AR><rel-EN>Structural:Opposition:Contrast</rel-EN></marqueur>
+<marqueur   id="43"  type="discursif" nature="strict" cat="other"><lemme>مع التنويه</lemme><rel-AR>خلفية </rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="44"  type="discursif" nature="strict" cat="other"><lemme>واستعداداً</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="45"  type="discursif" nature="strict" cat="csu"><lemme>ولا بأس إن</lemme><rel-AR>خلفية </rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="46"  type="discursif" nature="strict" cat="csu"><lemme>ومن غير أن</lemme><rel-AR>خلفية </rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="47"  type="discursif" nature="ambigu" cat="other"><lemme>يعني أن</lemme><rel-AR>تعريف</rel-AR><rel-EN>Thematic:Elaboration:Definition</rel-EN></marqueur>
+<marqueur   id="48"  type="discursif" nature="ambigu" cat="other"><lemme>يعني أن</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="49"  type="discursif" nature="strict" cat="csu"><lemme>الا عندما</lemme><rel-AR>تزامن</rel-AR><rel-EN>Temporal:Temporal Ordering:Synchronization</rel-EN></marqueur>
+<marqueur   id="50"  type="discursif" nature="strict" cat="csu"><lemme>الذي أدى</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="51"  type="discursif" nature="strict" cat="csu"><lemme>الى حد ان</lemme><rel-AR>نتيجة </rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="53"  type="discursif" nature="strict" cat="csu"><lemme>حرصاً على</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="54"  type="discursif" nature="ambigu" cat="csu"><lemme>في حين ان</lemme><rel-AR>تزامن</rel-AR><rel-EN>Temporal:Temporal Ordering:Synchronization</rel-EN></marqueur>
+<marqueur   id="55"  type="discursif" nature="ambigu" cat="csu"><lemme>في حين ان</lemme><rel-AR>مقابلة</rel-AR><rel-EN>Structural:Opposition:Contrast</rel-EN></marqueur>
+<marqueur   id="56"  type="discursif" nature="ambigu" cat="csu"><lemme>في حين ان</lemme><rel-AR>طباق</rel-AR><rel-EN>Structural:Opposition:Antithetic</rel-EN></marqueur>
+<marqueur   id="57"  type="discursif" nature="strict" cat="csu"><lemme>في مسعى ل</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="58"  type="discursif" nature="strict" cat="other"><lemme>مطالبين ب</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="59"  type="discursif" nature="strict" cat="other"><lemme>معتبرا ان</lemme><rel-AR>خلفية </rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="60"  type="discursif" nature="strict" cat="csu"><lemme>من دون أن</lemme><rel-AR>خلفية </rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="61"  type="discursif" nature="strict" cat="other"><lemme>هي الاولى</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="62"  type="discursif" nature="strict" cat="other"><lemme>واعتبارات</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="63"  type="discursif" nature="strict" cat="other"><lemme>وافادت ان</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="64"  type="discursif" nature="strict" cat="csu"><lemme>وذلك فيما</lemme><rel-AR>تزامن</rel-AR><rel-EN>Temporal:Temporal Ordering:Synchronization</rel-EN></marqueur>
+<marqueur   id="65"  type="discursif" nature="strict" cat="adv"><lemme>وسرعان ما</lemme><rel-AR>ربط مع الترتيب بسرعة</rel-AR><rel-EN>Temporal:Temporal Ordering:Quick ordering</rel-EN></marqueur>
+<marqueur   id="66"  type="discursif" nature="strict" cat="cco"><lemme>وفي موضوع</lemme><rel-AR>تأطير </rel-AR><rel-EN>Temporal:Frame</rel-EN></marqueur>
+<marqueur   id="67"  type="discursif" nature="strict" cat="other"><lemme>ويا للاسف</lemme><rel-AR>تعليق</rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="68"  type="discursif" nature="strict" cat="csu"><lemme>استناداً</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="69"  type="discursif" nature="strict" cat="other"><lemme>الالتزام</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="70"  type="discursif" nature="strict" cat="other"><lemme>الفت الى</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="71"  type="discursif" nature="strict" cat="csu"><lemme>اما الذي</lemme><rel-AR>تخصيص </rel-AR><rel-EN>Thematic:Elaboration:Specification</rel-EN></marqueur>
+<marqueur   id="72"  type="discursif" nature="ambigu" cat="csu"><lemme>اما لجهة</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="73"  type="discursif" nature="ambigu" cat="csu"><lemme>اما لجهة</lemme><rel-AR>تخصيص </rel-AR><rel-EN>Thematic:Elaboration:Specification</rel-EN></marqueur>
+<marqueur   id="74"  type="discursif" nature="strict" cat="csu"><lemme>بما فيها</lemme><rel-AR>تخصيص</rel-AR><rel-EN>Thematic:Elaboration:Specification</rel-EN></marqueur>
+<marqueur   id="75"  type="discursif" nature="strict" cat="other"><lemme>تشير الى</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="76"  type="discursif" nature="strict" cat="csu"><lemme>على رغم</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="77"  type="discursif" nature="ambigu" cat="csu"><lemme>فذلك لأن</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="78"  type="discursif" nature="ambigu" cat="csu"><lemme>فذلك لأن</lemme><rel-AR>شرط</rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="79"  type="discursif" nature="ambigu" cat="prep"><lemme>فمن خلال</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="80"  type="discursif" nature="ambigu" cat="prep"><lemme>فمن خلال</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="81"  type="discursif" nature="ambigu" cat="prep"><lemme>فمن خلال</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="82"  type="discursif" nature="strict" cat="other"><lemme>متأكد من</lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="83"  type="discursif" nature="strict" cat="csu"><lemme>مما ادى </lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="84"  type="discursif" nature="strict" cat="csu"><lemme>مما أسفر</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="85"  type="discursif" nature="strict" cat="csu"><lemme>نظرا الى</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="86"  type="discursif" nature="strict" cat="csu"><lemme>وأدى ذلك</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="87"  type="discursif" nature="strict" cat="csu"><lemme>وبالتالي</lemme><rel-AR>نتيجة </rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="88"  type="discursif" nature="strict" cat="csu"><lemme>وذلك لما</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="89"  type="discursif" nature="strict" cat="csu"><lemme>ولا سيما</lemme><rel-AR>تخصيص </rel-AR><rel-EN>Thematic:Elaboration:Specification</rel-EN></marqueur>
+<marqueur   id="90"  type="discursif" nature="strict" cat="csu"><lemme>ولأي سبب</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="91"  type="discursif" nature="strict" cat="cco"><lemme>ولوحظ ان</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="92"  type="discursif" nature="strict" cat="cco"><lemme>ومما قال</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="93"  type="discursif" nature="strict" cat="cco"><lemme>وهو الذي</lemme><rel-AR>تعيين</rel-AR><rel-EN>Thematic:Elaboration:E-elaboration</rel-EN></marqueur>
+<marqueur   id="94"  type="discursif" nature="strict" cat="prep"><lemme> فأجاب </lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="95"  type="discursif" nature="strict" cat="adv"><lemme> قبل ان</lemme><rel-AR>ربط مع الترتيب ببطء </rel-AR><rel-EN>Temporal:Temporal Ordering:Slow ordering</rel-EN></marqueur>
+<marqueur   id="96"  type="discursif" nature="strict" cat="other"><lemme>أدت إلى</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="98"  type="discursif" nature="strict" cat="other"><lemme>اضاف ان</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="99"  type="discursif" nature="strict" cat="other"><lemme>اعتقاده</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="100"  type="discursif" nature="ambigu" cat="csu"><lemme>الا اذا</lemme><rel-AR>شرط </rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="101"  type="discursif" nature="ambigu" cat="csu"><lemme>الا اذا</lemme><rel-AR>تخصيص</rel-AR><rel-EN>Thematic:Elaboration:Specification</rel-EN></marqueur>
+<marqueur   id="102"  type="discursif" nature="strict" cat="csu"><lemme>الا ذلك</lemme><rel-AR>تخصيص</rel-AR><rel-EN>Thematic:Elaboration:Specification</rel-EN></marqueur>
+<marqueur   id="103"  type="discursif" nature="strict" cat="other"><lemme>الإقرار</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="104"  type="discursif" nature="strict" cat="other"><lemme>النتيجة</lemme><rel-AR>نتيجة </rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="105"  type="discursif" nature="ambigu" cat="csu"><lemme>الى ذلك</lemme><rel-AR>معية</rel-AR><rel-EN>Structural:Parallel</rel-EN></marqueur>
+<marqueur   id="106"  type="discursif" nature="ambigu" cat="csu"><lemme>الى ذلك</lemme><rel-AR>ربط دون ترتيب زمني </rel-AR><rel-EN>Thematic:Continuation</rel-EN></marqueur>
+<marqueur   id="107"  type="discursif" nature="ambigu" cat="csu"><lemme>الى ذلك</lemme><rel-AR>معية </rel-AR><rel-EN>Structural:Parallel</rel-EN></marqueur>
+<marqueur   id="108"  type="discursif" nature="strict" cat="csu"><lemme>اما اذا</lemme><rel-AR>شرط </rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="109"  type="discursif" nature="strict" cat="csu"><lemme>ان تكن</lemme><rel-AR>خلفية </rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="110"  type="discursif" nature="ambigu" cat="csu"><lemme>بالتالي</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="111"  type="discursif" nature="ambigu" cat="csu"><lemme>بالتالي</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="112"  type="discursif" nature="strict" cat="other"><lemme>بالنسبة</lemme><rel-AR>تخصيص </rel-AR><rel-EN>Thematic:Elaboration:Specification</rel-EN></marqueur>
+<marqueur   id="113"  type="discursif" nature="strict" cat="csu"><lemme>بحسب ما</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="114"  type="discursif" nature="ambigu" cat="other"><lemme>بقدر ما</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="115"  type="discursif" nature="ambigu" cat="other"><lemme>بقدر ما</lemme><rel-AR>معية</rel-AR><rel-EN>Structural:Parallel</rel-EN></marqueur>
+<marqueur   id="116"  type="discursif" nature="strict" cat="other"><lemme>علما ان</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="117"  type="discursif" nature="strict" cat="csu"><lemme>على أمل</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="118"  type="discursif" nature="strict" cat="csu"><lemme>على ان</lemme><rel-AR>شرط</rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="119"  type="discursif" nature="strict" cat="csu"><lemme>غير ان</lemme><rel-AR>استدراك </rel-AR><rel-EN>Structural:Opposition:Concession</rel-EN></marqueur>
+<marqueur   id="120"  type="discursif" nature="strict" cat="csu"><lemme>فبينما</lemme><rel-AR>تزامن</rel-AR><rel-EN>Temporal:Temporal Ordering:Synchronization</rel-EN></marqueur>
+<marqueur   id="121"  type="discursif" nature="strict" cat="csu"><lemme>ففي ظل</lemme><rel-AR>خلفية </rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="122"  type="discursif" nature="ambigu" cat="csu"><lemme>فلطالما</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="123"  type="discursif" nature="ambigu" cat="csu"><lemme>فلطالما</lemme><rel-AR>مقابلة</rel-AR><rel-EN>Structural:Opposition:Contrast</rel-EN></marqueur>
+<marqueur   id="124"  type="discursif" nature="strict" cat="prep"><lemme>فها هي</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="125"  type="discursif" nature="strict" cat="csu"><lemme>لا سيما</lemme><rel-AR>تخصيص</rel-AR><rel-EN>Thematic:Elaboration:Specification</rel-EN></marqueur>
+<marqueur   id="126"  type="discursif" nature="strict" cat="cco"><lemme>لا ينضب</lemme><rel-AR>مقابلة </rel-AR><rel-EN>Structural:Opposition:Contrast</rel-EN></marqueur>
+<marqueur   id="127"  type="discursif" nature="strict" cat="csu"><lemme>نتيجة ل</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="128"  type="discursif" nature="strict" cat="other"><lemme>نقول ان</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="129"  type="discursif" nature="strict" cat="csu"><lemme>هذا أدى</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="130"  type="discursif" nature="strict" cat="other"><lemme>هي التي</lemme><rel-AR>تعيين </rel-AR><rel-EN>Thematic:Elaboration:E-elaboration</rel-EN></marqueur>
+<marqueur   id="131"  type="discursif" nature="strict" cat="cco"><lemme>واستغرب</lemme><rel-AR>تعليق</rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="132"  type="discursif" nature="strict" cat="other"><lemme>والارجح</lemme><rel-AR>تعليق </rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="133"  type="discursif" nature="strict" cat="other"><lemme>والهدف</lemme><rel-AR>ربط دون ترتيب زمني </rel-AR><rel-EN>Thematic:Continuation</rel-EN></marqueur>
+<marqueur   id="134"  type="discursif" nature="strict" cat="other"><lemme>وأمل في</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="135"  type="discursif" nature="strict" cat="csu"><lemme>وبما ان</lemme><rel-AR>شرط</rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="136"  type="discursif" nature="strict" cat="adv"><lemme>وختاما</lemme><rel-AR>ربط مع الترتيب ببطء </rel-AR><rel-EN>Temporal:Temporal Ordering:Slow ordering</rel-EN></marqueur>
+<marqueur   id="137"  type="discursif" nature="ambigu" cat="adv"><lemme>وعندما</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="138"  type="discursif" nature="strict" cat="csu"><lemme>وفقاً ل</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="139"  type="discursif" nature="strict" cat="cco"><lemme>وقال ان</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="140"  type="discursif" nature="strict" cat="cco"><lemme>وقائلاً</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="141"  type="discursif" nature="strict" cat="adv"><lemme>وقبل ان</lemme><rel-AR>ربط مع الترتيب ببطء </rel-AR><rel-EN>Temporal:Temporal Ordering:Slow ordering</rel-EN></marqueur>
+<marqueur   id="142"  type="discursif" nature="ambigu" cat="csu"><lemme>ولو كنا</lemme><rel-AR>خلفية </rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="143"  type="discursif" nature="ambigu" cat="cco"><lemme>ونستنتج</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="144"  type="discursif" nature="ambigu" cat="cco"><lemme>ونستنتج</lemme><rel-AR>استنتاج</rel-AR><rel-EN>Causal:Cause-effect:Logical consequence</rel-EN></marqueur>
+<marqueur   id="145"  type="discursif" nature="strict" cat="cco"><lemme>وهذا ما</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="146"  type="discursif" nature="ambigu" cat="cco"><lemme>وهم</lemme><rel-AR>معية</rel-AR><rel-EN>Structural:Parallel</rel-EN></marqueur>
+<marqueur   id="147"  type="discursif" nature="ambigu" cat="cco"><lemme>وهو كان</lemme><rel-AR>تعريف</rel-AR><rel-EN>Thematic:Elaboration:Definition</rel-EN></marqueur>
+<marqueur   id="148"  type="discursif" nature="ambigu" cat="cco"><lemme>وهو كان</lemme><rel-AR>ربط مع الترتيب ببطء</rel-AR><rel-EN>Temporal:Temporal Ordering:Slow ordering</rel-EN></marqueur>
+<marqueur   id="149"  type="discursif" nature="strict" cat="other"><lemme>يقال ان</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="150"  type="discursif" nature="strict" cat="other"><lemme>يقول ان</lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="151"  type="discursif" nature="strict" cat="other"><lemme>الآتي</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="152"  type="discursif" nature="strict" cat="other"><lemme>ابلغته</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="153"  type="discursif" nature="strict" cat="other"><lemme>اقنعوا</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="154"  type="discursif" nature="ambigu" cat="csu"><lemme>الا ان</lemme><rel-AR>استدراك </rel-AR><rel-EN>Structural:Opposition:Concession</rel-EN></marqueur>
+<marqueur   id="155"  type="discursif" nature="ambigu" cat="csu"><lemme>الا ان</lemme><rel-AR>مقابلة</rel-AR><rel-EN>Structural:Opposition:Contrast</rel-EN></marqueur>
+<marqueur   id="156"  type="discursif" nature="strict" cat="other"><lemme>السؤال</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="157"  type="discursif" nature="strict" cat="other"><lemme>اللتين</lemme><rel-AR>تعيين</rel-AR><rel-EN>Thematic:Elaboration:E-elaboration</rel-EN></marqueur>
+<marqueur   id="158"  type="discursif" nature="strict" cat="other"><lemme>اللذين</lemme><rel-AR>تعيين</rel-AR><rel-EN>Thematic:Elaboration:E-elaboration</rel-EN></marqueur>
+<marqueur   id="159"  type="discursif" nature="strict" cat="csu"><lemme>اما ان</lemme><rel-AR>تخيير </rel-AR><rel-EN>Structural:Alternation</rel-EN></marqueur>
+<marqueur   id="160"  type="discursif" nature="strict" cat="other"><lemme>انقاذا</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="161"  type="discursif" nature="ambigu" cat="csu"><lemme>بل لان</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="162"  type="discursif" nature="ambigu" cat="csu"><lemme>بل لان</lemme><rel-AR>إضراب</rel-AR><rel-EN>Structural:Correction</rel-EN></marqueur>
+<marqueur   id="163"  type="discursif" nature="strict" cat="csu"><lemme>بيد ان</lemme><rel-AR>استدراك </rel-AR><rel-EN>Structural:Opposition:Concession</rel-EN></marqueur>
+<marqueur   id="164"  type="discursif" nature="strict" cat="other"><lemme>تقريره</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="165"  type="discursif" nature="strict" cat="other"><lemme>تكريما</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="166"  type="discursif" nature="strict" cat="other"><lemme>جوابها</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="167"  type="discursif" nature="ambigu" cat="adv"><lemme>حالياً</lemme><rel-AR>طباق</rel-AR><rel-EN>Structural:Opposition:Antithetic</rel-EN></marqueur>
+<marqueur   id="168"  type="discursif" nature="strict" cat="csu"><lemme>دون ان</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="169"  type="discursif" nature="ambigu" cat="csu"><lemme>ذلك ان</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="170"  type="discursif" nature="ambigu" cat="csu"><lemme>ذلك ان</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="171"  type="discursif" nature="ambigu" cat="csu"><lemme>ذلك ان</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="172"  type="discursif" nature="strict" cat="csu"><lemme>رغم ان</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="173"  type="discursif" nature="strict" cat="csu"><lemme>شرط ان</lemme><rel-AR>شرط</rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="174"  type="discursif" nature="strict" cat="prep"><lemme>في وقت</lemme><rel-AR>تزامن</rel-AR><rel-EN>Temporal:Temporal Ordering:Synchronization</rel-EN></marqueur>
+<marqueur   id="175"  type="discursif" nature="strict" cat="other"><lemme>قائلاً</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="176"  type="discursif" nature="strict" cat="adv"><lemme>قبل ان</lemme><rel-AR>ربط مع الترتيب ببطء </rel-AR><rel-EN>Temporal:Temporal Ordering:Slow ordering</rel-EN></marqueur>
+<marqueur   id="177"  type="discursif" nature="ambigu" cat="csu"><lemme>ما دام</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="178"  type="discursif" nature="ambigu" cat="csu"><lemme>ما دام</lemme><rel-AR>شرط </rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="179"  type="discursif" nature="strict" cat="csu"><lemme>ما عدا</lemme><rel-AR>تخصيص</rel-AR><rel-EN>Thematic:Elaboration:Specification</rel-EN></marqueur>
+<marqueur   id="180"  type="discursif" nature="ambigu" cat="csu"><lemme>من اجل</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="181"  type="discursif" nature="strict" cat="csu"><lemme>من دون</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="182"  type="discursif" nature="strict" cat="other"><lemme>مولولة</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="183"  type="discursif" nature="strict" cat="other"><lemme>نتساءل</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="184"  type="discursif" nature="ambigu" cat="other"><lemme>هذا هو</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="185"  type="discursif" nature="ambigu" cat="other"><lemme>هذا هو</lemme><rel-AR>تعريف</rel-AR><rel-EN>Thematic:Elaboration:Definition</rel-EN></marqueur>
+<marqueur   id="186"  type="discursif" nature="ambigu" cat="other"><lemme>هذا هو</lemme><rel-AR>تلخيص</rel-AR><rel-EN>Thematic:Summary</rel-EN></marqueur>
+<marqueur   id="187"  type="discursif" nature="strict" cat="cco"><lemme>واعتبر</lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="188"  type="discursif" nature="strict" cat="cco"><lemme>واقترح</lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="189"  type="discursif" nature="ambigu" cat="cco"><lemme>واكثره</lemme><rel-AR>تفصيل </rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="190"  type="discursif" nature="ambigu" cat="cco"><lemme>واكثره</lemme><rel-AR>تخصيص </rel-AR><rel-EN>Thematic:Elaboration:Specification</rel-EN></marqueur>
+<marqueur   id="191"  type="discursif" nature="strict" cat="csu"><lemme>والا ف</lemme><rel-AR>نتيجة </rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="192"  type="discursif" nature="strict" cat="cco"><lemme>والذين</lemme><rel-AR>تعيين</rel-AR><rel-EN>Thematic:Elaboration:E-elaboration</rel-EN></marqueur>
+<marqueur   id="193"  type="discursif" nature="strict" cat="cco"><lemme>وأهمها</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="194"  type="discursif" nature="strict" cat="adv"><lemme>وبعدها</lemme><rel-AR>ربط مع الترتيب ببطء </rel-AR><rel-EN>Temporal:Temporal Ordering:Slow ordering</rel-EN></marqueur>
+<marqueur   id="195"  type="discursif" nature="strict" cat="csu"><lemme>وبينما</lemme><rel-AR>تزامن</rel-AR><rel-EN>Temporal:Temporal Ordering:Synchronization</rel-EN></marqueur>
+<marqueur   id="196"  type="discursif" nature="strict" cat="adv"><lemme>وبينها</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="197"  type="discursif" nature="strict" cat="cco"><lemme>وخصوصا</lemme><rel-AR>تخصيص </rel-AR><rel-EN>Thematic:Elaboration:Specification</rel-EN></marqueur>
+<marqueur   id="198"  type="discursif" nature="strict" cat="adv"><lemme>وطالما</lemme><rel-AR>شرط </rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="199"  type="discursif" nature="ambigu" cat="adv"><lemme>وعندما</lemme><rel-AR>تزامن</rel-AR><rel-EN>Temporal:Temporal Ordering:Synchronization</rel-EN></marqueur>
+<marqueur   id="200"  type="discursif" nature="ambigu" cat="adv"><lemme>وعندما</lemme><rel-AR>شرط</rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="201"  type="discursif" nature="strict" cat="csu"><lemme>وفق ما</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="202"  type="discursif" nature="strict" cat="cco"><lemme>وفي ان</lemme><rel-AR>تفصيل </rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="203"  type="discursif" nature="strict" cat="adv"><lemme>وقبلها</lemme><rel-AR>ربط مع الترتيب ببطء </rel-AR><rel-EN>Temporal:Temporal Ordering:Slow ordering</rel-EN></marqueur>
+<marqueur   id="204"  type="discursif" nature="strict" cat="csu"><lemme>وكأنما</lemme><rel-AR>مقابلة</rel-AR><rel-EN>Structural:Opposition:Contrast</rel-EN></marqueur>
+<marqueur   id="205"  type="discursif" nature="strict" cat="csu"><lemme>ولا شك</lemme><rel-AR>تعليق</rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="206"  type="discursif" nature="strict" cat="csu"><lemme>ولو ان</lemme><rel-AR>شرط</rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="207"  type="discursif" nature="strict" cat="csu"><lemme>ومن ثم</lemme><rel-AR>ربط مع الترتيب ببطء</rel-AR><rel-EN>Temporal:Temporal Ordering:Slow ordering</rel-EN></marqueur>
+<marqueur   id="208"  type="discursif" nature="strict" cat="cco"><lemme>ونعتبر</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="209"  type="discursif" nature="ambigu" cat="csu"><lemme>وهو ان</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="210"  type="discursif" nature="ambigu" cat="csu"><lemme>وهو ان</lemme><rel-AR>تعريف</rel-AR><rel-EN>Thematic:Elaboration:Definition</rel-EN></marqueur>
+<marqueur   id="211"  type="discursif" nature="ambigu" cat="csu"><lemme>وهو ما</lemme><rel-AR>نتيجة </rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="212"  type="discursif" nature="ambigu" cat="csu"><lemme>وهو ما</lemme><rel-AR>تلخيص</rel-AR><rel-EN>Thematic:Summary</rel-EN></marqueur>
+<marqueur   id="213"  type="discursif" nature="strict" cat="other"><lemme>يستبعد</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="214"  type="discursif" nature="strict" cat="cco"><lemme>وأكد</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="215"  type="discursif" nature="strict" cat="cco"><lemme>وصرح</lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="216"  type="discursif" nature="strict" cat="cco"><lemme>وهذا</lemme><rel-AR>تلخيص</rel-AR><rel-EN>Thematic:Summary</rel-EN></marqueur>
+<marqueur   id="217"  type="discursif" nature="ambigu" cat="csu"><lemme>اذ ان</lemme><rel-AR>ربط مع الترتيب بسرعة</rel-AR><rel-EN>Temporal:Temporal Ordering:Quick ordering</rel-EN></marqueur>
+<marqueur   id="218"  type="discursif" nature="strict" cat="other"><lemme>اعتبر</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="219"  type="discursif" nature="strict" cat="other"><lemme>إعلان</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="220"  type="discursif" nature="strict" cat="other"><lemme>افادت</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="221"  type="discursif" nature="strict" cat="other"><lemme>الاول</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="222"  type="discursif" nature="strict" cat="other"><lemme>الذين</lemme><rel-AR>تعيين</rel-AR><rel-EN>Thematic:Elaboration:E-elaboration</rel-EN></marqueur>
+<marqueur   id="223"  type="discursif" nature="strict" cat="other"><lemme>القول</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="224"  type="discursif" nature="strict" cat="other"><lemme>اهمها</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="225"  type="discursif" nature="ambigu" cat="cco"><lemme>اي ان</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="226"  type="discursif" nature="ambigu" cat="csu"><lemme>اي ان</lemme><rel-AR>تعريف</rel-AR><rel-EN>Thematic:Elaboration:Definition</rel-EN></marqueur>
+<marqueur   id="227"  type="discursif" nature="strict" cat="other"><lemme>بداية</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="228"  type="discursif" nature="strict" cat="csu"><lemme>بدليل</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="229"  type="discursif" nature="strict" cat="adv"><lemme>بعدما</lemme><rel-AR>ربط مع الترتيب ببطء </rel-AR><rel-EN>Temporal:Temporal Ordering:Slow ordering</rel-EN></marqueur>
+<marqueur   id="230"  type="discursif" nature="strict" cat="adv"><lemme>بينما</lemme><rel-AR>تزامن</rel-AR><rel-EN>Temporal:Temporal Ordering:Synchronization</rel-EN></marqueur>
+<marqueur   id="231"  type="discursif" nature="strict" cat="other"><lemme>تساءل</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="232"  type="discursif" nature="strict" cat="other"><lemme>تعترف</lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="233"  type="discursif" nature="strict" cat="other"><lemme>داعيا</lemme><rel-AR>تزامن</rel-AR><rel-EN>Temporal:Temporal Ordering:Synchronization</rel-EN></marqueur>
+<marqueur   id="234"  type="discursif" nature="strict" cat="other"><lemme>دفاعا</lemme><rel-AR>غرض </rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="235"  type="discursif" nature="strict" cat="csu"><lemme>ستكون</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="236"  type="discursif" nature="strict" cat="adv"><lemme>سرعان</lemme><rel-AR>ربط مع الترتيب بسرعة</rel-AR><rel-EN>Temporal:Temporal Ordering:Quick ordering</rel-EN></marqueur>
+<marqueur   id="237"  type="discursif" nature="strict" cat="adv"><lemme>سعياً</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="238"  type="discursif" nature="ambigu" cat="adv"><lemme>عندما</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="239"  type="discursif" nature="ambigu" cat="adv"><lemme>عندما</lemme><rel-AR>تزامن</rel-AR><rel-EN>Temporal:Temporal Ordering:Synchronization</rel-EN></marqueur>
+<marqueur   id="240"  type="discursif" nature="strict" cat="prep"><lemme>فأجاب</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="241"  type="discursif" nature="strict" cat="prep"><lemme>فأعلن</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="242"  type="discursif" nature="strict" cat="csu"><lemme>فلعل</lemme><rel-AR>تعليق</rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="243"  type="discursif" nature="strict" cat="prep"><lemme>فلنقل</lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="244"  type="discursif" nature="ambigu" cat="preo"><lemme>فمعنى</lemme><rel-AR>تعريف</rel-AR><rel-EN>Thematic:Elaboration:Definition</rel-EN></marqueur>
+<marqueur   id="245"  type="discursif" nature="ambigu" cat="prep"><lemme>فمعنى</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="246"  type="discursif" nature="strict" cat="prep"><lemme>فيقول</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="247"  type="discursif" nature="strict" cat="cco"><lemme>لا بد</lemme><rel-AR>شرط </rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="248"  type="discursif" nature="strict" cat="csu"><lemme>لا بل</lemme><rel-AR>إضراب</rel-AR><rel-EN>Structural:Correction</rel-EN></marqueur>
+<marqueur   id="249"  type="discursif" nature="strict" cat="csu"><lemme>لذا ف</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="250"  type="discursif" nature="strict" cat="csu"><lemme> لكنَّ</lemme><rel-AR>استدراك </rel-AR><rel-EN>Structural:Opposition:Concession</rel-EN></marqueur>
+<marqueur   id="251"  type="discursif" nature="strict" cat="csu"><lemme>لماذا</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="252"  type="discursif" nature="strict" cat="csu"><lemme>ما لم</lemme><rel-AR>شرط </rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="253"  type="discursif" nature="strict" cat="other"><lemme>مبررا</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="254"  type="discursif" nature="strict" cat="csu"><lemme>مع ان</lemme><rel-AR>استدراك </rel-AR><rel-EN>Structural:Opposition:Concession</rel-EN></marqueur>
+<marqueur   id="255"  type="discursif" nature="strict" cat="csu"><lemme>نتيجة</lemme><rel-AR>نتيجة </rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="256"  type="discursif" nature="strict" cat="other"><lemme>نعتبر</lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="257"  type="discursif" nature="strict" cat="other"><lemme>نناشد</lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="258"  type="discursif" nature="strict" cat="cco"><lemme>واذكر</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="259"  type="discursif" nature="strict" cat="cco"><lemme>واشار</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="260"  type="discursif" nature="strict" cat="cco"><lemme>واضاف</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="261"  type="discursif" nature="strict" cat="cco"><lemme>واعلن</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="262"  type="discursif" nature="strict" cat="cco"><lemme>وافاد</lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="263"  type="discursif" nature="ambigu" cat="adv"><lemme>والان</lemme><rel-AR>ربط دون ترتيب زمني </rel-AR><rel-EN>Thematic:Continuation</rel-EN></marqueur>
+<marqueur   id="264"  type="discursif" nature="ambigu" cat="cco"><lemme>والتي</lemme><rel-AR>ربط دون ترتيب زمني</rel-AR><rel-EN>Thematic:Continuation</rel-EN></marqueur>
+<marqueur   id="265"  type="discursif" nature="ambigu" cat="cco"><lemme>والتي</lemme><rel-AR>تعيين</rel-AR><rel-EN>Thematic:Elaboration:E-elaboration</rel-EN></marqueur>
+<marqueur   id="266"  type="discursif" nature="ambigu" cat="cco"><lemme>والذي</lemme><rel-AR>تعيين</rel-AR><rel-EN>Thematic:Elaboration:E-elaboration</rel-EN></marqueur>
+<marqueur   id="267"  type="discursif" nature="strict" cat="csu"><lemme>وانما</lemme><rel-AR>إضراب</rel-AR><rel-EN>Structural:Correction</rel-EN></marqueur>
+<marqueur   id="268"  type="discursif" nature="strict" cat="cco"><lemme>واوضح</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="269"  type="discursif" nature="strict" cat="cco"><lemme>وأؤكد</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="270"  type="discursif" nature="strict" cat="csu"><lemme>وبهذا</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="271"  type="discursif" nature="strict" cat="cco"><lemme>وتلخص</lemme><rel-AR>تلخيص </rel-AR><rel-EN>Thematic:Summary</rel-EN></marqueur>
+<marqueur   id="272"  type="discursif" nature="strict" cat="cco"><lemme>وتوقع</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="273"  type="discursif" nature="strict" cat="cco"><lemme>وذكّر</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="274"  type="discursif" nature="ambigu" cat="cco"><lemme>وذلك</lemme><rel-AR>نتيجة </rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="275"  type="discursif" nature="ambigu" cat="cco"><lemme>وذلك</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="276"  type="discursif" nature="ambigu" cat="cco"><lemme>وذلك</lemme><rel-AR>ربط دون ترتيب زمني</rel-AR><rel-EN>Thematic:Continuation</rel-EN></marqueur>
+<marqueur   id="277"  type="discursif" nature="strict" cat="cco"><lemme>وطمأن</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="278"  type="discursif" nature="strict" cat="csu"><lemme>وكذلك</lemme><rel-AR>معية</rel-AR><rel-EN>Structural:Parallel</rel-EN></marqueur>
+<marqueur   id="279"  type="discursif" nature="strict" cat="cco"><lemme>ولاحظ</lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="280"  type="discursif" nature="ambigu" cat="csu"><lemme>ولان</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="281"  type="discursif" nature="ambigu" cat="csu"><lemme>ولذلك</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="282"  type="discursif" nature="ambigu" cat="csu"><lemme>ولذلك</lemme><rel-AR>استنتاج </rel-AR><rel-EN>Causal:Cause-effect:Logical consequence</rel-EN></marqueur>
+<marqueur   id="283"  type="discursif" nature="strict" cat="csu"><lemme>ولعله</lemme><rel-AR>تعليق</rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="284"  type="discursif" nature="strict" cat="other"><lemme>ولفتت</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="285"  type="discursif" nature="strict" cat="csu"><lemme>ولكي</lemme><rel-AR>غرض </rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="286"  type="discursif" nature="ambigu" cat="csu"><lemme>ولو ل</lemme><rel-AR>تعليق </rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="287"  type="discursif" nature="strict" cat="csu"><lemme>ومنها</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="288"  type="discursif" nature="ambigu" cat="csu"><lemme>ومهما</lemme><rel-AR>ربط دون ترتيب زمني </rel-AR><rel-EN>Thematic:Continuation</rel-EN></marqueur>
+<marqueur   id="289"  type="discursif" nature="ambigu" cat="csu"><lemme>ومهما</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="290"  type="discursif" nature="strict" cat="cco"><lemme>وناشد</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="291"  type="discursif" nature="strict" cat="other"><lemme>الذي</lemme><rel-AR>تعيين</rel-AR><rel-EN>Thematic:Elaboration:E-elaboration</rel-EN></marqueur>
+<marqueur   id="292"  type="discursif" nature="ambigu" cat="cco"><lemme>وهذا</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="293"  type="discursif" nature="ambigu" cat="cco"><lemme>وهم</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="294"  type="discursif" nature="ambigu" cat="cco"><lemme>وهو</lemme><rel-AR>معية </rel-AR><rel-EN>Structural:Parallel</rel-EN></marqueur>
+<marqueur   id="295"  type="discursif" nature="strict" cat="cco"><lemme>ويؤكد</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="296"  type="discursif" nature="strict" cat="other"><lemme>يتذكر</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="297"  type="discursif" nature="strict" cat="other"><lemme>يعتقد</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="298"  type="discursif" nature="strict" cat="csu"><lemme> لان </lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="299"  type="discursif" nature="strict" cat="other"><lemme>ابلغ</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="301"  type="discursif" nature="strict" cat="other"><lemme>ادلى</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="302"  type="discursif" nature="strict" cat="other"><lemme>اعلن</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="303"  type="discursif" nature="strict" cat="other"><lemme>اقول</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="304"  type="discursif" nature="strict" cat="other"><lemme>التي</lemme><rel-AR>تعيين</rel-AR><rel-EN>Thematic:Elaboration:E-elaboration</rel-EN></marqueur>
+<marqueur   id="305"  type="discursif" nature="ambigu" cat="csu"><lemme>انما</lemme><rel-AR>إضراب</rel-AR><rel-EN>Structural:Correction</rel-EN></marqueur>
+<marqueur   id="306"  type="discursif" nature="ambigu" cat="cu"><lemme>انما</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="307"  type="discursif" nature="ambigu" cat="other"><lemme>إنها</lemme><rel-AR>تعريف</rel-AR><rel-EN>Thematic:Elaboration:Definition</rel-EN></marqueur>
+<marqueur   id="308"  type="discursif" nature="ambigu" cat="other"><lemme>إنها</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="309"  type="discursif" nature="strict" cat="other"><lemme>اوضح</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="310"  type="discursif" nature="strict" cat="other"><lemme> اولا </lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="311"  type="discursif" nature="strict" cat="csu"><lemme>بحسب</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="312"  type="discursif" nature="ambigu" cat="csu"><lemme>بحيث</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="313"  type="discursif" nature="ambigu" cat="csu"><lemme>بحيث</lemme><rel-AR>تعيين</rel-AR><rel-EN>Thematic:Elaboration:E-elaboration</rel-EN></marqueur>
+<marqueur   id="314"  type="discursif" nature="ambigu" cat="csu"><lemme>بحيث</lemme><rel-AR>تزامن</rel-AR><rel-EN>Temporal:Temporal Ordering:Synchronization</rel-EN></marqueur>
+<marqueur   id="315"  type="discursif" nature="ambigu" cat="csu"><lemme>بحيث</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="316"  type="discursif" nature="ambigu" cat="csu"><lemme>بحيث</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="317"  type="discursif" nature="strict" cat="csu"><lemme>بسبب</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="318"  type="discursif" nature="strict" cat="csu"><lemme>بغية</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="319"  type="discursif" nature="strict" cat="csu"><lemme>بهدف</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="320"  type="discursif" nature="strict" cat="other"><lemme>تقول</lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="321"  type="discursif" nature="strict" cat="other"><lemme>تؤكد</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="322"  type="discursif" nature="strict" cat="csu"><lemme>ربما</lemme><rel-AR>تعليق </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="323"  type="discursif" nature="strict" cat="other"><lemme> رداً </lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="324"  type="discursif" nature="strict" cat="other"><lemme>سببه</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="325"  type="discursif" nature="ambigu" cat="cco"><lemme>سواء</lemme><rel-AR>تخيير </rel-AR><rel-EN>Structural:Alternation</rel-EN></marqueur>
+<marqueur   id="326"  type="discursif" nature="ambigu" cat="cco"><lemme>سواء</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="327"  type="discursif" nature="ambigu" cat="cco"><lemme>سواء</lemme><rel-AR>خلفية </rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="328"  type="discursif" nature="strict" cat="other"><lemme>صرّح</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="329"  type="discursif" nature="strict" cat="other"><lemme>صوته</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="330"  type="discursif" nature="strict" cat="other"><lemme>طبعا</lemme><rel-AR>تعليق</rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="331"  type="discursif" nature="strict" cat="other"><lemme>طلبا</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="332"  type="discursif" nature="strict" cat="csu"><lemme>فرأى</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="333"  type="discursif" nature="strict" cat="adv"><lemme>فرحا</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="334"  type="discursif" nature="strict" cat="cco"><lemme>فقال</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="335"  type="discursif" nature="ambigu" cat="cco"><lemme>فهذا</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="336"  type="discursif" nature="ambigu" cat="cco"><lemme>فهذا</lemme><rel-AR>تعليق</rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="337"  type="discursif" nature="strict" cat="csu"><lemme>فهمت</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="338"  type="discursif" nature="ambigu" cat="csu"><lemme>فيما</lemme><rel-AR>تزامن</rel-AR><rel-EN>Temporal:Temporal Ordering:Synchronization</rel-EN></marqueur>
+<marqueur   id="339"  type="discursif" nature="ambigu" cat="csu"><lemme>فيما</lemme><rel-AR>مقابلة</rel-AR><rel-EN>Structural:Opposition:Contrast</rel-EN></marqueur>
+<marqueur   id="340"  type="discursif" nature="strict" cat="cco"><lemme>كذلك</lemme><rel-AR>معية </rel-AR><rel-EN>Structural:Parallel</rel-EN></marqueur>
+<marqueur   id="341"  type="discursif" nature="strict" cat="csu"><lemme>لأجل</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="342"  type="discursif" nature="ambigu" cat="csu"><lemme>لذلك</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="343"  type="discursif" nature="ambigu" cat="csu"><lemme>لذلك</lemme><rel-AR>استنتاج</rel-AR><rel-EN>Causal:Cause-effect:Logical consequence</rel-EN></marqueur>
+<marqueur   id="344"  type="discursif" nature="strict" cat="csu"><lemme>لسبب</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="345"  type="discursif" nature="strict" cat="csu"><lemme> لولا </lemme><rel-AR>شرط </rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="346"  type="discursif" nature="ambigu" cat="csu"><lemme> لئلا </lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="347"  type="discursif" nature="ambigu" cat="csu"><lemme> لئلا </lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="348"  type="discursif" nature="strict" cat="other"><lemme> منعا </lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="349"  type="discursif" nature="ambigu" cat="csu"><lemme>مهما</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="350"  type="discursif" nature="ambigu" cat="csu"><lemme>مهما</lemme><rel-AR>شرط </rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="351"  type="discursif" nature="strict" cat="other"><lemme>ندوة</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="352"  type="discursif" nature="strict" cat="csu"><lemme>نظرا</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="353"  type="discursif" nature="strict" cat="other"><lemme>نعرف</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="354"  type="discursif" nature="strict" cat="other"><lemme>هدف</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="355"  type="discursif" nature="strict" cat="csu"><lemme>هكذا</lemme><rel-AR>استنتاج</rel-AR><rel-EN>Causal:Cause-effect:Logical consequence</rel-EN></marqueur>
+<marqueur   id="356"  type="discursif" nature="ambigu" cat="adv"><lemme>هناك</lemme><rel-AR>تأطير</rel-AR><rel-EN>Temporal:Frame</rel-EN></marqueur>
+<marqueur   id="357"  type="discursif" nature="ambigu" cat="adv"><lemme> هناك </lemme><rel-AR>معية</rel-AR><rel-EN>Structural:Parallel</rel-EN></marqueur>
+<marqueur   id="358"  type="discursif" nature="ambigu" cat="adv"><lemme> هناك </lemme><rel-AR>تأطير </rel-AR><rel-EN>Temporal:Frame</rel-EN></marqueur>
+<marqueur   id="359"  type="discursif" nature="strict" cat="cco"><lemme>وأدت</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="360"  type="discursif" nature="strict" cat="csu"><lemme> واذا </lemme><rel-AR>شرط </rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="361"  type="discursif" nature="strict" cat="cco"><lemme> واكد</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="362"  type="discursif" nature="ambigu" cat="cco"><lemme> وان</lemme><rel-AR>شرط</rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="363"  type="discursif" nature="strict" cat="adv"><lemme>وبعد</lemme><rel-AR>تأطير</rel-AR><rel-EN>Temporal:Frame</rel-EN></marqueur>
+<marqueur   id="364"  type="discursif" nature="strict" cat="cco"><lemme>وجاء</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="365"  type="discursif" nature="strict" cat="cco"><lemme>وختم</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="367"  type="discursif" nature="strict" cat="cco"><lemme>ودعا</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="368"  type="discursif" nature="ambigu" cat="cco"><lemme>وذلك</lemme><rel-AR>تأطير</rel-AR><rel-EN>Temporal:Frame</rel-EN></marqueur>
+<marqueur   id="369"  type="discursif" nature="strict" cat="cco"><lemme>ورأى</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="370"  type="discursif" nature="strict" cat="cco"><lemme>وردّ</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="371"  type="discursif" nature="strict" cat="cco"><lemme>وروى</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="372"  type="discursif" nature="strict" cat="cco"><lemme>وسئل</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="373"  type="discursif" nature="strict" cat="cco"><lemme>وشدد</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="374"  type="discursif" nature="strict" cat="cco"><lemme>وشرح</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="375"  type="discursif" nature="strict" cat="cco"><lemme>وصرح</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="376"  type="discursif" nature="strict" cat="cco"><lemme>وعود</lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="377"  type="discursif" nature="strict" cat="cco"><lemme>وقال</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="378"  type="discursif" nature="strict" cat="cco"><lemme>وكتب</lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="379"  type="discursif" nature="strict" cat="cco"><lemme>وكشف</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="380"  type="discursif" nature="strict" cat="cco"><lemme> وكما </lemme><rel-AR>معية </rel-AR><rel-EN>Structural:Parallel</rel-EN></marqueur>
+<marqueur   id="381"  type="discursif" nature="ambigu" cat="csu"><lemme> ولان</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="382"  type="discursif" nature="ambigu" cat="csu"><lemme>ولذا</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="383"  type="discursif" nature="ambigu" cat="csu"><lemme> ولذا </lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="384"  type="discursif" nature="strict" cat="cco"><lemme>ولكن</lemme><rel-AR>استدراك </rel-AR><rel-EN>Structural:Opposition:Concession</rel-EN></marqueur>
+<marqueur   id="385"  type="discursif" nature="strict" cat="cco"><lemme>ولمح</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="386"  type="discursif" nature="ambigu" cat="csu"><lemme> ولو </lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="387"  type="discursif" nature="ambigu" cat="csu"><lemme> ولو </lemme><rel-AR>شرط</rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="388"  type="discursif" nature="strict" cat="cco"><lemme>وليس</lemme><rel-AR>طباق</rel-AR><rel-EN>Structural:Opposition:Antithetic</rel-EN></marqueur>
+<marqueur   id="389"  type="discursif" nature="ambigu" cat="csu"><lemme>ولئن</lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="390"  type="discursif" nature="ambigu" cat="csu"><lemme>ولئن</lemme><rel-AR>شرط</rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="391"  type="discursif" nature="strict" cat="cco"><lemme> ومما </lemme><rel-AR>تفصيل </rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="392"  type="discursif" nature="strict" cat="cco"><lemme>ونقل</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="393"  type="discursif" nature="ambigu" cat="cco"><lemme>وهذا</lemme><rel-AR>استنتاج </rel-AR><rel-EN>Causal:Cause-effect:Logical consequence</rel-EN></marqueur>
+<marqueur   id="394"  type="discursif" nature="ambigu" cat="cco"><lemme>وهذا</lemme><rel-AR>تلخيص</rel-AR><rel-EN>Thematic:Summary</rel-EN></marqueur>
+<marqueur   id="395"  type="discursif" nature="ambigu" cat="cco"><lemme> وهذا </lemme><rel-AR>تعليق</rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="396"  type="discursif" nature="ambigu" cat="cco"><lemme> وهما </lemme><rel-AR>تعريف</rel-AR><rel-EN>Thematic:Elaboration:Definition</rel-EN></marqueur>
+<marqueur   id="397"  type="discursif" nature="ambigu" cat="cco"><lemme> وهو </lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="398"  type="discursif" nature="ambigu" cat="cco"><lemme> وهي </lemme><rel-AR>تعليق</rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="399"  type="discursif" nature="strict" cat="cco"><lemme>ويرى</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="401"  type="discursif" nature="strict" cat="other"><lemme>يعرف</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="402"  type="discursif" nature="strict" cat="other"><lemme>يقول</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="403"  type="discursif" nature="strict" cat="other"><lemme>يؤكد</lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="404"  type="discursif" nature="strict" cat="csu"><lemme> لو </lemme><rel-AR>شرط </rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="405"  type="discursif" nature="strict" cat="other"><lemme>ادت</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="406"  type="discursif" nature="strict" cat="csu"><lemme> اذا </lemme><rel-AR>شرط </rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="407"  type="discursif" nature="strict" cat="cco"><lemme> الا </lemme><rel-AR>شرط</rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="408"  type="discursif" nature="ambigu" cat="cco"><lemme>اذن</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="409"  type="discursif" nature="ambigu" cat="cco"><lemme> اذن </lemme><rel-AR>استنتاج</rel-AR><rel-EN>Causal:Cause-effect:Logical consequence</rel-EN></marqueur>
+<marqueur   id="410"  type="discursif" nature="ambigu" cat="other"><lemme>أضف</lemme><rel-AR>ربط دون ترتيب زمني</rel-AR><rel-EN>Thematic:Continuation</rel-EN></marqueur>
+<marqueur   id="411"  type="discursif" nature="ambigu" cat="other"><lemme> أضف </lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="412"  type="discursif" nature="strict" cat="other"><lemme> اكد </lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="413"  type="discursif" nature="strict" cat="other"><lemme> ايا </lemme><rel-AR>شرط </rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="414"  type="discursif" nature="strict" cat="other"><lemme> بان </lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="415"  type="discursif" nature="ambigu" cat="adv"><lemme> بعد</lemme><rel-AR>تأطير </rel-AR><rel-EN>Temporal:Frame</rel-EN></marqueur>
+<marqueur   id="416"  type="discursif" nature="ambigu" cat="adv"><lemme> بعد</lemme><rel-AR>ربط مع الترتيب ببطء</rel-AR><rel-EN>Temporal:Temporal Ordering:Slow ordering</rel-EN></marqueur>
+<marqueur   id="417"  type="discursif" nature="ambigu" cat="csu"><lemme>بما </lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="418"  type="discursif" nature="ambigu" cat="csu"><lemme>بما </lemme><rel-AR>تزامن</rel-AR><rel-EN>Temporal:Temporal Ordering:Synchronization</rel-EN></marqueur>
+<marqueur   id="419"  type="discursif" nature="ambigu" cat="adv"><lemme> حيث</lemme><rel-AR>تعيين</rel-AR><rel-EN>Thematic:Elaboration:E-elaboration</rel-EN></marqueur>
+<marqueur   id="420"  type="discursif" nature="ambigu" cat="adv"><lemme> حيث</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="421"  type="discursif" nature="ambigu" cat="adv"><lemme> حيث</lemme><rel-AR>تعيين</rel-AR><rel-EN>Thematic:Elaboration:E-elaboration</rel-EN></marqueur>
+<marqueur   id="422"  type="discursif" nature="ambigu" cat="adv"><lemme> حيث</lemme><rel-AR>خلفية </rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="423"  type="discursif" nature="ambigu" cat="adv"><lemme> حيث</lemme><rel-AR>تأطير </rel-AR><rel-EN>Temporal:Frame</rel-EN></marqueur>
+<marqueur   id="424"  type="discursif" nature="ambigu" cat="adv"><lemme> حيث</lemme><rel-AR>تأطير </rel-AR><rel-EN>Temporal:Frame</rel-EN></marqueur>
+<marqueur   id="425"  type="discursif" nature="strict" cat="other"><lemme> دعا</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="426"  type="discursif" nature="strict" cat="other"><lemme> رأى </lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="427"  type="discursif" nature="strict" cat="csu"><lemme> رغم </lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="428"  type="discursif" nature="strict" cat="other"><lemme> رئى </lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="429"  type="discursif" nature="strict" cat="other"><lemme> شكا </lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="430"  type="discursif" nature="strict" cat="cco"><lemme> عدا </lemme><rel-AR>تخصيص</rel-AR><rel-EN>Thematic:Elaboration:Specification</rel-EN></marqueur>
+<marqueur   id="431"  type="discursif" nature="strict" cat="other"><lemme> علم </lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="432"  type="discursif" nature="strict" cat="adv"><lemme>عند</lemme><rel-AR>تأطير </rel-AR><rel-EN>Temporal:Frame</rel-EN></marqueur>
+<marqueur   id="433"  type="discursif" nature="strict" cat="cco"><lemme> فان</lemme><rel-AR>نتيجة </rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="434"  type="discursif" nature="ambigu" cat="cco"><lemme>فقد </lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="435"  type="discursif" nature="ambigu" cat="cco"><lemme>فقد </lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="436"  type="discursif" nature="ambigu" cat="cco"><lemme>فقد </lemme><rel-AR>تعليق </rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="437"  type="discursif" nature="strict" cat="cco"><lemme>فما </lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="438"  type="discursif" nature="ambigu" cat="cco"><lemme>فهي </lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="439"  type="discursif" nature="ambigu" cat="cco"><lemme>فهي </lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="440"  type="discursif" nature="ambigu" cat="cco"><lemme>فهي </lemme><rel-AR>تعريف </rel-AR><rel-EN>Thematic:Elaboration:Definition</rel-EN></marqueur>
+<marqueur   id="441"  type="discursif" nature="strict" cat="other"><lemme>قال</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="442"  type="discursif" nature="strict" cat="adv"><lemme>قبل</lemme><rel-AR>تأطير </rel-AR><rel-EN>Temporal:Frame</rel-EN></marqueur>
+<marqueur   id="443"  type="discursif" nature="strict" cat="other"><lemme>قول</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="444"  type="discursif" nature="strict" cat="other"><lemme>قيل</lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="445"  type="discursif" nature="strict" cat="other"><lemme>كتب</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="446"  type="discursif" nature="strict" cat="other"><lemme>كشف</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="447"  type="discursif" nature="strict" cat="cco"><lemme>كلا </lemme><rel-AR>إضراب</rel-AR><rel-EN>Structural:Correction</rel-EN></marqueur>
+<marqueur   id="448"  type="discursif" nature="ambigu" cat="csu"><lemme>كما </lemme><rel-AR>معية </rel-AR><rel-EN>Structural:Parallel</rel-EN></marqueur>
+<marqueur   id="449"  type="discursif" nature="ambigu" cat="csu"><lemme>كما </lemme><rel-AR>تزامن</rel-AR><rel-EN>Temporal:Temporal Ordering:Synchronization</rel-EN></marqueur>
+<marqueur   id="450"  type="discursif" nature="ambigu" cat="csu"><lemme>كما </lemme><rel-AR>معية</rel-AR><rel-EN>Structural:Parallel</rel-EN></marqueur>
+<marqueur   id="451"  type="discursif" nature="strict" cat="cco"><lemme>كون</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="452"  type="discursif" nature="strict" cat="csu"><lemme>لذا</lemme><rel-AR>نتيجة </rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="454"  type="discursif" nature="strict" cat="other"><lemme>لفت</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="455"  type="discursif" nature="strict" cat="csu"><lemme>لكن</lemme><rel-AR>استدراك </rel-AR><rel-EN>Structural:Opposition:Concession</rel-EN></marqueur>
+<marqueur   id="456"  type="discursif" nature="strict" cat="csu"><lemme>لكي </lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="457"  type="discursif" nature="strict" cat="csu"><lemme>لما </lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="458"  type="discursif" nature="strict" cat="csu"><lemme>لئن</lemme><rel-AR>شرط</rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="459"  type="discursif" nature="strict" cat="csu"><lemme>مما </lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="460"  type="discursif" nature="strict" cat="csu"><lemme>منذ</lemme><rel-AR>تأطير</rel-AR><rel-EN>Temporal:Frame</rel-EN></marqueur>
+<marqueur   id="461"  type="discursif" nature="strict" cat="other"><lemme>نقل</lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="462"  type="discursif" nature="ambigu" cat="csu"><lemme>وان </lemme><rel-AR>معية </rel-AR><rel-EN>Structural:Parallel</rel-EN></marqueur>
+<marqueur   id="463"  type="discursif" nature="ambigu" cat="csu"><lemme>وان </lemme><rel-AR>ربط دون ترتيب زمني </rel-AR><rel-EN>Thematic:Continuation</rel-EN></marqueur>
+<marqueur   id="464"  type="discursif" nature="strict" cat="other"><lemme>ورد </lemme><rel-AR>استدلال </rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="465"  type="discursif" nature="strict" cat="cco"><lemme>وفق </lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="466"  type="discursif" nature="strict" cat="cco"><lemme>وفي </lemme><rel-AR>تأطير</rel-AR><rel-EN>Temporal:Frame</rel-EN></marqueur>
+<marqueur   id="467"  type="discursif" nature="ambigu" cat="cco"><lemme>ولو </lemme><rel-AR>شرط</rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="468"  type="discursif" nature="ambigu" cat="cco"><lemme>ولو </lemme><rel-AR>خلفية </rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="469"  type="discursif" nature="ambigu" cat="cco"><lemme>ومع </lemme><rel-AR>خلفية</rel-AR><rel-EN>Temporal:Background-Flashback</rel-EN></marqueur>
+<marqueur   id="470"  type="discursif" nature="ambigu" cat="cco"><lemme>ومع </lemme><rel-AR>معية</rel-AR><rel-EN>Structural:Parallel</rel-EN></marqueur>
+<marqueur   id="471"  type="discursif" nature="ambigu" cat="cco"><lemme>وهم </lemme><rel-AR>تعيين</rel-AR><rel-EN>Thematic:Elaboration:E-elaboration</rel-EN></marqueur>
+<marqueur   id="472"  type="discursif" nature="ambigu" cat="cco"><lemme>وهو </lemme><rel-AR>تعريف</rel-AR><rel-EN>Thematic:Elaboration:Definition</rel-EN></marqueur>
+<marqueur   id="473"  type="discursif" nature="ambigu" cat="cco"><lemme>وهي </lemme><rel-AR>تعريف </rel-AR><rel-EN>Thematic:Elaboration:Definition</rel-EN></marqueur>
+<marqueur   id="474"  type="discursif" nature="strict" cat="other"><lemme> يرد </lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="475"  type="discursif" nature="ambigu" cat="other"><lemme> هو </lemme><rel-AR>تعريف</rel-AR><rel-EN>Thematic:Elaboration:Definition</rel-EN></marqueur>
+<marqueur   id="476"  type="discursif" nature="ambigu" cat="csu"><lemme> اذ </lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="477"  type="discursif" nature="ambigu" cat="csu"><lemme> اذ </lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="478"  type="discursif" nature="ambigu" cat="csu"><lemme> اذ </lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="479"  type="discursif" nature="ambigu" cat="csu"><lemme> اذ </lemme><rel-AR>ربط مع الترتيب بسرعة </rel-AR><rel-EN>Temporal:Temporal Ordering:Quick ordering</rel-EN></marqueur>
+<marqueur   id="480"  type="discursif" nature="strict" cat="csu"><lemme> ام </lemme><rel-AR>تخيير </rel-AR><rel-EN>Structural:Alternation</rel-EN></marqueur>
+<marqueur   id="481"  type="discursif" nature="ambigu" cat="csu"><lemme> ان </lemme><rel-AR>ربط دون ترتيب زمني</rel-AR><rel-EN>Thematic:Continuation</rel-EN></marqueur>
+<marqueur   id="482"  type="discursif" nature="ambigu" cat="csu"><lemme> ان </lemme><rel-AR>شرط</rel-AR><rel-EN>Structural:Conditional</rel-EN></marqueur>
+<marqueur   id="483"  type="discursif" nature="ambigu" cat="cco"><lemme> او </lemme><rel-AR>تخيير </rel-AR><rel-EN>Structural:Alternation</rel-EN></marqueur>
+<marqueur   id="484"  type="discursif" nature="ambigu" cat="cco"><lemme> او </lemme><rel-AR>ربط دون ترتيب زمني </rel-AR><rel-EN>Thematic:Continuation</rel-EN></marqueur>
+<marqueur   id="485"  type="discursif" nature="ambigu" cat="cco"><lemme> أو </lemme><rel-AR>تخيير </rel-AR><rel-EN>Structural:Alternation</rel-EN></marqueur>
+<marqueur   id="486"  type="discursif" nature="ambigu" cat="cco"><lemme> اي </lemme><rel-AR>تعريف </rel-AR><rel-EN>Thematic:Elaboration:Definition</rel-EN></marqueur>
+<marqueur   id="487"  type="discursif" nature="ambigu" cat="cco"><lemme> اي </lemme><rel-AR>تفصيل </rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="488"  type="discursif" nature="strict" cat="cco"><lemme> بل </lemme><rel-AR>إضراب</rel-AR><rel-EN>Structural:Correction</rel-EN></marqueur>
+<marqueur   id="489"  type="discursif" nature="strict" cat="cco"><lemme> ثم </lemme><rel-AR>ربط مع الترتيب ببطء </rel-AR><rel-EN>Temporal:Temporal Ordering:Slow ordering</rel-EN></marqueur>
+<marqueur   id="490"  type="discursif" nature="strict" cat="cco"><lemme> لا </lemme><rel-AR>مقابلة </rel-AR><rel-EN>Structural:Opposition:Contrast</rel-EN></marqueur>
+<marqueur   id="491"  type="discursif" nature="ambigu" cat="other"><lemme> ظن </lemme><rel-AR>تعليق</rel-AR><rel-EN>Thematic:Commentary</rel-EN></marqueur>
+<marqueur   id="492"  type="discursif" nature="ambigu" cat="other"><lemme> ظن </lemme><rel-AR>استدلال</rel-AR><rel-EN>Thematic:Attribution</rel-EN></marqueur>
+<marqueur   id="493"  type="discursif" nature="strict" cat="csu"><lemme> كي </lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="494"  type="discursif" nature="strict" cat="csu"><lemme> ما </lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="495"  type="discursif" nature="ambigu" cat="other"><lemme> هو </lemme><rel-AR>تخصيص</rel-AR><rel-EN>Thematic:Elaboration:Specification</rel-EN></marqueur>
+<marqueur   id="496"  type="discursif" nature="ambigu" cat="other"><lemme> هو </lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="497"  type="discursif" nature="ambigu" cat="cco"><lemme>و</lemme><rel-AR>ربط دون ترتيب زمني </rel-AR><rel-EN>Thematic:Continuation</rel-EN></marqueur>
+<marqueur   id="498"  type="discursif" nature="ambigu" cat="cco"><lemme>و</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="499"  type="discursif" nature="ambigu" cat="cco"><lemme>و</lemme><rel-AR>معية </rel-AR><rel-EN>Structural:Parallel</rel-EN></marqueur>
+<marqueur   id="500"  type="discursif" nature="ambigu" cat="prep"><lemme>ل</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="501"  type="discursif" nature="ambigu" cat="prep"><lemme>ل</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="502"  type="discursif" nature="ambigu" cat="prep"><lemme>ل</lemme><rel-AR>غرض</rel-AR><rel-EN>Causal:Goal</rel-EN></marqueur>
+<marqueur   id="503"  type="discursif" nature="ambigu" cat="prep"><lemme>ل</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="504"  type="discursif" nature="ambigu" cat="prep"><lemme>ف</lemme><rel-AR>نتيجة</rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="505"  type="discursif" nature="ambigu" cat="prep"><lemme>ف</lemme><rel-AR>تفصيل </rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="506"  type="discursif" nature="ambigu" cat="prep"><lemme>ف</lemme><rel-AR>ربط مع الترتيب بسرعة </rel-AR><rel-EN>Temporal:Temporal Ordering:Quick ordering</rel-EN></marqueur>
+<marqueur   id="507"  type="discursif" nature="ambigu" cat="prep"><lemme>ف</lemme><rel-AR>تفصيل</rel-AR><rel-EN>Thematic:Elaboration:Description</rel-EN></marqueur>
+<marqueur   id="508"  type="discursif" nature="ambigu" cat="prep"><lemme>ف</lemme><rel-AR>ربط مع الترتيب بسرعة </rel-AR><rel-EN>Temporal:Temporal Ordering:Quick ordering</rel-EN></marqueur>
+<marqueur   id="509"  type="discursif" nature="ambigu" cat="prep"><lemme>ف</lemme><rel-AR>سبب</rel-AR><rel-EN>Causal:Explanation</rel-EN></marqueur>
+<marqueur   id="510"  type="discursif" nature="ambigu" cat="prep"><lemme>ف</lemme><rel-AR>نتيجة </rel-AR><rel-EN>Causal:Cause-effect:Result</rel-EN></marqueur>
+<marqueur   id="511"  type="discursif" nature="ambigu" cat="prep"><lemme>ف</lemme><rel-AR>ربط مع الترتيب بسرعة </rel-AR><rel-EN>Temporal:Temporal Ordering:Quick ordering</rel-EN></marqueur>
+<marqueur   id="512"  type="discursif" nature="ambigu" cat="prep"><lemme>ف</lemme><rel-AR>تعريف</rel-AR><rel-EN>Thematic:Elaboration:Definition</rel-EN></marqueur>
+</Liste>

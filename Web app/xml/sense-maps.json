@@ -106,5 +106,32 @@
     "EXPANSION:Level-of-detail:Arg1-as-detail(Summarization)": "EXPANSION:Level-of-detail:Arg1-as-detail",
     "EXPANSION:Level-of-detail:Arg2-as-detail(Specification)": "EXPANSION:Level-of-detail:Arg2-as-detail",
     "TEMPORAL:Syncrony": "TEMPORAL:Synchronous"
-  }
+  },
+  
+  "arabic": {
+    "Causal:Cause-effect:Logical consequence": "CONTINGENCY:Cause:Result",
+    "Causal:Cause-effect:Result": "CONTINGENCY:Cause:Result",
+    "Causal:Explanation": "CONTINGENCY:Cause:Reason",
+    "Causal:Goal": "CONTINGENCY:Purpose:Arg2-as-goal",
+    "Structural:Alternation": "EXPANSION:Disjunction",
+    "Structural:Conditional": "CONTINGENCY:Condition",
+    "Structural:Correction": "COMPARISON:Contrast",
+    "Structural:Opposition:Antithetic": "COMPARISON:Contrast",
+    "Structural:Opposition:Concession": "COMPARISON:Concession:Arg2-as-denier",
+    "Structural:Opposition:Contrast": "COMPARISON:Contrast",
+    "Structural:Parallel": "EXPANSION:Equivalence",
+    "Temporal:Background-Flashback": "TEMPORAL:Asynchronous:Precedence",
+    "Temporal:Frame": "TEMPORAL",
+    "Temporal:Temporal Ordering:Quick ordering": "TEMPORAL:Asynchronous",
+    "Temporal:Temporal Ordering:Slow ordering": "TEMPORAL:Asynchronous",
+    "Temporal:Temporal Ordering:Synchronization": "TEMPORAL:Synchronous",
+    "Thematic:Attribution": "EXPANSION:Level-of-detail",
+    "Thematic:Commentary": "EXPANSION:Level-of-detail",
+    "Thematic:Continuation": "EXPANSION:Conjunction",
+    "Thematic:Elaboration:Definition": "EXPANSION:Level-of-detail",
+    "Thematic:Elaboration:Description": "EXPANSION:Level-of-detail",
+    "Thematic:Elaboration:E-elaboration": "EXPANSION:Level-of-detail",
+    "Thematic:Elaboration:Specification": "EXPANSION:Level-of-detail:Arg2-as-detail",
+    "Thematic:Summary": "EXPANSION:Level-of-detail:Arg1-as-detail"
+  }                                        
 }
