@@ -39,7 +39,7 @@ class LexiconPreprocessor {
   }
 
   /**
-   * Creates a path of subobjects in an objects if it does not yet exist.
+   * Creates a path of subobjects in an object if it does not yet exist.
    * Each individual path component is checked for existence and created if not already there.
    * 
    * @param {Object} obj - The object within the path should be created
@@ -64,8 +64,8 @@ class LexiconPreprocessor {
    * Preprocesses a whole lexicon.
    * 
    * @param {Object} lexicon - The lexicon object to be preprocessed.
-   * @param {string} lexId - The ID of the lexicon, because this is stored in each entry 
-   *                         so that the result list item template can easily access it.
+   * @param {string} lexId - The ID of the lexicon. It is stored in each entry so that 
+   *                         the result list item template can easily access it.
    */
   PreprocessLexicon(lexicon, lexId) {
     if (lexicon.isProcessed) {
@@ -108,7 +108,10 @@ class LexiconPreprocessor {
 
     this.CreatePathIfNotExists(entry, 'stts.example');
     entry.stts.example = entry.stts.example.filter(elem => elem.t);
-    entry.syn.forEach(this.PreprocessSyn, this);
+
+    let resultSyns = [];
+    entry.syn.forEach((syn) => this.PreprocessSyn(syn, resultSyns), this);
+    entry.syn = resultSyns;
   }
 
   /**
@@ -117,20 +120,42 @@ class LexiconPreprocessor {
    * @param {Object} syn - Current syn
    * @param {number} isyn - Index of current syn
    * @param {Object[]} asyn - Array of syn elements
+   * @param {Object[]} resultSyns - Array in which newly generated syns are stored.
    */
-  PreprocessSyn(syn, isyn, asyn) {
+  PreprocessSyn(syn, resultSyns) {
     this.CreatePathIfNotExists(syn, 'sem');
     this.CreatePathIfNotExists(syn, 'example');
     syn.example = syn.example.filter(elem => elem.t);
 
+    let newSyns = [syn];
     if (this.synMap && this.synMap[syn.cat.t]) {
+      targetSyn = this.synMap[syn.cat.t];
       syn.cat.orig = syn.cat.t;
-      syn.cat.t = this.synMap[syn.cat.t];
+      if (!Array.isArray(targetSyn)) {
+        syn.cat.t = this.synMap[syn.cat.t];
+      } else {
+        for (let itarget = 0; itarget < targetSyn.length; ++itarget) {
+          // Only the current element can be modified while we are iterating over the <syn>s.
+          // We can't modify the sequence, so we store any additional new target pos tags until
+          // we are done and then merge them into the <syn>s afterwards.
+          if (itarget === 0) {
+            syn.cat.t = targetSyn[0];
+          } else {
+            let newSyn = _.cloneDeep(syn);
+            newSem.cat.orig = syn.cat.orig;
+            newSem.cat.t = targetSyn[itarget];
+            newSyns.push(newSyn);
+          }
+        }
+      }
     }
 
-    let resultSems = [];
-    syn.sem.forEach((sem, isem, asem) => this.PreprocessSem(sem, isem, asem, resultSems), this);
-    syn.sem = resultSems;
+    newSyns.forEach((newSyn) => {
+      let resultSems = [];
+      newSyn.sem.forEach((sem) => this.PreprocessSem(sem, resultSems), this);
+      newSyn.sem = resultSems;
+      resultSyns.push(newSyn);
+    });
   }
 
   /**
@@ -138,11 +163,9 @@ class LexiconPreprocessor {
    * are written to newSems, which must later replace the original sem array.
    * 
    * @param {Object} sem - Current sem
-   * @param {number} isem - Index of current sem
-   * @param {Object[]} asem - Array of sem elements
    * @param {Object[]} resultSems - Array in which newly generated sems are stored.
    */
-  PreprocessSem(sem, isem, asem, resultSems) {
+  PreprocessSem(sem, resultSems) {
     if (!sem.pdtb3_relation && !sem.sdrt_relation && !sem.pdtb2_relation) {
       return;
     }
@@ -160,6 +183,9 @@ class LexiconPreprocessor {
 
     this.CreatePathIfNotExists(sem, 'pdtb3_relation');
     let newSems = [sem];
+    let canonicalizeSenseNames = (relation) => {
+      relation.sense = relation.sense.replace('Specification', 'Level-of-detail').replace('-as-consequent', '-as-cond');
+    };
     // For each SDRT sense, there may be one or more PDTB senses which fit.
     // If there is just one, we simply replace it; if there are more, they are added as new <sem> elements.
     // Exception: In the extremely rare cases when a single <sem> contains a combination of more than one SDRT annotation,
@@ -174,14 +200,16 @@ class LexiconPreprocessor {
           rel.sense_orig = rel.sense;
           rel.sense = Array.isArray(targetSense) ? targetSense[0] : targetSense;
         }
-        rel.sense = rel.sense.replace('Specification', 'Level-of-detail');
+        canonicalizeSenseNames(rel);
       }, this);
     } else {
       // General case
       if (this.senseMap && sem.pdtb3_relation[0] && this.senseMap[sem.pdtb3_relation[0].sense]) {
         let targetSense = this.senseMap[sem.pdtb3_relation[0].sense];
         sem.pdtb3_relation[0].sense_orig = sem.pdtb3_relation[0].sense;
-        if (Array.isArray(targetSense)) {
+        if (!Array.isArray(targetSense)) {
+          sem.pdtb3_relation[0].sense = targetSense;
+        } else {
           for (let itarget = 0; itarget < targetSense.length; ++itarget) {
             // Only the current element can be modified while we are iterating over the <sem>s.
             // We can't modify the sequence, so we store any additional new target senses until
@@ -191,20 +219,17 @@ class LexiconPreprocessor {
             } else {
               let newSem = _.cloneDeep(sem);
               newSem.pdtb3_relation[0].sense_orig = sem.pdtb3_relation[0].sense_orig;
-              newSem.pdtb3_relation[0].sense = targetSense[itarget].replace('Specification', 'Level-of-detail');
+              newSem.pdtb3_relation[0].sense = targetSense[itarget];
+              canonicalizeSenseNames(newSem.pdtb3_relation[0]);
               newSems.push(newSem);
             }
           }
-        } else {
-          sem.pdtb3_relation[0].sense_orig = sem.pdtb3_relation[0].sense;
-          sem.pdtb3_relation[0].sense = targetSense;
         }
       }
-      sem.pdtb3_relation[0].sense = sem.pdtb3_relation[0].sense.replace('Specification', 'Level-of-detail');
-      sem.pdtb3_relation[0].sense = sem.pdtb3_relation[0].sense.replace('-as-consequent', '-as-cond');
+      canonicalizeSenseNames(sem.pdtb3_relation[0]);
     }
 
-    newSems.forEach((newSem, inewSem, anewSem) => this.MergeIntoResultSems(newSem, resultSems), this);
+    newSems.forEach((newSem) => this.MergeIntoResultSems(newSem, resultSems), this);
   }
 
   /**
