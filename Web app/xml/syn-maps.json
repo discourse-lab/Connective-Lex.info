@@ -31,7 +31,7 @@
 
   "ptb2": {
     "PP": "adv",
-    "IN": "csu",
+    "IN": ["csu", "prep"],
     "ADVP": "adv",
     "INTJ": "adv",
     "CC": "cco",

@@ -129,7 +129,7 @@ class LexiconPreprocessor {
 
     let newSyns = [syn];
     if (this.synMap && this.synMap[syn.cat.t]) {
-      targetSyn = this.synMap[syn.cat.t];
+      let targetSyn = this.synMap[syn.cat.t];
       syn.cat.orig = syn.cat.t;
       if (!Array.isArray(targetSyn)) {
         syn.cat.t = this.synMap[syn.cat.t];
@@ -142,8 +142,8 @@ class LexiconPreprocessor {
             syn.cat.t = targetSyn[0];
           } else {
             let newSyn = _.cloneDeep(syn);
-            newSem.cat.orig = syn.cat.orig;
-            newSem.cat.t = targetSyn[itarget];
+            newSyn.cat.orig = syn.cat.orig;
+            newSyn.cat.t = targetSyn[itarget];
             newSyns.push(newSyn);
           }
         }
