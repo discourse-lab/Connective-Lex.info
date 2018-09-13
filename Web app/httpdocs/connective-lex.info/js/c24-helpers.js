@@ -1,13 +1,13 @@
 /******************************************
- * 
- * c24-helpers.js 
- * @file Contains Helper Classes; Classes which provide 
+ *
+ * c24-helpers.js
+ * @file Contains Helper Classes; Classes which provide
  * specific services to the Components:
  *  - LexiconPreprocessor normalizes the structure of the lexicon objects
  *  - ResultsFilter determines if an entry matches the current filter settings
  * @author Felix Dombek
  * @version 1.0
- * 
+ *
  ******************************************/
 
 'use strict';
@@ -15,7 +15,7 @@
 /**
  * LexiconPreprocessor:
  * Class which preprocesses the lexicons to normalize some irregularities
- * so that the templates don't have to deal with them, such as fields 
+ * so that the templates don't have to deal with them, such as fields
  * which are sometimes arrays and sometimes single values. The single values
  * would then be converted to one-element arrays.
  */
@@ -24,7 +24,7 @@ class LexiconPreprocessor {
   /**
    * Takes data which apply to all lexicons, so that a single instance of this
    * class can preprocess many lexicons.
-   * 
+   *
    * @param {Object} synMaps - POS maps.
    * @param {Object} senseMaps - Sense maps.
    * @param {Object} metadata - Metadata.
@@ -236,7 +236,7 @@ class LexiconPreprocessor {
    * Add a newly translated Sem element to the list of processed Sem elements,
    * merging it with any existing entry with the same sense while keeping
    * the examples and original senses from both originals entries.
-   * 
+   *
    * @param {Object} sem - The new Sem element
    * @param {Object[]} resultSems - the list of processed Sem elements
    */
