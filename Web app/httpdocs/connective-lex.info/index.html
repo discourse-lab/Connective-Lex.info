@@ -56,12 +56,19 @@
         <div class="modal-body">
           <p>
             This web app was developed by Felix Dombek as part of a bachelor thesis in computational linguistics under supervision of
-            Prof. Dr. Manfred Stede and Dr. Tatjana Scheffler at <a target="_blank" href="http://www.ling.uni-potsdam.de/en/">Department of Linguistics</a>,
+            Prof. Dr. Manfred Stede and Dr. Tatjana Scheffler at 
+            <a target="_blank" href="http://www.ling.uni-potsdam.de/en/">Department of Linguistics</a>,
             Universität Potsdam, 2017.
           </p>
 		  <p>
 		    The work on synchronizing the various lexicons originated as part of the activity of the 
-			<a target="_blank" href="http://textlink.ii.metu.edu.tr/">TextLink</a> COST action (2014–2018) and is currently supported by the project <b>Anaphoricity in Connectives: From corpus analysis to lexical description and consequences for discourse parsing</b>, funded by the DFG under project number 323949969. For questions or requests to add or modify lexicons, please contact <a href="&#x6D;&#x61;&#x69;&#x6C;&#x74;&#x6F;&#x3A;&#x62;&#x6F;&#x75;&#x72;&#x67;&#x6F;&#x6E;&#x6A;&#x65;&#x40;&#x75;&#x6E;&#x69;&#x2D;&#x70;&#x6F;&#x74;&#x73;&#x64;&#x61;&#x6D;&#x2E;&#x64;&#x65;&#x3F;&#x73;&#x75;&#x62;&#x6A;&#x65;&#x63;&#x74;&#x3D;&#x43;&#x6F;&#x6E;&#x6E;&#x65;&#x63;&#x74;&#x69;&#x76;&#x65;&#x2D;&#x4C;&#x65;&#x78;&#x2E;&#x69;&#x6E;&#x66;&#x6F;">&#x62;&#x6F;&#x75;&#x72;&#x67;&#x6F;&#x6E;&#x6A;&#x65;&#x40;&#x75;&#x6E;&#x69;&#x2D;&#x70;&#x6F;&#x74;&#x73;&#x64;&#x61;&#x6D;&#x2E;&#x64;&#x65;</a>.
+      <a href="http://textlink.ii.metu.edu.tr/" target="_blank" rel="noopener">TextLink</a> 
+      COST action (2014–2018) and is currently supported by the project 
+      <a href="http://gepris.dfg.de/gepris/projekt/323949969" target="blank" rel="noopener">
+        Anaphoricity in Connectives: From corpus analysis to lexical description and consequences for discourse parsing</a>, 
+      funded by the DFG under project number 323949969. For questions or requests to add or modify lexicons, 
+      please contact 
+      <a href="&#x6D;&#x61;&#x69;&#x6C;&#x74;&#x6F;&#x3A;&#x62;&#x6F;&#x75;&#x72;&#x67;&#x6F;&#x6E;&#x6A;&#x65;&#x40;&#x75;&#x6E;&#x69;&#x2D;&#x70;&#x6F;&#x74;&#x73;&#x64;&#x61;&#x6D;&#x2E;&#x64;&#x65;&#x3F;&#x73;&#x75;&#x62;&#x6A;&#x65;&#x63;&#x74;&#x3D;&#x43;&#x6F;&#x6E;&#x6E;&#x65;&#x63;&#x74;&#x69;&#x76;&#x65;&#x2D;&#x4C;&#x65;&#x78;&#x2E;&#x69;&#x6E;&#x66;&#x6F;">&#x62;&#x6F;&#x75;&#x72;&#x67;&#x6F;&#x6E;&#x6A;&#x65;&#x40;&#x75;&#x6E;&#x69;&#x2D;&#x70;&#x6F;&#x74;&#x73;&#x64;&#x61;&#x6D;&#x2E;&#x64;&#x65;</a>.
 		  </p>
 		  <p>
 		    <img src="images/logo_textlink.png" width=295 height=81> &nbsp;
@@ -180,7 +187,8 @@
                   <li><strong>Discourse Relation (PDTB3):</strong> Select one or more semantic senses to filter by. As with the
                     syntactical category, the behaviour if no senses are selected is the same as if all senses were selected.
                     The set of discourse relations we use is the <em>Penn Discourse Treebank 3</em> (PDTB3) tagset:<br>
-                    <a href="http://www.aclweb.org/anthology/W16-1704">A discourse-annotated corpus of conjoined VPs. 
+                    <a href="http://www.aclweb.org/anthology/W16-1704" target="_blank" rel="noopener">
+                      A discourse-annotated corpus of conjoined VPs. 
                       Bonnie Webber, Rashmi Prasad, Alan Lee, and Aravind Joshi. 
                       Proceedings of the 10th Linguistic Annotation Workshop, ACL, Berlin, Germany. 2016.</a>
                   </li>
@@ -258,16 +266,16 @@
             Language: {{:languageEnglish}} ({{:locale}})
           </p>
           <p>
-            Homepage: <a href="{{:homepage}}">{{:homepage}}</a>
+            Homepage: <a href="{{:homepage}}" target="_blank" rel="noopener">{{:homepage}}</a>
           </p>
           {{if islrn}}
           <p>
             <abbr title="International Standard Language Resource Number">ISLRN</abbr>:
-            <a href="http://www.islrn.org/resources/{{:islrn}}">{{:islrn}}</a>
+            <a href="http://www.islrn.org/resources/{{:islrn}}" target="_blank" rel="noopener">{{:islrn}}</a>
           </p>
           {{/if}}
           <p>
-            License: <a href="{{:licenseInfo.licenseUrl}}">{{:licenseInfo.licenseName}}</a>
+            License: <a href="{{:licenseInfo.licenseUrl}}" target="_blank" rel="noopener">{{:licenseInfo.licenseName}}</a>
           </p>
           {{if originalReleaseDate}}
           <p>
@@ -286,7 +294,7 @@
             Publications:
             <ul>
               {{for authorInfo.publications}}
-              <li><a href="{{:url}}">{{:cite}}</a></li>
+              <li><a href="{{:url}}" target="_blank" rel="noopener">{{:cite}}</a></li>
               {{/for}}
             </ul>
           </p>
