@@ -38,19 +38,9 @@ blockquote.blockquote {
   font-size: .85rem;
 }
 
-.fade {
-  opacity: 0;
-  -webkit-transition: opacity 0.25s ease;
-  -moz-transition: opacity 0.25s ease;
-  -ms-transition: opacity 0.25s ease;
-  -o-transition: opacity 0.25s ease;
-  transition: opacity 0.25s ease;
-}
-
 .tooltip-inner {
   max-width: 350px;
 }
-
 
 /* Own styles */
 
