@@ -136,10 +136,15 @@ input[type="search"]::-webkit-search-cancel-button {
 
 #filter {
   min-width: 100px;
+  padding-top: 3px;
+  padding-bottom: 2px;
 }
 
 #filter-select {
   max-width: 150px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  font-size: 0.875rem;
 }
 
 #go-button {
