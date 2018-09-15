@@ -56,18 +56,18 @@
         <div class="modal-body">
           <p>
             This web app was developed by Felix Dombek as part of a bachelor thesis in computational linguistics under supervision of
-            Prof. Dr. Manfred Stede and Dr. Tatjana Scheffler at 
+            Prof. Dr. Manfred Stede and Dr. Tatjana Scheffler at
             <a target="_blank" href="http://www.ling.uni-potsdam.de/en/">Department of Linguistics</a>,
             Universität Potsdam, 2017.
           </p>
 		  <p>
-		    The work on synchronizing the various lexicons originated as part of the activity of the 
-      <a href="http://textlink.ii.metu.edu.tr/" target="_blank" rel="noopener">TextLink</a> 
-      COST action (2014–2018) and is currently supported by the project 
+		    The work on synchronizing the various lexicons originated as part of the activity of the
+      <a href="http://textlink.ii.metu.edu.tr/" target="_blank" rel="noopener">TextLink</a>
+      COST action (2014–2018) and is currently supported by the project
       <a href="http://gepris.dfg.de/gepris/projekt/323949969" target="blank" rel="noopener">
-        Anaphoricity in Connectives: From corpus analysis to lexical description and consequences for discourse parsing</a>, 
-      funded by the DFG under project number 323949969. For questions or requests to add or modify lexicons, 
-      please contact 
+        Anaphoricity in Connectives: From corpus analysis to lexical description and consequences for discourse parsing</a>,
+      funded by the DFG under project number 323949969. For questions or requests to add or modify lexicons,
+      please contact
       <a href="&#x6D;&#x61;&#x69;&#x6C;&#x74;&#x6F;&#x3A;&#x62;&#x6F;&#x75;&#x72;&#x67;&#x6F;&#x6E;&#x6A;&#x65;&#x40;&#x75;&#x6E;&#x69;&#x2D;&#x70;&#x6F;&#x74;&#x73;&#x64;&#x61;&#x6D;&#x2E;&#x64;&#x65;&#x3F;&#x73;&#x75;&#x62;&#x6A;&#x65;&#x63;&#x74;&#x3D;&#x43;&#x6F;&#x6E;&#x6E;&#x65;&#x63;&#x74;&#x69;&#x76;&#x65;&#x2D;&#x4C;&#x65;&#x78;&#x2E;&#x69;&#x6E;&#x66;&#x6F;">&#x62;&#x6F;&#x75;&#x72;&#x67;&#x6F;&#x6E;&#x6A;&#x65;&#x40;&#x75;&#x6E;&#x69;&#x2D;&#x70;&#x6F;&#x74;&#x73;&#x64;&#x61;&#x6D;&#x2E;&#x64;&#x65;</a>.
 		  </p>
 		  <p>
@@ -188,8 +188,8 @@
                     syntactical category, the behaviour if no senses are selected is the same as if all senses were selected.
                     The set of discourse relations we use is the <em>Penn Discourse Treebank 3</em> (PDTB3) tagset:<br>
                     <a href="http://www.aclweb.org/anthology/W16-1704" target="_blank" rel="noopener">
-                      A discourse-annotated corpus of conjoined VPs. 
-                      Bonnie Webber, Rashmi Prasad, Alan Lee, and Aravind Joshi. 
+                      A discourse-annotated corpus of conjoined VPs.
+                      Bonnie Webber, Rashmi Prasad, Alan Lee, and Aravind Joshi.
                       Proceedings of the 10th Linguistic Annotation Workshop, ACL, Berlin, Germany. 2016.</a>
                   </li>
                 </ul>
@@ -351,19 +351,19 @@
       <div class="row selection-row">
         <span class="col-9">
           <label class="lex-name">
-            <input type="checkbox" class="selection-checkbox" value="{{: key}}" data-link="prop.selected" /> 
+            <input type="checkbox" class="selection-checkbox" value="{{: key}}" data-link="prop.selected" />
             {{: ~root.metadata[key].lexiconName}}
             <small class="lex-language text-muted">{{: ~root.metadata[key].languageEnglish}}</small>
 		  </label>
         </span>
         <span class="col-3">
-          <a href="javascript:void(0)" onClick="ShowMetadata('{{:key}}');" data-toggle="modal" data-target="#metadataDialog" 
+          <a href="javascript:void(0)" onClick="ShowMetadata('{{:key}}');" data-toggle="modal" data-target="#metadataDialog"
           class="aboutlink c24-darklink-color">about</a>
         </span>
       </div>
       {{else}}
       <div class="row">
-        <span class="col-12 lex-without-meta"> 
+        <span class="col-12 lex-without-meta">
           {{>key}} <span class="badge badge-warning">no meta file found</span>
         </span>
       </div>
@@ -534,7 +534,7 @@
           <span class="result-header-number">
                 {^{props resultCounts}}
                 <a href="javascript:void(0)" onclick="document.documentElement.scrollTop = document.body.scrollTop = $('a[name=\'{{:key}}\']').offset().top - 70; return false;" class="c24-darkerlink-color">
-                  {{:key}}</a>: 
+                  {{:key}}</a>:
                   <strong>{{:prop}}</strong><span class="sep-not-if-last"> &ensp; </span>{{/props}}
           </span> {{/if}}
         </div>
@@ -568,14 +568,14 @@
           <small class="text-muted focuspart" title="Can be a focus particle.">focus</small>{{/if}}
         </div>
         <div class="col">
-          <button class="btn btn-block btn-sm c24-darker-bg result-button" title="Show variants" 
+          <button class="btn btn-block btn-sm c24-darker-bg result-button" title="Show variants"
             data-toggle="collapse" data-target="#variants{{:lexId}}{{:id}}" data-parent="#entry{{:lexId}}{{:id}}">
           Variants
         </button>
         </div>
         <div class="col">
-          <button class="btn btn-block btn-sm c24-darker-bg result-button" title="Show synonyms" 
-            data-toggle="collapse" data-target="#synonyms{{:lexId}}{{:id}}" data-parent="#entry{{:lexId}}{{:id}}" 
+          <button class="btn btn-block btn-sm c24-darker-bg result-button" title="Show synonyms"
+            data-toggle="collapse" data-target="#synonyms{{:lexId}}{{:id}}" data-parent="#entry{{:lexId}}{{:id}}"
             {{if !hasSynonyms}}disabled{{/if}}>
           Synonyms
         </button>
@@ -585,7 +585,7 @@
         </div>
       </div>
       {{!--<!--
-        Collapsible part: Variants and synonyms which are hidden by default, 
+        Collapsible part: Variants and synonyms which are hidden by default,
         but can be toggled into view with the buttons above.
       -->--}}
       <div class="col-12 collapse" id="variants{{:lexId}}{{:id}}" data-parent="#entry{{:lexId}}{{:id}}" aria-expanded="false">
@@ -607,18 +607,18 @@
           <span class="synonyms-header">Synonyms:</span>
           {{for synonyms.synonym}}
           <div>
-            <span><span class="synonym">{{:t}}</span> 
+            <span><span class="synonym">{{:t}}</span>
             <small class="synonym-lexid text-muted">{{:lexicon}} {{:#data['entry-id']}}</small></span>
           </div>
           {{/for}}
           {{for syn}} {{if synonyms}} {{for synonyms.synonym ~cat=cat.t}}
           <div>
-            <span><small>{{:~cat}}:</small> <span class="synonym">{{:t}}</span> 
+            <span><small>{{:~cat}}:</small> <span class="synonym">{{:t}}</span>
             <small class="synonym-lexid text-muted">{{:lexicon}} {{:#data['entry-id']}}</small></span>
           </div>
           {{/for}} {{/if}} {{for sem ~cat=cat.t}} {{if synonyms}} {{for synonyms.synonym ~sense=pdtb3_relation[0].sense}}
           <div>
-            <span><small>{{:~cat}} {{:~sense}}:</small> <span class="synonym">{{:t}}</span> 
+            <span><small>{{:~cat}} {{:~sense}}:</small> <span class="synonym">{{:t}}</span>
             <small class="synonym-lexid text-muted">{{:lexicon}} {{:#data['entry-id']}}</small></span>
           </div>
           {{/for}} {{/if}} {{/for}} {{/for}}
@@ -636,7 +636,7 @@
         {{for syn}}
         <div class="card m-2 p-2">
           <span>
-            <span class="syn" data-toggle="tooltip" data-placement="right" 
+            <span class="syn" data-toggle="tooltip" data-placement="right"
             title="{{if cat.orig && ~result.posTagset}}{{:~result.posTagset}}:&lt;br&gt;{{/if}}{{:cat.orig}}">
               {{:cat.t}}
             </span>
@@ -647,7 +647,7 @@
             {{if ordering.ante && ordering.ante.t}}<span>ante</span><span class="sep-not-if-last">, </span>
             {{/if}}
             {{if ordering.post && ordering.post.t}}<span>post</span><span class="sep-not-if-last">, </span>
-            {{/if}} 
+            {{/if}}
             {{if ordering.insert && ordering.insert.t}}<span>insert</span><span class="sep-not-if-last">, </span>
             {{/if}}
             {{if ordering.desintegr && ordering.desintegr.t}}<span>desintegr</span>
@@ -678,10 +678,10 @@
             <blockquote class="blockquote m-1 p-1">
               {{for sem}}
               <p>
-                <span>{{for pdtb3_relation}} 
+                <span>{{for pdtb3_relation}}
                   <span>
-                    <span class="sense" data-toggle="tooltip" data-placement="right" 
-                    title="{{if sense_orig && ~result.senseTagset}}{{:~result.senseTagset}}:&lt;br&gt;{{/if}}{{:sense_orig}}"> 
+                    <span class="sense" data-toggle="tooltip" data-placement="right"
+                    title="{{if sense_orig && ~result.senseTagset}}{{:~result.senseTagset}}:&lt;br&gt;{{/if}}{{:sense_orig}}">
                     {{:sense}} </span>
 
                   {{if type}} &nbsp; <span class="sense-type text-muted">{{:type}}</span> {{/if}}
@@ -689,7 +689,7 @@
                 <span class="sep-not-if-last">&ensp;+&ensp;</span>{{/for}}
                 </span>
                 <span> {{for example}} <br><span class="example">{{:t}}</span> {{/for}} </span>
-              </p> 
+              </p>
               {{/for}}
             </blockquote>
           </div>

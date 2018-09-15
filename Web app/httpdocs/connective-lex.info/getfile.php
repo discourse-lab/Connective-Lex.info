@@ -4,13 +4,13 @@
     Document   : getfile.php
     Created on : 2017/02/20
     Author     : Felix Dombek
-    Description: 
+    Description:
         REST interface which outputs a desired lexicon.
-    
+
     GET params :
         file -  String. Required.
                 The lexicon filename (.json).
-                
+
     Example    :
         getfile.php?file=dimlex.json
 
@@ -32,7 +32,7 @@ try
   // Filename must not contain characters outside the ASCII range
   // nor slashes or backslashes. Any of those leads to an error.
   $filename = filter_input(INPUT_GET, 'file', FILTER_SANITIZE_FULL_SPECIAL_CHARS);
-  if (!$filename 
+  if (!$filename
    || strpos($filename, '/') !== false
    || strpos($filename, '\\') !== false)
   {

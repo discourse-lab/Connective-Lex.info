@@ -42,7 +42,7 @@ class LexiconPreprocessor {
   /**
    * Creates a path of subobjects in an object if it does not yet exist.
    * Each individual path component is checked for existence and created if not already there.
-   * 
+   *
    * @param {Object} obj - The object within the path should be created
    * @param {string} path - The path, e.g. 'subObj.subValue'
    * @param {*} [value] - The value that the last component of the paths is set to, if it doesn't exist.
@@ -63,9 +63,9 @@ class LexiconPreprocessor {
 
   /**
    * Preprocesses a whole lexicon.
-   * 
+   *
    * @param {Object} lexicon - The lexicon object to be preprocessed.
-   * @param {string} lexId - The ID of the lexicon. It is stored in each entry so that 
+   * @param {string} lexId - The ID of the lexicon. It is stored in each entry so that
    *                         the result list item template can easily access it.
    */
   PreprocessLexicon(lexicon, lexId) {
@@ -93,7 +93,7 @@ class LexiconPreprocessor {
   /**
    * Preprocess a single entry.
    * The signature is dictated by Array.prototype.forEach, for which this function is a callback.
-   * 
+   *
    * @param {Object} entry - The current entry
    * @param {number} ientry - Index of the current entry
    * @param {Object[]} aentry - Array of all entries
@@ -124,7 +124,7 @@ class LexiconPreprocessor {
 
   /**
    * Preprocess a syn element.
-   * 
+   *
    * @param {Object} syn - Current syn
    * @param {number} isyn - Index of current syn
    * @param {Object[]} asyn - Array of syn elements
@@ -169,7 +169,7 @@ class LexiconPreprocessor {
   /**
    * Preprocess a sem element. All elements which result from this operation
    * are written to newSems, which must later replace the original sem array.
-   * 
+   *
    * @param {Object} sem - Current sem
    * @param {Object[]} resultSems - Array in which newly generated sems are stored.
    */
@@ -197,7 +197,7 @@ class LexiconPreprocessor {
     // For each SDRT sense, there may be one or more PDTB senses which fit.
     // If there is just one, we simply replace it; if there are more, they are added as new <sem> elements.
     // Exception: In the extremely rare cases when a single <sem> contains a combination of more than one SDRT annotation,
-    // we do not generate all potentially fitting combinations of PDTB senses, because this would lead to 
+    // we do not generate all potentially fitting combinations of PDTB senses, because this would lead to
     // at least 2x2 = 4 new <sem>s where there was previously only one.
     // Instead, we simply take the first fitting PDTB sense for each SDRT sense and replace them directly.
     if (sem.pdtb3_relation.length > 1) {
@@ -291,7 +291,7 @@ class LexiconPreprocessor {
 }
 
 /*********************************************************************************************************
- * 
+ *
  ********************************************************************************************************/
 
 /**
@@ -308,7 +308,7 @@ class ResultsFilter {
 
   /**
    * Test if a single entry fits the search criteria.
-   * 
+   *
    * @param {Object} entry - Current entry
    * @param {number} ientry - Index of current entry
    * @param {Object[]} aentry - Array of entries
@@ -329,7 +329,7 @@ class ResultsFilter {
 
   /**
    * Test if the text in an entry matches the filter.
-   * 
+   *
    * @param {Object} entry - Current entry
    * @param {number} ientry - Index of current entry
    * @param {Object[]} aentry - Array of entries
@@ -401,7 +401,7 @@ class ResultsFilter {
 
   /**
    * Test if the POS tag matches the search criteria.
-   * 
+   *
    * @param {Object} entry - Current entry
    * @param {number} ientry - Index of current entry
    * @param {Object[]} aentry - Array of entries
@@ -426,7 +426,7 @@ class ResultsFilter {
 
   /**
    * Test if the sense matches the search criteria.
-   * 
+   *
    * @param {Object} entry - Current entry
    * @param {number} ientry - Index of current entry
    * @param {Object[]} aentry - Array of entries

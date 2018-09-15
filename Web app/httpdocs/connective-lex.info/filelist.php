@@ -4,16 +4,16 @@
     Document   : filelist.php
     Created on : 2017/02/20
     Author     : Felix Dombek
-    Description: 
+    Description:
         REST interface which lists available lexicon files.
-    
+
     GET params :
         force - (true|false). Optional - default: false.
-                If true, all XML files are converted to JSON. 
-                If false, only those newer than their JSON 
+                If true, all XML files are converted to JSON.
+                If false, only those newer than their JSON
                 counterparts (by last modified timestamp) are
                 converted.
-                
+
     Example    :
         filelist.php?force=false
 

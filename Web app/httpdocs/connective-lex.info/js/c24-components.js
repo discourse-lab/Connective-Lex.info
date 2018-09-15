@@ -1,11 +1,11 @@
 /******************************************
- * 
- * c24-components.js 
- * @file Contains Components; classes which retrieve data (e.g. 
+ *
+ * c24-components.js
+ * @file Contains Components; classes which retrieve data (e.g.
  * from Services), manage it and display it in the frontend.
  * @author Felix Dombek
  * @version 1.0
- * 
+ *
  ******************************************/
 
 'use strict';
@@ -57,7 +57,7 @@ class LexSelectorComponent {
   /**
    * Called by the component's JsRender template when a lexicon's checkbox is selected/deselected by the user.
    * Delegates lexicon loading and preprocessing to {@link LoadLexicon}.
-   * 
+   *
    * @param {*} evt The original mouse/keyboard event
    * @param {*} eventArgs Additional event information from JsRender (currently unused)
    */
@@ -78,7 +78,7 @@ class LexSelectorComponent {
 
   /**
    * Loads the selected lexicon asynchronously via {@link LexFileService} and initiates preprocessing.
-   * 
+   *
    * @param {string} lexId - ID of the lexicon to be loaded
    * @param {boolean} doQuery - Whether a search query should immediately be started.
    *                            This is true if a lexicon was selected by the user because new entries
@@ -102,7 +102,7 @@ class LexSelectorComponent {
 
   /**
    * Load the POS/Sense conversion maps via {@link LexFileService}.
-   * 
+   *
    * @return {Promise} - A Promise which resolves as soon as both mapping files are loaded.
    */
   LoadMaps() {
@@ -116,7 +116,7 @@ class LexSelectorComponent {
 
   /**
    * Loads the list of available lexicons via {@link LexListService}.
-   * 
+   *
    * @return {Promise} - A Promise which resolves as soon as the list and all metadata are loaded.
    */
   LoadListAndMetadata() {
@@ -144,7 +144,7 @@ class LexSelectorComponent {
   /**
    * Load the state of this component from {@link LocationDataService}.
    * This includes loading all checked lexicons, metadata and initiating the display of results.
-   * 
+   *
    * @return {Promise} - A Promise which resolves when the state, including all files, is restored.
    */
   LoadState() {
@@ -172,7 +172,7 @@ class LexSelectorComponent {
 }
 
 /*********************************************************************************************************
- * 
+ *
  ********************************************************************************************************/
 
 /**
@@ -250,7 +250,7 @@ class OptionsComponent {
   }
 
   /**
-   * Initializes the component by linking it to the Options template 
+   * Initializes the component by linking it to the Options template
    * and getting the state from the {@link LocationDataService}.
    */
   Init() {
@@ -262,7 +262,7 @@ class OptionsComponent {
    * Called by the component's JsRender template when an option checkbox is selected/delected by the user.
    * Sets the correct internal values for a changed checkbox.
    * Writes the current state to the URL and starts the search.
-   * 
+   *
    * @param {*} evt The original mouse/keyboard event
    * @param {*} eventArgs Additional event information from JsRender (currently unused)
    */
@@ -275,7 +275,7 @@ class OptionsComponent {
   /**
    * Called by the component's JsRender template when a filter option is selected by the user.
    * Writes the current state to the URL and starts the search.
-   * 
+   *
    * @param {*} evt The original mouse/keyboard event
    * @param {*} eventArgs Additional event information from JsRender (currently unused)
    */
@@ -290,7 +290,7 @@ class OptionsComponent {
   /**
    * Called by the component's JsRender template when the user enters a filter text.
    * Saves the entered text.
-   * 
+   *
    * @param {*} evt The original mouse/keyboard event
    * @param {*} eventArgs Additional event information from JsRender (currently unused)
    */
@@ -302,7 +302,7 @@ class OptionsComponent {
    * Called by the component's JsRender template when the user submits the query
    * by pressing the Enter key or clicking the magnifying glass button.
    * Writes the current state to the URL and starts the search.
-   * 
+   *
    * @param {*} evt The original mouse/keyboard event
    * @param {*} eventArgs Additional event information from JsRender (currently unused)
    */
@@ -316,7 +316,7 @@ class OptionsComponent {
    * This function is responsible for keeping all internal values consistent.
    * Any values updated by this functions are automatically updated in the GUI because
    * the checkboxes are data-bound to this object via JsViews.
-   * 
+   *
    * @param {string} path - The path in this object which is being manipulated by the user via checkbox.
    * @param {boolean} checked - Whether the checkbox was checked or unchecked.
    */
@@ -354,7 +354,7 @@ class OptionsComponent {
   /**
    * Helper function for {@link SetRelatedValues}; recursively sets or unsets all
    * values in an object.
-   * 
+   *
    * @param {Object} subObject - The object in which all values must be set or unset
    * @param {boolean} checked - Whether to set or unset each value.
    */
@@ -371,7 +371,7 @@ class OptionsComponent {
   /**
    * Helper function for {@link SetRelatedValues}; tests if all values in a object are set
    * or none of them, because this must be treated identically in the GUI.
-   * 
+   *
    * @param {Object} obj - The object whose values are tested.
    * @return {Object} - An object with Boolean values hasUnset, hasSet, and allOrNone.
    */
@@ -466,7 +466,7 @@ class OptionsComponent {
       syn: this.syn,
       sense: gSettings.storeSensesInUrl ? this.sense : false
     };
-    
+
     // only keep true options for storing, otherwise the string would get even longer.
     storeState = _.pickDeep(storeState, (val, key) => (val === true || val.length > 1));
     gLocationService.UpdateLocation(this.locationIdentifier, storeState);
@@ -474,7 +474,7 @@ class OptionsComponent {
 }
 
 /*********************************************************************************************************
- * 
+ *
  ********************************************************************************************************/
 
 /**

@@ -1,10 +1,10 @@
 /******************************************
- * 
+ *
  * c24.js
  * @file Contains the source code for the Connective-Lex.info webapp.
  * @author Felix Dombek
  * @version 1.0
- * 
+ *
  ******************************************/
 
 'use strict';
@@ -33,7 +33,7 @@ function InitApp() {
 
 /**
  * Links the metadata for a specific lexicon to the metadata template.
- * 
+ *
  * @param {string} lexId - The ID of the lexicon whose metadata is about to be displayed.
  */
 function ShowMetadata(lexId) {
@@ -42,7 +42,7 @@ function ShowMetadata(lexId) {
 
 /**
  * Shows a very nasty error message if something goes wrong.
- * 
+ *
  * @param {string} ownMessage - A high-level message explaining what the error is about.
  * @param {(Object|string)} systemMessage - A low-level error object or message with details about what went wrong.
  */
@@ -63,7 +63,7 @@ function ShowErrorMessage(ownMessage, systemMessage) {
 
 /**
  * Shows the current progress in the progress bar.
- * 
+ *
  * @param {number} percentComplete - A percentage number.
  */
 function ShowProgress(percentComplete) {
@@ -163,10 +163,10 @@ function InitGui() {
 }
 
 /******************************************
- * 
+ *
  * Global app objects:
  * The instances of Services and Components which together form this app.
- * 
+ *
  ******************************************/
 
 let gListService;

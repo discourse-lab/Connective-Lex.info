@@ -1,22 +1,22 @@
 /******************************************
- * 
- * c24-services.js 
+ *
+ * c24-services.js
  * @file Contains Services; singleton classes for accessing
  * and caching data sources (backend, location bar):
  *  - LexListService obtains the list of lexicons from the server.
  *  - LexFileService is used to load JSON files (lexicons, metadata, tagset mappings).
- *  - LocationDataService stores the app's current state in the URL 
+ *  - LocationDataService stores the app's current state in the URL
  *    and retrieves state from URL data at program begin.
  * @author Felix Dombek
  * @version 1.0
- * 
+ *
  ******************************************/
 
 'use strict';
 
-/** 
+/**
  * LexListService:
- * Class for accessing the list of available files. 
+ * Class for accessing the list of available files.
  * The downloaded files are cached after download so
  * that they only have to be downloaded once.
  */
@@ -38,8 +38,8 @@ class LexListService {
    * Asynchronously retrieves the list of lexicon and metadata files.
    * The list is downloaded from the server if it is not
    * in the cache or if the forceRefresh parameter is false.
-   * 
-   * @param {boolean} forceRefresh - Refresh the list from the server 
+   *
+   * @param {boolean} forceRefresh - Refresh the list from the server
    *                                 even if it is already in the cache.
    * @return {Promise} A promise which gets set when the requested file is ready.
    */
@@ -61,7 +61,7 @@ class LexListService {
   /**
    * Callback function for getList which is executed in case of error.
    * Displays the error and logs it to the browser's console.
-   * 
+   *
    * @param {*} error - Error info, set by Promise.catch
    */
   handleError(error) {
@@ -71,10 +71,10 @@ class LexListService {
 }
 
 /*********************************************************************************************************
- * 
+ *
  ********************************************************************************************************/
 
-/** 
+/**
  * LexFileService:
  * Class for retrieving JSON and metadata files from the server.
  * The downloaded files are cached so that they only have to be
@@ -97,7 +97,7 @@ class LexFileService {
   /**
    * Asynchronously retrieve a JSON or metadata file from the server or
    * the cache, if present.
-   * 
+   *
    * @param {string} filename The name of the requested file (no paths allowed).
    * @param {boolean} forceReload Reload file from server even if it is already cached.
    * @return {Promise} A promise which gets set when the requested file is ready.
@@ -120,7 +120,7 @@ class LexFileService {
   /**
    * Callback function for getList which is executed in case of error.
    * Displays the error and logs it to the browser's console.
-   * 
+   *
    * @param {*} error - Error info, set by Promise.catch
    */
   handleError(error, filename) {
@@ -130,7 +130,7 @@ class LexFileService {
 }
 
 /*********************************************************************************************************
- * 
+ *
  ********************************************************************************************************/
 
 /**
@@ -151,7 +151,7 @@ class LocationDataService {
   /**
    * Adds info to the current URL or modifies it.
    * The total size of all data must not exceed ~2 KB in JSON-serialized form.
-   * 
+   *
    * @param {string} objectName - An identifier under which the data can be accessed later, e.g. Component name. Keep it short.
    * @param {*} objectData - The data the component wants to write. Can be any JSON-serializable data object.
    */
@@ -166,7 +166,7 @@ class LocationDataService {
 
   /**
    * Reads info from the current URL.
-   * 
+   *
    * @param {string} [objectName] - Optional; the identifier with which the data was written.
    * @return {*} - If objectName is set: the data written for this identifier or undefined if no data was written;
    *               if objectName is not set or empty: an object with all data from the URL, which can be an empty object.
@@ -200,7 +200,7 @@ class LocationDataService {
 }
 
 /*********************************************************************************************************
- * 
+ *
  ********************************************************************************************************/
 
 /**
@@ -219,7 +219,7 @@ class EntryRenderService {
 
   /**
    * Renders an entry or takes the rendered representation from the cache, if possible.
-   * 
+   *
    * @param {Object} entry - A lexicon entry
    */
   RenderEntry(entry) {
