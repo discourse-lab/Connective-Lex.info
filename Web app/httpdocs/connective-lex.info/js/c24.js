@@ -124,7 +124,7 @@ function InitGui() {
     $('#togglebutton-content').toggleClass('toggled');
   });
   if (gSettings.useBootstrapTooltips) {
-    $(() => $('[data-toggle="tooltip"]').tooltip()); // Can be disabled via options because of bug in Bootstrap tooltips
+    $(() => $('[data-toggle="tooltip"]').tooltip({trigger: 'hover'})); // Can be disabled via options because of bug in Bootstrap tooltips
   }
 
   // Lodash pickDeep function taken from https://codereview.stackexchange.com/a/58279/117

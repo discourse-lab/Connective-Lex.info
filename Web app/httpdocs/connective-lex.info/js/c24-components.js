@@ -463,11 +463,10 @@ class OptionsComponent {
     let storeState = {
       filterText: this.filterText,
       filterType: this.filterType,
-      syn: this.syn
+      syn: this.syn,
+      sense: gSettings.storeSensesInUrl ? this.sense : false
     };
-    if (gSettings.storeSensesInUrl) {
-      storeState.sense = this.sense;
-    }
+    
     // only keep true options for storing, otherwise the string would get even longer.
     storeState = _.pickDeep(storeState, (val, key) => (val === true || val.length > 1));
     gLocationService.UpdateLocation(this.locationIdentifier, storeState);
