@@ -36,6 +36,7 @@ class LexiconPreprocessor {
     this.synMap = undefined;
     this.senseMap = undefined;
     this.lexId = '';
+    this.icaseLookup = (map, key) => map.map[map.keyMap[key.toLowerCase()]];
   }
 
   /**
@@ -72,10 +73,17 @@ class LexiconPreprocessor {
       return;
     }
 
+    let makeMapPair = (sourceMap) => ({
+      map: sourceMap,
+      keyMap: Object.keys(sourceMap).reduce(
+        (keys, key) => (keys[key.toLowerCase()] = key, keys), {}
+      )
+    });
+
     let synTagset = this.metadata[lexId].parseInfo.posTagset;
     let senseTagset = this.metadata[lexId].parseInfo.senseTagset;
-    this.synMap = synTagset ? this.synMaps[synTagset] : undefined;
-    this.senseMap = senseTagset ? this.senseMaps[senseTagset] : undefined;
+    this.synMap = synTagset ? makeMapPair(this.synMaps[synTagset]) : undefined;
+    this.senseMap = senseTagset ? makeMapPair(this.senseMaps[senseTagset]) : undefined;
     this.lexId = lexId;
 
     lexicon.entry.forEach(this.PreprocessEntry, this);
@@ -128,11 +136,11 @@ class LexiconPreprocessor {
     syn.example = syn.example.filter(elem => elem.t);
 
     let newSyns = [syn];
-    if (this.synMap && this.synMap[syn.cat.t]) {
-      let targetSyn = this.synMap[syn.cat.t];
+    let targetSyn;
+    if (this.synMap && (targetSyn = this.icaseLookup(this.synMap, syn.cat.t))) {
       syn.cat.orig = syn.cat.t;
       if (!Array.isArray(targetSyn)) {
-        syn.cat.t = this.synMap[syn.cat.t];
+        syn.cat.t = targetSyn;
       } else {
         for (let itarget = 0; itarget < targetSyn.length; ++itarget) {
           // Only the current element can be modified while we are iterating over the <syn>s.
@@ -195,17 +203,19 @@ class LexiconPreprocessor {
     if (sem.pdtb3_relation.length > 1) {
       // Special case
       sem.pdtb3_relation.forEach((rel, irel, arel) => {
-        if (this.senseMap && this.senseMap[rel.sense]) {
-          let targetSense = this.senseMap[rel.sense];
+        canonicalizeSenseNames(rel);
+        let targetSense;
+        if (this.senseMap && (targetSense = this.icaseLookup(this.senseMap, rel.sense))) {
           rel.sense_orig = rel.sense;
           rel.sense = Array.isArray(targetSense) ? targetSense[0] : targetSense;
         }
-        canonicalizeSenseNames(rel);
       }, this);
     } else {
       // General case
-      if (this.senseMap && sem.pdtb3_relation[0] && this.senseMap[sem.pdtb3_relation[0].sense]) {
-        let targetSense = this.senseMap[sem.pdtb3_relation[0].sense];
+      canonicalizeSenseNames(sem.pdtb3_relation[0]);
+      let targetSense;
+      if (this.senseMap && sem.pdtb3_relation[0]
+        && (targetSense = this.icaseLookup(this.senseMap, sem.pdtb3_relation[0].sense))) {
         sem.pdtb3_relation[0].sense_orig = sem.pdtb3_relation[0].sense;
         if (!Array.isArray(targetSense)) {
           sem.pdtb3_relation[0].sense = targetSense;
@@ -220,13 +230,11 @@ class LexiconPreprocessor {
               let newSem = _.cloneDeep(sem);
               newSem.pdtb3_relation[0].sense_orig = sem.pdtb3_relation[0].sense_orig;
               newSem.pdtb3_relation[0].sense = targetSense[itarget];
-              canonicalizeSenseNames(newSem.pdtb3_relation[0]);
               newSems.push(newSem);
             }
           }
         }
       }
-      canonicalizeSenseNames(sem.pdtb3_relation[0]);
     }
 
     newSems.forEach((newSem) => this.MergeIntoResultSems(newSem, resultSems), this);
