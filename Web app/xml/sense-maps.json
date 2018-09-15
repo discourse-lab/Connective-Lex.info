@@ -63,6 +63,7 @@
     "Expansion.Restatement.Equivalence": "EXPANSION:Equivalence",
     "Expansion.Restatement.Generalization": "EXPANSION:Level-of-detail:Arg1-as-detail",
     "Expansion.Restatement.Specification": "EXPANSION:Level-of-detail:Arg2-as-detail",
+    "Expansion.Restatement.Level-of-detail": "EXPANSION:Level-of-detail",
     "Temporal": "TEMPORAL",
     "Temporal.Asynchronous": "TEMPORAL:Asynchronous",
     "Temporal.Asynchronous.Precedence": "TEMPORAL:Asynchronous:Precedence",
@@ -114,7 +115,7 @@
     "TEMPORAL:Syncrony": "TEMPORAL:Synchronous",
     "Contrast": "COMPARISON:Contrast"
   },
-  
+
   "arabic": {
     "Causal:Cause-effect:Logical consequence": "CONTINGENCY:Cause:Result",
     "Causal:Cause-effect:Result": "CONTINGENCY:Cause:Result",
@@ -141,5 +142,5 @@
     "Thematic:Elaboration:Level-of-detail": "EXPANSION:Level-of-detail:Arg2-as-detail",
     "Thematic:Elaboration:Specification": "EXPANSION:Level-of-detail:Arg2-as-detail",
     "Thematic:Summary": "EXPANSION:Level-of-detail:Arg1-as-detail"
-  }                                        
+  }
 }
