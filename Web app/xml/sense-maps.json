@@ -40,6 +40,7 @@
     "Contingency.Cause.Reason": "CONTINGENCY:Cause:Reason",
     "Contingency.Cause.Result": "CONTINGENCY:Cause:Result",
     "Contingency.Condition": "CONTINGENCY:Condition",
+    "Contingency.Conditon": "CONTINGENCY:Condition",
     "Contingency.Condition.Factual past": "CONTINGENCY:Condition",
     "Contingency.Condition.Factual present": "CONTINGENCY:Condition",
     "Contingency.Condition.General": "CONTINGENCY:Condition",
@@ -66,7 +67,8 @@
     "Temporal.Asynchronous": "TEMPORAL:Asynchronous",
     "Temporal.Asynchronous.Precedence": "TEMPORAL:Asynchronous:Precedence",
     "Temporal.Asynchronous.Succession": "TEMPORAL:Asynchronous:Succession",
-    "Temporal.Synchrony": "TEMPORAL:Synchronous"
+    "Temporal.Synchrony": "TEMPORAL:Synchronous",
+    "Temporal.Synchronous": "TEMPORAL:Synchronous"
   },
 
   "pdtb3-short": {
@@ -76,8 +78,10 @@
     "cause-result": "CONTINGENCY:Cause:Result",
     "concession-arg1-as-denier": "COMPARISON:Concession:Arg1-as-denier",
     "concession-arg2-as-denier": "COMPARISON:Concession:Arg2-as-denier",
-    "condition-arg1-as-consequent": "CONTINGENCY:Condition:Arg2-as-cond",
-    "condition-arg2-as-consequent": "CONTINGENCY:Condition:Arg1-as-cond",
+    "condition-arg1-as-consequent": "CONTINGENCY:Condition:Arg1-as-cond",
+    "condition-arg2-as-consequent": "CONTINGENCY:Condition:Arg2-as-cond",
+    "condition-arg1-as-cond": "CONTINGENCY:Condition:Arg1-as-cond",
+    "condition-arg2-as-cond": "CONTINGENCY:Condition:Arg2-as-cond",
     "conjunction": "EXPANSION:Conjunction",
     "contrast": "COMPARISON:Contrast",
     "disjunction": "EXPANSION:Disjunction",
@@ -87,8 +91,10 @@
     "instantiation": "EXPANSION:Instantiation",
     "manner-arg1-as-manner": "EXPANSION:Manner:Arg1-as-manner",
     "manner-arg2-as-manner": "EXPANSION:Manner:Arg2-as-manner",
-    "negative-condition-arg1-as-consequent": "CONTINGENCY:Negative-Condition:Arg2-as-negcond",
-    "negative-condition-arg2-as-consequent": "CONTINGENCY:Negative-Condition:Arg1-as-negcond",
+    "negative-condition-arg1-as-consequent": "CONTINGENCY:Negative-Condition:Arg1-as-negcond",
+    "negative-condition-arg2-as-consequent": "CONTINGENCY:Negative-Condition:Arg2-as-negcond",
+    "negative-condition-arg1-as-cond": "CONTINGENCY:Negative-Condition:Arg1-as-negcond",
+    "negative-condition-arg2-as-cond": "CONTINGENCY:Negative-Condition:Arg2-as-negcond",
     "purpose-arg1-as-goal": "CONTINGENCY:Purpose:Arg1-as-goal",
     "purpose-arg2-as-goal": "CONTINGENCY:Purpose:Arg2-as-goal",
     "similarity": "COMPARISON:Similarity",
@@ -105,7 +111,8 @@
     "EXPANSION:Exception:Arg2-as-except": "EXPANSION:Exception:Arg2-as-excpt",
     "EXPANSION:Level-of-detail:Arg1-as-detail(Summarization)": "EXPANSION:Level-of-detail:Arg1-as-detail",
     "EXPANSION:Level-of-detail:Arg2-as-detail(Specification)": "EXPANSION:Level-of-detail:Arg2-as-detail",
-    "TEMPORAL:Syncrony": "TEMPORAL:Synchronous"
+    "TEMPORAL:Syncrony": "TEMPORAL:Synchronous",
+    "Contrast": "COMPARISON:Contrast"
   },
   
   "arabic": {
@@ -130,7 +137,8 @@
     "Thematic:Continuation": "EXPANSION:Conjunction",
     "Thematic:Elaboration:Definition": "EXPANSION:Level-of-detail",
     "Thematic:Elaboration:Description": "EXPANSION:Level-of-detail",
-    "Thematic:Elaboration:E-elaboration": "EXPANSION:Level-of-detail",
+    "Thematic:Elaboration:E-elaboration": "EXPANSION:Level-of-detail:Arg2-as-detail",
+    "Thematic:Elaboration:Level-of-detail": "EXPANSION:Level-of-detail:Arg2-as-detail",
     "Thematic:Elaboration:Specification": "EXPANSION:Level-of-detail:Arg2-as-detail",
     "Thematic:Summary": "EXPANSION:Level-of-detail:Arg1-as-detail"
   }                                        
