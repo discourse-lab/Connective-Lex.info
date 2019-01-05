@@ -12,11 +12,21 @@
     "appo": "prep",
     "coordconj": "cco"
   },
-  
+
   "lexconn": {
     "prep-V-ant": "prep"
   },
-  
+
+  "bengali": {
+	"adverb": "adv",
+    "Adverb": "adv",
+    "Adverb/postposition": ["adv", "prep"],
+    "Conjunction/adverb": ["adv", "cco", "csu"],
+    "Conjunction": ["cco", "csu"],
+    "Postposition/adverb": ["adv", "prep"],
+    "Postposition": "prep"
+  },
+
   "lico": {
     "prepositional": "prep",
     "subordinating": "csu",
@@ -43,5 +53,19 @@
     "UCP": "cco",
     "NN": "other",
     "NNP": "other"
+  },
+
+  "czlex": {
+    "adjective": "other",
+    "adverb": "adv",
+    "conjunction coordinating": "cco",
+    "conjunction subordinating": "csu",
+    "noun": "other",
+    "numeral": "other",
+    "particle": "other",
+    "preposition": "prep",
+    "pronoun": "other",
+    "punctuation": "other",
+    "verb": "other"
   }
 }
