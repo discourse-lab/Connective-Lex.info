@@ -257,7 +257,7 @@ class LexiconXmlToJsonConverter
         break;
       }
 
-      $jsonfile->fwrite(json_encode($sxe, $json_flags));
+      $jsonfile->fwrite(str_replace(array("<", ">"), array("&lt;", "&gt;"), json_encode($sxe, $json_flags)));
     } 
     catch (Exception $e) 
     {
