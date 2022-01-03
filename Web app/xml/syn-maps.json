@@ -67,5 +67,20 @@
     "pronoun": "other",
     "punctuation": "other",
     "verb": "other"
+  },
+  "ukrainian": {
+	"adverb": "adv",
+	"subord_conj": "csu",
+	"other": "other",
+	"coord_conj": "cco",
+	"preposition": "prep"
+  },
+  "turkish" : {
+	"ADV_ADP": ["adv", "other"],
+	"OTHER": "other",
+    "Converb": "csu",
+    "ADP": "csu",
+    "CCONJ": "cco",
+    "ADV": "adv"
   }
 }

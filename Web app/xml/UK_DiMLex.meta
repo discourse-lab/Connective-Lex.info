@@ -1,0 +1,28 @@
+{
+  "lexiconName": "UK_DiMLex",
+  "lexiconNameFull": "Ukrainian DiMLex",
+  "version": "1.0",
+  "originalReleaseDate": "2020-04-24",
+  "currentReleaseDate": "2020-04-24",
+  "languageEnglish": "Ukrainian",
+  "languageNative": "українська мова",
+  "locale": "uk",
+  "homepage": "https://github.com/TScheffler/UK_DiMLex",
+  "parseInfo": {
+    "posTagset": "ukrainian",
+    "senseTagset": "pdtb3-short"
+  },
+  "licenseInfo": {
+    "copyrightDate": "2020",
+    "licenseName": "MIT License",
+    "licenseUrl": "https://opensource.org/licenses/MIT/"
+  },
+  "authorInfo": {
+    "publisher": "Universität Potsdam, Department of Linguistics",
+    "authors": [
+      { "authorName": "Tatjana Scheffler", "organisation": "Universität Potsdam, Department of Linguistics" },
+{ "authorName": "Veronika Solopova", "organisation": "Universität Potsdam, Department of Linguistics" },
+{ "authorName": "Olha Zolotarenko", "organisation": "Universität Potsdam, Department of Linguistics" }
+    ]
+  }
+}

@@ -1,0 +1,2445 @@
+<dimlex>
+  <entry id="1" word="-(y)AcAğInA">
+    <orths>
+      <orth canonical="0" orth_id="1o1" type="cont">
+        <part type="suffixal">acağına</part>
+      </orth>
+      <orth canonical="1" orth_id="1o1" type="cont">
+        <part type="suffixal">eceğine</part>
+      </orth>
+      <orth canonical="2" orth_id="1o1" type="cont">
+        <part type="suffixal">yacağına</part>
+      </orth>
+      <orth canonical="3" orth_id="1o1" type="cont">
+        <part type="suffixal">yeceğine</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>Converb</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="2" sense="Expansion.Substitution.Arg1-as-subst" />
+        <example>kendi sesiyle yargılayacağına, Bihruz Bey üslubunu benimseyerek anlatır.
+</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="2" word="-(y)ArAk">
+    <orths>
+      <orth canonical="0" orth_id="2o1" type="cont">
+        <part type="suffixal">arak</part>
+      </orth>
+      <orth canonical="1" orth_id="2o1" type="cont">
+        <part type="suffixal">erek</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>Converb</cat>
+      <sem>
+        <pdtb2_relation anno_N="164" freq="89" sense="Expansion.Manner.Arg2-as-manner" />
+        <example>Sandalyemin tekerleklerini çevirerek koltuğunun önüne gelmiştim.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="164" freq="29" sense="Temporal.Asynchronous.Succession" />
+        <example>ve renklerini koruması için verniklediği bir gece ansızın bir tekme savurarak üst kata çıktı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="164" freq="23" sense="Expansion.Conjunction" />
+        <example>kadın günde iki kez terasa çıkarak havlu ve peştamalları asıyor, topluyordu.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="164" freq="12" sense="Contingency.Cause.Reason" />
+        <example>ve bir daha asla kapımı çalmayacağını düşünerek gitmeden önce bana öldürücü bir darbe vurup intikam almaya hazırlanıyordu.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="164" freq="5" sense="Temporal.Synchronous" />
+        <example>Halil mahzende baktığı her yerde Peride'nin yüzünü görerek sabaha kadar oturdu.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="164" freq="3" sense="Contingency.Purpose.Arg1-as-goal" />
+        <example>Ante hemen padişahın huzuruna çıkarak görevinden affını istedi.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="164" freq="1" sense="Comparison.Similarity" />
+        <example>fino köpeği de (Belle Helene) operasından bir parçayı terennüm ederek havlamaya başlıyor.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="164" freq="1" sense="Expansion.Manner.Arg2-as-manner" />
+        <example>fino köpeği de (Belle Helene) operasından bir parçayı terennüm ederek havlamaya başlıyor.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="164" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>O gün öğleden sonra Orhan, Kemal'i de getirmesini söyleyerek evlerine çağırmıştı onları.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="164" freq="1" sense="Contingency.Purpose.Arg2-as-goal" />
+        <example>siyasette belli yerleri amaçlayarak çalışmış </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="3" word="-(y)HncA">
+    <orths>
+      <orth canonical="0" orth_id="3o1" type="cont">
+        <part type="suffixal">ınca</part>
+      </orth>
+      <orth canonical="1" orth_id="3o1" type="cont">
+        <part type="suffixal">ince</part>
+      </orth>
+      <orth canonical="2" orth_id="3o1" type="cont">
+        <part type="suffixal">unca</part>
+      </orth>
+      <orth canonical="3" orth_id="3o1" type="cont">
+        <part type="suffixal">ünce</part>
+      </orth>
+      <orth canonical="4" orth_id="3o1" type="cont">
+        <part type="suffixal">yınca</part>
+      </orth>
+      <orth canonical="5" orth_id="3o1" type="cont">
+        <part type="suffixal">yince</part>
+      </orth>
+      <orth canonical="6" orth_id="3o1" type="cont">
+        <part type="suffixal">yunca</part>
+      </orth>
+      <orth canonical="7" orth_id="3o1" type="cont">
+        <part type="suffixal">yünce</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>Converb</cat>
+      <sem>
+        <pdtb2_relation anno_N="68" freq="46" sense="Temporal.Synchronous" />
+        <example>Kızınca bir çocuk kadar bile olamazdım.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="68" freq="10" sense="Temporal.Asynchronous.Succession" />
+        <example>Dizinin acısı hafifleyince karanlığa yeni yeni alışan gözlerini açtı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="68" freq="2" sense="Contingency.Condition.Arg2-as-cond" />
+        <example>Kahve içince kendine gelebileceğini düşünerek </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="68" freq="7" sense="Contingency.Cause.Reason" />
+        <example>İş bulamayınca kişiliğimi ve gururumu bastırıp inşaatlarda işçiliğe başladım.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="68" freq="1" sense="Contingency.Cause+SpeechAct.Reason+SpeechAct" />
+        <example>Avrupa'nın bütün ortalamasına bakılınca evlilik en sağlam kurumdur.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="68" freq="1" sense="Temporal.Synchronous" />
+        <example>vekiller Akdeniz'de olduklarını, radar görüntülerinde Kıbrıs, Suriye, Türkiye isimlerini görünce anladı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="68" freq="1" sense="Contingency.Cause.Reason" />
+        <example>vekiller Akdeniz'de olduklarını, radar görüntülerinde Kıbrıs, Suriye, Türkiye isimlerini görünce anladı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="68" freq="1" sense="Contingency.Cause.Reason" />
+        <example>İnternet üzerinden yapılan başvuruların bulunduğu servis sağlayıcıda oluşan bir sorun nedeniyle web sitesine ulaşılamayınca yönetim kurulu başvuru süresini iki gün uzatma kararı aldı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="68" freq="1" sense="Temporal.Synchronous" />
+        <example>İnternet üzerinden yapılan başvuruların bulunduğu servis sağlayıcıda oluşan bir sorun nedeniyle web sitesine ulaşılamayınca yönetim kurulu başvuru süresini iki gün uzatma kararı aldı.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="4" word="-(y)HncA dA">
+    <orths>
+      <orth canonical="0" orth_id="4o1" type="discont">
+        <part type="suffixal">ınca da</part>
+      </orth>
+      <orth canonical="1" orth_id="4o1" type="discont">
+        <part type="suffixal">ince de</part>
+      </orth>
+      <orth canonical="2" orth_id="4o1" type="discont">
+        <part type="suffixal">unca da</part>
+      </orth>
+      <orth canonical="3" orth_id="4o1" type="discont">
+        <part type="suffixal">ünce de</part>
+      </orth>
+      <orth canonical="4" orth_id="4o1" type="discont">
+        <part type="suffixal">yınca da</part>
+      </orth>
+      <orth canonical="5" orth_id="4o1" type="discont">
+        <part type="suffixal">yince de</part>
+      </orth>
+      <orth canonical="6" orth_id="4o1" type="discont">
+        <part type="suffixal">yunca da</part>
+      </orth>
+      <orth canonical="7" orth_id="4o1" type="discont">
+        <part type="suffixal">yünce de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>Converb</cat>
+    </syn>
+  </entry>
+  <entry id="5" word="-(y)Hp">
+    <orths>
+      <orth canonical="0" orth_id="5o1" type="cont">
+        <part type="suffixal">ıp</part>
+      </orth>
+      <orth canonical="1" orth_id="5o1" type="cont">
+        <part type="suffixal">ip</part>
+      </orth>
+      <orth canonical="2" orth_id="5o1" type="cont">
+        <part type="suffixal">up</part>
+      </orth>
+      <orth canonical="3" orth_id="5o1" type="cont">
+        <part type="suffixal">üp</part>
+      </orth>
+      <orth canonical="4" orth_id="5o1" type="cont">
+        <part type="suffixal">yıp</part>
+      </orth>
+      <orth canonical="5" orth_id="5o1" type="cont">
+        <part type="suffixal">yip</part>
+      </orth>
+      <orth canonical="6" orth_id="5o1" type="cont">
+        <part type="suffixal">yup</part>
+      </orth>
+      <orth canonical="7" orth_id="5o1" type="cont">
+        <part type="suffixal">yüp</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>Converb</cat>
+      <sem>
+        <pdtb2_relation anno_N="127" freq="46" sense="Expansion.Conjunction" />
+        <example>ben acı çekip işkencelere gönüllü katlanacaktım </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="127" freq="50" sense="Temporal.Asynchronous.Succession" />
+        <example>Ellerimi ansızın çekip sandalyemi uzaklaştırdım senden.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="127" freq="13" sense="Contingency.Cause.Reason" />
+        <example>Yine bir yanlışlık yapmamak için içeriye girip hususi banyoların tam yerini öğrenmeliydi.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="127" freq="8" sense="Expansion.Manner.Arg2-as-manner" />
+        <example>Birden önlerine çıkıp onları korkutacaktı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="127" freq="6" sense="Temporal.Synchronous" />
+        <example>Malike Hanım fincanımı açıp dikkatle içine baktı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="127" freq="1" sense="Comparison.Concession.Arg1-as-denier" />
+        <example>aralarına girmek isteyip giremeyen,</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="127" freq="2" sense="Temporal.Asynchronous.Precedence" />
+        <example>Nasıl olduysa Arnavutköy Kız Kolejine gelip buldu beni.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="127" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>bana yaptığını yapıp onu bir başka erkekle kafa kafaya tokuşturmaya </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="6" word="-(y)Hp dA">
+    <orths>
+      <orth canonical="0" orth_id="6o1" type="cont">
+        <part type="suffixal">ıp da</part>
+      </orth>
+      <orth canonical="1" orth_id="6o1" type="cont">
+        <part type="suffixal">ip de</part>
+      </orth>
+      <orth canonical="2" orth_id="6o1" type="cont">
+        <part type="suffixal">up da</part>
+      </orth>
+      <orth canonical="3" orth_id="6o1" type="cont">
+        <part type="suffixal">üp de</part>
+      </orth>
+      <orth canonical="4" orth_id="6o1" type="cont">
+        <part type="suffixal">yıp da</part>
+      </orth>
+      <orth canonical="5" orth_id="6o1" type="cont">
+        <part type="suffixal">yip de</part>
+      </orth>
+      <orth canonical="6" orth_id="6o1" type="cont">
+        <part type="suffixal">yup da</part>
+      </orth>
+      <orth canonical="7" orth_id="6o1" type="cont">
+        <part type="suffixal">yüp de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>Converb</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Temporal.Asynchronous.Succession" />
+        <example>Birinci film bitip de (dört film birden gösteriliyor çünkü, günlerden pazar) ışıklar yanınca </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Expansion.Conjunction" />
+        <example>Gelgelelim Periveş Hanım Bihruz Bey'e yüz vermeyip de arabasıyla önünden hızla geçince,</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="7" word="-AlI">
+    <orths>
+      <orth canonical="0" orth_id="7o1" type="cont">
+        <part type="suffixal">alı</part>
+      </orth>
+      <orth canonical="1" orth_id="7o1" type="cont">
+        <part type="suffixal">eli</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>Converb</cat>
+      <sem>
+        <pdtb2_relation anno_N="4" freq="4" sense="Temporal.Asynchronous.Succession" />
+        <example>üç yıl oldu siz evleneli.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="8" word="-cAsInA">
+    <orths>
+      <orth canonical="0" orth_id="8o1" type="cont">
+        <part type="suffixal">casına</part>
+      </orth>
+      <orth canonical="1" orth_id="8o1" type="cont">
+        <part type="suffixal">cesine</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>Converb</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="2" sense="Comparison.Similarity" />
+        <example>kılı kırk yararcasına analiz ederek </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="9" word="-dA">
+    <orths>
+      <orth canonical="0" orth_id="9o1" type="cont">
+        <part type="suffixal">ımda</part>
+      </orth>
+      <orth canonical="1" orth_id="9o1" type="cont">
+        <part type="suffixal">imde</part>
+      </orth>
+      <orth canonical="2" orth_id="9o1" type="cont">
+        <part type="suffixal">umda</part>
+      </orth>
+      <orth canonical="3" orth_id="9o1" type="cont">
+        <part type="suffixal">ümde</part>
+      </orth>
+      <orth canonical="4" orth_id="9o1" type="cont">
+        <part type="suffixal">ında</part>
+      </orth>
+      <orth canonical="5" orth_id="9o1" type="cont">
+        <part type="suffixal">inde</part>
+      </orth>
+      <orth canonical="6" orth_id="9o1" type="cont">
+        <part type="suffixal">unda</part>
+      </orth>
+      <orth canonical="7" orth_id="9o1" type="cont">
+        <part type="suffixal">ünde</part>
+      </orth>
+      <orth canonical="8" orth_id="9o1" type="cont">
+        <part type="suffixal">ımızda</part>
+      </orth>
+      <orth canonical="9" orth_id="9o1" type="cont">
+        <part type="suffixal">imizde</part>
+      </orth>
+      <orth canonical="10" orth_id="9o1" type="cont">
+        <part type="suffixal">umuzda</part>
+      </orth>
+      <orth canonical="11" orth_id="9o1" type="cont">
+        <part type="suffixal">ümüzde</part>
+      </orth>
+      <orth canonical="12" orth_id="9o1" type="cont">
+        <part type="suffixal">ınızda</part>
+      </orth>
+      <orth canonical="13" orth_id="9o1" type="cont">
+        <part type="suffixal">inizde</part>
+      </orth>
+      <orth canonical="14" orth_id="9o1" type="cont">
+        <part type="suffixal">unuzda</part>
+      </orth>
+      <orth canonical="15" orth_id="9o1" type="cont">
+        <part type="suffixal">ünüzde</part>
+      </orth>
+      <orth canonical="16" orth_id="9o1" type="cont">
+        <part type="suffixal">larında</part>
+      </orth>
+      <orth canonical="17" orth_id="9o1" type="cont">
+        <part type="suffixal">lerinde</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="30" freq="28" sense="Temporal.Synchronous" />
+        <example>Halil onları korkutacağı yere geldiğinde donakaldı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="30" freq="1" sense="Temporal.Asynchronous.Succession" />
+        <example>Ante konağa ne kadar yolları kaldığını sorduğunda pek bir şey kalmadığını öğrendi </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="30" freq="1" sense="Contingency.Condition.Arg2-as-cond" />
+        <example>hem etnik gruplar hem de yaşama biçimi ve kültürleri toplamı olarak bakıldığında farklılıklar arasında birlikte yaşama geleneği sağlanamamış ve biz-onlar ayrımı.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="10" word="-dAn">
+    <orths>
+      <orth canonical="0" orth_id="10o1" type="cont">
+        <part type="suffixal">ımdan</part>
+      </orth>
+      <orth canonical="1" orth_id="10o1" type="cont">
+        <part type="suffixal">imden</part>
+      </orth>
+      <orth canonical="2" orth_id="10o1" type="cont">
+        <part type="suffixal">umdan</part>
+      </orth>
+      <orth canonical="3" orth_id="10o1" type="cont">
+        <part type="suffixal">ümden</part>
+      </orth>
+      <orth canonical="4" orth_id="10o1" type="cont">
+        <part type="suffixal">ından</part>
+      </orth>
+      <orth canonical="5" orth_id="10o1" type="cont">
+        <part type="suffixal">inden</part>
+      </orth>
+      <orth canonical="6" orth_id="10o1" type="cont">
+        <part type="suffixal">undan</part>
+      </orth>
+      <orth canonical="7" orth_id="10o1" type="cont">
+        <part type="suffixal">ünden</part>
+      </orth>
+      <orth canonical="8" orth_id="10o1" type="cont">
+        <part type="suffixal">ımızdan</part>
+      </orth>
+      <orth canonical="9" orth_id="10o1" type="cont">
+        <part type="suffixal">imizden</part>
+      </orth>
+      <orth canonical="10" orth_id="10o1" type="cont">
+        <part type="suffixal">umuzdan</part>
+      </orth>
+      <orth canonical="11" orth_id="10o1" type="cont">
+        <part type="suffixal">ümüzden</part>
+      </orth>
+      <orth canonical="12" orth_id="10o1" type="cont">
+        <part type="suffixal">ınızdan</part>
+      </orth>
+      <orth canonical="13" orth_id="10o1" type="cont">
+        <part type="suffixal">inizden</part>
+      </orth>
+      <orth canonical="14" orth_id="10o1" type="cont">
+        <part type="suffixal">unuzdan</part>
+      </orth>
+      <orth canonical="15" orth_id="10o1" type="cont">
+        <part type="suffixal">ünüzden</part>
+      </orth>
+      <orth canonical="16" orth_id="10o1" type="cont">
+        <part type="suffixal">larından</part>
+      </orth>
+      <orth canonical="17" orth_id="10o1" type="cont">
+        <part type="suffixal">lerinden</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="7" freq="7" sense="Contingency.Cause.Reason" />
+        <example>Başka kimse olmadığından iki kadının da yüzü açıktı.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="11" word="-DHk-çA">
+    <orths>
+      <orth canonical="0" orth_id="11o1" type="cont">
+        <part type="suffixal">tıkça</part>
+      </orth>
+      <orth canonical="1" orth_id="11o1" type="cont">
+        <part type="suffixal">tikçe</part>
+      </orth>
+      <orth canonical="2" orth_id="11o1" type="cont">
+        <part type="suffixal">tukça</part>
+      </orth>
+      <orth canonical="3" orth_id="11o1" type="cont">
+        <part type="suffixal">tükçe</part>
+      </orth>
+      <orth canonical="4" orth_id="11o1" type="cont">
+        <part type="suffixal">dıkça</part>
+      </orth>
+      <orth canonical="5" orth_id="11o1" type="cont">
+        <part type="suffixal">dikçe</part>
+      </orth>
+      <orth canonical="6" orth_id="11o1" type="cont">
+        <part type="suffixal">dukça</part>
+      </orth>
+      <orth canonical="7" orth_id="11o1" type="cont">
+        <part type="suffixal">dükçe</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>Converb</cat>
+      <sem>
+        <pdtb2_relation anno_N="9" freq="9" sense="Temporal.Synchronous" />
+        <example>Üzerine gittikçe sinirleniyor </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="12" word="-ken">
+    <orths>
+      <orth canonical="0" orth_id="12o1" type="cont">
+        <part type="suffixal">ken</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>Converb</cat>
+      <sem>
+        <pdtb2_relation anno_N="85" freq="71" sense="Temporal.Synchronous" />
+        <example>Yaralanıyordum tırmanırken,</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="85" freq="7" sense="Comparison.Contrast" />
+        <example>Ben kızgınken sakin sakin yere bakardım,</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="85" freq="1" sense="Temporal.Synchronous" />
+        <example>O sandalyeler bile değişmemiştir, bunca şey değişir, çözülüp giderken.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="85" freq="1" sense="Comparison.Concession.Arg1-as-denier" />
+        <example>O sandalyeler bile değişmemiştir, bunca şey değişir, çözülüp giderken.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="85" freq="5" sense="Comparison.Concession.Arg1-as-denier" />
+        <example>Bu aşamada biz kurgunun hızlanmasını, hanenin yıkılışını ve roman kahramanının trajik sonunu getirecek olaylar örgüsünün örülmesini beklerken, şaşırtıcı bir üslûp değişimiyle karşılaşırız:</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="85" freq="1" sense="Expansion.Conjunction" />
+        <example>Daire bedelinin 530 milyar 170 milyon lirası peşin verilirken kalan miktar 24 ayda, 66 milyar 262 milyon liralık taksitlerle ödenecek.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="13" word="-mAksIzIn">
+    <orths>
+      <orth canonical="0" orth_id="13o1" type="cont">
+        <part type="suffixal">maksızın</part>
+      </orth>
+      <orth canonical="1" orth_id="13o1" type="cont">
+        <part type="suffixal">meksizin</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>Converb</cat>
+      <sem>
+        <pdtb2_relation anno_N="4" freq="3" sense="Expansion.Manner.Arg2-as-manner" />
+        <example>Timsah'lar, 200 milyon yıldan beri, hiçbir morfolojik değişim göstermeksizin yaşamaktadırlar.
+</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="4" freq="1" sense="Temporal.Asynchronous.Succession" />
+        <example>Aradan iki dakika geçmeksizin (lando) bahçenin öbür köşesinden zuhur etti.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="14" word="-mAktAnsA">
+    <orths>
+      <orth canonical="0" orth_id="14o1" type="cont">
+        <part type="suffixal">maktansa</part>
+      </orth>
+      <orth canonical="1" orth_id="14o1" type="cont">
+        <part type="suffixal">mektense</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>Converb</cat>
+    </syn>
+  </entry>
+  <entry id="15" word="-sA">
+    <orths>
+      <orth canonical="0" orth_id="15o1" type="cont">
+        <part type="suffixal">sam</part>
+      </orth>
+      <orth canonical="1" orth_id="15o1" type="cont">
+        <part type="suffixal">san</part>
+      </orth>
+      <orth canonical="2" orth_id="15o1" type="cont">
+        <part type="suffixal">sa</part>
+      </orth>
+      <orth canonical="3" orth_id="15o1" type="cont">
+        <part type="suffixal">sak</part>
+      </orth>
+      <orth canonical="4" orth_id="15o1" type="cont">
+        <part type="suffixal">sanız</part>
+      </orth>
+      <orth canonical="5" orth_id="15o1" type="cont">
+        <part type="suffixal">salar</part>
+      </orth>
+      <orth canonical="6" orth_id="15o1" type="cont">
+        <part type="suffixal">larsa</part>
+      </orth>
+      <orth canonical="7" orth_id="15o1" type="cont">
+        <part type="suffixal">sem</part>
+      </orth>
+      <orth canonical="8" orth_id="15o1" type="cont">
+        <part type="suffixal">sen</part>
+      </orth>
+      <orth canonical="9" orth_id="15o1" type="cont">
+        <part type="suffixal">se</part>
+      </orth>
+      <orth canonical="10" orth_id="15o1" type="cont">
+        <part type="suffixal">sek</part>
+      </orth>
+      <orth canonical="11" orth_id="15o1" type="cont">
+        <part type="suffixal">seniz</part>
+      </orth>
+      <orth canonical="12" orth_id="15o1" type="cont">
+        <part type="suffixal">seler</part>
+      </orth>
+      <orth canonical="13" orth_id="15o1" type="cont">
+        <part type="suffixal">lerse</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="43" freq="26" sense="Contingency.Condition.Arg2-as-cond" />
+        <example>Bir aşsaydım bu duvarı benim olacaktın, kucaklayacaktın beni.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="43" freq="6" sense="Contingency.Condition+SpeechAct" />
+        <example>Koşsam gücüm yeter miydi?</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="43" freq="7" sense="Contingency.Negative-condition.Arg2-as-negcond" />
+        <example>Ermeni Ante olmasa intihar edecek </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="43" freq="1" sense="Temporal.Synchronous" />
+        <example>Nereye davet edilse, aynı şeyleri anlatıyordu.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="43" freq="2" sense="Comparison.Concession.Arg1-as-denier" />
+        <example>üç kişi el ele versek güç çevreleriz.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="43" freq="1" sense="Contingency.Cause+SpeechAct.Reason+SpeechAct" />
+        <example>Bunca yıldır girdiğim boşanma davalarını da gözönünde bulundurursak evilikler bitiyor.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="16" word="-sA bile">
+    <orths>
+      <orth canonical="0" orth_id="16o1" type="discont">
+        <part type="suffixal">saydım bile</part>
+      </orth>
+      <orth canonical="1" orth_id="16o1" type="discont">
+        <part type="suffixal">saydın bile</part>
+      </orth>
+      <orth canonical="2" orth_id="16o1" type="discont">
+        <part type="suffixal">sa bile</part>
+      </orth>
+      <orth canonical="3" orth_id="16o1" type="discont">
+        <part type="suffixal">saydık bile</part>
+      </orth>
+      <orth canonical="4" orth_id="16o1" type="discont">
+        <part type="suffixal">saydınız bile</part>
+      </orth>
+      <orth canonical="5" orth_id="16o1" type="discont">
+        <part type="suffixal">salardı bile</part>
+      </orth>
+      <orth canonical="6" orth_id="16o1" type="discont">
+        <part type="suffixal">seydim bile</part>
+      </orth>
+      <orth canonical="7" orth_id="16o1" type="discont">
+        <part type="suffixal">seydin bile</part>
+      </orth>
+      <orth canonical="8" orth_id="16o1" type="discont">
+        <part type="suffixal">se bile</part>
+      </orth>
+      <orth canonical="9" orth_id="16o1" type="discont">
+        <part type="suffixal">seydik bile</part>
+      </orth>
+      <orth canonical="10" orth_id="16o1" type="discont">
+        <part type="suffixal">seydiniz bile</part>
+      </orth>
+      <orth canonical="11" orth_id="16o1" type="discont">
+        <part type="suffixal">seler bile</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Comparison.Concession.Arg1-as-denier" />
+        <example>İbrahim Türkiş aday adayı olarak seçilmese bile aktif politikada yer almış bir kişidir.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="17" word="-sA dA">
+    <orths>
+      <orth canonical="0" orth_id="17o1" type="discont">
+        <part type="suffixal">sam da</part>
+      </orth>
+      <orth canonical="1" orth_id="17o1" type="discont">
+        <part type="suffixal">san da</part>
+      </orth>
+      <orth canonical="2" orth_id="17o1" type="discont">
+        <part type="suffixal">sa da</part>
+      </orth>
+      <orth canonical="3" orth_id="17o1" type="discont">
+        <part type="suffixal">sak da</part>
+      </orth>
+      <orth canonical="4" orth_id="17o1" type="discont">
+        <part type="suffixal">sanız da</part>
+      </orth>
+      <orth canonical="5" orth_id="17o1" type="discont">
+        <part type="suffixal">salar da</part>
+      </orth>
+      <orth canonical="6" orth_id="17o1" type="discont">
+        <part type="suffixal">sem de</part>
+      </orth>
+      <orth canonical="7" orth_id="17o1" type="discont">
+        <part type="suffixal">sen de</part>
+      </orth>
+      <orth canonical="8" orth_id="17o1" type="discont">
+        <part type="suffixal">se de</part>
+      </orth>
+      <orth canonical="9" orth_id="17o1" type="discont">
+        <part type="suffixal">sek de</part>
+      </orth>
+      <orth canonical="10" orth_id="17o1" type="discont">
+        <part type="suffixal">seniz de</part>
+      </orth>
+      <orth canonical="11" orth_id="17o1" type="discont">
+        <part type="suffixal">seler de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="10" freq="10" sense="Comparison.Concession.Arg1-as-denier" />
+        <example>Tiksinse de uzaklaşamıyor yanından.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="18" word="adeta">
+    <orths>
+      <orth canonical="0" orth_id="18o1" type="cont">
+        <part type="single">adeta</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="3" freq="2" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>Ante'nin evine bir araba göndermiş, adeta konakta onuruna verilecek yemeğe katılmaya mecbur etmişti.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="3" freq="1" sense="Comparison.Similarity" />
+        <example>Ana, oğul onları coşku ve heyecanla karşıladılar; bayram sevinci yaşanıyordu adeta.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="19" word="ama">
+    <orths>
+      <orth canonical="0" orth_id="19o1" type="cont">
+        <part type="single">ama</part>
+      </orth>
+      <orth canonical="1" orth_id="19o1" type="cont">
+        <part type="single">Ama</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="108" freq="35" sense="Comparison.Contrast" />
+        <example>Dışa karşı güçlüydü, ama içe, kendi yüreğine yıkılmak üzereydi.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="108" freq="59" sense="Comparison.Concession.Arg2-as-denier" />
+        <example>Vazgeçmek kolaydı, ertelemek de. Ama tırmanmaya başlandı mı bitirilmeli!</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="108" freq="6" sense="Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct" />
+        <example>Dediklerinizi uzun zaman unutamam. Ama, acaba bu düşünceniz gerçek mi?</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="108" freq="3" sense="Expansion.Correction" />
+        <example>Öyle bir kadın var! Ama o başkası!</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="108" freq="1" sense="Expansion.Conjunction" />
+        <example>Ağlamıştı. Bana mı, kendine mi, ailemize mi, bilmiyorum, ama lanetler yağdırarak ağlamıştı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="108" freq="2" sense="Comparison.Concession+SpeechAct" />
+        <example>Merdivenleri çıkarken koluna giriyor ama sen bu merdivenleri biliyorsun.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="108" freq="1" sense="Expansion.Exception.Arg2-as-excpt" />
+        <example>Bütün bunlar yapıldı Türkiye'de. Ama kurumlaşma daha sonra oldu, amatör ruhla çalışıldı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="108" freq="1" sense="Contingency.Cause+SpeechAct.Result+SpeechAct" />
+        <example>Mutlaklığından biraz özveride bulunur kuşkusuz, ama bunu okurun amacını anlayacağına, alaylı anlatıcıyla ciddi anlatıcının tonundaki farkı yakalayacağına güvendiği için yapar.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="20" word="amacıyla">
+    <orths>
+      <orth canonical="0" orth_id="20o1" type="cont">
+        <part type="single">amacıyla</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="5" freq="5" sense="Contingency.Purpose.Arg2-as-goal" />
+        <example>Kuşku uyandırmamak amacıyla eski hallerini de pek bozmadan, kolay kolay fark edilemeyecek güvenli bir köşe oluşturdu.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="21" word="Ancak">
+    <orths>
+      <orth canonical="0" orth_id="21o1" type="cont">
+        <part type="single">ancak</part>
+      </orth>
+      <orth canonical="1" orth_id="21o1" type="cont">
+        <part type="single">Ancak</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="23" freq="14" sense="Comparison.Concession.Arg2-as-denier" />
+        <example>Ermeni Ante birkaç yıl daha seferlere katıldı. Ancak kayda değer bir başarısı olmadı.
+</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="23" freq="7" sense="Comparison.Contrast" />
+        <example>Rumların Pile'ye rahatça girip çıktığını ancak kendilerinin Beyarmudu'ndan kimlik kontrolünden sonra Pile'ye geçtiklerini </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="23" freq="1" sense="Expansion.Exception.Arg2-as-excpt" />
+        <example>siyasete karışmadığını, ancak terörün tırmandığı dönemlerde devreye girdiğini </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="23" freq="1" sense="Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct" />
+        <example>Fon türüne bakarak portföyde ne oranda hisse senedi, ne oranda tahvil bono bulunduğunu yaklaşık olarak tahmin edebilmek mümkün. Ancak bu tespitin ortalamalardan hareketle yapıldığının altını çizmek gerekiyor.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="22" word="Ardından">
+    <orths>
+      <orth canonical="0" orth_id="22o1" type="cont">
+        <part type="single">Ardından</part>
+      </orth>
+      <orth canonical="1" orth_id="22o1" type="cont">
+        <part type="single">ardından</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV_ADP</cat>
+      <sem>
+        <pdtb2_relation anno_N="6" freq="6" sense="Temporal.Asynchronous.Precedence" />
+        <example>Önce, elindeki reçelli bir dilim ekmeği, kapağını güçlükle kaldırdığı piyanonun içine atan küçük bir kız belirdi ekranda. Ardından, görüntü kısa bir süre için kayboldu.
+</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="23" word="Artık">
+    <orths>
+      <orth canonical="0" orth_id="23o1" type="cont">
+        <part type="single">Artık</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>Ermeni Ante bu yolla çok kısa bir sürede inanılmaz bir mal varlığına kavuştu. Artık yelkenlileri ve küçük çapta bir ticaret ağı vardı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Temporal.Synchronous" />
+        <example>Bütün gün New York sokaklarında dolaştıktan sonra, geceleri 42. Cadde'ye varırdım. Artık yorulmuş olurdum.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="24" word="aslında">
+    <orths>
+      <orth canonical="0" orth_id="24o1" type="cont">
+        <part type="single">Aslında</part>
+      </orth>
+      <orth canonical="1" orth_id="24o1" type="cont">
+        <part type="single">aslında</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="8" freq="1" sense="Expansion.Substitution.Arg2-as-subst" />
+        <example>Ben kızgınken tam önüme bakardım aslında, senin gözlerine değil.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="8" freq="3" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>Ama Şemsî Ahmed Paşa ikramı yapan kişinin öz kızı olduğunu söyleyince Ante neredeyse elindeki ıhlamuru döküyordu. Aslında bu hizmeti iyi-kötü Osmanlıca konuşan Mısırlı bir kadın yapardı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="8" freq="1" sense="Expansion.Exception.Arg1-as-excpt" />
+        <example>Paniğe kapıldı. Aslında böyle şeyler onu asla korkutmazdı,</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="8" freq="1" sense="Comparison.Concession.Arg1-as-denier" />
+        <example>Herkes gülerken, kimi de yuh çekerken -askerdir, hoş görülür aslında-</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="8" freq="1" sense="Expansion.Conjunction" />
+        <example>babanın eli açıktı. Aslında gönlü de açıktı,</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="8" freq="1" sense="Expansion.Correction" />
+        <example>Susie Wang'unkine değil, yıkılan kendi dünyama ağlıyordum aslında.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="25" word="Ayrıca">
+    <orths>
+      <orth canonical="0" orth_id="25o1" type="cont">
+        <part type="single">Ayrıca</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="15" freq="15" sense="Expansion.Conjunction" />
+        <example>Şehzade Ahmet'le iyi dost olmuşlardı. Ayrıca Bahri Kadın da Ante'nin muhabbetinden hoşlanıyor, tüm uyarılara karşın bu adamı sık sık huzuruna davet ediyordu.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="26" word="başka">
+    <orths>
+      <orth canonical="0" orth_id="26o1" type="cont">
+        <part type="single">başka</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Exception.Arg2-as-excpt" />
+        <example>Çünkü böyle ahvalde kadınlara karşı endiferans göstermekten başka müessir ve müfit bir tedbir olamayacağı </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="27" word="beraber">
+    <orths>
+      <orth canonical="0" orth_id="27o1" type="cont">
+        <part type="single">beraber</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Comparison.Concession.Arg1-as-denier" />
+        <example>görünmekle beraber görmek değil, yalnız görünmek </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="28" word="beri">
+    <orths>
+      <orth canonical="0" orth_id="28o1" type="cont">
+        <part type="single">beri</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous.Succession" />
+        <example>Onun ölümünden beri ilk kez girdiği </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="29" word="Binaenaleyh">
+    <orths>
+      <orth canonical="0" orth_id="29o1" type="cont">
+        <part type="single">Binaenaleyh</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Contingency.Cause.Result" />
+        <example>Alelûlum mirasyedilerin düşündüğü gibi Bihruz Bey de servetini yemekle bitmez tükenmez zannederdi. Binaenaleyh ulu orta giriştiği istihlâkâta nakitten başlandı.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="30" word="Bir de">
+    <orths>
+      <orth canonical="0" orth_id="30o1" type="cont">
+        <part type="phrasal">Bir de</part>
+      </orth>
+      <orth canonical="1" orth_id="30o1" type="cont">
+        <part type="phrasal">bir de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="4" freq="4" sense="Expansion.Conjunction" />
+        <example>Yoksa örneğin bir polen analizi, bir arkeobotanik olmazdı. Bir de arkeozooloji var; hayvan kemiklerinin incelenmesi, tanınması.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="31" word="Bir kez">
+    <orths>
+      <orth canonical="0" orth_id="31o1" type="cont">
+        <part type="phrasal">Bir kez</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Instantiation.Arg2-as-instance" />
+        <example>
+        </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="32" word="bir süre sonra">
+    <orths>
+      <orth canonical="0" orth_id="32o1" type="cont">
+        <part type="phrasal">bir süre sonra</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="2" sense="Temporal.Asynchronous.Succession" />
+        <example>Hoca kaçtıktan bir süre sonra piyanonun içinden garip tıkırtılar gelmeye başladı.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="33" word="Bir süre sonra da">
+    <orths>
+      <orth canonical="0" orth_id="33o1" type="cont">
+        <part type="phrasal">Bir süre sonra da</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous.Precedence" />
+        <example>Çıkmak istemez. Bir süre sonra da o dayanılmaz bekleyişe, o baş etmesi zor gerilime alışır.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="34" word="bir yandan da">
+    <orths>
+      <orth canonical="0" orth_id="34o1" type="cont">
+        <part type="phrasal">bir yandan da</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Synchronous" />
+        <example>Bahçede, tahta bir masa etrafında Sabahat'ın koparıp bir tabağa koyduğu ayvaları yiyorlar, su içiyorlar, bir yandan da dünya edebiyatından Türkçeye çevrilmiş kitaplardan konuşuyorlardı </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="35" word="birlikte">
+    <orths>
+      <orth canonical="0" orth_id="35o1" type="cont">
+        <part type="single">birlikte</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Comparison.Concession.Arg1-as-denier" />
+        <example>Çok garibime gitmekle birlikte bozuntuya vermeden,</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="36" word="Böylece">
+    <orths>
+      <orth canonical="0" orth_id="36o1" type="cont">
+        <part type="single">Böylece</part>
+      </orth>
+      <orth canonical="1" orth_id="36o1" type="cont">
+        <part type="single">böylece</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="9" freq="6" sense="Contingency.Cause.Result" />
+        <example>önce bitkilerin, sonra bitki yiyen otçulların ve daha sonra otçulları yiyen etçillerin yokoluşu, böylece besin zincirinin kırılması </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="9" freq="3" sense="Expansion.Level-of-detail.Arg1-as-detail" />
+        <example>Her zamanki gibi yüzler düşleniyor, hayaller var ediliyor, böylece dalgın dalgın sürüyordu bu gidiş.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="37" word="Çünkü">
+    <orths>
+      <orth canonical="0" orth_id="37o1" type="cont">
+        <part type="single">Çünkü</part>
+      </orth>
+      <orth canonical="1" orth_id="37o1" type="cont">
+        <part type="single">çünkü</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="33" freq="25" sense="Contingency.Cause.Reason" />
+        <example>Ama tırmanmaya başlandı mı bitirilmeli! Çünkü her seferinde acımasız bir geriye dönüş vardı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="33" freq="8" sense="Contingency.Cause+Belief.Reason+Belief" />
+        <example>Nesli'nin, koluna asılıp gözlüklerinin üstünden şehla şehla bakmasını ve gülmesini çok seviyor, çünkü gülmek çok yakışıyor ona.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="38" word="da">
+    <orths>
+      <orth canonical="0" orth_id="38o1" type="cont">
+        <part type="single">da</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="9" freq="6" sense="Expansion.Conjunction" />
+        <example>araştırmalar yaptık Arkeometalurglar da örnekler topladı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="9" freq="1" sense="Temporal.Synchronous" />
+        <example>
+        </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="9" freq="1" sense="Expansion.Substitution.Arg2-as-subst" />
+        <example>Niye kartını vermiyorsun da, hava yapar gibi kâğıda adını yazıp veriyorsun?</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="9" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>Bunları iyi kontrol etmek gerekir. Kara para aklama yöntemi olarak kullanmalarına da izin verilmemelidir.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="39" word="da ... de">
+    <orths>
+      <orth canonical="0" orth_id="39o1" type="discont">
+        <part type="phrasal">da de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Conjunction" />
+        <example>İş Güvencesi Yasasındaki uygulama tarihini ileri atmak gibi bir planları olmadığını da vurgulayan Şahin, atıl istihdamda izlenecek yolda kesin karar vermediklerini de belirtti.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="40" word="da bile">
+    <orths>
+      <orth canonical="0" orth_id="40o1" type="cont">
+        <part type="phrasal">da bile</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Synchronous" />
+        <example>Uykuya daldığında bile belli belirsiz acı duyuyor, yüzü buruşuyordu.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="41" word="Daha sonra">
+    <orths>
+      <orth canonical="0" orth_id="41o1" type="cont">
+        <part type="phrasal">Daha sonra</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous.Precedence" />
+        <example>16-20 Temmuz 1994'de Jüpiter gezegeninin Kuyruklu Yıldız Yağmuru'na uğrayışını televizyonlardan, naklen tıpkı bir "Uzay fiovu" gibi izlemiştik. Daha sonra, bu yağmurun 50 milyon atom bombasına eşdeğer etki yaptığı hesaplandı.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="42" word="Dahası">
+    <orths>
+      <orth canonical="0" orth_id="42o1" type="cont">
+        <part type="single">Dahası</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>
+        </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Expansion.Conjunction" />
+        <example>Araba Sevdası'nda hiçbir gerçekliğe gönderme yapmayan, parodist bir dil kullanılır. Dahası, romanda kullanılan diller kimseye ait değildir; kimse ne kendi kullandığı dili, ne de başkalarının kullandığı dili anlar.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="43" word="de">
+    <orths>
+      <orth canonical="0" orth_id="43o1" type="cont">
+        <part type="single">de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="8" freq="2" sense="Comparison.Similarity" />
+        <example>Yani burada oturanlar, öteki konutlarda oturan insanlardan farklı; işlevleri de farklı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="8" freq="4" sense="Expansion.Conjunction" />
+        <example>Biz kız evine niyet beyanı için geldik. Kahveyi de çok iyi servis ediyor.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="8" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>Ben bunu babamın bencilliği olarak görüyordum. Aynı hareketi Ortaköy'de de yaptı seneler sonra.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="8" freq="1" sense="Expansion.Correction" />
+        <example>ben bir kere hava yapmam; hava yapanların her türlüsünden de iğrenirim.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="44" word="dek">
+    <orths>
+      <orth canonical="0" orth_id="44o1" type="cont">
+        <part type="single">dek</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Temporal.Asynchronous.Succession" />
+        <example>İlişkimiz, yalan söylediği ortaya çıkana dek eski coşkusuyla birkaç ay daha sürdü.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Temporal.Synchronous" />
+        <example>Eve ulaşana dek kendimi tuttuysam da,</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="45" word="Dolayısıyla">
+    <orths>
+      <orth canonical="0" orth_id="45o1" type="cont">
+        <part type="single">Dolayısıyla</part>
+      </orth>
+      <orth canonical="1" orth_id="45o1" type="cont">
+        <part type="single">dolayısıyla</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="6" freq="5" sense="Contingency.Cause.Result" />
+        <example>Benim uzmanlık konum triko. Ve triko tasarımcısının ipliği çok iyi tanıması gerekiyor. Havlu da böyle. Dolayısıyla bu tip bir proje bana yabancı değil.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="6" freq="1" sense="Expansion.Level-of-detail.Arg1-as-detail" />
+        <example>aslında çok eşitlikçi gibi gözükmesine karşın eşitsizliği engelleyemeyeceğini, hatta yeni bazı eşitsizlikler yaratabileceğini, dolayısıyla hâlâ bir burjuva ilke olduğunu,</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="46" word="fakat">
+    <orths>
+      <orth canonical="0" orth_id="46o1" type="cont">
+        <part type="single">Fakat</part>
+      </orth>
+      <orth canonical="1" orth_id="46o1" type="cont">
+        <part type="single">fakat</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="10" freq="5" sense="Comparison.Concession.Arg2-as-denier" />
+        <example>hep göz ardı edilen fakat her zaman kendi kurallarını uygulayarak dengeyi tekrar tekrar kurmaya çalışan,</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="10" freq="5" sense="Comparison.Contrast" />
+        <example>Bir kez Katoliklik'te boşanma yoktur fakat Müslümanlıkta vardır;</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="47" word="Filhakika">
+    <orths>
+      <orth canonical="0" orth_id="47o1" type="cont">
+        <part type="single">Filhakika</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>
+        </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="48" word="gene de">
+    <orths>
+      <orth canonical="0" orth_id="48o1" type="cont">
+        <part type="phrasal">gene de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="2" sense="Comparison.Concession.Arg2-as-denier" />
+        <example>Henüz çok iyi öğrenememiştim New York metrosunu ama gene de her gece gideceğim yere varabiliyordum. </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="49" word="Gerçekten de">
+    <orths>
+      <orth canonical="0" orth_id="49o1" type="cont">
+        <part type="phrasal">Gerçekten de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="3" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>
+        </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="3" freq="1" sense="Expansion.Level-of-detail.Arg1-as-detail" />
+        <example>
+        </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="3" freq="1" sense="Expansion.Conjunction" />
+        <example>Ülkenin yoksulluk içinde bulunduğu, ekmeğin karneye bağlı olduğu savaş yılları içinde onların bu cömertlikleri ayrıca bir önem kazanıyordu. Gerçekten de babanın eli açıktı.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="50" word="gibi">
+    <orths>
+      <orth canonical="0" orth_id="50o1" type="cont">
+        <part type="single">gibi</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb2_relation anno_N="23" freq="19" sense="Comparison.Similarity" />
+        <example>ama kahve değirmeninin nerede olduğunu bilmediği gibi bulacağını da sanmıyordu.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="23" freq="3" sense="Expansion.Manner.Arg2-as-manner" />
+        <example>Yaşlı adamlar beni büyülenmiş gibi dinliyorlardı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="23" freq="1" sense="Expansion.Conjunction" />
+        <example>Gazete, dergi, televizyon, internet ve radyo kanalıyla BDDK'ya ve yönetimine yöneltilen bitmek bilmeyen saldırılara, basının otokontrol mekanizmalarından uyarı gelmediği gibi, kişi haklarına saldırı sayılabilecek haber anlayışı hiçbir kurum tarafından sorgulanmamaktadır"</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="51" word="gibi de">
+    <orths>
+      <orth canonical="0" orth_id="51o1" type="cont">
+        <part type="phrasal">gibi de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Comparison.Similarity" />
+        <example>dediği gibi de yaptı.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="52" word="halbuki">
+    <orths>
+      <orth canonical="0" orth_id="52o1" type="cont">
+        <part type="single">Halbuki</part>
+      </orth>
+      <orth canonical="1" orth_id="52o1" type="cont">
+        <part type="single">halbuki</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="2" sense="Comparison.Concession.Arg2-as-denier" />
+        <example>Virgülden sonra Tayyip Bey'in de ismi gelince ikisi de aynı kefeye konmuş oluyor. Halbuki bizim konuşmamız bu anlamda değildi.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="53" word="halde">
+    <orths>
+      <orth canonical="0" orth_id="53o1" type="cont">
+        <part type="single">halde</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Comparison.Concession.Arg2-as-denier" />
+        <example>Anam, babam, hısmım, akrabam, kimsem olmadığı halde kavânin-i medeniyemiz bana ana baba dereceside hâmi olmak lâzım gelmeyecek mi?</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Temporal.Synchronous" />
+        <example>Mösyö Piyer etekleri yerlere sürünür derecede uzun bir rop dö şambr giymiş, başında rengâmiz tüylerle müzeyyen bir kadın şapkası, iki koltuğunda da birer bordo şişesi olduğu halde birdenbire meydana çıkıyor:</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="54" word="hatta">
+    <orths>
+      <orth canonical="0" orth_id="54o1" type="cont">
+        <part type="single">hatta</part>
+      </orth>
+      <orth canonical="1" orth_id="54o1" type="cont">
+        <part type="single">Hatta</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="6" freq="3" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>Senin nerede olduğunu bildiğini söylüyor ve hatta tam adresini bile veriyordu. </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="6" freq="3" sense="Expansion.Conjunction" />
+        <example>ve diğerlerinin yaşama hakkını sınırlar ve hatta yok eder,</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="55" word="Hem">
+    <orths>
+      <orth canonical="0" orth_id="55o1" type="cont">
+        <part type="single">hem</part>
+      </orth>
+      <orth canonical="1" orth_id="55o1" type="cont">
+        <part type="single">Hem</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="2" sense="Expansion.Conjunction" />
+        <example>Hem gülüyor hem sövüyorlardı.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="56" word="hem ... hem de">
+    <orths>
+      <orth canonical="0" orth_id="56o1" type="discont">
+        <part type="phrasal">hem hem de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Conjunction" />
+        <example>
+        </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="57" word="hem de">
+    <orths>
+      <orth canonical="0" orth_id="57o1" type="cont">
+        <part type="phrasal">hem de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>Söyledi bana bunları, biliyor musun? Bir gece zamanı, yataktayken söyledi hem de.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Expansion.Conjunction" />
+        <example>yapmam gerekiyordu, hem de çok iyi oldu.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="58" word="hemen önce">
+    <orths>
+      <orth canonical="0" orth_id="58o1" type="cont">
+        <part type="phrasal">hemen önce</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous.Succession" />
+        <example>Sabah çok erken saatte bir önceki akşam gün batmadan hemen önce astığı </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="59" word="için">
+    <orths>
+      <orth canonical="0" orth_id="59o1" type="cont">
+        <part type="single">için</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb2_relation anno_N="70" freq="56" sense="Contingency.Purpose.Arg2-as-goal" />
+        <example>Sokakta birlikte olmak için sandalyemi itmen gerekiyordu.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="70" freq="14" sense="Contingency.Cause.Reason" />
+        <example>Babası, oğlunun böyle bir arkadaşı olduğu için çok sevindi.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="60" word="için de">
+    <orths>
+      <orth canonical="0" orth_id="60o1" type="cont">
+        <part type="phrasal">için de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb2_relation anno_N="3" freq="3" sense="Contingency.Cause.Reason" />
+        <example>Tamir gördüğü için de, biz bunların yapı evrelerini takip edebiliyoruz.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="61" word="iken">
+    <orths>
+      <orth canonical="0" orth_id="61o1" type="cont">
+        <part type="single">iken</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Comparison.Contrast" />
+        <example>
+        </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="62" word="İki gün sonra">
+    <orths>
+      <orth canonical="0" orth_id="62o1" type="cont">
+        <part type="phrasal">İki gün sonra</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Contingency.Cause.Result" />
+        <example>Halil, mahzende gördüğü bu adamı unutamamış, zavallının büyük yalnızlığını hissetmişti. İki gün sonra Abid Efendi'den izin alarak mahzene inmiş, Ermeni Ante'nin terslemelerine rağmen gitmemişti.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="63" word="ise">
+    <orths>
+      <orth canonical="0" orth_id="63o1" type="cont">
+        <part type="single">ise</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="12" freq="4" sense="Expansion.Conjunction" />
+        <example>Felatun Bey, kimliksizliğini düştüğü gülünç durumlarla öder, Ceylan'ın ise sonu acıdır:</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="12" freq="6" sense="Comparison.Contrast" />
+        <example>Hayatında hiç tiyatroya gitmemişti.Biz ise sonradan yanan Tepebaşı'ndaki Dram tiyatrosuna ve yanındaki Darülbedayi Komedi Tiyatrosuna bir iki kez ailece gitmiştik.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="12" freq="1" sense="Comparison.Concession.Arg2-as-denier" />
+        <example>Barajın altında kalan siyasi partiler şoku atlatamadı. Bu partiler arasındaki DYP'de ise gözle görülür bir hareketlilik var.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="12" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>A tipi hisse senedi ve A tipi sektör fonlarında borsanın payı yüzde 74'e yükselmiş durumda. Minimum maksimum dengesi ise yüzde 55- yüzde 95 aralığında.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="64" word="kadar">
+    <orths>
+      <orth canonical="0" orth_id="64o1" type="cont">
+        <part type="single">kadar</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb2_relation anno_N="10" freq="7" sense="Contingency.Cause.Result" />
+        <example>Ermeni Ante tanınmayacak kadar değişmişti.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="10" freq="7" sense="Comparison.Degree" />
+        <example>Ermeni Ante tanınmayacak kadar değişmişti.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="10" freq="1" sense="Temporal.Asynchronous.Precedence" />
+        <example>Gergin gövdemi uykulu bir karanlığın içinde hafiflemiş, erimiş duyana kadar bekledim.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="10" freq="2" sense="Comparison.Degree" />
+        <example>herkes verebildiği kadar verecek </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="65" word="karşın">
+    <orths>
+      <orth canonical="0" orth_id="65o1" type="cont">
+        <part type="single">karşın</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb2_relation anno_N="7" freq="7" sense="Comparison.Concession.Arg1-as-denier" />
+        <example>yasak olmasına karşın avucunun içinde sigara yakıp gizli gizli içen </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="66" word="Keza">
+    <orths>
+      <orth canonical="0" orth_id="66o1" type="cont">
+        <part type="single">Keza</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="4" freq="3" sense="Expansion.Instantiation.Arg2-as-instance" />
+        <example>doğa tekrar, herkese yaşama hakkını veren dengeli düzenini kurabilmek için, baskın olarak diğerlerinin yaşama hakkını gasp eden formu yok eder".Keza, jeolojik tarihindeki toplu Yok olmalarda en çok kayıp verenlerle, tamamen yok olanlar, dönemlerinin en baskın formlarıdır.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="4" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>
+        </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="67" word="ki">
+    <orths>
+      <orth canonical="0" orth_id="67o1" type="cont">
+        <part type="single">ki</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="5" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>Bunlardan birincisi -ki edebiyatın en eski, en klasik izleklerindendir- gerçeklik-yanılsama karşıtlığıdır.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="5" freq="1" sense="Expansion.Manner.Arg2-as-manner" />
+        <example>Periveş Hanımın landosu İstavroz'un üzerinden Beylerbeyi'ne doğru yokuş aşağı bir derecede süratle gidiyor ki, tekerlekler yere değmiyor!</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="5" freq="1" sense="Comparison.Degree" />
+        <example>Periveş Hanımın landosu İstavroz'un üzerinden Beylerbeyi'ne doğru yokuş aşağı bir derecede süratle gidiyor ki, tekerlekler yere değmiyor!</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="5" freq="1" sense="Temporal.Synchronous" />
+        <example>
+        </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="5" freq="2" sense="Contingency.Cause.Reason" />
+        <example>Bu ispiyoncu çocuk, benim bunları bilişimi ve anlatışımdaki dili beğenmiş olacak ki giderken "Kendine dikkat et Kemal, Muzaffer Bey seni ne yapıp edip dövmek istiyor," dedi.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="68" word="Madem">
+    <orths>
+      <orth canonical="0" orth_id="68o1" type="cont">
+        <part type="single">Madem</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Contingency.Condition+SpeechAct" />
+        <example>Madem bizi kurtarmak istiyorlar, neden tepemize bomba yağdırmayı düşünüyorlar?</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="69" word="meğer">
+    <orths>
+      <orth canonical="0" orth_id="69o1" type="cont">
+        <part type="single">meğer</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Contingency.Cause.Reason" />
+        <example>O genellikle, koridorda bir pencere içinde teneffüslerde kahve içerdi. Nurhan'la ben de arada bir onu orada görüp yanına giderdik. Sonradan öğrendik, meğer o öğretmenler odasına girmek istemezmiş </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="70" word="mesela">
+    <orths>
+      <orth canonical="0" orth_id="70o1" type="cont">
+        <part type="single">Mesela</part>
+      </orth>
+      <orth canonical="1" orth_id="70o1" type="cont">
+        <part type="single">mesela</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="2" sense="Expansion.Instantiation.Arg2-as-instance" />
+        <example>Kızınca bir çocuk kadar bile olamazdım. Bir tenekeye tekme atamazdım mesela.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="71" word="nasıl ... sa">
+    <orths>
+      <orth canonical="0" orth_id="71o1" type="discont">
+        <part type="phrasal">nasıl sa</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Comparison.Similarity" />
+        <example>nasıl okuduğu Batı romanlarıyla bir "feminist" olup çıkmışsa, Bihruz Bey de okuduğu gayet seviyesiz aşk şiirleriyle komik bir "aşık" olup çıkar.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="72" word="ne">
+    <orths>
+      <orth canonical="0" orth_id="72o1" type="cont">
+        <part type="single">ne</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Conjunction" />
+        <example>ne bilgisayar kullanmayı bilirim, ne daktilo.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="73" word="ne ... ne de">
+    <orths>
+      <orth canonical="0" orth_id="73o1" type="discont">
+        <part type="phrasal">ne ne de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="2" sense="Expansion.Conjunction" />
+        <example>ama ne ben haberdardım bu duvarın yıkılamayacağından ne de duvarı taşıyan haberdardı bu duvarı taşıdığından.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="74" word="ne ki">
+    <orths>
+      <orth canonical="0" orth_id="74o1" type="cont">
+        <part type="phrasal">ne ki</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Comparison.Concession.Arg2-as-denier" />
+        <example>Bir gün başkaları da bilip anlayacaklar ne ki iş işten geçmiş olacak.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="75" word="Ne var ki">
+    <orths>
+      <orth canonical="0" orth_id="75o1" type="cont">
+        <part type="phrasal">Ne var ki</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Comparison.Contrast" />
+        <example>Konakta özenli bir bakımla kısa sürede düzeldi. Ne var ki bedenindeki yaraları Hekim Bosnalı Kerim Bey de görmüş ve böyle bir şeyle ilk kez karşılaştığını söylemişti.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="76" word="Nihayet">
+    <orths>
+      <orth canonical="0" orth_id="76o1" type="cont">
+        <part type="single">Nihayet</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Temporal.Asynchronous.Precedence" />
+        <example>İrat namına Galata'da bir han kalmış idi. Nihayet o da satıldı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Expansion.Level-of-detail.Arg1-as-detail" />
+        <example>
+        </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="77" word="Nitekim">
+    <orths>
+      <orth canonical="0" orth_id="77o1" type="cont">
+        <part type="single">Nitekim</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Instantiation.Arg2-as-instance" />
+        <example>Orhan Okay bize Ahmet Mithat'ın Bağdatlı Muhammed Zilhavi'den medrese bilimlerini, Muhammed Şirazlı Bakır Can Muattar'dan da Doğu ilim ve felsefesini öğrendiğini söyler. Nitekim, romanlarına baktığımızda da Ahmet Mithat'ın özdeşleştiği kahramanların hepsinin babanın yokluğuna rağmen iyi bir İslâm kültür ve terbiyesi almış kahramanlar olduğunu görürüz.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="78" word="Oysa">
+    <orths>
+      <orth canonical="0" orth_id="78o1" type="cont">
+        <part type="single">Oysa</part>
+      </orth>
+      <orth canonical="1" orth_id="78o1" type="cont">
+        <part type="single">oysa</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="11" freq="7" sense="Comparison.Contrast" />
+        <example>Hiçbir şey anlatamadım," diye acıyla inledi."Oysa sizlere ne kadar çok anlatacağım vardı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="11" freq="4" sense="Comparison.Concession.Arg2-as-denier" />
+        <example>Birçok Iraklı yaşamını, devletin her ay karneyle yaptığı gıda yardımı sayesinde sürdürebiliyor. Oysa Bağdat'ın açık pazarlarında, parası olan herkes, aradığı her şeyi bulabiliyor.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="79" word="öğleden sonra">
+    <orths>
+      <orth canonical="0" orth_id="79o1" type="cont">
+        <part type="phrasal">öğleden sonra</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous.Precedence" />
+        <example>İki yüz kadar karttı, ceplerime yerleştirdikten sonra yemeğe çıktım. O gün öğleden sonra okula dönmedim. </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="80" word="önce">
+    <orths>
+      <orth canonical="0" orth_id="80o1" type="cont">
+        <part type="single">önce</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV_ADP</cat>
+      <sem>
+        <pdtb2_relation anno_N="6" freq="6" sense="Temporal.Asynchronous.Precedence" />
+        <example>ve kadın terasa çıkmadan önce kaçıyordu.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="81" word="örneğin">
+    <orths>
+      <orth canonical="0" orth_id="81o1" type="cont">
+        <part type="single">örneğin</part>
+      </orth>
+      <orth canonical="1" orth_id="81o1" type="cont">
+        <part type="single">Örneğin</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="3" freq="3" sense="Expansion.Instantiation.Arg2-as-instance" />
+        <example>Keyifsiz olduğu günler de konuşuyor Vedat, ama daha az. "Sanayi çarşısına gidelim," diyor örneğin,</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="82" word="Öte yandan">
+    <orths>
+      <orth canonical="0" orth_id="82o1" type="cont">
+        <part type="phrasal">Öte yandan</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="3" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>
+        </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="3" freq="2" sense="Expansion.Conjunction" />
+        <example>
+        </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="83" word="Öyle ki">
+    <orths>
+      <orth canonical="0" orth_id="83o1" type="cont">
+        <part type="phrasal">Öyle ki</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>
+        </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="84" word="öyleyse">
+    <orths>
+      <orth canonical="0" orth_id="84o1" type="cont">
+        <part type="single">öyleyse</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Contingency.Cause+Belief.Result+Belief" />
+        <example>Onun çetrefil, kimi zaman açmazlarla dolu ruhunun içindeyiz demek," dedim. "Erkekler Parkı yakında olmalı öyleyse.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="85" word="Özellikle">
+    <orths>
+      <orth canonical="0" orth_id="85o1" type="cont">
+        <part type="single">Özellikle</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Expansion.Instantiation.Arg2-as-instance" />
+        <example>Birçok işyeri kapanırken, işsiz kalan binlerce kişi yeni arayışlar içine girdi. Özellikle genç ve eğitimli nüfus, çareyi yurtdışına çıkmakta buldu.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>Günümüzde artık evliliğe bakış açısı değişti, daha katı bakılıyor. Özellikle metropol şehirlerde kadınlar artık maddi ve manevi bağımsızlığını ilan etmiş durumda.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="86" word="rağmen">
+    <orths>
+      <orth canonical="0" orth_id="86o1" type="cont">
+        <part type="single">rağmen</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb2_relation anno_N="7" freq="6" sense="Comparison.Concession.Arg1-as-denier" />
+        <example>Köpekler, bahçenin öbür tarafında olmalarına rağmen havlamaya başlamışlardı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="7" freq="1" sense="Comparison.Contrast" />
+        <example>bir yazısında kendisini Sokrata benzetmesine rağmen, zaten bu felsefe ile temasına sistemi dahi mânidir.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="87" word="sadece ... değil">
+    <orths>
+      <orth canonical="0" orth_id="87o1" type="discont">
+        <part type="phrasal">sadece değil da</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Conjunction" />
+        <example>sadece yurtiçinde değil, yurtdışında da açmayı </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="88" word="Sanki">
+    <orths>
+      <orth canonical="0" orth_id="88o1" type="cont">
+        <part type="single">Sanki</part>
+      </orth>
+      <orth canonical="1" orth_id="88o1" type="cont">
+        <part type="single">sanki</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="5" freq="4" sense="Comparison.Similarity" />
+        <example>Ne ilginç, ne renkli bir evdi burası. Düş ustasının büyülenerek okuduğum kitaplarından birinin içine düşmüş, sayfaların arasında dolaşıyordum sanki.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="5" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>Ama şimdi o anlatmak istediklerimi nasıl anlatacağımı bilmiyorum. Sanki anlatacağım şeyler birden önemini yitirdi.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="89" word="sırada">
+    <orths>
+      <orth canonical="0" orth_id="89o1" type="cont">
+        <part type="single">sırada</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Synchronous" />
+        <example>iki katlı ahşap bir eve yaklaştıkları sırada Kemal, Nurhan'ın kulağına eğilerek </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="90" word="sonra">
+    <orths>
+      <orth canonical="0" orth_id="90o1" type="cont">
+        <part type="single">sonra</part>
+      </orth>
+      <orth canonical="1" orth_id="90o1" type="cont">
+        <part type="single">Sonra</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV_ADP</cat>
+      <sem>
+        <pdtb2_relation anno_N="58" freq="21" sense="Temporal.Asynchronous.Precedence" />
+        <example>Bir tenekeye tekme atamazdım mesela. Kaçamazdım sonra.</example>
+      </sem>
+          <syn>
+      <sem>
+        <pdtb2_relation anno_N="58" freq="37" sense="Temporal.Asynchronous.Succession" />
+        <example>kadın çamaşırları astıktan sonra bekliyor 
+	</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="91" word="sonra ... bile">
+    <orths>
+      <orth canonical="0" orth_id="91o1" type="discont">
+        <part type="phrasal">sonra bile</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous.Succession" />
+        <example>onları okuduktan sonra bile tüm canlılığı ile yüreğinde taşımak,</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="92" word="sonra da">
+    <orths>
+      <orth canonical="0" orth_id="92o1" type="cont">
+        <part type="phrasal">sonra da</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="5" freq="3" sense="Temporal.Asynchronous.Precedence" />
+        <example>Bu koşan adamın arkasından öylesine bakıyorlar, sonra da yollarına devam ediyorlardı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="5" freq="2" sense="Temporal.Asynchronous.Succession" />
+        <example>sınıfların ve sınıf mücadelesinin üretim araçlarının toplumsal mülkiyeti tamamlandıktan sonra da devam edeceğini,</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="93" word="sonra ise">
+    <orths>
+      <orth canonical="0" orth_id="93o1" type="cont">
+        <part type="phrasal">sonra ise</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous.Succession" />
+        <example>anlattıklarımı dinledikten sonra ise üzülen </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="94" word="Sonraları">
+    <orths>
+      <orth canonical="0" orth_id="94o1" type="cont">
+        <part type="single">Sonraları</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous.Precedence" />
+        <example>
+        </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="95" word="sonunda">
+    <orths>
+      <orth canonical="0" orth_id="95o1" type="cont">
+        <part type="single">Sonunda</part>
+      </orth>
+      <orth canonical="1" orth_id="95o1" type="cont">
+        <part type="single">sonunda</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="4" freq="3" sense="Temporal.Asynchronous.Precedence" />
+        <example>Bunun üzerine Ante, mutlaka yalnız görüşmeleri gerektiğini anlatmaya çalıştı. Sonunda padişah buna razı oldu ve huzurunda bulunan herkesi dışarı çıkardı.
+</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="4" freq="1" sense="Contingency.Cause.Result" />
+        <example>Arabacı çamura saplanmamak için atları acımasızca kırbaçlıyor, yoğun yağışın neredeyse sıfıra indirdiği görüş uzaklığına rağmen hızla gidiyordu. Sonunda araba bir çukura girdi.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="96" word="şimdi">
+    <orths>
+      <orth canonical="0" orth_id="96o1" type="cont">
+        <part type="single">şimdi</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous.Precedence" />
+        <example>Duvarın kuzeydoğu ucunu bulduk, şimdi güneye doğru takip ediyoruz.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="97" word="tersine">
+    <orths>
+      <orth canonical="0" orth_id="97o1" type="cont">
+        <part type="single">tersine</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Correction" />
+        <example>Tanzimat düşünce ve edebiyatına egemen olan özellik ikilem değil, tersine İslâm düşünce, felsefe, dünya görüşü ve bilgi kuramının tartışılmaz belirleyiciliğidir.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="98" word="Üç gün sonra">
+    <orths>
+      <orth canonical="0" orth_id="98o1" type="cont">
+        <part type="phrasal">Üç gün sonra</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>Evet, rastladım. Üç gün sonra, metro istasyonunun alt katlarından birinde, o müziği duydum gene.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="99" word="Üstelik">
+    <orths>
+      <orth canonical="0" orth_id="99o1" type="cont">
+        <part type="single">Üstelik</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>Ben Mithat Bey'in eski karısını hiç tanımadım ki. Üstelik ben Mithat Bey'i de tanımıyorum.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="100" word="üzere">
+    <orths>
+      <orth canonical="0" orth_id="100o1" type="cont">
+        <part type="single">üzere</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Contingency.Purpose.Arg2-as-goal" />
+        <example>romanını başka sonuçları incelemek üzere geliştirir.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="101" word="üzerine">
+    <orths>
+      <orth canonical="0" orth_id="101o1" type="cont">
+        <part type="single">üzerine</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="2" sense="Contingency.Cause.Reason" />
+        <example>Sen bunu okuldan mahrum etme," demesi üzerine Şişhane Yokuşundaki Evliya Çelebi İlkokuluna yazdırıldım bu kez.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="102" word="vakit">
+    <orths>
+      <orth canonical="0" orth_id="102o1" type="cont">
+        <part type="single">vakit</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="2" sense="Temporal.Synchronous" />
+        <example>lando) tekrar gelip geçtiği vakit kendisi de vazifesizce başka bir tarafa bakmaya karar verdi.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="103" word="ve">
+    <orths>
+      <orth canonical="0" orth_id="103o1" type="cont">
+        <part type="single">ve</part>
+      </orth>
+      <orth canonical="1" orth_id="103o1" type="cont">
+        <part type="single">Ve</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="188" freq="180" sense="Expansion.Conjunction" />
+        <example>Ben bu duvarı taşıyan birçok insan gördüm ve aşmaya değil yıkmaya çalıştım;</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="188" freq="3" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>Senin nerede olduğunu bildiğini söylüyor ve hatta tam adresini bile veriyordu.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="188" freq="3" sense="Contingency.Cause.Result" />
+        <example>Uykusuzdu ve uyumakta gecikmedi.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="188" freq="1" sense="Temporal.Asynchronous.Precedence" />
+        <example>Sabahın ilk ışıklarında kalkan ve araçlarıyla Beyarmudu köyüne gelen </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="188" freq="1" sense="Comparison.Contrast" />
+        <example>seçim öncesinde bir partiden milletvekili aday adayı olarak gösterilen ve seçilemeyen </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="104" word="veya">
+    <orths>
+      <orth canonical="0" orth_id="104o1" type="cont">
+        <part type="single">veya</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Disjunction" />
+        <example>bazı öngörüleri doğrular veya yanlışlar;</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="105" word="ya ... ya da">
+    <orths>
+      <orth canonical="0" orth_id="105o1" type="discont">
+        <part type="phrasal">ya ya da</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Disjunction" />
+        <example>ya tamamen Yok olmuşlar, ya da cins ve tür düzeyinde önemli ölçüde azalmışlardır.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="106" word="Ya da">
+    <orths>
+      <orth canonical="0" orth_id="106o1" type="cont">
+        <part type="phrasal">ya da</part>
+      </orth>
+      <orth canonical="1" orth_id="106o1" type="cont">
+        <part type="phrasal">Ya da</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="10" freq="9" sense="Expansion.Disjunction" />
+        <example>koruyacak ya da yönlendirecek </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="10" freq="1" sense="Expansion.Conjunction" />
+        <example>Ortak yaşadığım ya da gördüğüm </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="107" word="Yalnız">
+    <orths>
+      <orth canonical="0" orth_id="107o1" type="cont">
+        <part type="single">Yalnız</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Expansion.Exception.Arg2-as-excpt" />
+        <example>Bu Anadolu'da yalnız Aşıklı'da değil, Çayönü'nde de bulundu. Yalnız Çayönü'nde tavlama işinde bazı tereddütler vardı.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="2" freq="1" sense="Comparison.Contrast" />
+        <example>
+        </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="108" word="Yalnızca">
+    <orths>
+      <orth canonical="0" orth_id="108o1" type="cont">
+        <part type="single">Yalnızca</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Exception.Arg2-as-excpt" />
+        <example>Korkmuyordum etimin kesilmesinden, duygularımın can çekişmesinden. Yalnızca tırmanıyordum ardıma bakmadan, belki de bakmaya cesaret edemeden.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="109" word="Yani">
+    <orths>
+      <orth canonical="0" orth_id="109o1" type="cont">
+        <part type="single">Yani</part>
+      </orth>
+      <orth canonical="1" orth_id="109o1" type="cont">
+        <part type="single">yani</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="18" freq="3" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>Peki, senin yerin neresi? Yani senin zamanın, saatin, süren nedir?</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="18" freq="9" sense="Expansion.Equivalence" />
+        <example>Pist başı yüksekliği ise 2174 feet. Yani uçak, kaza olduğunda Zago Vadisi'nde pistten yaklaşık 100 feet aşağıda.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="18" freq="4" sense="Expansion.Level-of-detail.Arg1-as-detail" />
+        <example>Çatalhöyük'te de aynı şekilde evlere damdan giriyorsunuz. Ama evlerden, mahallelerden, yerleşme dışına çıkamıyorsunuz. Yani kapalı bir yerleşim dokusu.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="18" freq="1" sense="Contingency.Cause+Belief.Result+Belief" />
+        <example>Böyle bir yorum getiriliyor. Yani şu anda dünyanın en eski planı Aşıklı'ya ait.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="18" freq="1" sense="Expansion.Correction" />
+        <example>tarım çok az; yani tarıma başlangıç var </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="110" word="yine de">
+    <orths>
+      <orth canonical="0" orth_id="110o1" type="cont">
+        <part type="phrasal">yine de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="1" freq="1" sense="Comparison.Concession.Arg2-as-denier" />
+        <example>Adı Kumarcı Hasan yerine Hurdacı Hasan olmuştu. Savaş yıllarının etkisiyle olacak, önemli paralar kazanıyordu bu işten. Ama yine de ne huyundan ne suyundan vazgeçmeden sürdürüyordu yaşamını. </example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="111" word="Yoksa">
+    <orths>
+      <orth canonical="0" orth_id="111o1" type="cont">
+        <part type="single">Yoksa</part>
+      </orth>
+      <orth canonical="1" orth_id="111o1" type="cont">
+        <part type="single">yoksa</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb2_relation anno_N="3" freq="2" sense="Contingency.Negative-condition.Arg1-as-negcond" />
+        <example>Bir çözüm bulmalıydı. Yoksa delirecekti.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="3" freq="1" sense="Expansion.Disjunction" />
+        <example>Karşı çıkmak için mi, yoksa alacak durumları olmadığından mı,</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="112" word="zaman">
+    <orths>
+      <orth canonical="0" orth_id="112o1" type="cont">
+        <part type="single">zaman</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>OTHER</cat>
+      <sem>
+        <pdtb2_relation anno_N="4" freq="1" sense="Contingency.Condition.Arg2-as-cond" />
+        <example>Büyük bilimsel ve düşünsel devrimlerin kökenine indiğimiz zaman büyük toplumsal pratikleri ve insan ihtiyaçlarını görürüz.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="4" freq="3" sense="Temporal.Synchronous" />
+        <example>Evde olduğum zaman okurken duymuyorum bile,</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="113" word="Zaten">
+    <orths>
+      <orth canonical="0" orth_id="113o1" type="cont">
+        <part type="single">zaten</part>
+      </orth>
+      <orth canonical="1" orth_id="113o1" type="cont">
+        <part type="single">Zaten</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb2_relation anno_N="8" freq="1" sense="Comparison.Concession.Arg2-as-denier" />
+        <example>Hamamcı kadın geldiğinde iyice kıvrılarak köşede soluğunu tutuyordu. Zaten kadın akşamdan astığı çamaşırları aceleyle topluyor ve çevresine hiç bakmadan hemen gidiyordu.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="8" freq="1" sense="Contingency.Cause.Reason" />
+        <example>
+        </example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="8" freq="4" sense="Expansion.Level-of-detail.Arg2-as-detail" />
+        <example>Sen bana anlatamıyordun. Anlatmanı istemiyordum zaten.</example>
+      </sem>
+      <sem>
+        <pdtb2_relation anno_N="8" freq="2" sense="Expansion.Conjunction" />
+        <example>2. tabaka tamamen Akeramik (çanak çömleksiz) Neolitik. Höyük'te daha sonraki dönem yok zaten.</example>
+      </sem>
+    </syn>
+  </entry>
+</dimlex>
