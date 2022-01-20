@@ -1,8 +1,8 @@
 {
   "lexiconName": "UK_DiMLex",
   "lexiconNameFull": "Ukrainian DiMLex",
-  "version": "1.0",
-  "originalReleaseDate": "2020-04-24",
+  "version": "0.3",
+  "originalReleaseDate": "2022-01-22",
   "currentReleaseDate": "2020-04-24",
   "languageEnglish": "Ukrainian",
   "languageNative": "українська мова",
@@ -18,11 +18,18 @@
     "licenseUrl": "https://opensource.org/licenses/MIT/"
   },
   "authorInfo": {
-    "publisher": "Universität Potsdam, Department of Linguistics",
+    "publisher": "Ruhr-Universität Bochum, German Department",
     "authors": [
-      { "authorName": "Tatjana Scheffler", "organisation": "Universität Potsdam, Department of Linguistics" },
-{ "authorName": "Veronika Solopova", "organisation": "Universität Potsdam, Department of Linguistics" },
-{ "authorName": "Olha Zolotarenko", "organisation": "Universität Potsdam, Department of Linguistics" }
+      { "authorName": "Tatjana Scheffler", "organisation": "Ruhr-Universität Bochum, German Department" },
+{ "authorName": "Veronika Solopova", "organisation": "Freie Universität Berlin, Dahlem Center for Machine Learning and Robotics" },
+{ "authorName": "Olha Zolotarenko", "organisation": "" }
+    ]
+	,
+   "publications": [
+      { 
+         "cite": "Tatjana Scheffler, Veronika Solopova, Olha Zolotarenko, and Mariia Razno. A computational lexicon of Ukrainian discourse connectives. In: Proceedings of the First Ukrainian NLP Workshop, pp. 692--704. CEUR-WS: ICTERI. 2021.", 
+         "url": "http://icteri.org/icteri-2021/proceedings/volume-2/202110692.pdf"
+      }
     ]
   }
 }

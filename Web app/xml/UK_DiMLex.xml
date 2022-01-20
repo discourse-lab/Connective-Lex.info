@@ -1,9 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <dimlex>
-  <entry id="c1" word="а">
-    <english_equivalent>but</english_equivalent>
+  <entry id="c1" word="i ще">
+    <english_equivalent>and, moreover, in addition</english_equivalent>
     <orths>
       <orth type="cont" canonical="1" onr="1o1">
+        <part type="phrasal">i ще</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="succession"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c2" word="а">
+    <english_equivalent>but</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="2o1">
         <part type="single">а</part>
       </orth>
     </orths>
@@ -20,10 +37,92 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c2" word="або">
+  <entry id="c3" word="а все-таки">
+    <english_equivalent>however, after all, notwithstanding</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="3o1">
+        <part type="phrasal">а все-таки</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="3o2">
+        <part type="phrasal">а все ж таки</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="3o3">
+        <part type="phrasal">все таки</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="concession_arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c4" word="а саме">
+    <english_equivalent>namely</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="4o1">
+        <part type="phrasal">а саме</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="equivalence"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="instantiation_arg2-as-instance"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c5" word="а усе">
+    <english_equivalent>however</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="5o1">
+        <part type="phrasal">а усе</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="concession_arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c6" word="а усе-таки">
+    <english_equivalent>however, after all, notwithstanding</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="6o1">
+        <part type="phrasal">а усе-таки</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="concession_arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c7" word="аби">
+    <english_equivalent>for, in order to</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="7o1">
+        <part type="single">аби</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="7o2">
+        <part type="single">аби-но</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="purpose_arg2-as-goal"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c8" word="або">
     <english_equivalent>or</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="2o1">
+      <orth type="cont" canonical="1" onr="8o1">
         <part type="single">або</part>
       </orth>
     </orths>
@@ -37,13 +136,33 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c3" word="адже">
+  <entry id="c9" word="або...або">
+    <english_equivalent>or...or</english_equivalent>
+    <orths>
+      <orth type="discont" canonical="1" onr="9o1">
+        <part type="single">або...або</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="disjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="substitution_arg1-as-subst"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c10" word="адже">
     <english_equivalent>because</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="3o1">
+      <orth type="cont" canonical="1" onr="10o1">
         <part type="single">адже</part>
       </orth>
-      <orth type="cont" canonical="0" onr="3o2">
+      <orth type="cont" canonical="0" onr="10o2">
         <part type="single">адже ж</part>
       </orth>
     </orths>
@@ -57,10 +176,27 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c4" word="але">
+  <entry id="c11" word="аж">
+    <english_equivalent>that, as, so (much) that</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="11o1">
+        <part type="single">аж</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>preposition</cat>
+      <sem>
+        <pdtb3_relation sense="succession"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="level-of-detail_arg1-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c12" word="але">
     <english_equivalent>but</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="4o1">
+      <orth type="cont" canonical="1" onr="12o1">
         <part type="single">але</part>
       </orth>
     </orths>
@@ -69,13 +205,22 @@
       <sem>
         <pdtb3_relation sense="contrast"/>
       </sem>
+      <sem>
+        <pdtb3_relation sense="disjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="exception_arg1-as-excpt"/>
+      </sem>
     </syn>
   </entry>
-  <entry id="c5" word="ані...ані">
+  <entry id="c13" word="ані...ані">
     <english_equivalent>neither...nor</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="5o1">
+      <orth type="discont" canonical="1" onr="13o1">
         <part type="single">ані...ані</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="13o2">
+        <part type="single">ні...ні</part>
       </orth>
     </orths>
     <syn>
@@ -83,12 +228,55 @@
       <sem>
         <pdtb3_relation sense="contrast"/>
       </sem>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
     </syn>
   </entry>
-  <entry id="c6" word="бо">
+  <entry id="c14" word="бiльше того">
+    <english_equivalent>moreover, even</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="14o1">
+        <part type="phrasal">бiльше того</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="level-of-detail_arg1-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c15" word="ба">
+    <english_equivalent>even, moreover</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="15o1">
+        <part type="single">ба</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="15o2">
+        <part type="single">Ба більше</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="disjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="level-of-detail_arg1-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c16" word="бо">
     <english_equivalent>because</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="6o1">
+      <orth type="cont" canonical="1" onr="16o1">
         <part type="single">бо</part>
       </orth>
     </orths>
@@ -99,10 +287,27 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c7" word="в іншому випадку">
+  <entry id="c17" word="буцім">
+    <english_equivalent>as if</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="17o1">
+        <part type="single">буцім</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="17o2">
+        <part type="single">буцімто</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c18" word="в іншому випадку">
     <english_equivalent>otherwise</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="7o1">
+      <orth type="cont" canonical="1" onr="18o1">
         <part type="phrasal">в іншому випадку</part>
       </orth>
     </orths>
@@ -116,10 +321,30 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c8" word="в той час як">
+  <entry id="c19" word="в той же час">
+    <english_equivalent>while</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="19o1">
+        <part type="phrasal">в той же час</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="19o2">
+        <part type="phrasal">у той же час</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>coord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c20" word="в той час як">
     <english_equivalent>whereas</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="8o1">
+      <orth type="cont" canonical="1" onr="20o1">
         <part type="phrasal">в той час як</part>
       </orth>
     </orths>
@@ -133,10 +358,30 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c9" word="в цілому">
+  <entry id="c21" word="втім">
+    <english_equivalent>meanwhile, however</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="21o1">
+        <part type="phrasal">втім</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="21o2">
+        <part type="phrasal">утім</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="disjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c22" word="в цілому">
     <english_equivalent>overall</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="9o1">
+      <orth type="cont" canonical="1" onr="22o1">
         <part type="phrasal">в цілому</part>
       </orth>
     </orths>
@@ -147,27 +392,55 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c10" word="за винятком">
-    <english_equivalent>except</english_equivalent>
+  <entry id="c23" word="вiдтак">
+    <english_equivalent>hence</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="10o1">
-        <part type="single">за винятком</part>
+      <orth type="cont" canonical="1" onr="23o1">
+        <part type="single">вiдтак</part>
       </orth>
     </orths>
     <syn>
-      <cat>subord_conj</cat>
+      <cat>adverb</cat>
       <sem>
-        <pdtb3_relation sense="exception_arg2-as-excpt"/>
+        <pdtb3_relation sense="cause_result"/>
       </sem>
       <sem>
-        <pdtb3_relation sense="disjunction"/>
+        <pdtb3_relation sense="succession"/>
       </sem>
     </syn>
   </entry>
-  <entry id="c11" word="відповідно">
+  <entry id="c24" word="вже">
+    <english_equivalent>already</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="24o1">
+        <part type="single">вже</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c25" word="відколи">
+    <english_equivalent>since</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="25o1">
+        <part type="single">відколи</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="succession"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c26" word="відповідно">
     <english_equivalent>accordingly</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="11o1">
+      <orth type="cont" canonical="1" onr="26o1">
         <part type="single">відповідно</part>
       </orth>
     </orths>
@@ -184,10 +457,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c12" word="відразу">
+  <entry id="c27" word="відразу">
     <english_equivalent>once</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="12o1">
+      <orth type="cont" canonical="1" onr="27o1">
         <part type="single">відразу</part>
       </orth>
     </orths>
@@ -196,13 +469,33 @@
       <sem>
         <pdtb3_relation sense="synchronous"/>
       </sem>
+      <sem>
+        <pdtb3_relation sense="precedence"/>
+      </sem>
     </syn>
   </entry>
-  <entry id="c13" word="врешті">
+  <entry id="c28" word="взагалі">
+    <english_equivalent>in general</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="28o1">
+        <part type="single">взагалі</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="level-of-detail_arg1-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c29" word="врешті">
     <english_equivalent>ultimately</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="13o1">
+      <orth type="cont" canonical="1" onr="29o1">
         <part type="single">врешті</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="29o2">
+        <part type="single">врешті-решт</part>
       </orth>
     </orths>
     <syn>
@@ -218,10 +511,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c14" word="все ж">
-    <english_equivalent>although</english_equivalent>
+  <entry id="c30" word="все ж">
+    <english_equivalent>although, on the other hand</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="14o1">
+      <orth type="cont" canonical="1" onr="30o1">
         <part type="phrasal">все ж</part>
       </orth>
     </orths>
@@ -235,13 +528,89 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c15" word="до того">
+  <entry id="c31" word="втім">
+    <english_equivalent>however, on the other hand</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="31o1">
+        <part type="single">втім</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="concession_arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c32" word="гейби">
+    <english_equivalent>as if</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="32o1">
+        <part type="single">гейби</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c33" word="дарма що">
+    <english_equivalent>nevertheless, even so</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="33o1">
+        <part type="phrasal">дарма що</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="concession_arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c34" word="для того щоб">
+    <english_equivalent>in order to</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="34o1">
+        <part type="phrasal">для того щоб</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>preposition</cat>
+      <sem>
+        <pdtb3_relation sense="purpose_arg2-as-goal"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c35" word="до речi">
+    <english_equivalent>by the way</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="35o1">
+        <part type="phrasal">до речi</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="exception_arg2-as-excpt"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="level-of-detail_arg2-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c36" word="до того">
     <english_equivalent>before</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="15o1">
+      <orth type="cont" canonical="1" onr="36o1">
         <part type="phrasal">до того</part>
       </orth>
-      <orth type="cont" canonical="0" onr="15o2">
+      <orth type="cont" canonical="0" onr="36o2">
         <part type="phrasal">до того ж</part>
       </orth>
     </orths>
@@ -255,13 +624,13 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c16" word="доки">
+  <entry id="c37" word="доки">
     <english_equivalent>until</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="16o1">
+      <orth type="cont" canonical="1" onr="37o1">
         <part type="single">доки</part>
       </orth>
-      <orth type="cont" canonical="0" onr="16o2">
+      <orth type="cont" canonical="0" onr="37o2">
         <part type="single">допоки</part>
       </orth>
     </orths>
@@ -275,13 +644,44 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c17" word="допоки">
+  <entry id="c38" word="докіль">
+    <english_equivalent>until, as long as</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="38o1">
+        <part type="single">докіль</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="precedence"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c39" word="допіру">
+    <english_equivalent>until now, so far</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="39o1">
+        <part type="single">допіру</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c40" word="допоки">
     <english_equivalent>until</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="17o1">
+      <orth type="cont" canonical="1" onr="40o1">
         <part type="single">допоки</part>
       </orth>
-      <orth type="cont" canonical="0" onr="17o2">
+      <orth type="cont" canonical="0" onr="40o2">
         <part type="single">доки</part>
       </orth>
     </orths>
@@ -295,10 +695,81 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c18" word="замість">
+  <entry id="c41" word="доти">
+    <english_equivalent>until</english_equivalent>
+    <orths>
+      <orth type="cont " canonical="1" onr="41o1">
+        <part type="single">доти</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="succession"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="precedence"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="condition_arg2-as-cond"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c42" word="до того ж">
+    <english_equivalent>in addition</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="42o1">
+        <part type="phrasal">до того ж</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="level-of-detail_arg2-as-detail"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c43" word="завдяки">
+    <english_equivalent>thanks to</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="43o1">
+        <part type="single">завдяки</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>preposition</cat>
+      <sem>
+        <pdtb3_relation sense="cause_reason"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="cause_result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c44" word="за винятком">
+    <english_equivalent>except</english_equivalent>
+    <orths>
+      <orth type="discont" canonical="1" onr="44o1">
+        <part type="single">за винятком</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="exception_arg2-as-excpt"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="disjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c45" word="замість">
     <english_equivalent>instead</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="18o1">
+      <orth type="cont" canonical="1" onr="45o1">
         <part type="single">замість</part>
       </orth>
     </orths>
@@ -315,10 +786,27 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c19" word="згодом">
+  <entry id="c46" word="зате">
+    <english_equivalent>but</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="46o1">
+        <part type="single">зате</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>coord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="concession_arg2-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c47" word="згодом">
     <english_equivalent>later</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="19o1">
+      <orth type="cont" canonical="1" onr="47o1">
         <part type="single">згодом</part>
       </orth>
     </orths>
@@ -329,10 +817,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c20" word="зокрема">
+  <entry id="c48" word="зокрема">
     <english_equivalent>in particular</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="20o1">
+      <orth type="cont" canonical="1" onr="48o1">
         <part type="single">зокрема</part>
       </orth>
     </orths>
@@ -346,10 +834,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c21" word="зрештою">
+  <entry id="c49" word="зрештою">
     <english_equivalent>in the end</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="21o1">
+      <orth type="cont" canonical="1" onr="49o1">
         <part type="single">зрештою</part>
       </orth>
     </orths>
@@ -366,10 +854,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c22" word="і">
+  <entry id="c50" word="і">
     <english_equivalent>and</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="22o1">
+      <orth type="cont" canonical="1" onr="50o1">
         <part type="single">і</part>
       </orth>
     </orths>
@@ -386,10 +874,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c23" word="інакше">
+  <entry id="c51" word="інакше">
     <english_equivalent>otherwise</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="23o1">
+      <orth type="cont" canonical="1" onr="51o1">
         <part type="single">інакше</part>
       </orth>
     </orths>
@@ -406,11 +894,28 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c24" word="коли">
+  <entry id="c52" word="й">
+    <english_equivalent>and</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="52o1">
+        <part type="single">й</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>coord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c53" word="коли">
     <english_equivalent>when</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="24o1">
+      <orth type="cont" canonical="1" onr="53o1">
         <part type="single">коли</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="53o2">
+        <part type="single">коли...то</part>
       </orth>
     </orths>
     <syn>
@@ -426,10 +931,27 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c25" word="колись">
+  <entry id="c54" word="коли ще">
+    <english_equivalent>when else</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="54o1">
+        <part type="phrasal">коли ще</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="exception_arg1-as-excpt"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="concession_arg1-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c55" word="колись">
     <english_equivalent>once</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="25o1">
+      <orth type="cont" canonical="1" onr="55o1">
         <part type="single">колись</part>
       </orth>
     </orths>
@@ -440,10 +962,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c26" word="коротко кажучи">
+  <entry id="c56" word="коротко кажучи">
     <english_equivalent>in short</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="26o1">
+      <orth type="cont" canonical="1" onr="56o1">
         <part type="phrasal">коротко кажучи</part>
       </orth>
     </orths>
@@ -453,14 +975,14 @@
         <pdtb3_relation sense="equivalence"/>
       </sem>
       <sem>
-        <pdtb3_relation sense="level-of-detail_arg2-as-detail"/>
+        <pdtb3_relation sense="level-of-detail_arg1-as-detail"/>
       </sem>
     </syn>
   </entry>
-  <entry id="c27" word="крім того">
+  <entry id="c57" word="крім того">
     <english_equivalent>besides</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="27o1">
+      <orth type="cont" canonical="1" onr="57o1">
         <part type="phrasal">крім того</part>
       </orth>
     </orths>
@@ -477,27 +999,101 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c28" word="наприклад">
+  <entry id="c58" word="лише">
+    <english_equivalent>only</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="58o1">
+        <part type="single">лише</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="precedence"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="exception_arg1-as-excpt"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="condition_arg1-as-cond"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c59" word="мiж тим">
+    <english_equivalent>meanwhile</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="59o1">
+        <part type="phrasal">мiж тим</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c60" word="мов">
+    <english_equivalent>as if</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="60o1">
+        <part type="single">мов</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="60o2">
+        <part type="single">мовбито</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="60o3">
+        <part type="single">мовби</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="manner_arg2-as-manner"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c61" word="навіть">
+    <english_equivalent>even</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="61o1">
+        <part type="single">навіть</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="level-of-detail_arg1-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c62" word="наприклад">
     <english_equivalent>for example</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="28o1">
+      <orth type="cont" canonical="1" onr="62o1">
         <part type="single">наприклад</part>
       </orth>
     </orths>
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_relation sense="level-of-detail_arg2-as-detail"/>
+        <pdtb3_relation sense="instantiation_arg2-as-instance"/>
       </sem>
       <sem>
-        <pdtb3_relation sense="instantiation_arg2-as-instance"/>
+        <pdtb3_relation sense="level-of-detail_arg2-as-detail"/>
       </sem>
     </syn>
   </entry>
-  <entry id="c29" word="нарешті">
+  <entry id="c63" word="нарешті">
     <english_equivalent>finally</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="29o1">
+      <orth type="cont" canonical="1" onr="63o1">
         <part type="single">нарешті</part>
       </orth>
     </orths>
@@ -508,10 +1104,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c30" word="насправді">
+  <entry id="c64" word="насправді">
     <english_equivalent>in fact</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="30o1">
+      <orth type="cont" canonical="1" onr="64o1">
         <part type="single">насправді</part>
       </orth>
     </orths>
@@ -525,10 +1121,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c31" word="настільки">
+  <entry id="c65" word="настільки">
     <english_equivalent>so</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="31o1">
+      <orth type="cont" canonical="1" onr="65o1">
         <part type="single">настільки</part>
       </orth>
     </orths>
@@ -545,10 +1141,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c32" word="натомість">
+  <entry id="c66" word="натомість">
     <english_equivalent>instead</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="32o1">
+      <orth type="cont" canonical="1" onr="66o1">
         <part type="single">натомість</part>
       </orth>
     </orths>
@@ -559,13 +1155,65 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c33" word="не менш">
+  <entry id="c67" word="наче">
+    <english_equivalent>as if</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="67o1">
+        <part type="single">наче</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="67o2">
+        <part type="single">начеб</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="67o3">
+        <part type="single">начебто</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c68" word="не лише...а й">
+    <english_equivalent>not only...but also</english_equivalent>
+    <orths>
+      <orth type="discont" canonical="1" onr="68o1">
+        <part type="phrasal">не лише...а й</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="68o2">
+        <part type="phrasal">не лише...але i</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="68o3">
+        <part type="phrasal">не лише...але й</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="68o4">
+        <part type="phrasal">не лише...а і</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="68o5">
+        <part type="phrasal">не лише...а</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c69" word="не менш">
     <english_equivalent>nevertheless</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="33o1">
+      <orth type="cont" canonical="1" onr="69o1">
         <part type="phrasal">не менш</part>
       </orth>
-      <orth type="cont" canonical="0" onr="33o2">
+      <orth type="cont" canonical="0" onr="69o2">
         <part type="phrasal">не менше</part>
       </orth>
     </orths>
@@ -579,10 +1227,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c34" word="не менше">
+  <entry id="c70" word="не менше">
     <english_equivalent>nevertheless</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="34o1">
+      <orth type="cont" canonical="1" onr="70o1">
         <part type="phrasal">не менше</part>
       </orth>
     </orths>
@@ -596,29 +1244,55 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c35" word="незалежно від">
+  <entry id="c71" word="не тільки...а й">
+    <english_equivalent>not only...but also</english_equivalent>
+    <orths>
+      <orth type="discont" canonical="1" onr="71o1">
+        <part type="phrasal">не тільки...а й</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="71o2">
+        <part type="phrasal">не тiльки...але й</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="71o3">
+        <part type="phrasal">не тiльки...але i</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c72" word="незалежно від">
     <english_equivalent>regardless</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="35o1">
+      <orth type="discont" canonical="1" onr="72o1">
         <part type="single">незалежно від</part>
       </orth>
     </orths>
     <syn>
-      <cat>preposition</cat>
+      <cat>adverb</cat>
       <sem>
         <pdtb3_relation sense="concession_arg2-as-denier"/>
       </sem>
     </syn>
   </entry>
-  <entry id="c36" word="незважаючи на">
+  <entry id="c73" word="незважаючи на">
     <english_equivalent>regardless</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="36o1">
+      <orth type="discont" canonical="1" onr="73o1">
         <part type="single">незважаючи на</part>
       </orth>
     </orths>
     <syn>
-      <cat>preposition</cat>
+      <cat>adverb</cat>
       <sem>
         <pdtb3_relation sense="contrast"/>
       </sem>
@@ -630,27 +1304,115 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c37" word="ні...ні">
-    <english_equivalent>neither...nor</english_equivalent>
+  <entry id="c74" word="немов">
+    <english_equivalent>as if</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="37o1">
-        <part type="single">ні...ні</part>
+      <orth type="cont" canonical="1" onr="74o1">
+        <part type="single">немов</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="74o2">
+        <part type="single">немовби</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="74o3">
+        <part type="single">немовбито</part>
       </orth>
     </orths>
     <syn>
-      <cat>coord_conj</cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_relation sense="contrast"/>
+        <pdtb3_relation sense="similarity"/>
       </sem>
       <sem>
-        <pdtb3_relation sense="conjunction"/>
+        <pdtb3_relation sense="manner_arg2-as-manner"/>
       </sem>
     </syn>
   </entry>
-  <entry id="c38" word="однак">
+  <entry id="c75" word="неначе">
+    <english_equivalent>as if</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="75o1">
+        <part type="single">неначе</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="75o2">
+        <part type="single">неначебто</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="manner_arg2-as-manner"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c76" word="нехай">
+    <english_equivalent>let, may</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="76o1">
+        <part type="single">нехай</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="76o2">
+        <part type="single">нехай-но</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="condition_arg1-as-cond"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="purpose_arg2-as-goal"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c77" word="ніби">
+    <english_equivalent>as if</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="77o1">
+        <part type="single">ніби</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c78" word="нібито">
+    <english_equivalent>as if</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="78o1">
+        <part type="single">нібито</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c79" word="ніж">
+    <english_equivalent>than,lest</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="79o1">
+        <part type="single">ніж</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="negCondition_arg1-as-negCond"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c80" word="однак">
     <english_equivalent>however</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="38o1">
+      <orth type="cont" canonical="1" onr="80o1">
         <part type="single">однак</part>
       </orth>
     </orths>
@@ -667,10 +1429,24 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c39" word="одночасно">
+  <entry id="c81" word="одначе">
+    <english_equivalent>however</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="81o1">
+        <part type="single">одначе</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="concession_arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c82" word="одночасно">
     <english_equivalent>simultaneously</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="39o1">
+      <orth type="cont" canonical="1" onr="82o1">
         <part type="single">одночасно</part>
       </orth>
     </orths>
@@ -687,10 +1463,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c40" word="окремо">
+  <entry id="c83" word="окремо">
     <english_equivalent>separately</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="40o1">
+      <orth type="cont" canonical="1" onr="83o1">
         <part type="single">окремо</part>
       </orth>
     </orths>
@@ -704,10 +1480,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c41" word="окрім">
+  <entry id="c84" word="окрім">
     <english_equivalent>besides</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="41o1">
+      <orth type="cont" canonical="1" onr="84o1">
         <part type="single">окрім</part>
       </orth>
     </orths>
@@ -721,10 +1497,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c42" word="оскільки">
+  <entry id="c85" word="оскільки">
     <english_equivalent>since</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="42o1">
+      <orth type="cont" canonical="1" onr="85o1">
         <part type="single">оскільки</part>
       </orth>
     </orths>
@@ -735,10 +1511,27 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c43" word="отже">
+  <entry id="c86" word="ось чому">
+    <english_equivalent>that's why</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="86o1">
+        <part type="phrasal">ось чому</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="cause_reason"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="level-of-detail_arg1-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c87" word="отже">
     <english_equivalent>so</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="43o1">
+      <orth type="cont" canonical="1" onr="87o1">
         <part type="single">отже</part>
       </orth>
     </orths>
@@ -755,10 +1548,27 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c44" word="перед">
+  <entry id="c88" word="отож">
+    <english_equivalent>so</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="88o1">
+        <part type="single">отож</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="88o2">
+        <part type="single">отож-то</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="cause_result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c89" word="перед">
     <english_equivalent>before</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="44o1">
+      <orth type="cont" canonical="1" onr="89o1">
         <part type="single">перед</part>
       </orth>
     </orths>
@@ -769,13 +1579,13 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c45" word="перш ніж">
+  <entry id="c90" word="перш ніж">
     <english_equivalent>before</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="45o1">
+      <orth type="cont" canonical="1" onr="90o1">
         <part type="phrasal">перш ніж</part>
       </orth>
-      <orth type="cont" canonical="0" onr="45o2">
+      <orth type="cont" canonical="0" onr="90o2">
         <part type="phrasal">перше ніж</part>
       </orth>
     </orths>
@@ -786,10 +1596,38 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c46" word="пізніше">
+  <entry id="c91" word="перш за все">
+    <english_equivalent>above all, in the very beginning, before anything else</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="91o1">
+        <part type="phrasal">перш за все</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c92" word="під час того">
+    <english_equivalent>while, in the meantime</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="92o1">
+        <part type="phrasal">під час того</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c93" word="пізніше">
     <english_equivalent>later</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="46o1">
+      <orth type="cont" canonical="1" onr="93o1">
         <part type="single">пізніше</part>
       </orth>
     </orths>
@@ -800,10 +1638,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c47" word="після">
+  <entry id="c94" word="після">
     <english_equivalent>later</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="47o1">
+      <orth type="cont" canonical="1" onr="94o1">
         <part type="single">після</part>
       </orth>
     </orths>
@@ -817,10 +1655,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c48" word="плюс">
+  <entry id="c95" word="плюс">
     <english_equivalent>plus</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="48o1">
+      <orth type="cont" canonical="1" onr="95o1">
         <part type="single">плюс</part>
       </orth>
     </orths>
@@ -834,10 +1672,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c49" word="по тому">
-    <english_equivalent>because</english_equivalent>
+  <entry id="c96" word="по тому">
+    <english_equivalent>later</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="49o1">
+      <orth type="cont" canonical="1" onr="96o1">
         <part type="phrasal">по тому</part>
       </orth>
     </orths>
@@ -848,10 +1686,58 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c50" word="поки">
+  <entry id="c97" word="по-друге">
+    <english_equivalent>firstly</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="97o1">
+        <part type="single">по-друге</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="succession"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c98" word="по-перше">
+    <english_equivalent>secondly</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="98o1">
+        <part type="single">по-перше</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="precedence"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c99" word="позаяк">
+    <english_equivalent>since</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="99o1">
+        <part type="single">позаяк</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="cause_reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c100" word="поки">
     <english_equivalent>until</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="50o1">
+      <orth type="cont" canonical="1" onr="100o1">
         <part type="single">поки</part>
       </orth>
     </orths>
@@ -865,10 +1751,50 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c51" word="поруч з">
+  <entry id="c101" word="поки що">
+    <english_equivalent>yet,still</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="101o1">
+        <part type="pharsal">поки що</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="manner_arg1-as-manner"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="level-of-detail_arg2-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c102" word="попри це">
+    <english_equivalent>despite the fact</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="102o1">
+        <part type="phrasal">попри це</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>preposition</cat>
+      <sem>
+        <pdtb3_relation sense="concession_arg1-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="condition_arg2-as-cond"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="disjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c103" word="поруч з">
     <english_equivalent>next</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="51o1">
+      <orth type="cont" canonical="1" onr="103o1">
         <part type="phrasal">поруч з</part>
       </orth>
     </orths>
@@ -882,10 +1808,24 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c52" word="потім">
+  <entry id="c104" word="по суті">
+    <english_equivalent>basically</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="104o1">
+        <part type="phrasal">по суті</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="equivalence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c105" word="потім">
     <english_equivalent>then</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="52o1">
+      <orth type="cont" canonical="1" onr="105o1">
         <part type="single">потім</part>
       </orth>
     </orths>
@@ -896,10 +1836,72 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c53" word="проте">
+  <entry id="c106" word="при цьому">
+    <english_equivalent>herewith</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="106o1">
+        <part type="phrasal">при цьому</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="disjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c107" word="притім">
+    <english_equivalent>besides,moreover</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="107o1">
+        <part type="single">притім</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c108" word="притому">
+    <english_equivalent>besides</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="108o1">
+        <part type="single">притому</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c109" word="причім">
+    <english_equivalent>besides, moreover</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="109o1">
+        <part type="single">причім</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="109o2">
+        <part type="single">причому</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c110" word="проте">
     <english_equivalent>but</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="53o1">
+      <orth type="cont" canonical="1" onr="110o1">
         <part type="single">проте</part>
       </orth>
     </orths>
@@ -910,10 +1912,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c54" word="радше">
+  <entry id="c111" word="радше">
     <english_equivalent>rather</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="54o1">
+      <orth type="cont" canonical="1" onr="111o1">
         <part type="single">радше</part>
       </orth>
     </orths>
@@ -927,10 +1929,24 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c55" word="раніше">
+  <entry id="c112" word="раз">
+    <english_equivalent>if, in case</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="112o1">
+        <part type="single">раз</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="condition_arg2-as-cond"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c113" word="раніше">
     <english_equivalent>before</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="55o1">
+      <orth type="cont" canonical="1" onr="113o1">
         <part type="single">раніше</part>
       </orth>
     </orths>
@@ -941,10 +1957,24 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c56" word="скоріше">
+  <entry id="c114" word="себто">
+    <english_equivalent>namely,that is</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="114o1">
+        <part type="single">себто</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="equivalence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c115" word="скоріше">
     <english_equivalent>rather</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="56o1">
+      <orth type="cont" canonical="1" onr="115o1">
         <part type="single">скоріше</part>
       </orth>
     </orths>
@@ -958,10 +1988,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c57" word="та">
+  <entry id="c116" word="та">
     <english_equivalent>and</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="57o1">
+      <orth type="cont" canonical="1" onr="116o1">
         <part type="single">та</part>
       </orth>
     </orths>
@@ -975,10 +2005,117 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c58" word="так що">
+  <entry id="c117" word="та все-таки">
+    <english_equivalent>however</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="117o1">
+        <part type="phrasal">та все-таки</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="concession_arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c118" word="та усе">
+    <english_equivalent>however</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="118o1">
+        <part type="phrasal">та усе</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="concession_arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c119" word="та усе-таки">
+    <english_equivalent>however, in the end</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="119o1">
+        <part type="phrasal">та усе-таки</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="concession_arg2-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c120" word="таж">
+    <english_equivalent>because, so</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="120o1">
+        <part type="single">таж</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="cause_result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c121" word="так">
+    <english_equivalent>but</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="121o1">
+        <part type="single">так</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c122" word="так само">
+    <english_equivalent>similarly</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="122o1">
+        <part type="phrasal">так само</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="manner_arg1-as-manner"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c123" word="так само...як i">
+    <english_equivalent>similarly</english_equivalent>
+    <orths>
+      <orth type="discont" canonical="1" onr="123o1">
+        <part type="phrasal">так само...як i</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="manner_arg1-as-manner"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c124" word="так що">
     <english_equivalent>so that</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="58o1">
+      <orth type="cont" canonical="1" onr="124o1">
         <part type="phrasal">так що</part>
       </orth>
     </orths>
@@ -989,10 +2126,30 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c59" word="таким чином">
+  <entry id="c125" word="таки">
+    <english_equivalent>still, after all</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="125o1">
+        <part type="single">таки</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="concession_arg1-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="concession_arg2-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="manner_arg1-as-manner"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c126" word="таким чином">
     <english_equivalent>thus</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="59o1">
+      <orth type="cont" canonical="1" onr="126o1">
         <part type="phrasal">таким чином</part>
       </orth>
     </orths>
@@ -1006,10 +2163,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c60" word="також">
+  <entry id="c127" word="також">
     <english_equivalent>also</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="60o1">
+      <orth type="cont" canonical="1" onr="127o1">
         <part type="single">також</part>
       </orth>
     </orths>
@@ -1023,10 +2180,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c61" word="теж">
+  <entry id="c128" word="теж">
     <english_equivalent>also</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="61o1">
+      <orth type="cont" canonical="1" onr="128o1">
         <part type="single">теж</part>
       </orth>
     </orths>
@@ -1040,10 +2197,44 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c62" word="тим самим">
+  <entry id="c129" word="тим бiльше">
+    <english_equivalent>moreover, futhermore</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="129o1">
+        <part type="phrasal">тим бiльше</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="level-of-detail_arg1-as-detail"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="level-of-detail_arg2-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c130" word="тим не менше">
+    <english_equivalent>nevertheless</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="130o1">
+        <part type="phrasal">тим не менше</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="instantiation_arg1-as-instance"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c131" word="тим самим">
     <english_equivalent>thereby</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="62o1">
+      <orth type="cont" canonical="1" onr="131o1">
         <part type="phrasal">тим самим</part>
       </orth>
     </orths>
@@ -1057,13 +2248,13 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c63" word="тим часом">
+  <entry id="c132" word="тим часом">
     <english_equivalent>meantime</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="63o1">
+      <orth type="cont" canonical="1" onr="132o1">
         <part type="phrasal">тим часом</part>
       </orth>
-      <orth type="cont" canonical="0" onr="63o2">
+      <orth type="cont" canonical="0" onr="132o2">
         <part type="phrasal">тим самим часом</part>
       </orth>
     </orths>
@@ -1080,10 +2271,27 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c64" word="то">
+  <entry id="c133" word="тільки">
+    <english_equivalent>but, if, just, only</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="133o1">
+        <part type="single">тільки</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="133o2">
+        <part type="single">тільки-но</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="concession_arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c134" word="то">
     <english_equivalent>then</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="64o1">
+      <orth type="cont" canonical="1" onr="134o1">
         <part type="single">то</part>
       </orth>
     </orths>
@@ -1097,10 +2305,24 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c65" word="тоді">
+  <entry id="c135" word="тобто">
+    <english_equivalent>namely</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="135o1">
+        <part type="single">тобто</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="instantiation_arg2-as-instance"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c136" word="тоді">
     <english_equivalent>then</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="65o1">
+      <orth type="cont" canonical="1" onr="136o1">
         <part type="single">тоді</part>
       </orth>
     </orths>
@@ -1117,10 +2339,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c66" word="тож">
+  <entry id="c137" word="тож">
     <english_equivalent>so</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="66o1">
+      <orth type="cont" canonical="1" onr="137o1">
         <part type="single">тож</part>
       </orth>
     </orths>
@@ -1131,30 +2353,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c67" word="в той же час">
-    <english_equivalent>while</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="67o1">
-        <part type="phrasal">в той же час</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="67o2">
-        <part type="phrasal">у той же час</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>coord_conj</cat>
-      <sem>
-        <pdtb3_relation sense="synchronous"/>
-      </sem>
-      <sem>
-        <pdtb3_relation sense="contrast"/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c68" word="тому">
+  <entry id="c138" word="тому">
     <english_equivalent>so</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="68o1">
+      <orth type="cont" canonical="1" onr="138o1">
         <part type="single">тому</part>
       </orth>
     </orths>
@@ -1165,10 +2367,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c69" word="тому що">
+  <entry id="c139" word="тому що">
     <english_equivalent>because</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="69o1">
+      <orth type="cont" canonical="1" onr="139o1">
         <part type="single">тому що</part>
       </orth>
     </orths>
@@ -1179,10 +2381,24 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c70" word="точніше">
+  <entry id="c140" word="тому-то">
+    <english_equivalent>because of that, that is why</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="140o1">
+        <part type="single">тому-то</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="cause_result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c141" word="точніше">
     <english_equivalent>specifically</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="70o1">
+      <orth type="cont" canonical="1" onr="141o1">
         <part type="single">точніше</part>
       </orth>
     </orths>
@@ -1196,10 +2412,73 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c71" word="фактично">
+  <entry id="c142" word="у зв'язку з">
+    <english_equivalent>in connection with</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="142o1">
+        <part type="phrasal">у зв'язку з</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="142o2">
+        <part type="phrasal">в зв'язку з</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>preposition</cat>
+      <sem>
+        <pdtb3_relation sense="cause_reason"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="exception_arg1-as-excpt"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c143" word="у свою чергу">
+    <english_equivalent>in turn</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="143o1">
+        <part type="phrasal">у свою чергу</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="143o2">
+        <part type="phrasal">в свою чергу</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="succession"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c144" word="у той час як">
+    <english_equivalent>while, whilst</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="144o1">
+        <part type="phrasal">у той час як</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="144o2">
+        <part type="phrasal">в той час як</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c145" word="фактично">
     <english_equivalent>in fact</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="71o1">
+      <orth type="cont" canonical="1" onr="145o1">
         <part type="single">фактично</part>
       </orth>
     </orths>
@@ -1216,10 +2495,41 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c72" word="хіба що">
+  <entry id="c146" word="хай">
+    <english_equivalent>so that</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="146o1">
+        <part type="single">хай</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="146o2">
+        <part type="single">хай-но</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="concession_arg1-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c147" word="хіба">
     <english_equivalent>unless</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="72o1">
+      <orth type="cont" canonical="1" onr="147o1">
+        <part type="single">хіба</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="negCondition_arg2-as-negCond"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c148" word="хіба що">
+    <english_equivalent>unless</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="148o1">
         <part type="phrasal">хіба що</part>
       </orth>
     </orths>
@@ -1233,10 +2543,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c73" word="хоч">
+  <entry id="c149" word="хоч">
     <english_equivalent>though</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="73o1">
+      <orth type="cont" canonical="1" onr="149o1">
         <part type="single">хоч</part>
       </orth>
     </orths>
@@ -1247,10 +2557,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c74" word="хоча">
+  <entry id="c150" word="хоча">
     <english_equivalent>though</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="74o1">
+      <orth type="cont" canonical="1" onr="150o1">
         <part type="single">хоча</part>
       </orth>
     </orths>
@@ -1264,27 +2574,24 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c75" word="в той час як">
-    <english_equivalent>whereas</english_equivalent>
+  <entry id="c151" word="цебто">
+    <english_equivalent>namely,that is</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="75o1">
-        <part type="phrasal">в той час як</part>
+      <orth type="cont" canonical="1" onr="151o1">
+        <part type="single">цебто</part>
       </orth>
     </orths>
     <syn>
-      <cat>other</cat>
+      <cat>coord_conj</cat>
       <sem>
-        <pdtb3_relation sense="synchronous"/>
-      </sem>
-      <sem>
-        <pdtb3_relation sense="contrast"/>
+        <pdtb3_relation sense="equivalence"/>
       </sem>
     </syn>
   </entry>
-  <entry id="c76" word="через">
+  <entry id="c152" word="через">
     <english_equivalent>because</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="76o1">
+      <orth type="cont" canonical="1" onr="152o1">
         <part type="single">через</part>
       </orth>
     </orths>
@@ -1295,10 +2602,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c77" word="чи">
+  <entry id="c153" word="чи">
     <english_equivalent>or</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="77o1">
+      <orth type="cont" canonical="1" onr="153o1">
         <part type="single">чи</part>
       </orth>
     </orths>
@@ -1315,10 +2622,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c78" word="ще">
+  <entry id="c154" word="ще">
     <english_equivalent>still</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="78o1">
+      <orth type="cont" canonical="1" onr="154o1">
         <part type="single">ще</part>
       </orth>
     </orths>
@@ -1335,10 +2642,72 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c79" word="як">
-    <english_equivalent>as</english_equivalent>
+  <entry id="c155" word="щоби">
+    <english_equivalent>in order to</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="79o1">
+      <orth type="cont" canonical="1" onr="155o1">
+        <part type="single">щоби</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="155o2">
+        <part type="single">щоб</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="purpose_arg2-as-goal"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c156" word="щойно">
+    <english_equivalent>as soon as</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="156o1">
+        <part type="single">щойно</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c157" word="щодо">
+    <english_equivalent>speaking about</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="157o1">
+        <part type="single">щодо</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="157o2">
+        <part type="single">а щодо...то</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="instantiation_arg1-as-instance"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c158" word="щоправда">
+    <english_equivalent>though</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="158o1">
+        <part type="single">щоправда</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="concession_arg1-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c159" word="як">
+    <english_equivalent>as, when</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="159o1">
         <part type="single">як</part>
       </orth>
     </orths>
@@ -1352,10 +2721,10 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c80" word="як тільки">
-    <english_equivalent>unless</english_equivalent>
+  <entry id="c160" word="як тільки">
+    <english_equivalent>unless, as soon as</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="80o1">
+      <orth type="cont" canonical="1" onr="160o1">
         <part type="phrasal">як тільки</part>
       </orth>
     </orths>
@@ -1369,11 +2738,14 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c81" word="якби">
+  <entry id="c161" word="якби">
     <english_equivalent>if</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="81o1">
+      <orth type="cont" canonical="1" onr="161o1">
         <part type="single">якби</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="161o2">
+        <part type="single">якби...то</part>
       </orth>
     </orths>
     <syn>
@@ -1389,11 +2761,34 @@
       </sem>
     </syn>
   </entry>
-  <entry id="c82" word="якщо">
+  <entry id="c162" word="якби не">
+    <english_equivalent>if not, unless, but for</english_equivalent>
+    <orths>
+      <orth type="cont" canonical="1" onr="162o1">
+        <part type="phrasal">якби не</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>subord_conj</cat>
+      <sem>
+        <pdtb3_relation sense="concession_arg1-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="condition_arg2-as-cond"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="cause_negResult"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c163" word="якщо">
     <english_equivalent>if</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="82o1">
+      <orth type="cont" canonical="1" onr="163o1">
         <part type="single">якщо</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="163o2">
+        <part type="single">якщо...то</part>
       </orth>
     </orths>
     <syn>
@@ -1403,730 +2798,6 @@
       </sem>
       <sem>
         <pdtb3_relation sense="cause_reason"/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c83" word="ніби">
-    <english_equivalent>as if</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="83o1">
-        <part type="single">ніби</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c84" word="зате">
-    <english_equivalent>but</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="84o1">
-        <part type="single">зате</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>coord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c85" word="не тільки...а й">
-    <english_equivalent>not only...but also</english_equivalent>
-    <orths>
-      <orth type="discont" canonical="1" onr="85o1">
-        <part type="phrasal">не тільки...а й</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>other</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c86" word="дарма що">
-    <english_equivalent>nevertheless, even so</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="86o1">
-        <part type="phrasal">дарма що</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>other</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c87" word="чим...тим">
-    <english_equivalent>the...the</english_equivalent>
-    <orths>
-      <orth type="discont" canonical="1" onr="87o1">
-        <part type="single">чим...тим</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>other</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c88" word="аби">
-    <english_equivalent>for, in order to</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="88o1">
-        <part type="single">аби</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="88o2">
-        <part type="single">аби-но</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c89" word="або...або">
-    <english_equivalent>or...or</english_equivalent>
-    <orths>
-      <orth type="discont" canonical="1" onr="89o1">
-        <part type="single">або...або</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>other</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c90" word="ба">
-    <english_equivalent>even, moreover</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="90o1">
-        <part type="single">ба</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c91" word="буцім">
-    <english_equivalent>as if</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="91o1">
-        <part type="single">буцім</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="91o2">
-        <part type="single">буцімто</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>adverb</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c92" word="відколи">
-    <english_equivalent>since</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="92o1">
-        <part type="single">відколи</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>adverb</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c93" word="а все-таки">
-    <english_equivalent>however, after all, notwithstanding</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="93o1">
-        <part type="phrasal">а все-таки</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="93o2">
-        <part type="phrasal">а все ж таки</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="93o3">
-        <part type="phrasal">все таки</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>other</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c94" word="та все-таки">
-    <english_equivalent>however</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="94o1">
-        <part type="phrasal">та все-таки</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>other</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c95" word="втім">
-    <english_equivalent>however, on the other hand</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="95o1">
-        <part type="single">втім</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>adverb</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c96" word="гейби">
-    <english_equivalent>as if</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="96o1">
-        <part type="single">гейби</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c97" word="докіль">
-    <english_equivalent>until</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="97o1">
-        <part type="single">докіль</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-	<syn>
-      <cat>adverb</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c98" word="допіру">
-    <english_equivalent>until</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="98o1">
-        <part type="single">допіру</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>adverb</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-	<syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c99" word="й">
-    <english_equivalent>and</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="99o1">
-        <part type="single">й</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>coord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c100" word="мов">
-    <english_equivalent>as if</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="100o1">
-        <part type="single">мов</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="100o2">
-        <part type="single">мовбитоб</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="100o3">
-        <part type="single">мовби</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c101" word="наче">
-    <english_equivalent>as if</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="101o1">
-        <part type="single">наче</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="101o2">
-        <part type="single">начеб</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="101o3">
-        <part type="single">начебто</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c102" word="немов">
-    <english_equivalent>as if</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="102o1">
-        <part type="single">немов</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="102o2">
-        <part type="single">немовби</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="102o3">
-        <part type="single">немовбито</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c103" word="неначе">
-    <english_equivalent>as if</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="103o1">
-        <part type="single">неначе</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="103o2">
-        <part type="single">неначебто</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c104" word="нехай">
-    <english_equivalent>let, may</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="104o1">
-        <part type="single">нехай</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="104o2">
-        <part type="single">нехай-но</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c105" word="нібито">
-    <english_equivalent>as if</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="105o1">
-        <part type="single">нібито</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="105o2">
-        <part type="single">ніби</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c106" word="ніж">
-    <english_equivalent>than</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="106o1">
-        <part type="single">ніж</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c107" word="одначе">
-    <english_equivalent>however</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="107o1">
-        <part type="single">одначе</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c108" word="отож">
-    <english_equivalent>so</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="108o1">
-        <part type="single">отож</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="108o2">
-        <part type="single">отож-то</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c109" word="позаяк">
-    <english_equivalent>therefore</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="109o1">
-        <part type="single">позаяк</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c110" word="притім">
-    <english_equivalent>besides</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="110o1">
-        <part type="single">притім</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c111" word="притому">
-    <english_equivalent>besides</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="111o1">
-        <part type="single">притому</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c112" word="причім">
-    <english_equivalent>besides</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="112o1">
-        <part type="single">причім</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="112o2">
-        <part type="single">причому</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c113" word="раз">
-    <english_equivalent>if, in case</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="113o1">
-        <part type="single">раз</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c114" word="себто">
-    <english_equivalent>namely</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="114o1">
-        <part type="single">себто</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c115" word="таж">
-    <english_equivalent>because, so</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="115o1">
-        <part type="single">таж</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c116" word="так">
-    <english_equivalent>but</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="116o1">
-        <part type="single">так</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c117" word="тільки">
-    <english_equivalent>but, if, just, only</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="117o1">
-        <part type="single">тільки</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="117o2">
-        <part type="single">тільки-но</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c118" word="тобто">
-    <english_equivalent>namely</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="118o1">
-        <part type="single">тобто</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c119" word="тому-то">
-    <english_equivalent>because of that, that is why?</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="119o1">
-        <part type="single">тому-то</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c120" word="а усе">
-    <english_equivalent>however</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="120o1">
-        <part type="phrasal">а усе</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>other</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c121" word="а усе-таки">
-    <english_equivalent>however, afterall, notwithstanding</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="121o1">
-        <part type="phrasal">а усе-таки</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>other</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c122" word="та усе">
-    <english_equivalent>however</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="122o1">
-        <part type="phrasal">та усе</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>other</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c123" word="та усе-таки">
-    <english_equivalent>however, in the end</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="123o1">
-        <part type="phrasal">та усе-таки</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>other</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c124" word="хай">
-    <english_equivalent>so that</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="124o1">
-        <part type="single">хай</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="124o2">
-        <part type="single">хай-но</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c125" word="хіба">
-    <english_equivalent>unless</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="125o1">
-        <part type="single">хіба</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c126" word="цебто">
-    <english_equivalent>namely</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="126o1">
-        <part type="single">цебто</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>coord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c127" word="щоби">
-    <english_equivalent>in order to</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="127o1">
-        <part type="single">щоби</part>
-      </orth>
-      <orth type="cont" canonical="0" onr="127o2">
-        <part type="single">щоб</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c128" word="щойно">
-    <english_equivalent>as soon as</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="128o1">
-        <part type="single">щойно</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c129" word="щоправда">
-    <english_equivalent>though</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="129o1">
-        <part type="single">щоправда</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat>subord_conj</cat>
-      <sem>
-        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
