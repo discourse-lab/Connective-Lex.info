@@ -82,5 +82,33 @@
     "ADP": "csu",
     "CCONJ": "cco",
     "ADV": "adv"
+  },
+  "naijalex": {
+    "CCONJ": "cco",
+    "ADP": "other",
+    "ADV": "adv",
+    "AUX": "other",
+    "ADJ": "other",
+    "SCONJ": "csu",
+	"ADP_SCONJ": "other",
+	"ADP_ADV_ADP": "other",
+	"ADP_ADP": "other",
+	"ADP_ADJ_ADP": "other",
+	"ADP_ADP_SCONJ": "other",
+	"AUX_SCONJ": "other",
+	"ADP_DET_NOUN": "other",
+	"DET_NOUN": "other",
+	"NOUN_DET_NOUN": "other",
+	"ADP_NOUN": "other",
+	"ADV_SCONJ": "other",
+	"ADV_ADV": "other",
+	"AUX_PRON": "other",
+	"ADV_DET": "other",
+	"ADV_PRON": "other",
+	"SCONJ_PRON": "csu",
+	"SCONJ_SCONJ": "csu",
+	"ADP_VERB": "other",
+	"SCONJ_AUX_SCONJ": "other",
+	"PART": "other"
   }
 }

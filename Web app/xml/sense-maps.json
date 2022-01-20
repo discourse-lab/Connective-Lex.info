@@ -108,7 +108,9 @@
     "specification-arg2-as-detail": "EXPANSION:Level-of-detail:Arg2-as-detail",
     "substitution-arg1-as-subst": "EXPANSION:Substitution:Arg1-as-subst",
     "substitution-arg2-as-subst": "EXPANSION:Substitution:Arg2-as-subst",
-    "synchronous": "TEMPORAL:Synchronous"
+    "synchronous": "TEMPORAL:Synchronous",
+	"cause-result+speechact": "CONTINGENCY:Cause+SpeechAct:Result+SpeechAct",
+	"condition+speechact": "CONTINGENCY:Condition+SpeechAct"
   },
 
   "pdtb3": {

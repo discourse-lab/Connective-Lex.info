@@ -13,15 +13,16 @@
     "senseTagset": "turkish_tcl"
   },
   "licenseInfo": {
-    "copyrightDate": "2020",
-    "licenseName": "MIT License",
-    "licenseUrl": "https://opensource.org/licenses/MIT/"
+    "copyrightDate": "2022",
+    "licenseName": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
   },
   "authorInfo": {
     "publisher": "Graduate School of Informatics, Middle East Technical University, Ankara, Turkey",
     "authors": [
       { "authorName": "Deniz Zeyrek", "organisation": "Graduate School of Informatics, Middle East Technical University, Ankara, Turkey" },
-{ "authorName": "Kezban Başıbüyük", "organisation": "Department of Computer Engineering, Middle East Technical University, Ankara, Turkey" }
+{ "authorName": "Kezban Başıbüyük", "organisation": "Department of Computer Engineering, Middle East Technical University, Ankara, Turkey" },
+{ "authorName": "Mustafa Erolcan Er", "organisation": "Graduate School of Informatics, Middle East Technical University, Ankara, Turkey" }
     ]
 	,
     "publications": [

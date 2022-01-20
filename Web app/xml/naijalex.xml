@@ -1,0 +1,1144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dimlex>
+  <entry id="nl1" word="abi">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl1o1">
+        <part type="single">abi</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="disjunction"/>
+        <example>Blow whistle because sey if you blow whistle, you go turn millionaire, but sha o if {your whistle no con loud,} [abi] {dem catch you before di people wey de suppose hear di whistle} dem catch you, oloun sanu e o.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl2" word="after">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl2o1">
+        <part type="single">after</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb3_relation sense="asynchronous-succession"/>
+        <example>If na you be di papa so, and {your pikin show you dat kind ting} [after] {you don suffer dey find di ting}, wetin you go do am?</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl3" word="also">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl3o1">
+        <part type="single">also</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+        <example>Now {Mr Sam bin yarn sey dis one wey be sey de just dey attack ehn airline staff, sey dis one na very, very embarrassing something.} (...) // And [also] {e bin dey, dey advise all dis airlines wey be sey dey operate inside we obodo say make, make de uphold, make de hold strongly all di commission wey be sey de bin get, di terms, and condition, and contract on all di...}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl4" word="and">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl4o1">
+        <part type="single">and</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+        <example>My uncle say toh if me I no write dis year, meh me I no vex sey {I go go find work do,} [and] {im too go try im best.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="purpose-arg2-as-goal"/>
+        <example>{Mah go do}, [and] {dem go pay me money}.</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="equivalence"/>
+        <example>{De dey call am ede for Igbo}. [And] {na ehn cocoyam}.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl5" word="as">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl5o1">
+        <part type="single">as</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+        <example>And [as] {we born for poor family,} {no money.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+        <example>[As] {I sit down,} {na so one client come dey meet me.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl6" word="as far as">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl6o1">
+        <part type="phrasal">as far as</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP_ADV_ADP</cat>
+      <sem>
+        <pdtb3_relation sense="condition-arg2-as-condition"/>
+        <example>Sey [as far as] {di place weh me I dey go good,} {meh me I dey careful for dere.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl7" word="as if">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl7o1">
+        <part type="phrasal">as if</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP_SCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="concession-arg2-as-denier"/>
+        <example>{She just look me, smile, comot abf,} [as if] {sey she no see as we dey yab oursef.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl8" word="as in">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl8o1">
+        <part type="phrasal">as in</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP_ADP</cat>
+      <sem>
+        <pdtb3_relation sense="equivalence"/>
+        <example>As per a sharp guy, dis ting con dey cause-reason sey na {me go pay for her own food matter.} // [As in] {kai agbada don hook wire today be dat!}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl9" word="as long as">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl9o1">
+        <part type="phrasal">as long as</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP_ADJ_ADP</cat>
+      <sem>
+        <pdtb3_relation sense="condition-arg2-as-condition"/>
+        <example>From inst-... from fashion o, music, dance, comedy, [as long as] {sey na entertainment,} {my hand suppose dey inside.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl10" word="as sey">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl10o1">
+        <part type="phrasal">as sey</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP_SCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+        <example>{Everytime, you just dey waka dey carry hand for up} [as sey] {e get boil for armpit.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl11" word="as soon as">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl11o1">
+        <part type="phrasal">as soon as</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP_ADV_ADP</cat>
+      <sem>
+        <pdtb3_relation sense="asynchronous-succession"/>
+        <example>[As soon as] {service close,} {I come house,} go back to church again.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl12" word="based on sey">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl12o1">
+        <part type="phrasal">based on sey</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP_ADP_SCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+        <example>{We con greet} [based on sey] {im know me.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl13" word="be sey">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl13o1">
+        <part type="phrasal">be sey</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>AUX_SCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+        <example>And {many tings wen de bin come} [be sey] {rituals don enter country.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+        <example>As {de dey throw money give dem so,} e [be sey] {de dey ask for prayer,} de dey ask for blessing.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl14" word="because">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl14o1">
+        <part type="single">because</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl14o2">
+        <part type="single">cause</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl14o3">
+        <part type="single">cos</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+        <example>God go handle you, {God go punish you} [because] {you dey dere, you no stop di thing.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="cause-reason+speechact"/>
+        <example>{Go report to police!} [Because] {dat thing, no good, e no good}.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl15" word="before">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl15o1">
+        <part type="single">before</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+        <example>Naim my uncle con say okay tomorrow morning, [before] {im go work,} [meh me I carry am go dere.]</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl16" word="but">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl16o1">
+        <part type="single">but</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="concession-arg2-as-denier"/>
+        <example>{Dat time self, I no, I no sabi speak English like dat} [but] {I dey manage.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="contrast"/>
+        <example>{Di, m-... my own, di, my mama own sef, e no even pain me because dat one, she, she, she sick for long time}. // [But] {my papa own, e no sick}.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl17" word="con">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl17o1">
+        <part type="single">come</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl17o2">
+        <part type="single">con</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>AUX</cat>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+        <example>{Immediately e con, con fear,} [con] {give me di purse back.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+        <example>{I go call my mile,} [con] {say mile, come see o!}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+        <example>I con come, {e con borrow di money.} [Con] {give me.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl18" word="den">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl18o1">
+        <part type="single">den</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl18o2">
+        <part type="single">then</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+        <example>Den {after I don slice di ugu,} [den,] {I wash my meat, my okporoko (dat is dry f-... eh stockfish),} and den my dry fish.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl19" word="di time">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl19o1">
+        <part type="phrasal">by dis time</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl19o2">
+        <part type="phrasal">dat time</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl19o3">
+        <part type="phrasal">di time</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl19o4">
+        <part type="phrasal">one di time</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl19o5">
+        <part type="phrasal">which time</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP_DET_NOUN</cat>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+        <example>{Oga Omogbai talk dis} [one di time] {e dey talk to Radio Nigeria for dis year International Museum Day wey dem do for May eighteenth}.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl20" word="dough">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl20o1">
+        <part type="single">aldough</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl20o2">
+        <part type="single">dough</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl20o3">
+        <part type="single">though</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>SCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="concession-arg1-as-denier"/>
+        <example>Di minister dey yarn o sey [aldough] {dem say di Presido don approve in principle,} but {sha di formal letter of approval, dem never carry am go give di Mama o by di Head of Service of di Federation, Mrs Winifred Oyo Ita.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="concession-arg2-as-denier"/>
+        <example>{But, later on, one of di female sha wan, wan, don die}. // [Though] {na only one female con remain here}.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl21" word="during">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl21o1">
+        <part type="single">during</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+        <example>E point out to sey [during] {im search for di suspect house,} {thirteen different ATM card wey belong to different victims, na im dem see o.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl22" word="except">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl22o1">
+        <part type="single">except</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb3_relation sense="negative-condition-arg2-as-negcond"/>
+        <example>Which means, [except] {you accept Jesus into your life,} {you cannot see di kingdom of God.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl23" word="for">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl23o1">
+        <part type="single">for</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+        <example>[For] {I just newly come inside barrack here,} so {I never too get customer wey plenty.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="temporal"/>
+        <example>If weather hot, {you con dey go drink hot pepper soup} [for] {dis hot weather,} na hot temper you wan dey, you wan get last, last.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl24" word="hence">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl24o1">
+        <part type="single">hence</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+        <example>Because I see sey {dis life, e no dey easy.} [Hence] {man don, God don create man become huma-... man, we get a lot of tins to face, we get a lot of cross to carry.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl25" word="if">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl25o1">
+        <part type="single">if</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>SCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="condition-arg2-as-condition"/>
+        <example>My uncle say toh [if] {me I no write dis year,} {meh me I no vex} sey I go go find work do, and im too go try im best.</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+        <example>E say [if] {im dey go,} {sey meh me I dey ready, sey im go carry me go Abuja.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="condition+speechact"/>
+        <example>In fact [if] {na our own family member}, {make we no just dey do bad to our own family members}.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl26" word="in fact">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl26o1">
+        <part type="phrasal">in fact</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl26o2">
+        <part type="single">infact</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP_NOUN</cat>
+      <sem>
+        <pdtb3_relation sense="specification-arg2-as-detail"/>
+        <example>{People dey suffer} // [In fact,] {tings cost for market die.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl27" word="instead">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl27o1">
+        <part type="single">instead</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb3_relation sense="substitution-arg2-as-substitution"/>
+        <example>And de say de wan make di country fine meh better, but, {di government no dey do anyting}. // [Instead], {you go dey hear sey dis one thief, dis one...}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl28" word="later">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl28o1">
+        <part type="single">later</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADJ</cat>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+        <example>But because {dat year I dey draw.} // [Later] {from dat one, I come enter commercial class.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl29" word="like">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl29o1">
+        <part type="single">like</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb3_relation sense="arg2-as-instance"/>
+        <example>{We also get ehn different culture}. // [Like] {me, na Berom girl I be}.</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+        <example>And dis Jos, {we no get wahala} [like] {I tell una.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl30" word="like sey">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl30o1">
+        <part type="phrasal">like sey</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP_SCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+        <example>If oil comot now, {you go start dey put am for di soup} [like sey] {you dey make crumbles inside di soup like dat.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl31" word="likewise">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl31o1">
+        <part type="single">likewise</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb3_relation sense="similarity"/>
+        <example>{You need your broder as you need your sister,} and [likewise] {as you need your mama, and papa to take move forward.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl32" word="make">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl32o1">
+        <part type="single">mah</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl32o2">
+        <part type="single">make</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl32o3">
+        <part type="single">meh</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl32o4">
+        <part type="single">mey</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>AUX</cat>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+        <example>I even go meet my oga say {oga, abeg, borrow me some money} [make] {I take start dis tin!}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="condition-arg2-as-condition"/>
+        <example>Better mey I go, {e better} [mey] {I go die for, for China dan to stay in dis country now.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+        <example>Just [make] {I comot for di outside carry di key dey go,} {di girl say ehn auntie, come, come back!}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl33" word="meanwhile">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl33o1">
+        <part type="single">meanwhile</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+        <example>And in fact, {e don comot promise all we obodo people sey im government dey very, very determine to make sure sey di remaining girls wey be sey de never release so, sey de must to release dem, plus all oda of we obodo people wey be sey de don kolobi, ehn dis, I no go gree, people don kolobi put inside deir own stronghold.} // [Meanwhile,] {we don hear sey di eighty two rescued Chibok girls now o (yes you don hear, ), sey de don do better, sey don discuss, and de don meet with the Chief of Staff to we Presido, Oga Abaki Harry.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl34" word="naim">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl34o1">
+        <part type="single">na</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl34o2">
+        <part type="phrasal">na im</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl34o3">
+        <part type="single">naim</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl34o4">
+        <part type="single">nain</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+        <example>{She no dey watch am o.} // [Naim] {I con show her sey okay see smoke go dey.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+        <example>But as I con dey, {I just enter one mall,} [naim] {I see one black man.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+        <example>So as {she see us,} [naim] {her face brighten wit smile.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl35" word="now wey">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl35o1">
+        <part type="phrasal">now wey</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADV_SCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="asynchronous-succession"/>
+        <example>So {Alaska Pepper, con say wetin e go do now,} [now wey] {e don kill dis animal?}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl36" word="now when">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl36o1">
+        <part type="phrasal">now when</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADV_ADV</cat>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+        <example>{Insurance go ensure sey any money wey you dey make before,} even [now when] {something don happen (wheda na accident o, wheda na sickness o, abi death)...}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl37" word="once">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl37o1">
+        <part type="single">once</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+        <example>[Once] {you hear dat sing eh, e no get how di sleep deep, or how di dream be eh,} {you go must wake up}.</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="asynchronous-succession"/>
+        <example>[Once] {you don pour di meat water inside di, di, inside di soup,} {you go con turn am small}.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl38" word="or">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl38o1">
+        <part type="single">or</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>CCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="disjunction"/>
+        <example>Mtschew but in fact, e con even get time wey be sey I come, I just comot my mind, be sey maybe {God no wan mah go school again,} [or] {be sey I no dey favour to go school.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl39" word="rader">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl39o1">
+        <part type="single">rader</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb3_relation sense="substitution-arg2-as-substitution"/>
+        <example>{Noting dey move.} // [Rader], {tings dey dey bad to bad.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl40" word="sey">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl40o1">
+        <part type="single">sey</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>SCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+        <example>{I con tell her sey make she calm down}, [sey] {di smoke na just steaming, di ting go just steam her face.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="condition-arg2-as-condition"/>
+        <example>Men dey cheat because sey di circle of friends wey dem dey follow dey waka, {de no see am as big deal} [sey] {you no stay with one woman.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl41" word="shey">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl41o1">
+        <part type="single">shey</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>PART</cat>
+      <sem>
+        <pdtb3_relation sense="cause-result+speechact"/>
+        <example>[Shey] {you no fit pity person?}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl42" word="since">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl42o1">
+        <part type="single">since</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+        <example>[Since] {I get idea for technical tings,} {sey im believe sey I go fit do am.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="asynchronous-succession"/>
+        <example>{My charity don begin for house} [since] {wey dem born me.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl43" word="so">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl43o1">
+        <part type="single">so</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+        <example>Okay den, as de, de employ me for English for Cool TV (because {dat, dat time, Cool TV dey,} ), [so] {de employ me for English.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+        <example>And in fact {im bin yarn sey e dey hopeful sey as di way wey we say, de dey pray for am, na so de go dey pray for di peace and unity of we obodo.} // And {we hear sey for January} [so], Oga Buhari bin travel go London for a very, very similar checkup, and im bin come back, and im bin return for March ten after fifty one days in London.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl44" word="so that">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl44o1">
+        <part type="phrasal">so dat</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl44o2">
+        <part type="phrasal">so that</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADV_DET</cat>
+      <sem>
+        <pdtb3_relation sense="purpose-arg2-as-goal"/>
+        <example>{Maybe I go fit get school fees wey a go pay} [so dat] {meh my uncle dey support me for di remain one wey I no get.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl45" word="sotay">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl45o1">
+        <part type="single">sotay</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>SCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+        <example>{You go wash am} [sotay] {di bitter go comot} so dat e no go bitter for di soup.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl46" word="still">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl46o1">
+        <part type="single">still</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+        <example>Even as you dey stir am, {you go dey see di smoke wey go dey come out cause di tin dey hot well, well.} // So after dat one, I go [still] {mix my soda ash.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="concession-arg2-as-denier"/>
+        <example>{I wan go play} because I see di work as na part of me, na sometin wey dey inside me. // So but I [still] {dey aspire sey I go continue again wit my education} because ehm I feel sey so many tins dey to do wit life, and eh I still believe sey education go help me well.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl47" word="to say">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl47o1">
+        <part type="phrasal">to say</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP_VERB</cat>
+      <sem>
+        <pdtb3_relation sense="instantiation"/>
+        <example>{Only what we collect, we say if you say we, eh di work wey we do for you sey, e, e please you, you go say take, go buy minerals}, if [to say] {na ten naira you bring,} we go take eh happily, collect am from you, pray for you sey God go bless you o, e go increase your your wealth very, very well.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl48" word="unless">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl48o1">
+        <part type="single">unless</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>SCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="negative-condition-arg2-as-negcond"/>
+        <example>Make hungry catch am, {e go change im decision in five seconds} [unless] {dat worm wey dey im belle no strong.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl49" word="until">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl49o1">
+        <part type="single">till</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl49o2">
+        <part type="single">until</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb3_relation sense="asynchronous-precedence"/>
+        <example>{I no go go on top di air programme today} [until] {I say happy birthday to our mummy, Mrs Kikelomo Orimolade, Mama Ilu, Mummy Ayodeji.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl50" word="unto">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl50o1">
+        <part type="single">unto</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP</cat>
+      <sem>
+        <pdtb3_relation sense="cause-reason"/>
+        <example>Ah dat one, na serious gbege o, but {no p} [unto] {sey I love you ehn.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl51" word="upon sey">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl51o1">
+        <part type="phrasal">upon sey</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADP_SCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+        <example>[Upon sey] {I dey go site to site,} {me, I tink sey mehn na when you just learn dis our work, you go don become millionaire.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl52" word="wey">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl52o1">
+        <part type="single">wey</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>SCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="cause-result"/>
+        <example>But I still like am cause {I don perfect on it.} // [Wey] {I dey do di work very well.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="conjunction"/>
+        <example>{If anoder one enter} [wey] {we dey happy sey dat one don enter,} we go dey complain.</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+        <example>If you go hospital now, [wey] {you sick,} {you go hospital,} di better medicine dere, na im go, na im go cost pass.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl53" word="wey be sey">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl53o1">
+        <part type="phrasal">wey be sey</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>SCONJ_AUX_SCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="purpose-arg2-as-goal"/>
+        <example>{I gats park well} [wey be sey] {noting go hit my bike, or someting.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+        <example>If di meat never soft, {you put am dat period} [wey be sey] {you dey put all your ingredients} so dat everyting go boil together.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl54" word="when">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl54o1">
+        <part type="single">wen</part>
+      </orth>
+      <orth canonical="1" type="cont" onr="nl54o2">
+        <part type="single">when</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADV</cat>
+      <sem>
+        <pdtb3_relation sense="condition-arg2-as-condition"/>
+        <example>And [when] {dem vex,} {Federal Government no go like am.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+        <example>Lucky enough now, [when] {I wan dash now,} {I see one of my guy like dat} cos dat, di guy is...</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="asynchronous-succession"/>
+        <example>As im con reach one place (wey be sey because anytime wey de {dey look for am} [when] {e don do someting bad}, e go run go dere go dey play for near river, ), so na as im con dey run dey go dat place sey make im go play na im con jam di animal for road.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl55" word="whereas">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl55o1">
+        <part type="single">whereas</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>SCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="concession-arg2-as-denier"/>
+        <example>{You fit dey look front now say noting dey} [whereas] {somebody don enter your front.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl56" word="while">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl56o1">
+        <part type="single">while</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>SCONJ</cat>
+      <sem>
+        <pdtb3_relation sense="concession-arg2-as-denier"/>
+        <example>{Some of dem dey like to fry am} [while] {some people no dey like.}</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="synchronous"/>
+        <example>[While] {di committee dey wait for di evidence of di presidential approval,} {di minister write di law makers o.}</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="nl57" word="yet">
+    <orths>
+      <orth canonical="0" type="cont" onr="nl57o1">
+        <part type="single">yet</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <syn>
+      <cat>ADJ</cat>
+      <sem>
+        <pdtb3_relation sense="concession-arg2-as-denier"/>
+        <example>Even as I, me, and you dey talk now, {di man don go back France.} // [Yet] {everyday me, and am dey chat on WhatsApp.}</example>
+      </sem>
+    </syn>
+  </entry>
+</dimlex>

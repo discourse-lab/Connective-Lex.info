@@ -4,13 +4,13 @@
       <orth canonical="0" orth_id="1o1" type="cont">
         <part type="suffixal">acağına</part>
       </orth>
-      <orth canonical="1" orth_id="1o1" type="cont">
+      <orth canonical="0" orth_id="1o1" type="cont">
         <part type="suffixal">eceğine</part>
       </orth>
-      <orth canonical="2" orth_id="1o1" type="cont">
+      <orth canonical="0" orth_id="1o1" type="cont">
         <part type="suffixal">yacağına</part>
       </orth>
-      <orth canonical="3" orth_id="1o1" type="cont">
+      <orth canonical="0" orth_id="1o1" type="cont">
         <part type="suffixal">yeceğine</part>
       </orth>
     </orths>
@@ -28,7 +28,7 @@
       <orth canonical="0" orth_id="2o1" type="cont">
         <part type="suffixal">arak</part>
       </orth>
-      <orth canonical="1" orth_id="2o1" type="cont">
+      <orth canonical="0" orth_id="2o1" type="cont">
         <part type="suffixal">erek</part>
       </orth>
     </orths>
@@ -81,25 +81,25 @@
       <orth canonical="0" orth_id="3o1" type="cont">
         <part type="suffixal">ınca</part>
       </orth>
-      <orth canonical="1" orth_id="3o1" type="cont">
+      <orth canonical="0" orth_id="3o1" type="cont">
         <part type="suffixal">ince</part>
       </orth>
-      <orth canonical="2" orth_id="3o1" type="cont">
+      <orth canonical="0" orth_id="3o1" type="cont">
         <part type="suffixal">unca</part>
       </orth>
-      <orth canonical="3" orth_id="3o1" type="cont">
+      <orth canonical="0" orth_id="3o1" type="cont">
         <part type="suffixal">ünce</part>
       </orth>
-      <orth canonical="4" orth_id="3o1" type="cont">
+      <orth canonical="0" orth_id="3o1" type="cont">
         <part type="suffixal">yınca</part>
       </orth>
-      <orth canonical="5" orth_id="3o1" type="cont">
+      <orth canonical="0" orth_id="3o1" type="cont">
         <part type="suffixal">yince</part>
       </orth>
-      <orth canonical="6" orth_id="3o1" type="cont">
+      <orth canonical="0" orth_id="3o1" type="cont">
         <part type="suffixal">yunca</part>
       </orth>
-      <orth canonical="7" orth_id="3o1" type="cont">
+      <orth canonical="0" orth_id="3o1" type="cont">
         <part type="suffixal">yünce</part>
       </orth>
     </orths>
@@ -148,25 +148,25 @@
       <orth canonical="0" orth_id="4o1" type="discont">
         <part type="suffixal">ınca da</part>
       </orth>
-      <orth canonical="1" orth_id="4o1" type="discont">
+      <orth canonical="0" orth_id="4o1" type="discont">
         <part type="suffixal">ince de</part>
       </orth>
-      <orth canonical="2" orth_id="4o1" type="discont">
+      <orth canonical="0" orth_id="4o1" type="discont">
         <part type="suffixal">unca da</part>
       </orth>
-      <orth canonical="3" orth_id="4o1" type="discont">
+      <orth canonical="0" orth_id="4o1" type="discont">
         <part type="suffixal">ünce de</part>
       </orth>
-      <orth canonical="4" orth_id="4o1" type="discont">
+      <orth canonical="0" orth_id="4o1" type="discont">
         <part type="suffixal">yınca da</part>
       </orth>
-      <orth canonical="5" orth_id="4o1" type="discont">
+      <orth canonical="0" orth_id="4o1" type="discont">
         <part type="suffixal">yince de</part>
       </orth>
-      <orth canonical="6" orth_id="4o1" type="discont">
+      <orth canonical="0" orth_id="4o1" type="discont">
         <part type="suffixal">yunca da</part>
       </orth>
-      <orth canonical="7" orth_id="4o1" type="discont">
+      <orth canonical="0" orth_id="4o1" type="discont">
         <part type="suffixal">yünce de</part>
       </orth>
     </orths>
@@ -179,25 +179,25 @@
       <orth canonical="0" orth_id="5o1" type="cont">
         <part type="suffixal">ıp</part>
       </orth>
-      <orth canonical="1" orth_id="5o1" type="cont">
+      <orth canonical="0" orth_id="5o1" type="cont">
         <part type="suffixal">ip</part>
       </orth>
-      <orth canonical="2" orth_id="5o1" type="cont">
+      <orth canonical="0" orth_id="5o1" type="cont">
         <part type="suffixal">up</part>
       </orth>
-      <orth canonical="3" orth_id="5o1" type="cont">
+      <orth canonical="0" orth_id="5o1" type="cont">
         <part type="suffixal">üp</part>
       </orth>
-      <orth canonical="4" orth_id="5o1" type="cont">
+      <orth canonical="0" orth_id="5o1" type="cont">
         <part type="suffixal">yıp</part>
       </orth>
-      <orth canonical="5" orth_id="5o1" type="cont">
+      <orth canonical="0" orth_id="5o1" type="cont">
         <part type="suffixal">yip</part>
       </orth>
-      <orth canonical="6" orth_id="5o1" type="cont">
+      <orth canonical="0" orth_id="5o1" type="cont">
         <part type="suffixal">yup</part>
       </orth>
-      <orth canonical="7" orth_id="5o1" type="cont">
+      <orth canonical="0" orth_id="5o1" type="cont">
         <part type="suffixal">yüp</part>
       </orth>
     </orths>
@@ -242,25 +242,25 @@
       <orth canonical="0" orth_id="6o1" type="cont">
         <part type="suffixal">ıp da</part>
       </orth>
-      <orth canonical="1" orth_id="6o1" type="cont">
+      <orth canonical="0" orth_id="6o1" type="cont">
         <part type="suffixal">ip de</part>
       </orth>
-      <orth canonical="2" orth_id="6o1" type="cont">
+      <orth canonical="0" orth_id="6o1" type="cont">
         <part type="suffixal">up da</part>
       </orth>
-      <orth canonical="3" orth_id="6o1" type="cont">
+      <orth canonical="0" orth_id="6o1" type="cont">
         <part type="suffixal">üp de</part>
       </orth>
-      <orth canonical="4" orth_id="6o1" type="cont">
+      <orth canonical="0" orth_id="6o1" type="cont">
         <part type="suffixal">yıp da</part>
       </orth>
-      <orth canonical="5" orth_id="6o1" type="cont">
+      <orth canonical="0" orth_id="6o1" type="cont">
         <part type="suffixal">yip de</part>
       </orth>
-      <orth canonical="6" orth_id="6o1" type="cont">
+      <orth canonical="0" orth_id="6o1" type="cont">
         <part type="suffixal">yup da</part>
       </orth>
-      <orth canonical="7" orth_id="6o1" type="cont">
+      <orth canonical="0" orth_id="6o1" type="cont">
         <part type="suffixal">yüp de</part>
       </orth>
     </orths>
@@ -281,7 +281,7 @@
       <orth canonical="0" orth_id="7o1" type="cont">
         <part type="suffixal">alı</part>
       </orth>
-      <orth canonical="1" orth_id="7o1" type="cont">
+      <orth canonical="0" orth_id="7o1" type="cont">
         <part type="suffixal">eli</part>
       </orth>
     </orths>
@@ -298,7 +298,7 @@
       <orth canonical="0" orth_id="8o1" type="cont">
         <part type="suffixal">casına</part>
       </orth>
-      <orth canonical="1" orth_id="8o1" type="cont">
+      <orth canonical="0" orth_id="8o1" type="cont">
         <part type="suffixal">cesine</part>
       </orth>
     </orths>
@@ -315,55 +315,55 @@
       <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">ımda</part>
       </orth>
-      <orth canonical="1" orth_id="9o1" type="cont">
+      <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">imde</part>
       </orth>
-      <orth canonical="2" orth_id="9o1" type="cont">
+      <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">umda</part>
       </orth>
-      <orth canonical="3" orth_id="9o1" type="cont">
+      <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">ümde</part>
       </orth>
-      <orth canonical="4" orth_id="9o1" type="cont">
+      <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">ında</part>
       </orth>
-      <orth canonical="5" orth_id="9o1" type="cont">
+      <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">inde</part>
       </orth>
-      <orth canonical="6" orth_id="9o1" type="cont">
+      <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">unda</part>
       </orth>
-      <orth canonical="7" orth_id="9o1" type="cont">
+      <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">ünde</part>
       </orth>
-      <orth canonical="8" orth_id="9o1" type="cont">
+      <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">ımızda</part>
       </orth>
-      <orth canonical="9" orth_id="9o1" type="cont">
+      <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">imizde</part>
       </orth>
-      <orth canonical="10" orth_id="9o1" type="cont">
+      <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">umuzda</part>
       </orth>
-      <orth canonical="11" orth_id="9o1" type="cont">
+      <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">ümüzde</part>
       </orth>
-      <orth canonical="12" orth_id="9o1" type="cont">
+      <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">ınızda</part>
       </orth>
-      <orth canonical="13" orth_id="9o1" type="cont">
+      <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">inizde</part>
       </orth>
-      <orth canonical="14" orth_id="9o1" type="cont">
+      <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">unuzda</part>
       </orth>
-      <orth canonical="15" orth_id="9o1" type="cont">
+      <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">ünüzde</part>
       </orth>
-      <orth canonical="16" orth_id="9o1" type="cont">
+      <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">larında</part>
       </orth>
-      <orth canonical="17" orth_id="9o1" type="cont">
+      <orth canonical="0" orth_id="9o1" type="cont">
         <part type="suffixal">lerinde</part>
       </orth>
     </orths>
@@ -388,55 +388,55 @@
       <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">ımdan</part>
       </orth>
-      <orth canonical="1" orth_id="10o1" type="cont">
+      <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">imden</part>
       </orth>
-      <orth canonical="2" orth_id="10o1" type="cont">
+      <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">umdan</part>
       </orth>
-      <orth canonical="3" orth_id="10o1" type="cont">
+      <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">ümden</part>
       </orth>
-      <orth canonical="4" orth_id="10o1" type="cont">
+      <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">ından</part>
       </orth>
-      <orth canonical="5" orth_id="10o1" type="cont">
+      <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">inden</part>
       </orth>
-      <orth canonical="6" orth_id="10o1" type="cont">
+      <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">undan</part>
       </orth>
-      <orth canonical="7" orth_id="10o1" type="cont">
+      <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">ünden</part>
       </orth>
-      <orth canonical="8" orth_id="10o1" type="cont">
+      <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">ımızdan</part>
       </orth>
-      <orth canonical="9" orth_id="10o1" type="cont">
+      <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">imizden</part>
       </orth>
-      <orth canonical="10" orth_id="10o1" type="cont">
+      <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">umuzdan</part>
       </orth>
-      <orth canonical="11" orth_id="10o1" type="cont">
+      <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">ümüzden</part>
       </orth>
-      <orth canonical="12" orth_id="10o1" type="cont">
+      <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">ınızdan</part>
       </orth>
-      <orth canonical="13" orth_id="10o1" type="cont">
+      <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">inizden</part>
       </orth>
-      <orth canonical="14" orth_id="10o1" type="cont">
+      <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">unuzdan</part>
       </orth>
-      <orth canonical="15" orth_id="10o1" type="cont">
+      <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">ünüzden</part>
       </orth>
-      <orth canonical="16" orth_id="10o1" type="cont">
+      <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">larından</part>
       </orth>
-      <orth canonical="17" orth_id="10o1" type="cont">
+      <orth canonical="0" orth_id="10o1" type="cont">
         <part type="suffixal">lerinden</part>
       </orth>
     </orths>
@@ -453,25 +453,25 @@
       <orth canonical="0" orth_id="11o1" type="cont">
         <part type="suffixal">tıkça</part>
       </orth>
-      <orth canonical="1" orth_id="11o1" type="cont">
+      <orth canonical="0" orth_id="11o1" type="cont">
         <part type="suffixal">tikçe</part>
       </orth>
-      <orth canonical="2" orth_id="11o1" type="cont">
+      <orth canonical="0" orth_id="11o1" type="cont">
         <part type="suffixal">tukça</part>
       </orth>
-      <orth canonical="3" orth_id="11o1" type="cont">
+      <orth canonical="0" orth_id="11o1" type="cont">
         <part type="suffixal">tükçe</part>
       </orth>
-      <orth canonical="4" orth_id="11o1" type="cont">
+      <orth canonical="0" orth_id="11o1" type="cont">
         <part type="suffixal">dıkça</part>
       </orth>
-      <orth canonical="5" orth_id="11o1" type="cont">
+      <orth canonical="0" orth_id="11o1" type="cont">
         <part type="suffixal">dikçe</part>
       </orth>
-      <orth canonical="6" orth_id="11o1" type="cont">
+      <orth canonical="0" orth_id="11o1" type="cont">
         <part type="suffixal">dukça</part>
       </orth>
-      <orth canonical="7" orth_id="11o1" type="cont">
+      <orth canonical="0" orth_id="11o1" type="cont">
         <part type="suffixal">dükçe</part>
       </orth>
     </orths>
@@ -522,7 +522,7 @@
       <orth canonical="0" orth_id="13o1" type="cont">
         <part type="suffixal">maksızın</part>
       </orth>
-      <orth canonical="1" orth_id="13o1" type="cont">
+      <orth canonical="0" orth_id="13o1" type="cont">
         <part type="suffixal">meksizin</part>
       </orth>
     </orths>
@@ -544,7 +544,7 @@
       <orth canonical="0" orth_id="14o1" type="cont">
         <part type="suffixal">maktansa</part>
       </orth>
-      <orth canonical="1" orth_id="14o1" type="cont">
+      <orth canonical="0" orth_id="14o1" type="cont">
         <part type="suffixal">mektense</part>
       </orth>
     </orths>
@@ -557,43 +557,43 @@
       <orth canonical="0" orth_id="15o1" type="cont">
         <part type="suffixal">sam</part>
       </orth>
-      <orth canonical="1" orth_id="15o1" type="cont">
+      <orth canonical="0" orth_id="15o1" type="cont">
         <part type="suffixal">san</part>
       </orth>
-      <orth canonical="2" orth_id="15o1" type="cont">
+      <orth canonical="0" orth_id="15o1" type="cont">
         <part type="suffixal">sa</part>
       </orth>
-      <orth canonical="3" orth_id="15o1" type="cont">
+      <orth canonical="0" orth_id="15o1" type="cont">
         <part type="suffixal">sak</part>
       </orth>
-      <orth canonical="4" orth_id="15o1" type="cont">
+      <orth canonical="0" orth_id="15o1" type="cont">
         <part type="suffixal">sanız</part>
       </orth>
-      <orth canonical="5" orth_id="15o1" type="cont">
+      <orth canonical="0" orth_id="15o1" type="cont">
         <part type="suffixal">salar</part>
       </orth>
-      <orth canonical="6" orth_id="15o1" type="cont">
+      <orth canonical="0" orth_id="15o1" type="cont">
         <part type="suffixal">larsa</part>
       </orth>
-      <orth canonical="7" orth_id="15o1" type="cont">
+      <orth canonical="0" orth_id="15o1" type="cont">
         <part type="suffixal">sem</part>
       </orth>
-      <orth canonical="8" orth_id="15o1" type="cont">
+      <orth canonical="0" orth_id="15o1" type="cont">
         <part type="suffixal">sen</part>
       </orth>
-      <orth canonical="9" orth_id="15o1" type="cont">
+      <orth canonical="0" orth_id="15o1" type="cont">
         <part type="suffixal">se</part>
       </orth>
-      <orth canonical="10" orth_id="15o1" type="cont">
+      <orth canonical="0" orth_id="15o1" type="cont">
         <part type="suffixal">sek</part>
       </orth>
-      <orth canonical="11" orth_id="15o1" type="cont">
+      <orth canonical="0" orth_id="15o1" type="cont">
         <part type="suffixal">seniz</part>
       </orth>
-      <orth canonical="12" orth_id="15o1" type="cont">
+      <orth canonical="0" orth_id="15o1" type="cont">
         <part type="suffixal">seler</part>
       </orth>
-      <orth canonical="13" orth_id="15o1" type="cont">
+      <orth canonical="0" orth_id="15o1" type="cont">
         <part type="suffixal">lerse</part>
       </orth>
     </orths>
@@ -630,37 +630,37 @@
       <orth canonical="0" orth_id="16o1" type="discont">
         <part type="suffixal">saydım bile</part>
       </orth>
-      <orth canonical="1" orth_id="16o1" type="discont">
+      <orth canonical="0" orth_id="16o1" type="discont">
         <part type="suffixal">saydın bile</part>
       </orth>
-      <orth canonical="2" orth_id="16o1" type="discont">
+      <orth canonical="0" orth_id="16o1" type="discont">
         <part type="suffixal">sa bile</part>
       </orth>
-      <orth canonical="3" orth_id="16o1" type="discont">
+      <orth canonical="0" orth_id="16o1" type="discont">
         <part type="suffixal">saydık bile</part>
       </orth>
-      <orth canonical="4" orth_id="16o1" type="discont">
+      <orth canonical="0" orth_id="16o1" type="discont">
         <part type="suffixal">saydınız bile</part>
       </orth>
-      <orth canonical="5" orth_id="16o1" type="discont">
+      <orth canonical="0" orth_id="16o1" type="discont">
         <part type="suffixal">salardı bile</part>
       </orth>
-      <orth canonical="6" orth_id="16o1" type="discont">
+      <orth canonical="0" orth_id="16o1" type="discont">
         <part type="suffixal">seydim bile</part>
       </orth>
-      <orth canonical="7" orth_id="16o1" type="discont">
+      <orth canonical="0" orth_id="16o1" type="discont">
         <part type="suffixal">seydin bile</part>
       </orth>
-      <orth canonical="8" orth_id="16o1" type="discont">
+      <orth canonical="0" orth_id="16o1" type="discont">
         <part type="suffixal">se bile</part>
       </orth>
-      <orth canonical="9" orth_id="16o1" type="discont">
+      <orth canonical="0" orth_id="16o1" type="discont">
         <part type="suffixal">seydik bile</part>
       </orth>
-      <orth canonical="10" orth_id="16o1" type="discont">
+      <orth canonical="0" orth_id="16o1" type="discont">
         <part type="suffixal">seydiniz bile</part>
       </orth>
-      <orth canonical="11" orth_id="16o1" type="discont">
+      <orth canonical="0" orth_id="16o1" type="discont">
         <part type="suffixal">seler bile</part>
       </orth>
     </orths>
@@ -677,37 +677,37 @@
       <orth canonical="0" orth_id="17o1" type="discont">
         <part type="suffixal">sam da</part>
       </orth>
-      <orth canonical="1" orth_id="17o1" type="discont">
+      <orth canonical="0" orth_id="17o1" type="discont">
         <part type="suffixal">san da</part>
       </orth>
-      <orth canonical="2" orth_id="17o1" type="discont">
+      <orth canonical="0" orth_id="17o1" type="discont">
         <part type="suffixal">sa da</part>
       </orth>
-      <orth canonical="3" orth_id="17o1" type="discont">
+      <orth canonical="0" orth_id="17o1" type="discont">
         <part type="suffixal">sak da</part>
       </orth>
-      <orth canonical="4" orth_id="17o1" type="discont">
+      <orth canonical="0" orth_id="17o1" type="discont">
         <part type="suffixal">sanız da</part>
       </orth>
-      <orth canonical="5" orth_id="17o1" type="discont">
+      <orth canonical="0" orth_id="17o1" type="discont">
         <part type="suffixal">salar da</part>
       </orth>
-      <orth canonical="6" orth_id="17o1" type="discont">
+      <orth canonical="0" orth_id="17o1" type="discont">
         <part type="suffixal">sem de</part>
       </orth>
-      <orth canonical="7" orth_id="17o1" type="discont">
+      <orth canonical="0" orth_id="17o1" type="discont">
         <part type="suffixal">sen de</part>
       </orth>
-      <orth canonical="8" orth_id="17o1" type="discont">
+      <orth canonical="0" orth_id="17o1" type="discont">
         <part type="suffixal">se de</part>
       </orth>
-      <orth canonical="9" orth_id="17o1" type="discont">
+      <orth canonical="0" orth_id="17o1" type="discont">
         <part type="suffixal">sek de</part>
       </orth>
-      <orth canonical="10" orth_id="17o1" type="discont">
+      <orth canonical="0" orth_id="17o1" type="discont">
         <part type="suffixal">seniz de</part>
       </orth>
-      <orth canonical="11" orth_id="17o1" type="discont">
+      <orth canonical="0" orth_id="17o1" type="discont">
         <part type="suffixal">seler de</part>
       </orth>
     </orths>
@@ -721,7 +721,7 @@
   </entry>
   <entry id="18" word="adeta">
     <orths>
-      <orth canonical="0" orth_id="18o1" type="cont">
+      <orth canonical="1" orth_id="18o1" type="cont">
         <part type="single">adeta</part>
       </orth>
     </orths>
@@ -739,10 +739,10 @@
   </entry>
   <entry id="19" word="ama">
     <orths>
-      <orth canonical="0" orth_id="19o1" type="cont">
+      <orth canonical="1" orth_id="19o1" type="cont">
         <part type="single">ama</part>
       </orth>
-      <orth canonical="1" orth_id="19o1" type="cont">
+      <orth canonical="0" orth_id="19o1" type="cont">
         <part type="single">Ama</part>
       </orth>
     </orths>
@@ -784,7 +784,7 @@
   </entry>
   <entry id="20" word="amacıyla">
     <orths>
-      <orth canonical="0" orth_id="20o1" type="cont">
+      <orth canonical="1" orth_id="20o1" type="cont">
         <part type="single">amacıyla</part>
       </orth>
     </orths>
@@ -798,10 +798,10 @@
   </entry>
   <entry id="21" word="Ancak">
     <orths>
-      <orth canonical="0" orth_id="21o1" type="cont">
+      <orth canonical="1" orth_id="21o1" type="cont">
         <part type="single">ancak</part>
       </orth>
-      <orth canonical="1" orth_id="21o1" type="cont">
+      <orth canonical="0" orth_id="21o1" type="cont">
         <part type="single">Ancak</part>
       </orth>
     </orths>
@@ -828,15 +828,15 @@
   </entry>
   <entry id="22" word="Ardından">
     <orths>
-      <orth canonical="0" orth_id="22o1" type="cont">
+      <orth canonical="1" orth_id="22o1" type="cont">
         <part type="single">Ardından</part>
       </orth>
-      <orth canonical="1" orth_id="22o1" type="cont">
+      <orth canonical="0" orth_id="22o1" type="cont">
         <part type="single">ardından</part>
       </orth>
     </orths>
     <syn>
-      <cat>ADV_ADP</cat>
+      <cat>ADV</cat>
       <sem>
         <pdtb2_relation anno_N="6" freq="6" sense="Temporal.Asynchronous.Precedence" />
         <example>Önce, elindeki reçelli bir dilim ekmeği, kapağını güçlükle kaldırdığı piyanonun içine atan küçük bir kız belirdi ekranda. Ardından, görüntü kısa bir süre için kayboldu.
@@ -846,7 +846,7 @@
   </entry>
   <entry id="23" word="Artık">
     <orths>
-      <orth canonical="0" orth_id="23o1" type="cont">
+      <orth canonical="1" orth_id="23o1" type="cont">
         <part type="single">Artık</part>
       </orth>
     </orths>
@@ -864,10 +864,10 @@
   </entry>
   <entry id="24" word="aslında">
     <orths>
-      <orth canonical="0" orth_id="24o1" type="cont">
+      <orth canonical="1" orth_id="24o1" type="cont">
         <part type="single">Aslında</part>
       </orth>
-      <orth canonical="1" orth_id="24o1" type="cont">
+      <orth canonical="0" orth_id="24o1" type="cont">
         <part type="single">aslında</part>
       </orth>
     </orths>
@@ -901,7 +901,7 @@
   </entry>
   <entry id="25" word="Ayrıca">
     <orths>
-      <orth canonical="0" orth_id="25o1" type="cont">
+      <orth canonical="1" orth_id="25o1" type="cont">
         <part type="single">Ayrıca</part>
       </orth>
     </orths>
@@ -915,7 +915,7 @@
   </entry>
   <entry id="26" word="başka">
     <orths>
-      <orth canonical="0" orth_id="26o1" type="cont">
+      <orth canonical="1" orth_id="26o1" type="cont">
         <part type="single">başka</part>
       </orth>
     </orths>
@@ -929,7 +929,7 @@
   </entry>
   <entry id="27" word="beraber">
     <orths>
-      <orth canonical="0" orth_id="27o1" type="cont">
+      <orth canonical="1" orth_id="27o1" type="cont">
         <part type="single">beraber</part>
       </orth>
     </orths>
@@ -943,7 +943,7 @@
   </entry>
   <entry id="28" word="beri">
     <orths>
-      <orth canonical="0" orth_id="28o1" type="cont">
+      <orth canonical="1" orth_id="28o1" type="cont">
         <part type="single">beri</part>
       </orth>
     </orths>
@@ -957,7 +957,7 @@
   </entry>
   <entry id="29" word="Binaenaleyh">
     <orths>
-      <orth canonical="0" orth_id="29o1" type="cont">
+      <orth canonical="1" orth_id="29o1" type="cont">
         <part type="single">Binaenaleyh</part>
       </orth>
     </orths>
@@ -971,10 +971,10 @@
   </entry>
   <entry id="30" word="Bir de">
     <orths>
-      <orth canonical="0" orth_id="30o1" type="cont">
+      <orth canonical="1" orth_id="30o1" type="cont">
         <part type="phrasal">Bir de</part>
       </orth>
-      <orth canonical="1" orth_id="30o1" type="cont">
+      <orth canonical="0" orth_id="30o1" type="cont">
         <part type="phrasal">bir de</part>
       </orth>
     </orths>
@@ -988,7 +988,7 @@
   </entry>
   <entry id="31" word="Bir kez">
     <orths>
-      <orth canonical="0" orth_id="31o1" type="cont">
+      <orth canonical="1" orth_id="31o1" type="cont">
         <part type="phrasal">Bir kez</part>
       </orth>
     </orths>
@@ -1003,7 +1003,7 @@
   </entry>
   <entry id="32" word="bir süre sonra">
     <orths>
-      <orth canonical="0" orth_id="32o1" type="cont">
+      <orth canonical="1" orth_id="32o1" type="cont">
         <part type="phrasal">bir süre sonra</part>
       </orth>
     </orths>
@@ -1017,7 +1017,7 @@
   </entry>
   <entry id="33" word="Bir süre sonra da">
     <orths>
-      <orth canonical="0" orth_id="33o1" type="cont">
+      <orth canonical="1" orth_id="33o1" type="cont">
         <part type="phrasal">Bir süre sonra da</part>
       </orth>
     </orths>
@@ -1031,7 +1031,7 @@
   </entry>
   <entry id="34" word="bir yandan da">
     <orths>
-      <orth canonical="0" orth_id="34o1" type="cont">
+      <orth canonical="1" orth_id="34o1" type="cont">
         <part type="phrasal">bir yandan da</part>
       </orth>
     </orths>
@@ -1045,7 +1045,7 @@
   </entry>
   <entry id="35" word="birlikte">
     <orths>
-      <orth canonical="0" orth_id="35o1" type="cont">
+      <orth canonical="1" orth_id="35o1" type="cont">
         <part type="single">birlikte</part>
       </orth>
     </orths>
@@ -1059,10 +1059,10 @@
   </entry>
   <entry id="36" word="Böylece">
     <orths>
-      <orth canonical="0" orth_id="36o1" type="cont">
+      <orth canonical="1" orth_id="36o1" type="cont">
         <part type="single">Böylece</part>
       </orth>
-      <orth canonical="1" orth_id="36o1" type="cont">
+      <orth canonical="0" orth_id="36o1" type="cont">
         <part type="single">böylece</part>
       </orth>
     </orths>
@@ -1080,10 +1080,10 @@
   </entry>
   <entry id="37" word="Çünkü">
     <orths>
-      <orth canonical="0" orth_id="37o1" type="cont">
+      <orth canonical="1" orth_id="37o1" type="cont">
         <part type="single">Çünkü</part>
       </orth>
-      <orth canonical="1" orth_id="37o1" type="cont">
+      <orth canonical="0" orth_id="37o1" type="cont">
         <part type="single">çünkü</part>
       </orth>
     </orths>
@@ -1101,7 +1101,7 @@
   </entry>
   <entry id="38" word="da">
     <orths>
-      <orth canonical="0" orth_id="38o1" type="cont">
+      <orth canonical="1" orth_id="38o1" type="cont">
         <part type="single">da</part>
       </orth>
     </orths>
@@ -1128,7 +1128,7 @@
   </entry>
   <entry id="39" word="da ... de">
     <orths>
-      <orth canonical="0" orth_id="39o1" type="discont">
+      <orth canonical="1" orth_id="39o1" type="discont">
         <part type="phrasal">da de</part>
       </orth>
     </orths>
@@ -1142,7 +1142,7 @@
   </entry>
   <entry id="40" word="da bile">
     <orths>
-      <orth canonical="0" orth_id="40o1" type="cont">
+      <orth canonical="1" orth_id="40o1" type="cont">
         <part type="phrasal">da bile</part>
       </orth>
     </orths>
@@ -1156,7 +1156,7 @@
   </entry>
   <entry id="41" word="Daha sonra">
     <orths>
-      <orth canonical="0" orth_id="41o1" type="cont">
+      <orth canonical="1" orth_id="41o1" type="cont">
         <part type="phrasal">Daha sonra</part>
       </orth>
     </orths>
@@ -1170,7 +1170,7 @@
   </entry>
   <entry id="42" word="Dahası">
     <orths>
-      <orth canonical="0" orth_id="42o1" type="cont">
+      <orth canonical="1" orth_id="42o1" type="cont">
         <part type="single">Dahası</part>
       </orth>
     </orths>
@@ -1189,7 +1189,7 @@
   </entry>
   <entry id="43" word="de">
     <orths>
-      <orth canonical="0" orth_id="43o1" type="cont">
+      <orth canonical="1" orth_id="43o1" type="cont">
         <part type="single">de</part>
       </orth>
     </orths>
@@ -1215,7 +1215,7 @@
   </entry>
   <entry id="44" word="dek">
     <orths>
-      <orth canonical="0" orth_id="44o1" type="cont">
+      <orth canonical="1" orth_id="44o1" type="cont">
         <part type="single">dek</part>
       </orth>
     </orths>
@@ -1233,10 +1233,10 @@
   </entry>
   <entry id="45" word="Dolayısıyla">
     <orths>
-      <orth canonical="0" orth_id="45o1" type="cont">
+      <orth canonical="1" orth_id="45o1" type="cont">
         <part type="single">Dolayısıyla</part>
       </orth>
-      <orth canonical="1" orth_id="45o1" type="cont">
+      <orth canonical="0" orth_id="45o1" type="cont">
         <part type="single">dolayısıyla</part>
       </orth>
     </orths>
@@ -1254,10 +1254,10 @@
   </entry>
   <entry id="46" word="fakat">
     <orths>
-      <orth canonical="0" orth_id="46o1" type="cont">
+      <orth canonical="1" orth_id="46o1" type="cont">
         <part type="single">Fakat</part>
       </orth>
-      <orth canonical="1" orth_id="46o1" type="cont">
+      <orth canonical="0" orth_id="46o1" type="cont">
         <part type="single">fakat</part>
       </orth>
     </orths>
@@ -1275,7 +1275,7 @@
   </entry>
   <entry id="47" word="Filhakika">
     <orths>
-      <orth canonical="0" orth_id="47o1" type="cont">
+      <orth canonical="1" orth_id="47o1" type="cont">
         <part type="single">Filhakika</part>
       </orth>
     </orths>
@@ -1290,7 +1290,7 @@
   </entry>
   <entry id="48" word="gene de">
     <orths>
-      <orth canonical="0" orth_id="48o1" type="cont">
+      <orth canonical="1" orth_id="48o1" type="cont">
         <part type="phrasal">gene de</part>
       </orth>
     </orths>
@@ -1304,7 +1304,7 @@
   </entry>
   <entry id="49" word="Gerçekten de">
     <orths>
-      <orth canonical="0" orth_id="49o1" type="cont">
+      <orth canonical="1" orth_id="49o1" type="cont">
         <part type="phrasal">Gerçekten de</part>
       </orth>
     </orths>
@@ -1328,7 +1328,7 @@
   </entry>
   <entry id="50" word="gibi">
     <orths>
-      <orth canonical="0" orth_id="50o1" type="cont">
+      <orth canonical="1" orth_id="50o1" type="cont">
         <part type="single">gibi</part>
       </orth>
     </orths>
@@ -1350,7 +1350,7 @@
   </entry>
   <entry id="51" word="gibi de">
     <orths>
-      <orth canonical="0" orth_id="51o1" type="cont">
+      <orth canonical="1" orth_id="51o1" type="cont">
         <part type="phrasal">gibi de</part>
       </orth>
     </orths>
@@ -1364,10 +1364,10 @@
   </entry>
   <entry id="52" word="halbuki">
     <orths>
-      <orth canonical="0" orth_id="52o1" type="cont">
+      <orth canonical="1" orth_id="52o1" type="cont">
         <part type="single">Halbuki</part>
       </orth>
-      <orth canonical="1" orth_id="52o1" type="cont">
+      <orth canonical="0" orth_id="52o1" type="cont">
         <part type="single">halbuki</part>
       </orth>
     </orths>
@@ -1381,7 +1381,7 @@
   </entry>
   <entry id="53" word="halde">
     <orths>
-      <orth canonical="0" orth_id="53o1" type="cont">
+      <orth canonical="1" orth_id="53o1" type="cont">
         <part type="single">halde</part>
       </orth>
     </orths>
@@ -1399,10 +1399,10 @@
   </entry>
   <entry id="54" word="hatta">
     <orths>
-      <orth canonical="0" orth_id="54o1" type="cont">
+      <orth canonical="1" orth_id="54o1" type="cont">
         <part type="single">hatta</part>
       </orth>
-      <orth canonical="1" orth_id="54o1" type="cont">
+      <orth canonical="0" orth_id="54o1" type="cont">
         <part type="single">Hatta</part>
       </orth>
     </orths>
@@ -1420,10 +1420,10 @@
   </entry>
   <entry id="55" word="Hem">
     <orths>
-      <orth canonical="0" orth_id="55o1" type="cont">
+      <orth canonical="1" orth_id="55o1" type="cont">
         <part type="single">hem</part>
       </orth>
-      <orth canonical="1" orth_id="55o1" type="cont">
+      <orth canonical="0" orth_id="55o1" type="cont">
         <part type="single">Hem</part>
       </orth>
     </orths>
@@ -1437,7 +1437,7 @@
   </entry>
   <entry id="56" word="hem ... hem de">
     <orths>
-      <orth canonical="0" orth_id="56o1" type="discont">
+      <orth canonical="1" orth_id="56o1" type="discont">
         <part type="phrasal">hem hem de</part>
       </orth>
     </orths>
@@ -1452,7 +1452,7 @@
   </entry>
   <entry id="57" word="hem de">
     <orths>
-      <orth canonical="0" orth_id="57o1" type="cont">
+      <orth canonical="1" orth_id="57o1" type="cont">
         <part type="phrasal">hem de</part>
       </orth>
     </orths>
@@ -1470,21 +1470,21 @@
   </entry>
   <entry id="58" word="hemen önce">
     <orths>
-      <orth canonical="0" orth_id="58o1" type="cont">
+      <orth canonical="1" orth_id="58o1" type="cont">
         <part type="phrasal">hemen önce</part>
       </orth>
     </orths>
     <syn>
-      <cat>ADV</cat>
+      <cat>ADP</cat>
       <sem>
-        <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous.Succession" />
+        <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous.Precedence" />
         <example>Sabah çok erken saatte bir önceki akşam gün batmadan hemen önce astığı </example>
       </sem>
     </syn>
   </entry>
   <entry id="59" word="için">
     <orths>
-      <orth canonical="0" orth_id="59o1" type="cont">
+      <orth canonical="1" orth_id="59o1" type="cont">
         <part type="single">için</part>
       </orth>
     </orths>
@@ -1502,7 +1502,7 @@
   </entry>
   <entry id="60" word="için de">
     <orths>
-      <orth canonical="0" orth_id="60o1" type="cont">
+      <orth canonical="1" orth_id="60o1" type="cont">
         <part type="phrasal">için de</part>
       </orth>
     </orths>
@@ -1516,7 +1516,7 @@
   </entry>
   <entry id="61" word="iken">
     <orths>
-      <orth canonical="0" orth_id="61o1" type="cont">
+      <orth canonical="1" orth_id="61o1" type="cont">
         <part type="single">iken</part>
       </orth>
     </orths>
@@ -1531,7 +1531,7 @@
   </entry>
   <entry id="62" word="İki gün sonra">
     <orths>
-      <orth canonical="0" orth_id="62o1" type="cont">
+      <orth canonical="1" orth_id="62o1" type="cont">
         <part type="phrasal">İki gün sonra</part>
       </orth>
     </orths>
@@ -1545,7 +1545,7 @@
   </entry>
   <entry id="63" word="ise">
     <orths>
-      <orth canonical="0" orth_id="63o1" type="cont">
+      <orth canonical="1" orth_id="63o1" type="cont">
         <part type="single">ise</part>
       </orth>
     </orths>
@@ -1571,7 +1571,7 @@
   </entry>
   <entry id="64" word="kadar">
     <orths>
-      <orth canonical="0" orth_id="64o1" type="cont">
+      <orth canonical="1" orth_id="64o1" type="cont">
         <part type="single">kadar</part>
       </orth>
     </orths>
@@ -1597,7 +1597,7 @@
   </entry>
   <entry id="65" word="karşın">
     <orths>
-      <orth canonical="0" orth_id="65o1" type="cont">
+      <orth canonical="1" orth_id="65o1" type="cont">
         <part type="single">karşın</part>
       </orth>
     </orths>
@@ -1611,7 +1611,7 @@
   </entry>
   <entry id="66" word="Keza">
     <orths>
-      <orth canonical="0" orth_id="66o1" type="cont">
+      <orth canonical="1" orth_id="66o1" type="cont">
         <part type="single">Keza</part>
       </orth>
     </orths>
@@ -1630,7 +1630,7 @@
   </entry>
   <entry id="67" word="ki">
     <orths>
-      <orth canonical="0" orth_id="67o1" type="cont">
+      <orth canonical="1" orth_id="67o1" type="cont">
         <part type="single">ki</part>
       </orth>
     </orths>
@@ -1661,7 +1661,7 @@
   </entry>
   <entry id="68" word="Madem">
     <orths>
-      <orth canonical="0" orth_id="68o1" type="cont">
+      <orth canonical="1" orth_id="68o1" type="cont">
         <part type="single">Madem</part>
       </orth>
     </orths>
@@ -1675,7 +1675,7 @@
   </entry>
   <entry id="69" word="meğer">
     <orths>
-      <orth canonical="0" orth_id="69o1" type="cont">
+      <orth canonical="1" orth_id="69o1" type="cont">
         <part type="single">meğer</part>
       </orth>
     </orths>
@@ -1689,10 +1689,10 @@
   </entry>
   <entry id="70" word="mesela">
     <orths>
-      <orth canonical="0" orth_id="70o1" type="cont">
+      <orth canonical="1" orth_id="70o1" type="cont">
         <part type="single">Mesela</part>
       </orth>
-      <orth canonical="1" orth_id="70o1" type="cont">
+      <orth canonical="0" orth_id="70o1" type="cont">
         <part type="single">mesela</part>
       </orth>
     </orths>
@@ -1706,7 +1706,7 @@
   </entry>
   <entry id="71" word="nasıl ... sa">
     <orths>
-      <orth canonical="0" orth_id="71o1" type="discont">
+      <orth canonical="1" orth_id="71o1" type="discont">
         <part type="phrasal">nasıl sa</part>
       </orth>
     </orths>
@@ -1720,7 +1720,7 @@
   </entry>
   <entry id="72" word="ne">
     <orths>
-      <orth canonical="0" orth_id="72o1" type="cont">
+      <orth canonical="1" orth_id="72o1" type="cont">
         <part type="single">ne</part>
       </orth>
     </orths>
@@ -1734,7 +1734,7 @@
   </entry>
   <entry id="73" word="ne ... ne de">
     <orths>
-      <orth canonical="0" orth_id="73o1" type="discont">
+      <orth canonical="1" orth_id="73o1" type="discont">
         <part type="phrasal">ne ne de</part>
       </orth>
     </orths>
@@ -1748,7 +1748,7 @@
   </entry>
   <entry id="74" word="ne ki">
     <orths>
-      <orth canonical="0" orth_id="74o1" type="cont">
+      <orth canonical="1" orth_id="74o1" type="cont">
         <part type="phrasal">ne ki</part>
       </orth>
     </orths>
@@ -1762,7 +1762,7 @@
   </entry>
   <entry id="75" word="Ne var ki">
     <orths>
-      <orth canonical="0" orth_id="75o1" type="cont">
+      <orth canonical="1" orth_id="75o1" type="cont">
         <part type="phrasal">Ne var ki</part>
       </orth>
     </orths>
@@ -1776,7 +1776,7 @@
   </entry>
   <entry id="76" word="Nihayet">
     <orths>
-      <orth canonical="0" orth_id="76o1" type="cont">
+      <orth canonical="1" orth_id="76o1" type="cont">
         <part type="single">Nihayet</part>
       </orth>
     </orths>
@@ -1795,7 +1795,7 @@
   </entry>
   <entry id="77" word="Nitekim">
     <orths>
-      <orth canonical="0" orth_id="77o1" type="cont">
+      <orth canonical="1" orth_id="77o1" type="cont">
         <part type="single">Nitekim</part>
       </orth>
     </orths>
@@ -1809,10 +1809,10 @@
   </entry>
   <entry id="78" word="Oysa">
     <orths>
-      <orth canonical="0" orth_id="78o1" type="cont">
+      <orth canonical="1" orth_id="78o1" type="cont">
         <part type="single">Oysa</part>
       </orth>
-      <orth canonical="1" orth_id="78o1" type="cont">
+      <orth canonical="0" orth_id="78o1" type="cont">
         <part type="single">oysa</part>
       </orth>
     </orths>
@@ -1830,7 +1830,7 @@
   </entry>
   <entry id="79" word="öğleden sonra">
     <orths>
-      <orth canonical="0" orth_id="79o1" type="cont">
+      <orth canonical="1" orth_id="79o1" type="cont">
         <part type="phrasal">öğleden sonra</part>
       </orth>
     </orths>
@@ -1844,12 +1844,12 @@
   </entry>
   <entry id="80" word="önce">
     <orths>
-      <orth canonical="0" orth_id="80o1" type="cont">
+      <orth canonical="1" orth_id="80o1" type="cont">
         <part type="single">önce</part>
       </orth>
     </orths>
     <syn>
-      <cat>ADV_ADP</cat>
+      <cat>ADP</cat>
       <sem>
         <pdtb2_relation anno_N="6" freq="6" sense="Temporal.Asynchronous.Precedence" />
         <example>ve kadın terasa çıkmadan önce kaçıyordu.</example>
@@ -1858,10 +1858,10 @@
   </entry>
   <entry id="81" word="örneğin">
     <orths>
-      <orth canonical="0" orth_id="81o1" type="cont">
+      <orth canonical="1" orth_id="81o1" type="cont">
         <part type="single">örneğin</part>
       </orth>
-      <orth canonical="1" orth_id="81o1" type="cont">
+      <orth canonical="0" orth_id="81o1" type="cont">
         <part type="single">Örneğin</part>
       </orth>
     </orths>
@@ -1875,7 +1875,7 @@
   </entry>
   <entry id="82" word="Öte yandan">
     <orths>
-      <orth canonical="0" orth_id="82o1" type="cont">
+      <orth canonical="1" orth_id="82o1" type="cont">
         <part type="phrasal">Öte yandan</part>
       </orth>
     </orths>
@@ -1895,7 +1895,7 @@
   </entry>
   <entry id="83" word="Öyle ki">
     <orths>
-      <orth canonical="0" orth_id="83o1" type="cont">
+      <orth canonical="1" orth_id="83o1" type="cont">
         <part type="phrasal">Öyle ki</part>
       </orth>
     </orths>
@@ -1910,7 +1910,7 @@
   </entry>
   <entry id="84" word="öyleyse">
     <orths>
-      <orth canonical="0" orth_id="84o1" type="cont">
+      <orth canonical="1" orth_id="84o1" type="cont">
         <part type="single">öyleyse</part>
       </orth>
     </orths>
@@ -1924,7 +1924,7 @@
   </entry>
   <entry id="85" word="Özellikle">
     <orths>
-      <orth canonical="0" orth_id="85o1" type="cont">
+      <orth canonical="1" orth_id="85o1" type="cont">
         <part type="single">Özellikle</part>
       </orth>
     </orths>
@@ -1942,7 +1942,7 @@
   </entry>
   <entry id="86" word="rağmen">
     <orths>
-      <orth canonical="0" orth_id="86o1" type="cont">
+      <orth canonical="1" orth_id="86o1" type="cont">
         <part type="single">rağmen</part>
       </orth>
     </orths>
@@ -1960,7 +1960,7 @@
   </entry>
   <entry id="87" word="sadece ... değil">
     <orths>
-      <orth canonical="0" orth_id="87o1" type="discont">
+      <orth canonical="1" orth_id="87o1" type="discont">
         <part type="phrasal">sadece değil da</part>
       </orth>
     </orths>
@@ -1974,10 +1974,10 @@
   </entry>
   <entry id="88" word="Sanki">
     <orths>
-      <orth canonical="0" orth_id="88o1" type="cont">
+      <orth canonical="1" orth_id="88o1" type="cont">
         <part type="single">Sanki</part>
       </orth>
-      <orth canonical="1" orth_id="88o1" type="cont">
+      <orth canonical="0" orth_id="88o1" type="cont">
         <part type="single">sanki</part>
       </orth>
     </orths>
@@ -1995,7 +1995,7 @@
   </entry>
   <entry id="89" word="sırada">
     <orths>
-      <orth canonical="0" orth_id="89o1" type="cont">
+      <orth canonical="1" orth_id="89o1" type="cont">
         <part type="single">sırada</part>
       </orth>
     </orths>
@@ -2009,20 +2009,22 @@
   </entry>
   <entry id="90" word="sonra">
     <orths>
-      <orth canonical="0" orth_id="90o1" type="cont">
+      <orth canonical="1" orth_id="90o1" type="cont">
         <part type="single">sonra</part>
       </orth>
-      <orth canonical="1" orth_id="90o1" type="cont">
+      <orth canonical="0" orth_id="90o1" type="cont">
         <part type="single">Sonra</part>
       </orth>
     </orths>
     <syn>
-      <cat>ADV_ADP</cat>
+      <cat>ADV</cat>
       <sem>
         <pdtb2_relation anno_N="58" freq="21" sense="Temporal.Asynchronous.Precedence" />
         <example>Bir tenekeye tekme atamazdım mesela. Kaçamazdım sonra.</example>
       </sem>
-          <syn>
+    </syn>
+    <syn>
+      <cat>ADP</cat>
       <sem>
         <pdtb2_relation anno_N="58" freq="37" sense="Temporal.Asynchronous.Succession" />
         <example>kadın çamaşırları astıktan sonra bekliyor 
@@ -2030,9 +2032,9 @@
       </sem>
     </syn>
   </entry>
-  <entry id="91" word="sonra ... bile">
+  <entry id="91" word="sonra bile">
     <orths>
-      <orth canonical="0" orth_id="91o1" type="discont">
+      <orth canonical="1" orth_id="91o1" type="discont">
         <part type="phrasal">sonra bile</part>
       </orth>
     </orths>
@@ -2046,7 +2048,7 @@
   </entry>
   <entry id="92" word="sonra da">
     <orths>
-      <orth canonical="0" orth_id="92o1" type="cont">
+      <orth canonical="1" orth_id="92o1" type="cont">
         <part type="phrasal">sonra da</part>
       </orth>
     </orths>
@@ -2056,6 +2058,9 @@
         <pdtb2_relation anno_N="5" freq="3" sense="Temporal.Asynchronous.Precedence" />
         <example>Bu koşan adamın arkasından öylesine bakıyorlar, sonra da yollarına devam ediyorlardı.</example>
       </sem>
+    </syn>
+    <syn>
+      <cat>ADP</cat>
       <sem>
         <pdtb2_relation anno_N="5" freq="2" sense="Temporal.Asynchronous.Succession" />
         <example>sınıfların ve sınıf mücadelesinin üretim araçlarının toplumsal mülkiyeti tamamlandıktan sonra da devam edeceğini,</example>
@@ -2064,7 +2069,7 @@
   </entry>
   <entry id="93" word="sonra ise">
     <orths>
-      <orth canonical="0" orth_id="93o1" type="cont">
+      <orth canonical="1" orth_id="93o1" type="cont">
         <part type="phrasal">sonra ise</part>
       </orth>
     </orths>
@@ -2078,7 +2083,7 @@
   </entry>
   <entry id="94" word="Sonraları">
     <orths>
-      <orth canonical="0" orth_id="94o1" type="cont">
+      <orth canonical="1" orth_id="94o1" type="cont">
         <part type="single">Sonraları</part>
       </orth>
     </orths>
@@ -2093,10 +2098,10 @@
   </entry>
   <entry id="95" word="sonunda">
     <orths>
-      <orth canonical="0" orth_id="95o1" type="cont">
+      <orth canonical="1" orth_id="95o1" type="cont">
         <part type="single">Sonunda</part>
       </orth>
-      <orth canonical="1" orth_id="95o1" type="cont">
+      <orth canonical="0" orth_id="95o1" type="cont">
         <part type="single">sonunda</part>
       </orth>
     </orths>
@@ -2115,7 +2120,7 @@
   </entry>
   <entry id="96" word="şimdi">
     <orths>
-      <orth canonical="0" orth_id="96o1" type="cont">
+      <orth canonical="1" orth_id="96o1" type="cont">
         <part type="single">şimdi</part>
       </orth>
     </orths>
@@ -2129,7 +2134,7 @@
   </entry>
   <entry id="97" word="tersine">
     <orths>
-      <orth canonical="0" orth_id="97o1" type="cont">
+      <orth canonical="1" orth_id="97o1" type="cont">
         <part type="single">tersine</part>
       </orth>
     </orths>
@@ -2143,7 +2148,7 @@
   </entry>
   <entry id="98" word="Üç gün sonra">
     <orths>
-      <orth canonical="0" orth_id="98o1" type="cont">
+      <orth canonical="1" orth_id="98o1" type="cont">
         <part type="phrasal">Üç gün sonra</part>
       </orth>
     </orths>
@@ -2157,7 +2162,7 @@
   </entry>
   <entry id="99" word="Üstelik">
     <orths>
-      <orth canonical="0" orth_id="99o1" type="cont">
+      <orth canonical="1" orth_id="99o1" type="cont">
         <part type="single">Üstelik</part>
       </orth>
     </orths>
@@ -2171,7 +2176,7 @@
   </entry>
   <entry id="100" word="üzere">
     <orths>
-      <orth canonical="0" orth_id="100o1" type="cont">
+      <orth canonical="1" orth_id="100o1" type="cont">
         <part type="single">üzere</part>
       </orth>
     </orths>
@@ -2185,7 +2190,7 @@
   </entry>
   <entry id="101" word="üzerine">
     <orths>
-      <orth canonical="0" orth_id="101o1" type="cont">
+      <orth canonical="1" orth_id="101o1" type="cont">
         <part type="single">üzerine</part>
       </orth>
     </orths>
@@ -2199,7 +2204,7 @@
   </entry>
   <entry id="102" word="vakit">
     <orths>
-      <orth canonical="0" orth_id="102o1" type="cont">
+      <orth canonical="1" orth_id="102o1" type="cont">
         <part type="single">vakit</part>
       </orth>
     </orths>
@@ -2213,10 +2218,10 @@
   </entry>
   <entry id="103" word="ve">
     <orths>
-      <orth canonical="0" orth_id="103o1" type="cont">
+      <orth canonical="1" orth_id="103o1" type="cont">
         <part type="single">ve</part>
       </orth>
-      <orth canonical="1" orth_id="103o1" type="cont">
+      <orth canonical="0" orth_id="103o1" type="cont">
         <part type="single">Ve</part>
       </orth>
     </orths>
@@ -2246,7 +2251,7 @@
   </entry>
   <entry id="104" word="veya">
     <orths>
-      <orth canonical="0" orth_id="104o1" type="cont">
+      <orth canonical="1" orth_id="104o1" type="cont">
         <part type="single">veya</part>
       </orth>
     </orths>
@@ -2260,7 +2265,7 @@
   </entry>
   <entry id="105" word="ya ... ya da">
     <orths>
-      <orth canonical="0" orth_id="105o1" type="discont">
+      <orth canonical="1" orth_id="105o1" type="discont">
         <part type="phrasal">ya ya da</part>
       </orth>
     </orths>
@@ -2274,10 +2279,10 @@
   </entry>
   <entry id="106" word="Ya da">
     <orths>
-      <orth canonical="0" orth_id="106o1" type="cont">
+      <orth canonical="1" orth_id="106o1" type="cont">
         <part type="phrasal">ya da</part>
       </orth>
-      <orth canonical="1" orth_id="106o1" type="cont">
+      <orth canonical="0" orth_id="106o1" type="cont">
         <part type="phrasal">Ya da</part>
       </orth>
     </orths>
@@ -2295,7 +2300,7 @@
   </entry>
   <entry id="107" word="Yalnız">
     <orths>
-      <orth canonical="0" orth_id="107o1" type="cont">
+      <orth canonical="1" orth_id="107o1" type="cont">
         <part type="single">Yalnız</part>
       </orth>
     </orths>
@@ -2314,7 +2319,7 @@
   </entry>
   <entry id="108" word="Yalnızca">
     <orths>
-      <orth canonical="0" orth_id="108o1" type="cont">
+      <orth canonical="1" orth_id="108o1" type="cont">
         <part type="single">Yalnızca</part>
       </orth>
     </orths>
@@ -2328,10 +2333,10 @@
   </entry>
   <entry id="109" word="Yani">
     <orths>
-      <orth canonical="0" orth_id="109o1" type="cont">
+      <orth canonical="1" orth_id="109o1" type="cont">
         <part type="single">Yani</part>
       </orth>
-      <orth canonical="1" orth_id="109o1" type="cont">
+      <orth canonical="0" orth_id="109o1" type="cont">
         <part type="single">yani</part>
       </orth>
     </orths>
@@ -2361,7 +2366,7 @@
   </entry>
   <entry id="110" word="yine de">
     <orths>
-      <orth canonical="0" orth_id="110o1" type="cont">
+      <orth canonical="1" orth_id="110o1" type="cont">
         <part type="phrasal">yine de</part>
       </orth>
     </orths>
@@ -2375,10 +2380,10 @@
   </entry>
   <entry id="111" word="Yoksa">
     <orths>
-      <orth canonical="0" orth_id="111o1" type="cont">
+      <orth canonical="1" orth_id="111o1" type="cont">
         <part type="single">Yoksa</part>
       </orth>
-      <orth canonical="1" orth_id="111o1" type="cont">
+      <orth canonical="0" orth_id="111o1" type="cont">
         <part type="single">yoksa</part>
       </orth>
     </orths>
@@ -2396,7 +2401,7 @@
   </entry>
   <entry id="112" word="zaman">
     <orths>
-      <orth canonical="0" orth_id="112o1" type="cont">
+      <orth canonical="1" orth_id="112o1" type="cont">
         <part type="single">zaman</part>
       </orth>
     </orths>
@@ -2414,10 +2419,10 @@
   </entry>
   <entry id="113" word="Zaten">
     <orths>
-      <orth canonical="0" orth_id="113o1" type="cont">
+      <orth canonical="1" orth_id="113o1" type="cont">
         <part type="single">zaten</part>
       </orth>
-      <orth canonical="1" orth_id="113o1" type="cont">
+      <orth canonical="0" orth_id="113o1" type="cont">
         <part type="single">Zaten</part>
       </orth>
     </orths>
