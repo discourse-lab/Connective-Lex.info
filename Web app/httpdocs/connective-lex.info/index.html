@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="css/simple-sidebar.css?20170919" type="text/css" />
 
   <!-- Connective-Lex.info stylesheet. -->
-  <link rel="stylesheet" href="css/c24.css?20180914a" type="text/css" />
+  <link rel="stylesheet" href="css/c24.css?20220123" type="text/css" />
 </head>
 
 <body>
@@ -22,8 +22,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
   <!-- Bootstrap 4 controls libary. Addendum to the stylesheet above. -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.1/js/bootstrap.min.js" integrity="sha512-UR25UO94eTnCVwjbXozyeVd6ZqpaAE9naiEUBK/A+QDbfSTQFhPGj5lOR6d8tsgbBk84Ggb5A3EkjsOgPRPcKA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <!-- Lodash library for object manipulation. -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.1/js/bootstrap.bundle.min.js" integrity="sha512-mULnawDVcCnsk9a4aG1QLZZ6rcce/jSzEGqUkeOLy0b6q0+T6syHrxlsAGH7ZVoqC93Pd0lBqd6WguPWih7VHA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>  <!-- Lodash library for object manipulation. -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js"></script>
 
   <!-- Js{Render|Views|Observable} template & data binding library. https://www.jsviews.com/ -->
@@ -353,7 +352,7 @@
           <label class="lex-name">
             <input type="checkbox" class="selection-checkbox" value="{{: key}}" data-link="prop.selected" />
             {{: ~root.metadata[key].lexiconName}}
-            <small class="lex-language text-muted">{{: ~root.metadata[key].languageEnglish}}</small>
+            <span class="lex-language text-muted">{{: ~root.metadata[key].languageEnglish}}</span>
 		  </label>
         </span>
         <span class="col-3">
@@ -379,7 +378,7 @@
   -->
   <script id="searchOptionsTemplate" type="text/html">
     <form data-link="{on 'click' 'input[type=checkbox]' onSelectCheckbox}
-                     {on 'click change' 'select' onSelectFilterType}
+                     {on 'change' 'select' onSelectFilterType}
                      {on 'change input keyup keydown cut paste' '#filter' onChangeFilterText}
                      {on 'submit' onSubmit}
                      {on 'click' '#go-button' onSubmit}">
@@ -388,7 +387,7 @@
           <div class="row">
             <div class="col-12">
               <div id="filter-group" class="input-group input-group-sm">
-                <input id="filter" class="form-control" type="search" placeholder="Filter" data-link="filterText">
+                <input id="filter" class="form-control" type="search" placeholder="Filter" data-link="filterText" />
                 <select id="filter-select" class="input-group-addon custom-select" data-link="filterTypeStr">
                   <optgroup label="Search all fields (Word + Synonyms + Examples):">
                     <option value="word_synonym_example">All</option>
@@ -399,9 +398,11 @@
                     <option value="word_example">Word + Examples</option>
                   </optgroup>
                 </select>
-                <button type="button" class="btn btn-sm c24-darker-bg" id="go-button">
-                  <span id="go-button-content"></span>
-                </button>
+                <div class="input-group-append">
+                  <button type="button" class="btn c24-darker-bg" id="go-button">
+                    <span id="go-button-content"></span>
+                  </button>
+                </div>
               </div>
             </div>
           </div>
@@ -756,7 +757,7 @@
       Main area, used for search results.
     -->
     <div id="page-content-wrapper">
-      <a href="#menu-toggle" class="btn bg-light" id="menu-toggle" title="Toggle sidebar"><span id="togglebutton-content"></span></a>
+      <a href="#menu-toggle" class="btn btn-light" id="menu-toggle" title="Toggle sidebar"><span id="togglebutton-content"></span></a>
       <div class="container-fluid" id="resultList">
       </div>
     </div>
