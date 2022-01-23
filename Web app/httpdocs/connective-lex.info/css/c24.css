@@ -91,6 +91,14 @@ input[type="checkbox"] {
   background-color: white;
 }
 
+.lex-language {
+  font-size: small;
+}
+
+.aboutlink {
+  font-size: small;
+}
+
 .tab-content {
   margin-top: 1rem;
 }
@@ -107,6 +115,10 @@ blockquote {
   margin-bottom: 0;
 }
 
+.sidebar-subsection.syn label {
+  margin-right: .8rem;
+}
+
 .sense-subtypes {
   margin-bottom: .5rem;
 }
@@ -119,6 +131,10 @@ blockquote {
 #progress {
   height: .5rem;
   width: 100%;
+}
+
+.form-control, .custom-select {
+  height: auto !important;
 }
 
 #progressbar {}
