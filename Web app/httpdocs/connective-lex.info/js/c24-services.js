@@ -48,7 +48,7 @@ class LexListService {
     if (!this.lexListCache || forceRefresh) {
       // list must be downloaded
       return $.get(this.lexListUrl).then(
-        response => (this.lexListCache = response.sort((lhs, rhs) => lhs.lexId.toLowerCase().localeCompare(rhs.lexId.toLowerCase())))
+        response => (this.lexListCache = response.sort((lhs, rhs) => lhs.lexId.localeCompare(rhs.lexId, undefined, {sensitivity: 'base'})))
       ).catch(
         this.handleError.bind(this)
       );
