@@ -350,14 +350,14 @@
       <div class="row selection-row">
         <span class="col-9">
           <label class="lex-name">
-            <input type="checkbox" class="selection-checkbox" value="{{: key}}" data-link="prop.selected" />
+            <input type="checkbox" class="selection-checkbox" value="{{:key}}" data-link="prop.selected" />
             {{: ~root.metadata[key].lexiconName}}
             <span class="lex-language text-muted">{{: ~root.metadata[key].languageEnglish}}</span>
 		  </label>
         </span>
         <span class="col-3">
           <a href="javascript:void(0)" onClick="ShowMetadata('{{:key}}');" data-toggle="modal" data-target="#metadataDialog"
-          class="aboutlink c24-darklink-color">about</a>
+          class="aboutlink c24-darklink-color" style="color: {{:~root.metadata[key].color}} !important;">about</a>
         </span>
       </div>
       {{else}}
@@ -530,13 +530,18 @@
     <ul class="list-group mb-4">
       <li class="list-group-item flex-column c24-darker-bg">
         <div class="col-12 result-header-text pl-0">
-          Found <strong class="result-header-number"> {^{: results.length}} </strong> matching results. &emsp; {^{if results.length
-          > 0}}
+          Found <strong class="result-header-number"> {^{: results.length}} </strong> 
+          matching results{^{if results.length > 0 && resultCounts}} from 
+          <strong class="result-header-number">{^{:resultCounts.numLexicons()}}</strong> 
+          lexicon{^{if resultCounts.numLexicons() != 1}}s{{/if}}{{/if}}. 
+          {^{if results.length > 0}} <br />
           <span class="result-header-number">
-                {^{props resultCounts}}
-                <a href="javascript:void(0)" onclick="document.documentElement.scrollTop = document.body.scrollTop = $('a[name=\'{{:key}}\']').offset().top - 70; return false;" class="c24-darkerlink-color">
-                  {{:key}}</a>:
-                  <strong>{{:prop}}</strong><span class="sep-not-if-last"> &ensp; </span>{{/props}}
+            {^{props resultCounts noFunctions=true}}{{if key != "numLexicons"}}
+            <a href="javascript:void(0)" 
+                onclick="document.documentElement.scrollTop = document.body.scrollTop = $('a[name=\'{{:key}}\']').offset().top - 70; return false;"
+                class="c24-darkerlink-color">
+              {{:key}}</a>:
+              <strong>{{:prop}}</strong><span class="sep-not-if-last"> &ensp; </span>{{/if}}{{/props}}
           </span> {{/if}}
         </div>
       </li>
@@ -550,9 +555,10 @@
     Result item template. Renders a single search result within the Result list template.
   -->
   <script id="resultListItemTemplate" type="text/html">
-    <li class="result list-group-item c24-lighter-bg container-fluid" id="entry{{:lexId}}{{:id}}" data-link="
-      {on 'mouseover' '.main-word, .synonym, .example' onMouseOverTranslatableElement}
-    ">
+    <li class="result list-group-item c24-lighter-bg container-fluid" 
+        style="border-left-width: 3px; border-left-color: {{:color}};" 
+        id="entry{{:lexId}}{{:id}}" 
+        data-link="{on 'mouseover' '.main-word, .synonym, .example' onMouseOverTranslatableElement}">
       {{!--<!--
         Head part: word, 'Veriants' and 'Synonyms' buttons, language, lexicon name and id.
       -->--}}

@@ -101,9 +101,6 @@ class LexiconPreprocessor {
   PreprocessEntry(entry, ientry, aentry) {
     entry.lexId = this.lexId;
     let metadata = this.metadata[this.lexId];
-    if (!metadata.color) {
-      metadata.color = '#' + (metadata.lexiconName.hashCode() & 0xFFFFFF).toString(16).substring(0, 6);
-    }
     entry.color = metadata.color;
     entry.lexName = metadata.lexiconName;
     entry.posTagset = metadata.parseInfo.posTagset;
@@ -351,6 +348,10 @@ class ResultsFilter {
           return true;
         }
         for (let j in entry.orths.orth[i].part) {
+          if (!entry.orths.orth[i].part[j].t) {
+            console.warn(`${entry.lexName} ${entry.id} has no text in orth ${i}, part ${j}.`, entry);
+            continue;
+          }
           if (entry.orths.orth[i].part[j].t.indexOf(gOptionsComponent.filterText) >= 0) {
             return true;
           }
