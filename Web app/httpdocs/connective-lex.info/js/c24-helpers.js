@@ -99,20 +99,20 @@ class LexiconPreprocessor {
    * @param {Object[]} aentry - Array of all entries
    */
   PreprocessEntry(entry, ientry, aentry) {
-    entry['lexId'] = this.lexId;
+    entry.lexId = this.lexId;
     let metadata = this.metadata[this.lexId];
     if (!metadata.color) {
       metadata.color = '#' + (metadata.lexiconName.hashCode() & 0xFFFFFF).toString(16).substring(0, 6);
     }
-    entry['color'] = metadata.color;
-    entry['lexName'] = metadata.lexiconName;
-    entry['posTagset'] = metadata.parseInfo.posTagset;
-    entry['senseTagset'] = metadata.parseInfo.senseTagset;
-    entry['language'] = metadata.languageEnglish;
+    entry.color = metadata.color;
+    entry.lexName = metadata.lexiconName;
+    entry.posTagset = metadata.parseInfo.posTagset;
+    entry.senseTagset = metadata.parseInfo.senseTagset;
+    entry.language = metadata.languageEnglish;
 
     this.CreatePathIfNotExists(entry, 'synonyms.synonym');
     entry.synonyms.synonym = entry.synonyms.synonym.filter(elem => elem.t);
-    entry['hasSynonyms'] = this.HasSynonyms(entry);
+    entry.hasSynonyms = this.HasSynonyms(entry);
 
     this.CreatePathIfNotExists(entry, 'stts.example');
     entry.stts.example = entry.stts.example.filter(elem => elem.t);

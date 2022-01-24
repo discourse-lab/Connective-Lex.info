@@ -91,6 +91,10 @@ input[type="checkbox"] {
   background-color: white;
 }
 
+.main-word {
+  font-weight: bold;
+}
+
 .lex-language {
   font-size: small;
 }
@@ -188,6 +192,11 @@ input[type="search"]::-webkit-search-cancel-button {
 
 .synonym {
   line-height: 1.3;
+  font-style: normal;
+}
+
+.synonym-lexid {
+  font-style: normal;
 }
 
 .syn[title]:not([title=""]),

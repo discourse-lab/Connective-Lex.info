@@ -556,17 +556,20 @@
       {{!--<!--
         Head part: word, 'Veriants' and 'Synonyms' buttons, language, lexicon name and id.
       -->--}}
-      <div class="row">
-        <div class="col-4">
-          <strong class="main-word"><a name="{{:lexName}}">{{:word}}</a></strong>
-          {{if type}} &emsp;
+      <div class="row justify-content-end">
+        <div class="col-7">
+          <span class="main-word"><a name="{{:lexName}}">{{:word}}</a></span>
+          {{if type}} &ensp;
           <small class="text-muted conn-type" title="
             {{if type==='primary connective'}}Fully grammaticalized connective, usually a single word.
             {{else type==='secondary connective'}}A short phrase always used as a connective.
             {{else type==='altlex'}}Alternative lexicalization sometimes used in place of a real connective.{{/if}}
         ">{{:type}}</small> {{/if}}
-          {{if focuspart && focuspart.t}} &emsp;
+          {{if focuspart && focuspart.t}}  &ensp;
           <small class="text-muted focuspart" title="Can be a focus particle.">focus</small>{{/if}}
+          {{if english_equivalent && english_equivalent.t}} <br />
+          <div class="text-muted mt-1">{{:english_equivalent.t}}</div>
+          {{/if}}
         </div>
         <div class="col">
           <button class="btn btn-block btn-sm c24-darker-bg result-button" title="Show variants"
@@ -574,15 +577,8 @@
           Variants
         </button>
         </div>
-        <div class="col">
-          <button class="btn btn-block btn-sm c24-darker-bg result-button" title="Show synonyms"
-            data-toggle="collapse" data-target="#synonyms{{:lexId}}{{:id}}" data-parent="#entry{{:lexId}}{{:id}}"
-            {{if !hasSynonyms}}disabled{{/if}}>
-          Synonyms
-        </button>
-        </div>
-        <div class="col d-flex justify-content-end">
-          <small class="ml-auto text-muted word-source-lex">{{:language}} &ndash; {{:lexName}} {{:id}}</small>
+        <div class="col-3 d-flex">
+          <small class="ml-auto text-muted word-source-lex" style="text-align: right;">{{:language}}<br />{{:lexName}} {{:id}}</small>
         </div>
       </div>
       {{!--<!--
@@ -602,31 +598,6 @@
         </div>
       </div>
 
-      {{if hasSynonyms}}
-      <div class="col-12 collapse" id="synonyms{{:lexId}}{{:id}}" data-parent="#entry{{:lexId}}{{:id}}" aria-expanded="false">
-        <div class="card m-2 p-2">
-          <span class="synonyms-header">Synonyms:</span>
-          {{for synonyms.synonym}}
-          <div>
-            <span><span class="synonym">{{:t}}</span>
-            <small class="synonym-lexid text-muted">{{:lexicon}} {{:#data['entry-id']}}</small></span>
-          </div>
-          {{/for}}
-          {{for syn}} {{if synonyms}} {{for synonyms.synonym ~cat=cat.t}}
-          <div>
-            <span><small>{{:~cat}}:</small> <span class="synonym">{{:t}}</span>
-            <small class="synonym-lexid text-muted">{{:lexicon}} {{:#data['entry-id']}}</small></span>
-          </div>
-          {{/for}} {{/if}} {{for sem ~cat=cat.t}} {{if synonyms}} {{for synonyms.synonym ~sense=pdtb3_relation[0].sense}}
-          <div>
-            <span><small>{{:~cat}} {{:~sense}}:</small> <span class="synonym">{{:t}}</span>
-            <small class="synonym-lexid text-muted">{{:lexicon}} {{:#data['entry-id']}}</small></span>
-          </div>
-          {{/for}} {{/if}} {{/for}} {{/for}}
-        </div>
-      </div>
-      {{/if}}
-
       {{!--<!--
         Syn + sem part: For each word class, this part contains a list of semantic relations which
         can be expressed by the connective when it has this word class. Each word class and/or semantic
@@ -634,6 +605,14 @@
       -->--}}
       {{include ~result=#data}}
       <div class="col-12">
+
+        {{if synonyms && synonyms.synonym.length>0}} <span class="example"> <strong>Synonyms:</strong>
+          {{for synonyms.synonym}} 
+          <span class="synonym">{{:t}}</span>
+          <small class="synonym-lexid text-muted">{{:lexicon}} {{:#data['entry-id']}}</small><span class="sep-not-if-last">, </span> 
+          {{/for}} </span> 
+        {{/if}}
+
         {{for syn}}
         <div class="card m-2 p-2">
           <span>
@@ -673,7 +652,14 @@
 
           </span>
           <div>
-            {{for example}} <span class="example"> {{:t}} </span> {{/for}}
+            {{if synonyms && synonyms.synonym}} <br /><span class="example"> <strong>Synonyms:</strong>
+              {{for synonyms.synonym}} 
+              <span class="synonym">{{:t}}</span>
+              <small class="synonym-lexid text-muted">{{:lexicon}} {{:#data['entry-id']}}</small><span class="sep-not-if-last">, </span> 
+              {{/for}} </span> 
+            {{/if}}
+            <span> {{for example}} <br><span class="example"><strong>Example:</strong> {{:t}}</span> {{/for}} </span>
+            <span> {{if english_equivalent && english_equivalent.t}} <br><span class="example">({{:english_equivalent.t}})</span> {{/if}} </span>
           </div>
           <div>
             <blockquote class="blockquote m-1 p-1">
@@ -689,7 +675,14 @@
                 </span>
                 <span class="sep-not-if-last">&ensp;+&ensp;</span>{{/for}}
                 </span>
-                <span> {{for example}} <br><span class="example">{{:t}}</span> {{/for}} </span>
+                {{if synonyms && synonyms.synonym}} <br /><span class="example"> <strong>Synonyms:</strong>
+                  {{for synonyms.synonym}} 
+                  <span class="synonym">{{:t}}</span>
+                  <small class="synonym-lexid text-muted">{{:lexicon}} {{:#data['entry-id']}}</small><span class="sep-not-if-last">, </span> 
+                  {{/for}} </span> 
+                {{/if}}
+                <span> {{for example}} <br><span class="example"><strong>Example:</strong> {{:t}}</span> {{/for}} </span>
+                <span> {{if english_equivalent && english_equivalent.t}} <br><span class="example">({{:english_equivalent.t}})</span> {{/if}} </span>
               </p>
               {{/for}}
             </blockquote>
@@ -706,8 +699,9 @@
       <div class="col-12">
         {{if stts.example[0] && stts.example[0].t}}
         <div class="unattached-examples">
-          <span class="examples-text">Examples:</span> {{for stts.example}} <span class="example">{{:t}}</span>
-          <span class="sep-not-if-last"><br></span> {{/for}}
+          {{for stts.example}} 
+          <span class="example"><strong>Example:</strong> {{:t}}</span><span class="sep-not-if-last"><br></span> 
+          {{/for}}
         </div>
         {{/if}}
       </div>

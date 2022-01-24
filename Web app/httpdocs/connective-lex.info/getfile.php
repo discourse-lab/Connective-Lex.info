@@ -40,8 +40,7 @@ try
   }
 
   // If filename does not end in '.json', append '.json'
-  if (strstr($filename, '.json') !== '.json'
-   && strstr($filename, '.meta') !== '.meta') {
+  if (strstr($filename, '.json') !== '.json') {
     $filename .= '.json';
   }
 

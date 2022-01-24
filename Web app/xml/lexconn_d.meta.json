@@ -1,0 +1,36 @@
+{
+  "lexiconName": "LexConn",
+  "lexiconNameFull": "Base lexicale des connecteurs discursifs du français",
+  "version": "1.0",
+  "originalReleaseDate": "2009",
+  "currentReleaseDate": "2016",
+  "languageEnglish": "French",
+  "languageNative": "Français",
+  "locale": "fr-FR",
+  "islrn": "",
+  "homepage": "http://www.linguist.univ-paris-diderot.fr/~croze/",
+  "about": "LexConn's sense tagset, SDRT, has been preliminarily mapped to the app tagset, PDTB3, by the authors of this web app. The results in this web app display the mapped PDTB3 tags which are not part of the LexConn source.",
+  "parseInfo": {
+    "posTagset": "lexconn",
+    "senseTagset": "sdrt"
+  },
+  "licenseInfo": {
+    "copyrightDate": "2009-2016",
+    "licenseName": "",
+    "licenseUrl": ""
+  },
+  "authorInfo": {
+    "publisher": "Université Paris Diderot",
+    "authors": [
+      { "authorName": "Charlotte Roze", "organisation": "ALPAGE, Université Paris Diderot" },
+      { "authorName": "Laurence Danlos", "organisation": "ALPAGE, Université Paris Diderot" },
+      { "authorName": "Philippe Muller", "organisation": "IRIT, Université de Toulouse" }
+    ],
+    "publications": [
+      { 
+         "cite": "Charlotte Roze, Laurence Danlos, Philippe Muller. LEXCONN: a French Lexicon of Discourse Connectives. Multidisciplinary Approaches to Discourse - MAD 2010, Mar 2010, Moissac, France. 2010.", 
+         "url": "https://discours.revues.org/pdf/8645"
+      }
+    ]
+  }
+}

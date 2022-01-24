@@ -1,0 +1,34 @@
+{
+  "lexiconName": "LDM-PT",
+  "lexiconNameFull": "Portuguese Lexicon of Discourse Markers",
+  "version": "1.3",
+  "originalReleaseDate": "2016",
+  "currentReleaseDate": "2017-07-20",
+  "languageEnglish": "Portuguese",
+  "languageNative": "Português",
+  "locale": "pt-PT",
+  "islrn": "186-802-926-803-1",
+  "homepage": "http://www.clul.ulisboa.pt/en/11-resources/285-portuguese-lexicon-of-discourse-markers-ldm-pt",  
+  "parseInfo": {
+    "posTagset": "",
+    "senseTagset": "pdtb3"
+  },
+  "licenseInfo": {
+    "copyrightDate": "2016-2017",
+    "licenseName": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "authorInfo": {
+    "publisher": "University of Lisbon, Centre for Linguistics",
+    "authors": [
+      { "authorName": "Amália Mendes", "organisation": "University of Lisbon, Centre for Linguistics" },
+      { "authorName": "Pierre Lejeune", "organisation": "University of Lisbon, Centre for Linguistics" }
+    ],
+    "publications": [
+       { 
+         "cite": "Mendes, Amália and Pierre Lejeune (2016) \"LDM-PT. A Portuguese Lexicon of Discourse Markers.\" In: Degand, Liesbeth, Csilla Dér, Péter Furkó, Bonnie Webber (eds.) Conference Handbook of TextLink – Structuring Discourse in Multilingual Europe Second Action Conference, Budapest, 11-14 April 2016, 89-92.",
+         "url": "http://textlink.ii.metu.edu.tr/sites/default/files/Conference%20Handbook_beliv.pdf"
+      }
+    ]
+  }
+}
