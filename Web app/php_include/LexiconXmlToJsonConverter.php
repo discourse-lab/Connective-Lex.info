@@ -290,7 +290,7 @@ class LexiconXmlToJsonConverter
         $jsonfile_exists = $jsonfile->isFile();
         
         // create meta filename from xml filename
-        $metapath = $xmlfile->getPath() . '/' . $xmlfile->getBaseName('.xml') . '.meta';
+        $metapath = $xmlfile->getPath() . '/' . $xmlfile->getBaseName('.xml') . '.meta.json';
         $metafile = new SplFileInfo($metapath);
         $metafile_exists = $metafile->isFile();
         

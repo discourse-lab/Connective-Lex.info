@@ -369,7 +369,7 @@ class OptionsComponent {
   }
 
   /**
-   * Helper function for {@link SetRelatedValues}; tests if all values in a object are set
+   * Helper function for {@link SetRelatedValues}; tests if all values in an object are set
    * or none of them, because this must be treated identically in the GUI.
    *
    * @param {Object} obj - The object whose values are tested.
