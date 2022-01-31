@@ -117,14 +117,27 @@ class LexiconPreprocessor {
     let resultSyns = [];
     entry.syn.forEach((syn) => this.PreprocessSyn(syn, resultSyns), this);
     entry.syn = resultSyns;
+
+    entry.orths = this.FilterVariants(entry.word, entry.orths.orth);
+  }
+
+  /**
+   * Keeps only one instance of variants which only differ in case.
+   * 
+   * @param {string} word_lower The main lemma of an entry in lowercase.
+   * @param {Object[]} orths List of variants (contains <part> array).
+   */
+  FilterVariants(word, orths) {
+    let keep = new Set(orths.map(orth => 
+      orth.part.map(part => 
+        part.t).join(" … ").toLowerCase().trim()).filter(word => word.length > 0));
+    return keep.size == 1 && keep.values().next().value == word.toLowerCase().replace("...", "…") ? [] : Array.from(keep);
   }
 
   /**
    * Preprocess a syn element.
    *
    * @param {Object} syn - Current syn
-   * @param {number} isyn - Index of current syn
-   * @param {Object[]} asyn - Array of syn elements
    * @param {Object[]} resultSyns - Array in which newly generated syns are stored.
    */
   PreprocessSyn(syn, resultSyns) {

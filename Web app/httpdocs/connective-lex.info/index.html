@@ -555,15 +555,15 @@
     Result item template. Renders a single search result within the Result list template.
   -->
   <script id="resultListItemTemplate" type="text/html">
-    <li class="result list-group-item c24-lighter-bg container-fluid" 
+    <li class="result list-group-item c24-lighter-bg container-fluid pt-1" 
         style="border-left-width: 3px; border-left-color: {{:color}};" 
         id="entry{{:lexId}}{{:id}}" 
         data-link="{on 'mouseover' '.main-word, .synonym, .example' onMouseOverTranslatableElement}">
       {{!--<!--
         Head part: word, 'Veriants' and 'Synonyms' buttons, language, lexicon name and id.
       -->--}}
-      <div class="row justify-content-end">
-        <div class="col-7">
+      <div class="row align-items-center mt-0">
+        <div class="col">
           <span class="main-word"><a name="{{:lexName}}">{{:word}}</a></span>
           {{if type}} &ensp;
           <small class="text-muted conn-type" title="
@@ -573,34 +573,12 @@
         ">{{:type}}</small> {{/if}}
           {{if focuspart && focuspart.t}}  &ensp;
           <small class="text-muted focuspart" title="Can be a focus particle.">focus</small>{{/if}}
-          {{if english_equivalent && english_equivalent.t}} <br />
-          <div class="text-muted mt-1">{{:english_equivalent.t}}</div>
+          {{if english_equivalent && english_equivalent.t}} &ensp;
+          <span class="text-muted mt-1">{{:english_equivalent.t}}</span>
           {{/if}}
         </div>
-        <div class="col">
-          <button class="btn btn-block btn-sm c24-darker-bg result-button" title="Show variants"
-            data-toggle="collapse" data-target="#variants{{:lexId}}{{:id}}" data-parent="#entry{{:lexId}}{{:id}}">
-          Variants
-        </button>
-        </div>
-        <div class="col-3 d-flex">
-          <small class="ml-auto text-muted word-source-lex" style="text-align: right;">{{:language}}<br />{{:lexName}} {{:id}}</small>
-        </div>
-      </div>
-      {{!--<!--
-        Collapsible part: Variants and synonyms which are hidden by default,
-        but can be toggled into view with the buttons above.
-      -->--}}
-      <div class="col-12 collapse" id="variants{{:lexId}}{{:id}}" data-parent="#entry{{:lexId}}{{:id}}" aria-expanded="false">
-        <div class="card m-2 p-2">
-          {{for orths.orth}}
-          <div>
-            <span class="word-parts">
-              {{for part}}<span class="single-word-part">{{:t}}</span> <span class="sep-not-if-last">&hellip;</span>{{/for}}
-            </span>
-            {{if canonical}}
-            <span class="badge badge-secondary canonical-badge ml-2">canonical</span>{{/if}}
-          </div> {{/for}}
+        <div class="col-4 pr-2" style="text-align: right;">
+          <small class="ml-auto text-muted word-source-lex">{{:language}}<br />{{:lexName}} {{:id}}</small>
         </div>
       </div>
 
@@ -609,8 +587,9 @@
         can be expressed by the connective when it has this word class. Each word class and/or semantic
         relation can have associated examples which are also displayed here.
       -->--}}
-      {{include ~result=#data}}
-      <div class="col-12">
+      {{include ~result=#data ~hasVariants=orths && orths.length}}
+      <div class="row">
+      <div class="col p-0" style="width: 100%; min-width: 75%;">
 
         {{if synonyms && synonyms.synonym.length>0}} <span class="example"> <strong>Synonyms:</strong>
           {{for synonyms.synonym}} 
@@ -696,6 +675,20 @@
         </div>
         {{/for}}
       </div>
+      {{if ~hasVariants}}
+      <div class="col p-0"><div class="card m-2">
+        <div class="card-header p-2">
+          Variants
+        </div>
+        <p class="card-text p-2 variants">
+        {{for orths}}
+          <span class="single-word-part">{{:}}</span>{{if canonical}}<span class="badge badge-secondary canonical-badge ml-2" title="canonical">c</span>{{/if}}
+          <span class="sep-if-not-last"><br></span>
+        {{/for}}
+        </p>
+      </div>
+      </div>
+      {{/if}}</div>
       {{/include}}
 
       {{!--<!--
@@ -745,7 +738,11 @@
     -->
     <div id="sidebar-wrapper" class="bg-light">
       <div class="sidebar-nav">
-        <h2 class="sidebar-header c24-sidebarheader-bg">Lexicon Selection</h2>
+        <h2 class="sidebar-header c24-sidebarheader-bg">Lexicon Selection &ensp; <label>
+          <input type="checkbox" id="select-all" 
+          onclick="$('.selection-checkbox').prop('checked', !$('#select-all').prop('checked')).trigger('click')" />
+          all
+        </label></h2>
         <div class="sidebar-section" id="lexSelection"></div>
         <h2 class="sidebar-header c24-sidebarheader-bg">Search Options</h2>
         <div class="sidebar-section" id="searchOptions"></div>
