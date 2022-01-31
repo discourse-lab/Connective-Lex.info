@@ -127,7 +127,13 @@ class LexSelectorComponent {
         this.lexList[lexItem.lexId] = lexItem;
         if (lexItem.hasMeta) {
           promises.push(gFileService.getFile(lexItem.metaFile).then(
-            metaItem => this.metadata[lexItem.lexId] = metaItem
+            metaItem => {
+              if (!metaItem.color) {
+                metaItem.color = '#' + (metaItem.lexiconName.hashCode() >> 3 & 0xFFFFFF | 0x1000000).toString(16).substring(1, 7);
+              }
+              this.metadata[lexItem.lexId] = metaItem;
+              return metaItem;
+            }
           ).catch(
             error => console.warn(`The metadata file for ${lexItem.lexId} could not be loaded!`, error)
           ));
@@ -491,8 +497,11 @@ class ResultsComponent {
     /** The array of results for display in the GUI. */
     this.results = [];
 
+    class ResultCounts {
+      numLexicons() { return Object.keys(this).length; }
+    }
     /** The result counts per language */
-    this.resultCounts = {};
+    this.resultCounts = new ResultCounts();
 
     /** Array of active search timeout handles. */
     this.activeSearches = [];
@@ -513,29 +522,7 @@ class ResultsComponent {
    */
   Init() {
     this.ExecuteQuery();
-    $.templates('#resultListTemplate').link('#resultList', this, {
-      hasSynonyms: data => {
-        if (data.synonyms && data.synonyms.synonym && data.synonyms.synonym.length > 0) {
-          return true;
-        }
-
-        for (let i in data.syn) {
-          let syni = data.syn[i];
-          if (syni.synonyms && syni.synonyms.synonym && syni.synonyms.synonym.length > 0) {
-            return true;
-          }
-
-          for (let j in syni.sem) {
-            let semj = syni.sem[j];
-            if (semj.synonyms && semj.synonyms.synonym && semj.synonyms.synonym.length > 0) {
-              return true;
-            }
-          }
-        }
-
-        return false;
-      }
-    });
+    $.templates('#resultListTemplate').link('#resultList', this);
   }
 
   /**
@@ -613,17 +600,19 @@ class ResultsComponent {
     let totalSize = this.totalSize;
     this.totalSize = 0;
     $.observable(this).setProperty('totalSize', totalSize);
+
     setTimeout(() => {
       let newResultCounts = {};
       for (let i in this.results) {
         ++newResultCounts[this.results[i].lexName] || (newResultCounts[this.results[i].lexName] = 1);
-      }
+      }      
       for (let lexName in this.resultCounts) {
         $.observable(this.resultCounts).removeProperty(lexName);
       }
       for (let lexName in newResultCounts) {
         $.observable(this.resultCounts).setProperty(lexName, newResultCounts[lexName]);
-      }
+      } 
+      $.observable(this.resultCounts).setProperty("numLexicons", () => Object.keys(newResultCounts).length)
     }, 0);
   }
 }

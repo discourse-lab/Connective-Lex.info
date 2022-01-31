@@ -76,9 +76,12 @@ input[type="checkbox"] {
   /*padding-right: 0;*/
 }
 
+.result-header-text {
+  line-height: 1.3 !important;
+}
+
 .result {
-  /* for use to display a colored border identifying the lexicon */
-  /*border-left: 3px solid;*/
+  border-left-width: 3px;
 }
 
 #lexSelection {
@@ -93,6 +96,14 @@ input[type="checkbox"] {
 
 .main-word {
   font-weight: bold;
+}
+
+.variants {
+  line-height: 1.3;
+}
+
+.variant {
+  font-size: .85rem;
 }
 
 .lex-language {

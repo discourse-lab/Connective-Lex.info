@@ -101,9 +101,6 @@ class LexiconPreprocessor {
   PreprocessEntry(entry, ientry, aentry) {
     entry.lexId = this.lexId;
     let metadata = this.metadata[this.lexId];
-    if (!metadata.color) {
-      metadata.color = '#' + (metadata.lexiconName.hashCode() & 0xFFFFFF).toString(16).substring(0, 6);
-    }
     entry.color = metadata.color;
     entry.lexName = metadata.lexiconName;
     entry.posTagset = metadata.parseInfo.posTagset;
@@ -120,14 +117,35 @@ class LexiconPreprocessor {
     let resultSyns = [];
     entry.syn.forEach((syn) => this.PreprocessSyn(syn, resultSyns), this);
     entry.syn = resultSyns;
+
+    entry.orths = this.FilterVariants(entry.word, entry.orths.orth, metadata.locale);
+  }
+
+  /**
+   * Keeps only one instance of variants which only differ in case.
+   * 
+   * @param {string} word_lower The main lemma of an entry in lowercase.
+   * @param {Object[]} orths List of variants (contains <part> array).
+   * @param {string} locale The locale for lowercasing.
+   */
+  FilterVariants(word, orths, locale) {
+    try {
+      let keep = new Set(orths.map(orth => 
+        orth.part.map(part => 
+          part.t).join(" … ").toLocaleLowerCase(locale).trim()).filter(word => word.length > 0));
+      return keep.size == 1 && keep.values().next().value == word.toLocaleLowerCase(locale).replace("...", "…") 
+        ? [] 
+        : Array.from(keep);
+    } catch (e) {
+      console.warn(`Invalid locale '${locale}' for word '${word}', trying locale 'en-US'.`);
+      return this.FilterVariants(word, orths, "en-US");
+    }
   }
 
   /**
    * Preprocess a syn element.
    *
    * @param {Object} syn - Current syn
-   * @param {number} isyn - Index of current syn
-   * @param {Object[]} asyn - Array of syn elements
    * @param {Object[]} resultSyns - Array in which newly generated syns are stored.
    */
   PreprocessSyn(syn, resultSyns) {
@@ -351,6 +369,10 @@ class ResultsFilter {
           return true;
         }
         for (let j in entry.orths.orth[i].part) {
+          if (!entry.orths.orth[i].part[j].t) {
+            console.warn(`${entry.lexName} ${entry.id} has no text in orth ${i}, part ${j}.`, entry);
+            continue;
+          }
           if (entry.orths.orth[i].part[j].t.indexOf(gOptionsComponent.filterText) >= 0) {
             return true;
           }
