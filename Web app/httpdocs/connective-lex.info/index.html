@@ -556,7 +556,7 @@
   -->
   <script id="resultListItemTemplate" type="text/html">
     <li class="result list-group-item c24-lighter-bg container-fluid pt-1" 
-        style="border-left-width: 3px; border-left-color: {{:color}};" 
+        style="border-left-color: {{:color}};" 
         id="entry{{:lexId}}{{:id}}" 
         data-link="{on 'mouseover' '.main-word, .synonym, .example' onMouseOverTranslatableElement}">
       {{!--<!--
@@ -682,7 +682,7 @@
         </div>
         <p class="card-text p-2 variants">
         {{for orths}}
-          <span class="single-word-part">{{:}}</span>{{if canonical}}<span class="badge badge-secondary canonical-badge ml-2" title="canonical">c</span>{{/if}}
+          <span class="variant">{{:}}</span>{{if canonical}}<span class="badge badge-secondary canonical-badge ml-2" title="canonical">c</span>{{/if}}
           <span class="sep-if-not-last"><br></span>
         {{/for}}
         </p>
