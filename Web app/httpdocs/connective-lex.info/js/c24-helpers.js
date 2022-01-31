@@ -118,7 +118,7 @@ class LexiconPreprocessor {
     entry.syn.forEach((syn) => this.PreprocessSyn(syn, resultSyns), this);
     entry.syn = resultSyns;
 
-    entry.orths = this.FilterVariants(entry.word, entry.orths.orth);
+    entry.orths = this.FilterVariants(entry.word, entry.orths.orth, metadata.locale);
   }
 
   /**
@@ -126,12 +126,20 @@ class LexiconPreprocessor {
    * 
    * @param {string} word_lower The main lemma of an entry in lowercase.
    * @param {Object[]} orths List of variants (contains <part> array).
+   * @param {string} locale The locale for lowercasing.
    */
-  FilterVariants(word, orths) {
-    let keep = new Set(orths.map(orth => 
-      orth.part.map(part => 
-        part.t).join(" … ").toLowerCase().trim()).filter(word => word.length > 0));
-    return keep.size == 1 && keep.values().next().value == word.toLowerCase().replace("...", "…") ? [] : Array.from(keep);
+  FilterVariants(word, orths, locale) {
+    try {
+      let keep = new Set(orths.map(orth => 
+        orth.part.map(part => 
+          part.t).join(" … ").toLocaleLowerCase(locale).trim()).filter(word => word.length > 0));
+      return keep.size == 1 && keep.values().next().value == word.toLocaleLowerCase(locale).replace("...", "…") 
+        ? [] 
+        : Array.from(keep);
+    } catch (e) {
+      console.warn(`Invalid locale '${locale}' for word '${word}', trying locale 'en-US'.`);
+      return this.FilterVariants(word, orths, "en-US");
+    }
   }
 
   /**
