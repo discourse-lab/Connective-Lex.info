@@ -223,7 +223,7 @@ class OptionsComponent {
         conjunction: false,
         disjunction: false,
         equivalence: false,
-        instantiation: false,
+        instantiation: { arg1_as_instance: false, arg2_as_instance: false, all: false },
         level_of_detail: { arg1_as_detail: false, arg2_as_detail: false, all: false },
         substitution: { arg1_as_subst: false, arg2_as_subst: false, all: false },
         exception: { arg1_as_excpt: false, arg2_as_excpt: false, all: false },

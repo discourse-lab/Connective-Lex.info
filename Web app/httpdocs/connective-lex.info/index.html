@@ -35,8 +35,8 @@
   <!-- Connective-Lex.info app. -->
   <script src="js/c24-settings.js?20170919"></script>
   <script src="js/c24-services.js?20220123"></script>
-  <script src="js/c24-helpers.js?20220131"></script>
-  <script src="js/c24-components.js?20180915"></script>
+  <script src="js/c24-helpers.js?20220201"></script>
+  <script src="js/c24-components.js?20220201"></script>
   <script src="js/c24.js?20180915"></script>
 
   <!--
@@ -430,7 +430,7 @@
               <input type="checkbox" data-link="sense.comparison.contrast" value="sense.comparison.contrast"> Contrast </label><br>
             <label data-toggle="tooltip" data-placement="top" title="&quot;Alice was too late, AND Bob wasn't on time EITHER.&quot;">
               <input type="checkbox" data-link="sense.comparison.similarity" value="sense.comparison.similarity"> Similarity</label><br>
-            <label><input type="checkbox" data-link="sense.comparison.concession.all" value="sense.comparison.concession.all"> Concession </label>            (
+            <label><input type="checkbox" data-link="sense.comparison.concession.all" value="sense.comparison.concession.all"> Concession </label> (
             <label data-toggle="tooltip" data-placement="top" title="&quot;The people recognized Bob, EVEN THOUGH he was disguised.&quot;">
               <input type="checkbox" data-link="sense.comparison.concession.arg1_as_denier" value="sense.comparison.concession.arg1_as_denier"> Arg1- </label>/
             <label data-toggle="tooltip" data-placement="top" title="&quot;Bob was disguised, BUT people still recognized him.&quot;">
@@ -438,22 +438,22 @@
           </blockquote>
           <label><input type="checkbox" data-link="sense.contingency.all" value="sense.contingency.all"> CONTINGENCY </label>
           <blockquote class="sense-subtypes">
-            <label><input type="checkbox" data-link="sense.contingency.cause.all" value="sense.contingency.cause.all"> Cause </label>            (
+            <label><input type="checkbox" data-link="sense.contingency.cause.all" value="sense.contingency.cause.all"> Cause </label> (
             <label data-toggle="tooltip" data-placement="top" title="&quot;BECAUSE she is funny, people like her.&quot;">
               <input type="checkbox" data-link="sense.contingency.cause.reason" value="sense.contingency.cause.reason"> Reason </label>/
             <label data-toggle="tooltip" data-placement="top" title="&quot;She is funny, THEREFORE people like her.&quot;">
               <input type="checkbox" data-link="sense.contingency.cause.result" value="sense.contingency.cause.result"> Result </label>)<br>
-            <label><input type="checkbox" data-link="sense.contingency.condition.all" value="sense.contingency.condition.all"> Condition </label>            (
+            <label><input type="checkbox" data-link="sense.contingency.condition.all" value="sense.contingency.condition.all"> Condition </label> (
             <label data-toggle="tooltip" data-placement="top" title="(?) &quot;Only having enough money, THEN we'll go on holiday.&quot;">
               <input type="checkbox" data-link="sense.contingency.condition.arg1_as_cond" value="sense.contingency.condition.arg1_as_cond"> Arg1- </label>/
             <label data-toggle="tooltip" data-placement="top" title="&quot;We will go on holiday IF we have enough money.&quot;">
               <input type="checkbox" data-link="sense.contingency.condition.arg2_as_cond" value="sense.contingency.condition.arg2_as_cond"> Arg2-as-cond </label>)<br>
-            <label><input type="checkbox" data-link="sense.contingency.negative_condition.all" value="sense.contingency.negative_condition.all"> Negative condition </label>            (
+            <label><input type="checkbox" data-link="sense.contingency.negative_condition.all" value="sense.contingency.negative_condition.all"> Negative condition </label> (
             <label data-toggle="tooltip" data-placement="top" title="&quot;They must pay taxes, OTHERWISE the authorities will ring.&quot;">
               <input type="checkbox" data-link="sense.contingency.negative_condition.arg1_as_negcond" value="sense.contingency.negative_condition.arg1_as_negcond"> Arg1- </label>/
             <label data-toggle="tooltip" data-placement="top" title="&quot;IF they don't pay taxes, the authorities will ring.&quot;">
               <input type="checkbox" data-link="sense.contingency.negative_condition.arg2_as_negcond" value="sense.contingency.negative_condition.arg2_as_negcond"> Arg2-as-negcond </label>)<br>
-            <label><input type="checkbox" data-link="sense.contingency.purpose.all" value="sense.contingency.purpose.all"> Purpose </label>            (
+            <label><input type="checkbox" data-link="sense.contingency.purpose.all" value="sense.contingency.purpose.all"> Purpose </label> (
             <label data-toggle="tooltip" data-placement="top" title="&quot;I want to bake a cake, THEREFORE I go shopping.&quot;">
               <input type="checkbox" data-link="sense.contingency.purpose.arg1_as_goal" value="sense.contingency.purpose.arg1_as_goal"> Arg1- </label>/
             <label data-toggle="tooltip" data-placement="top" title="&quot;I go shopping IN ORDER TO be able to bake a cake.&quot;">
@@ -462,39 +462,49 @@
           <label><input type="checkbox" data-link="sense.expansion.all" value="sense.expansion.all"> EXPANSION </label>
           <blockquote class="sense-subtypes">
             <label data-toggle="tooltip" data-placement="top" title="&quot;In the summer, we will go to Wacken AND decorate our balcony.&quot;">
-              <input type="checkbox" data-link="sense.expansion.conjunction" value="sense.expansion.conjunction"> Conjunction </label><br>
+            <input type="checkbox" data-link="sense.expansion.conjunction" value="sense.expansion.conjunction"> Conjunction </label><br>
+
             <label data-toggle="tooltip" data-placement="top" title="&quot;We will EITHER go to Wacken OR decorate our balcony.&quot;">
-              <input type="checkbox" data-link="sense.expansion.disjunction" value="sense.expansion.disjunction"> Disjunction</label><br>
+            <input type="checkbox" data-link="sense.expansion.disjunction" value="sense.expansion.disjunction"> Disjunction</label><br>
+            
             <label data-toggle="tooltip" data-placement="top" title="&quot;I can recommend this movie, THAT MEANS I enjoyed it a lot!&quot;">
-              <input type="checkbox" data-link="sense.expansion.equivalence" value="sense.expansion.equivalence"> Equivalence </label><br>
+            <input type="checkbox" data-link="sense.expansion.equivalence" value="sense.expansion.equivalence"> Equivalence </label><br>
+
+            <label><input type="checkbox" data-link="sense.expansion.instantiation.all" value="sense.expansion.instantiation.all"> Instantiation</label> (
+            <label data-toggle="tooltip" data-placement="top" title="The views are great, and IN GENERAL everything about the island is nice.">
+            <input type="checkbox" data-link="sense.expansion.instantiation.arg1_as_instance" value="sense.expansion.instantiation.arg1_as_instance"> Arg1- </label>/
             <label data-toggle="tooltip" data-placement="top" title="&quot;I want a new car, FOR EXAMPLE a blue one.&quot;">
-              <input type="checkbox" data-link="sense.expansion.instantiation" value="sense.expansion.instantiation"> Instantiation</label><br>
-            <label><input type="checkbox" data-link="sense.expansion.level_of_detail.all" value="sense.expansion.level_of_detail.all"> Level-of-detail </label>            (
+            <input type="checkbox" data-link="sense.expansion.instantiation.arg2_as_instance" value="sense.expansion.instantiation.arg2_as_instance"> Arg2-as-instance </label>)<br>
+
+            <label><input type="checkbox" data-link="sense.expansion.level_of_detail.all" value="sense.expansion.level_of_detail.all"> Level-of-detail </label> (
             <label data-toggle="tooltip" data-placement="top" title="&quot;We had nice weather, met lovely people, and had delicious food, IN SHORT, the vacation was great!&quot;">
-              <input type="checkbox" data-link="sense.expansion.level_of_detail.arg1_as_detail" value="sense.expansion.level_of_detail.arg1_as_detail"> Arg1- </label>/
+            <input type="checkbox" data-link="sense.expansion.level_of_detail.arg1_as_detail" value="sense.expansion.level_of_detail.arg1_as_detail"> Arg1- </label>/
             <label data-toggle="tooltip" data-placement="top" title="&quot;The vacation was great, GIVEN THAT we had nice weather, met lovely people, and had delicious food!&quot;">
-              <input type="checkbox" data-link="sense.expansion.level_of_detail.arg2_as_detail" value="sense.expansion.level_of_detail.arg2_as_detail"> Arg2-as-detail </label>)<br>
-            <label><input type="checkbox" data-link="sense.expansion.substitution.all" value="sense.expansion.substitution.all"> Substitution </label>            (
+            <input type="checkbox" data-link="sense.expansion.level_of_detail.arg2_as_detail" value="sense.expansion.level_of_detail.arg2_as_detail"> Arg2-as-detail </label>)<br>
+            
+            <label><input type="checkbox" data-link="sense.expansion.substitution.all" value="sense.expansion.substitution.all"> Substitution </label> (
             <label data-toggle="tooltip" data-placement="top" title="&quot;INSTEAD OF watching TV all day, the kids should rather play a good video game.&quot;">
-              <input type="checkbox" data-link="sense.expansion.substitution.arg1_as_subst" value="sense.expansion.substitution.arg1_as_subst"> Arg1- </label>/
+            <input type="checkbox" data-link="sense.expansion.substitution.arg1_as_subst" value="sense.expansion.substitution.arg1_as_subst"> Arg1- </label>/
             <label data-toggle="tooltip" data-placement="top" title="&quot;The kids shouldn't watch TV all day, BUT should INSTEAD play a good video game.&quot;">
-              <input type="checkbox" data-link="sense.expansion.substitution.arg2_as_subst" value="sense.expansion.substitution.arg2_as_subst"> Arg2-as-subst </label>)<br>
-            <label><input type="checkbox" data-link="sense.expansion.exception.all" value="sense.expansion.exception.all"> Exception </label>            (
+            <input type="checkbox" data-link="sense.expansion.substitution.arg2_as_subst" value="sense.expansion.substitution.arg2_as_subst"> Arg2-as-subst </label>)<br>
+            
+            <label><input type="checkbox" data-link="sense.expansion.exception.all" value="sense.expansion.exception.all"> Exception </label> (
             <label data-toggle="tooltip" data-placement="top" title="&quot;The waiters are inattentive and rude, APART FROM THAT the restaurant is awesome.&quot;">
-              <input type="checkbox" data-link="sense.expansion.exception.arg1_as_excpt" value="sense.expansion.exception.arg1_as_excpt"> Arg1- </label>/
+            <input type="checkbox" data-link="sense.expansion.exception.arg1_as_excpt" value="sense.expansion.exception.arg1_as_excpt"> Arg1- </label>/
             <label data-toggle="tooltip" data-placement="top" title="&quot;The restaurant is awesome, EXCEPT THAT the waiters are inattentive and rude.&quot;">
-              <input type="checkbox" data-link="sense.expansion.exception.arg2_as_excpt" value="sense.expansion.exception.arg2_as_excpt"> Arg2-as-excpt </label>)<br>
-            <label><input type="checkbox" data-link="sense.expansion.manner.all" value="sense.expansion.manner.all"> Manner </label>            (
+            <input type="checkbox" data-link="sense.expansion.exception.arg2_as_excpt" value="sense.expansion.exception.arg2_as_excpt"> Arg2-as-excpt </label>)<br>
+            
+            <label><input type="checkbox" data-link="sense.expansion.manner.all" value="sense.expansion.manner.all"> Manner </label> (
             <label data-toggle="tooltip" data-placement="top" title="&quot;They pushed the door handle down, THEREBY opening the door.&quot;">
-              <input type="checkbox" data-link="sense.expansion.manner.arg1_as_manner" value="sense.expansion.manner.arg1_as_manner"> Arg1- </label>/
+            <input type="checkbox" data-link="sense.expansion.manner.arg1_as_manner" value="sense.expansion.manner.arg1_as_manner"> Arg1- </label>/
             <label data-toggle="tooltip" data-placement="top" title="&quot;They opened the door BY pushing the door handle down.&quot;">
-              <input type="checkbox" data-link="sense.expansion.manner.arg2_as_manner" value="sense.expansion.manner.arg2_as_manner"> Arg2-as-manner </label>)
+            <input type="checkbox" data-link="sense.expansion.manner.arg2_as_manner" value="sense.expansion.manner.arg2_as_manner"> Arg2-as-manner </label>)
           </blockquote>
           <label><input type="checkbox" data-link="sense.temporal.all" value="sense.temporal.all"> TEMPORAL </label>
           <blockquote class="sense-subtypes">
             <label data-toggle="tooltip" data-placement="top" title="&quot;They robbed the bank WHILE the employees were on strike.&quot;">
               <input type="checkbox" data-link="sense.temporal.synchronous" value="sense.temporal.synchronous"> Synchronous </label><br>
-            <label><input type="checkbox" data-link="sense.temporal.asynchronous.all" value="sense.temporal.asynchronous.all"> Asynchronous</label>            (
+            <label><input type="checkbox" data-link="sense.temporal.asynchronous.all" value="sense.temporal.asynchronous.all"> Asynchronous</label> (
             <label data-toggle="tooltip" data-placement="top" title="&quot;I bought flowers right BEFORE the shops closed.&quot;">
               <input type="checkbox" data-link="sense.temporal.asynchronous.precedence" value="sense.temporal.asynchronous.precedence"> Precedence </label>/
             <label data-toggle="tooltip" data-placement="top" title="&quot;The shops closed right AFTER I had bought flowers.&quot;">
@@ -682,7 +692,7 @@
         </div>
         <p class="card-text p-2 variants">
         {{for orths}}
-          <span class="variant">{{:}}</span>{{if canonical}}<span class="badge badge-secondary canonical-badge ml-2" title="canonical">c</span>{{/if}}
+          <span class="variant">{{:word}}</span>{{if canonical}}<span class="badge badge-secondary canonical-badge ml-2" title="canonical">c</span>{{/if}}
           <span class="sep-if-not-last"><br></span>
         {{/for}}
         </p>

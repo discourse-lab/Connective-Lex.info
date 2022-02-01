@@ -130,12 +130,19 @@ class LexiconPreprocessor {
    */
   FilterVariants(word, orths, locale) {
     try {
-      let keep = new Set(orths.map(orth => 
-        orth.part.map(part => 
-          part.t).join(" … ").toLocaleLowerCase(locale).trim()).filter(word => word.length > 0));
-      return keep.size == 1 && keep.values().next().value == word.toLocaleLowerCase(locale).replace("...", "…") 
+      let count_lower = word => Array.from(word).filter(ch => ch === ch.toLocaleLowerCase(locale)).length;
+      let keep = orths.reduce((keep, orth) => {
+        let word = orth.part.map(part => part.t).join(" … ").trim();
+        let key = word.toLocaleLowerCase(locale);        
+        let prev_val = keep.get(key);
+        if (!prev_val || orth.canonical || (!prev_val.canonical && count_lower(word) > count_lower(prev_val.word))) {
+          keep.set(key, {word: word, canonical: !!orth.canonical});
+        }        
+        return keep;
+      }, new Map());
+      return keep.size == 1 && keep.keys().next().value == word.toLocaleLowerCase(locale).replace("...", "…") 
         ? [] 
-        : Array.from(keep);
+        : Array.from(keep.values());
     } catch (e) {
       console.warn(`Invalid locale '${locale}' for word '${word}', trying locale 'en-US'.`);
       return this.FilterVariants(word, orths, "en-US");
