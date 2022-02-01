@@ -92,6 +92,8 @@
     "exception-arg1-as-except": "EXPANSION:Exception:Arg1-as-excpt",
     "exception-arg2-as-except": "EXPANSION:Exception:Arg2-as-excpt",
     "instantiation": "EXPANSION:Instantiation",
+    "instantiation-arg1-as-instance": "EXPANSION:Instantiation:Arg1-as-instance",
+    "instantiation-arg2-as-instance": "EXPANSION:Instantiation:Arg2-as-instance",
     "manner-arg1-as-manner": "EXPANSION:Manner:Arg1-as-manner",
     "manner-arg2-as-manner": "EXPANSION:Manner:Arg2-as-manner",
     "negative-condition-arg1-as-consequent": "CONTINGENCY:Negative-Condition:Arg1-as-negcond",
@@ -109,8 +111,8 @@
     "substitution-arg1-as-subst": "EXPANSION:Substitution:Arg1-as-subst",
     "substitution-arg2-as-subst": "EXPANSION:Substitution:Arg2-as-subst",
     "synchronous": "TEMPORAL:Synchronous",
-	"cause-result+speechact": "CONTINGENCY:Cause+SpeechAct:Result+SpeechAct",
-	"condition+speechact": "CONTINGENCY:Condition+SpeechAct"
+    "cause-result+speechact": "CONTINGENCY:Cause+SpeechAct:Result+SpeechAct",
+    "condition+speechact": "CONTINGENCY:Condition+SpeechAct"
   },
 
   "pdtb3": {
@@ -182,7 +184,7 @@
 	"Contingency.Negative-condition.Arg1-as-negcond" : "CONTINGENCY:Negative-Condition:Arg1-as-negcond",
 	"Contingency.Negative-condition.Arg2-as-negcond" : "CONTINGENCY:Negative-Condition:Arg2-as-negcond",
 	"Expansion.Correction" : "EXPANSION",
-	"Expansion.Instantiation.Arg2-as-instance" : "EXPANSION:Instantiation",
+	"Expansion.Instantiation.Arg2-as-instance" : "EXPANSION:Instantiation:Arg2-as-instance",
 	"Expansion.Level-of-detail.Arg1-as-detail" : "EXPANSION:Level-of-detail:Arg1-as-detail",
 	"Expansion.Level-of-detail.Arg2-as-detail" : "EXPANSION:Level-of-detail:Arg2-as-detail"
   }
