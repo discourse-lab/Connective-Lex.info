@@ -1,0 +1,39 @@
+{
+  "lexiconName": "Arabic",
+  "lexiconNameFull": "Arabic Discourse Cues",
+  "version": "1.0",
+  "originalReleaseDate": "2014",
+  "currentReleaseDate": "2018",
+  "languageEnglish": "Arabic",
+  "languageNative": "",
+  "locale": "ar",
+  "islrn": "",
+  "homepage": "",
+  "about": "",
+  "parseInfo": {
+    "posTagset": "lexconn",
+    "senseTagset": "arabic"
+  },
+  "licenseInfo": {
+    "copyrightDate": "2014-2018",
+    "licenseName": "",
+    "licenseUrl": ""
+  },
+  "authorInfo": {
+    "publisher": "Université Paul Sabatier, Toulouse",
+    "authors": [
+      { "authorName": "Farah Benamara", "organisation": "Toulouse University" },
+	  { "authorName": "Iskandar Keskes", "organisation": "Toulouse University and Sfax University" }
+    ],
+    "publications": [
+      { 
+         "cite": "Iskandar Keskes, Farah Benamara, and Lamia Belguith Hadrich (2014). <i>Learning Explicit and Implicit Arabic Discourse Relations</i>. <b>Journal of King Saud University Computer and Information Sciences, Special Issue on Arabic NLP: Current state and future challenges</b>. 26(4):398–416. Edited by Hend S. Al-Khalifa, Eric Atwell, Imed Zitouni and Khaled Shaalan. Elsevier 2014.", 
+         "url": "http://oatao.univ-toulouse.fr/16828/"
+      },
+	  { 
+         "cite": "Iskander Keskes, Farah Benamara, and Lamia Hadrich Belguith (2014). <i>Splitting Arabic Texts into Elementary Discourse Units</i>. <b>ACM Transactions on Asian Language Information Processing</b>, 13(2). 2014.", 
+         "url": "https://hal.archives-ouvertes.fr/hal-01120621"
+      }
+    ]
+  }
+}

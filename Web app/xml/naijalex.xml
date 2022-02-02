@@ -242,10 +242,10 @@
       <orth canonical="0" type="cont" onr="nl14o1">
         <part type="single">because</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl14o2">
+      <orth canonical="0" type="cont" onr="nl14o2">
         <part type="single">cause</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl14o3">
+      <orth canonical="0" type="cont" onr="nl14o3">
         <part type="single">cos</part>
       </orth>
     </orths>
@@ -307,7 +307,7 @@
       <orth canonical="0" type="cont" onr="nl17o1">
         <part type="single">come</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl17o2">
+      <orth canonical="0" type="cont" onr="nl17o2">
         <part type="single">con</part>
       </orth>
     </orths>
@@ -335,7 +335,7 @@
       <orth canonical="0" type="cont" onr="nl18o1">
         <part type="single">den</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl18o2">
+      <orth canonical="0" type="cont" onr="nl18o2">
         <part type="single">then</part>
       </orth>
     </orths>
@@ -355,16 +355,16 @@
       <orth canonical="0" type="cont" onr="nl19o1">
         <part type="phrasal">by dis time</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl19o2">
+      <orth canonical="0" type="cont" onr="nl19o2">
         <part type="phrasal">dat time</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl19o3">
+      <orth canonical="0" type="cont" onr="nl19o3">
         <part type="phrasal">di time</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl19o4">
+      <orth canonical="0" type="cont" onr="nl19o4">
         <part type="phrasal">one di time</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl19o5">
+      <orth canonical="0" type="cont" onr="nl19o5">
         <part type="phrasal">which time</part>
       </orth>
     </orths>
@@ -384,10 +384,10 @@
       <orth canonical="0" type="cont" onr="nl20o1">
         <part type="single">aldough</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl20o2">
+      <orth canonical="0" type="cont" onr="nl20o2">
         <part type="single">dough</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl20o3">
+      <orth canonical="0" type="cont" onr="nl20o3">
         <part type="single">though</part>
       </orth>
     </orths>
@@ -508,7 +508,7 @@
       <orth canonical="0" type="cont" onr="nl26o1">
         <part type="phrasal">in fact</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl26o2">
+      <orth canonical="0" type="cont" onr="nl26o2">
         <part type="single">infact</part>
       </orth>
     </orths>
@@ -617,13 +617,13 @@
       <orth canonical="0" type="cont" onr="nl32o1">
         <part type="single">mah</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl32o2">
+      <orth canonical="0" type="cont" onr="nl32o2">
         <part type="single">make</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl32o3">
+      <orth canonical="0" type="cont" onr="nl32o3">
         <part type="single">meh</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl32o4">
+      <orth canonical="0" type="cont" onr="nl32o4">
         <part type="single">mey</part>
       </orth>
     </orths>
@@ -668,13 +668,13 @@
       <orth canonical="0" type="cont" onr="nl34o1">
         <part type="single">na</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl34o2">
+      <orth canonical="0" type="cont" onr="nl34o2">
         <part type="phrasal">na im</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl34o3">
+      <orth canonical="0" type="cont" onr="nl34o3">
         <part type="single">naim</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl34o4">
+      <orth canonical="0" type="cont" onr="nl34o4">
         <part type="single">nain</part>
       </orth>
     </orths>
@@ -871,7 +871,7 @@
       <orth canonical="0" type="cont" onr="nl44o1">
         <part type="phrasal">so dat</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl44o2">
+      <orth canonical="0" type="cont" onr="nl44o2">
         <part type="phrasal">so that</part>
       </orth>
     </orths>
@@ -963,7 +963,7 @@
       <orth canonical="0" type="cont" onr="nl49o1">
         <part type="single">till</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl49o2">
+      <orth canonical="0" type="cont" onr="nl49o2">
         <part type="single">until</part>
       </orth>
     </orths>
@@ -1063,7 +1063,7 @@
       <orth canonical="0" type="cont" onr="nl54o1">
         <part type="single">wen</part>
       </orth>
-      <orth canonical="1" type="cont" onr="nl54o2">
+      <orth canonical="0" type="cont" onr="nl54o2">
         <part type="single">when</part>
       </orth>
     </orths>

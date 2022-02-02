@@ -1,0 +1,28 @@
+{
+  "lexiconName": "DiMLex-Bangla",
+  "lexiconNameFull": "DiMLex-Bangla",
+  "version": "1.0",
+  "originalReleaseDate": "2018-11-07",
+  "currentReleaseDate": "2018-11-07",
+  "languageEnglish": "Bangla",
+  "languageNative": "বাংলা",
+  "locale": "bn",
+  "homepage": "https://github.com/discourse-lab/DiMLex-Bangla",
+  "parseInfo": {
+    "posTagset": "bengali",
+    "senseTagset": "pdtb3-short"
+  },
+  "licenseInfo": {
+    "copyrightDate": "2018",
+    "licenseName": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "authorInfo": {
+    "publisher": "Universität Potsdam, Department of Linguistics",
+    "authors": [
+      { "authorName": "Debopam Das", "organisation": "Universität Potsdam, Department of Linguistics" },
+	  { "authorName": "Soumya Sankar Ghosh", "organisation": "Jadavpur University, School of Languages and Linguistics" },
+	  { "authorName": "Lahari Chatterjee", "organisation": "Jadavpur University, School of Languages and Linguistics" }
+    ]
+  }
+}
