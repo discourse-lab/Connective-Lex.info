@@ -1,0 +1,3918 @@
+<dimlex>
+
+	<entry id="ru1" word="или">
+		<english_equivalent>or</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru1o1" type="cont">
+				<part type="single">или</part>
+			</orth>
+			<orth canonical="0" orth_id="ru1o2" type="cont">
+				<part type="single">Или</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Disjunction"/>
+				<example> Сара с друзьями пойдёт в кино или будет играть в какую-нибудь игру в интернете.</example>
+				<english_equivalent>Sarah is either going to go to the movies with her friends or will play some online game.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation sense="Expansion.Level-of-detail" />
+				<example>Тамара когда-то была монахиней или, может быть, только послушницей в монастыре, и до сих пор в лице ее сохранилась бледная опухлость и пугливость, скромное и лукавое выражение, которое свойственно молодым монахиням.</example>
+				<english_equivalent>Tamara had at one time been a nun, or, perhaps, merely a novice in a convent, and to this day there have been preserved on her face timidity and a pale puffiness — a modest and sly expression, which is peculiar to young nuns.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru2" word="но">
+		<english_equivalent>but</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru2o1" type="cont">
+				<part type="single">но</part>
+			</orth>
+			<orth canonical="0" orth_id="ru2o2" type="cont">
+				<part type="single">Но</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession.Arg2-as-denier"/>
+				<example>Я объяснил, что живу в Италии почти тридцать лет, но, хоть убей, никак не могу избавиться от акцента.</example>
+				<english_equivalent>I explained that I'd been living in Italy for almost thirty years, but couldn't for the life of me undo the accent.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation sense="Expansion.Conjunction" />
+				<example>Это та светло-голубая точка Карла Сагана, но давайте опять также отдалимся в 10 раз.</example>
+				<english_equivalent>It's that pale blue dot of Carl Sagans but let's move yet again ten times further away.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Contrast"/>
+				<example>Он не  был слеп к  проблемам СССР, но многое в  нем его привлекало.</example>
+				<english_equivalent>He was not blind to the problems of the U. S. S. R., but he also found much to like.    </english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+  
+	<entry id="ru3" word="и">
+		<english_equivalent>and</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru3o1" type="cont">
+				<part type="single">и</part>
+			</orth>
+			<orth canonical="0" orth_id="ru3o2" type="cont">
+				<part type="single">И</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Мне недавно прислали это фото, и оно показывает нам, что происходит в Сан-Франциско.</example>
+				<english_equivalent>Somebody sent me this photo a few weeks ago and it shows what is happening on the ground in San Francisco.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation sense="Temporal.Asynchronous.Precedence" />
+				<example>Наташа получит визу и купит билет.</example>
+				<english_equivalent>Natasha will receive a visa and buy a ticket.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Result"/>
+				<example>Власти боятся социальных сетей и стремятся их ликвидировать.</example>
+				<english_equivalent>Governments are wary of social networks and strive to eliminate them.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession.Arg2-as-denier"/>
+				<example>Сергей хотел пойти в казино и не пошёл.</example>
+				<english_equivalent>Sergey wanted to go to the casino, but didn’t.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Instantiation.Arg2-as-instance"/>
+				<example>Серёжа хороший музыкант, и особенно хорошо он играет на баяне.</example>
+				<english_equivalent>Seryozha is a good musician and plays the accordion especially well.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+	
+	<entry id="ru4" word="a">
+		<english_equivalent>and/but</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru4o1" type="cont">
+				<part type="single">a</part>
+			</orth>
+			<orth canonical="0" orth_id="ru4o2" type="cont">
+				<part type="single">A</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Мы потребляем природные ресурсы быстрее , чем они могут быть пополнены, а загрязнение окружающей среды, в основном ответственное за изменение климата, продолжает расти.</example>
+				<english_equivalent>We consume natural resources faster than they can be replenished, and the emissions that are mainly responsible for climate change just keep increasing.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession.Arg2-as-denier"/>
+				<example>Успех длится мгновение, а то, чем мы восхищаемся всегда, — это творчество и мастерство.</example>
+				<english_equivalent>I realized that success is a moment but what we are always celebrating is creativity and mastery.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail"/>
+				<example>Появление зрителей, а их было человек 80, снова мобилизовало актёров.</example>
+				<english_equivalent>The appearance of the audience, and they were about 80 in number, again stirred the actors into action.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+	
+	<entry id="ru5" word="в то время как">
+		<english_equivalent>while/as</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru5o1" type="cont">
+				<part type="phrasal">в то время как</part>
+			</orth>
+			<orth canonical="0" orth_id="ru5o2" type="cont">
+				<part type="phrasal">В то время как</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Synchronous"/>
+				<example>Как часто мы готовы окрестить что-то классикой, даже шедевром в то время как сам создатель считает его безнадёжно неоконченным , испещрённым недостатками и изъянами.</example>
+				<english_equivalent>How many times have we designated something classic, a masterpiece even, while its creator considers it hopelessly unfinished, riddled with difficulties and flaws.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>	
+
+	<entry id="ru6" word="ведь">
+		<english_equivalent>since/because</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru6o1" type="cont">
+				<part type="single">ведь</part>
+			</orth>
+			<orth canonical="0" orth_id="ru6o2" type="cont">
+				<part type="single">Ведь</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Я считаю безответственным игнорировать эти вещи, ведь подобным образом можно подвергнуть опасности будущие доходы в долгосрочной перспективе.</example>
+				<english_equivalent>It is reckless to ignore these things because doing so can jeopardize future long-term returns.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru7" word="вкратце">
+		<english_equivalent>in short/briefly</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru7o1" type="cont">
+				<part type="single">вкратце</part>
+			</orth>
+			<orth canonical="0" orth_id="ru7o2" type="cont">
+				<part type="single">Вкратце</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail.Arg1-as-detail"/>
+				<example>Мы использовали 3D принтер, чтобы создать многокомпонентную культеприемную гильзу, которая бы ослабляла давление где нужно, в зависимости от анатомии пациента, вкратце мы использовали информацию, чтобы сделать новейшие гильзы быстро и дёшево.</example>
+				<english_equivalent>We used a 3D printer to create a multi-material prosthetic socket which relieves pressure where needed on the anatomy of the patient, in short we are using data to make novel sockets quickly and cheaply.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru8" word="где">
+		<english_equivalent>where</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru8o1" type="cont">
+				<part type="single">где</part>
+			</orth>
+			<orth canonical="0" orth_id="ru8o2" type="cont">
+				<part type="single">Где</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Contrast"/>
+				<example>Путешественники смотрят на своё существование сквозь призму освобождения и независимости где другие видят истории нужды и экономической неудачи.</example>
+				<english_equivalent>Travelers view their own existence through the prism of liberation and freedom where others see stories of privation and economic failure.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous.Succession"/>
+				<example>Иван Павлович уже не работает там, где он работал несколько лет назад.</example>
+				<english_equivalent>Ivan Pavlovich is no longer working at the place where he worked several years ago.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru9" word="другими словами">
+		<english_equivalent>in other words</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru9o1" type="cont">
+				<part type="phrasal">другими словами</part>
+			</orth>
+			<orth canonical="0" orth_id="ru9o2" type="cont">
+				<part type="phrasal">Другими словами</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Equivalence"/>
+				<example>Он умер не столько потому, что, сыграв свою роль в этом деле, не видел смысла в дальнейшем существовании, сколько потому, что не мог пережить эту последнюю, все увенчавшую глупость — убийство не того человека, когда нужный ему стоял прямо перед ним. Другими словами, его жизнь закончилась не слабым распадом механизма, а жестом человекоподобного отчаяния.</example>
+				<english_equivalent>He died, not so much because having played his part in the story he saw no point in existing any longer, but because he could not live down this last crowning botch, killing the wrong person when the right one stood before him. In other words, his life ended not in a feeble splutter of the clockwork but in a gesture of humanoid despair.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru10" word="если...то">
+		<english_equivalent>if...then</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru10o1" type="discont">
+				<part type="phrasal">если...то</part>
+			</orth>
+			<orth canonical="0" orth_id="ru10o2" type="discont">
+				<part type="phrasal">Если...то</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Condition.Arg2-as-cond"/>
+				<example>Если Тимур сделал всю работу, то он может идти домой.</example>
+				<english_equivalent>If Timur has finished his work, he can go home.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Contrast"/>
+				<example>Если раньше мне в голову не приходила подобная мысль, то теперь я точно осознал, что я самый везучий отец на свете.</example>
+				<english_equivalent>If it hadn't occurred to me until then, I knew now that I was indeed the luckiest father alive.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru11" word="если">
+		<english_equivalent>if</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru11o1" type="cont">
+				<part type="single">если</part>
+			</orth>
+			<orth canonical="0" orth_id="ru11o2" type="cont">
+				<part type="single">Если</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Condition.Arg2-as-cond"/>
+				<example>Заработай денег и отдай прибыль на благотворительность, если ты хочешь внести свой вклад.</example>
+				<english_equivalent>Just make money, give the profits to charities if you want to do something about that.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Condition+SpeechAct"/>
+				<example>Налей мне воды, если ты не против.</example>
+				<english_equivalent>Pour me some water if you don't mind.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru12" word="ибо">
+		<english_equivalent>for/because/as</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru12o1" type="cont">
+				<part type="single">ибо</part>
+			</orth>
+			<orth canonical="0" orth_id="ru12o2" type="cont">
+				<part type="single">Ибо</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Но теперь все иначе, ибо настоящий мир — не просто отсутствие войны.</example>
+				<english_equivalent>But this time it is different for real peace is not the mere absence of war.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru13" word="итак">
+		<english_equivalent>so</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru13o1" type="cont">
+				<part type="single">итак</part>
+			</orth>
+			<orth canonical="0" orth_id="ru13o2" type="cont">
+				<part type="single">Итак</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Result"/>
+				<example>Большинство биологических исследований учитывает только «удовольствие» — его определить и измерить легче. Итак, «жизнь, свобода и стремление к счастью» на биологическом языке всего лишь «жизнь и стремление к удовольствию».</example>
+				<english_equivalent>Most biological studies acknowledge only the existence of pleasure, which is more easily defined and measured. So 'life, liberty, and the pursuit of happiness' should be translated into' life and the pursuit of pleasure'.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru14" word="как">
+		<english_equivalent>as/like/as soon as</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru14o1" type="cont">
+				<part type="single">как</part>
+			</orth>
+			<orth canonical="0" orth_id="ru14o2" type="cont">
+				<part type="single">Как</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Similarity"/>
+				<example>Но ничто не чувствовалось столь близким к моим детским мечтам как документировать жизни и жить среди странников по Соединённым Штатам.</example>
+				<english_equivalent>No other experience has felt as true to my childhood dreams as living amongst and documenting the lives of fellow wanderers across the United States.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous.Succession"/>
+				<example>Как зарегистрируешься, сразу можешь начать тренинг.</example>
+				<english_equivalent>As soon as you’ve registered, you can start the training.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru15" word="когда">
+		<english_equivalent>when</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru15o1" type="cont">
+				<part type="single">когда</part>
+			</orth>
+			<orth canonical="0" orth_id="ru15o2" type="cont">
+				<part type="single">Когда</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Synchronous"/>
+				<example>Это то, о чём думала Элизабет Мюррей, когда я увидела её улыбающейся, рассматривая однажды свои ранние работы в галерее.</example>
+				<english_equivalent>Its what I have to imagine Elizabeth Murray was thinking when I saw her smiling at those early paintings one day in the galleries.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Condition"/>
+				<example>Когда есть вопросы, то задавай их.</example>
+				<english_equivalent>If you have questions, ask them.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru16" word="не только...но">
+		<english_equivalent>not only…but</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru16o1" type="discont">
+				<part type="phrasal">не только...но</part>
+			</orth>
+			<orth canonical="0" orth_id="ru16o2" type="discont">
+				<part type="phrasal">Не только...но</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>В сумке, которую она потеряла, были не только деньги, но и документы.</example>
+				<english_equivalent>The purse that she lost contained not only money, but documents too.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru17" word="однако">
+		<english_equivalent>however/though</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru17o1" type="cont">
+				<part type="single">однако</part>
+			</orth>
+			<orth canonical="0" orth_id="ru17o2" type="cont">
+				<part type="single">Однако</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession.Arg2-as-denier"/>
+				<example>Мастерство — это знать, что это ничего не значит, если ты не можешь этого повторить. Однако, мастерство — не то же самое , что и совершенство.</example>
+				<english_equivalent>Mastery is knowing that it means nothing if you can't do it again and again. Mastery is not just the same as excellence though.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Contrast"/>
+				<example>Я родился и вырос в Сьерра-Леоне, в маленьком и очень красивом государстве Восточной Африки, в государстве, богатом природными ресурсами и творческими талантами. Однако, Сьерра-Леоне печально известна десятилетней повстанческой войной в 90-е, когда целые деревни были сожжены дотла.</example>
+				<english_equivalent>I was born and raised in Sierra Leone, a small and very beautiful country in West Africa, a country rich both in physical resources and creative talent. However, Sierra Leone is infamous for a decade-long rebel war in the 90s when entire villages were burnt down.</english_equivalent>
+			</sem>
+		</syn>
+		<syn>
+		    <cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession.Arg2-as-denier"/>
+				<example>У моего друга много работы, однако у него всегда есть свободное время.</example>
+				<english_equivalent>My friend has a lot of work; however, he always has free time.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru18" word="особенно">
+		<english_equivalent>especially</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru18o1" type="cont">
+				<part type="single">особенно</part>
+			</orth>
+			<orth canonical="0" orth_id="ru18o2" type="cont">
+				<part type="single">Особенно</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail.Arg2-as-detail"/>
+				<example>Инвесторы не уделяют достаточного внимания некоторым крупнейшим двигателям перемен, особенно когда речь идёт об устойчивости развития.</example>
+				<english_equivalent>Investors arent paying enough attention to some of the biggest drivers of change, especially when it comes to sustainability.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru19" word="пока">
+		<english_equivalent>while/until</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru19o1" type="cont">
+				<part type="single">пока</part>
+			</orth>
+			<orth canonical="0" orth_id="ru19o2" type="cont">
+				<part type="single">Пока</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Condition.Arg2-as-cond"/>
+				<example>Всегда будет подобного рода люди, жаждущих открытых дорог для побега, освобождения и, конечно, бунта пока мы не будем жить в обществе, где человек подтверждает своё достоинство трудом, то есть работает, чтобы жить лучше, а не просто работает, чтобы выжить.</example>
+				<english_equivalent>There will always be an element of those who seek the open road as a means of escape, of liberation and, of course, of rebellion until we live in a society where every human is assured dignity in their labor so that they can work to live well, not only work to survive.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Synchronous"/>
+				<example>Бабушка сидела и вязала, пока я готовила обед.</example>
+				<english_equivalent>Grandma sat and knitted while I made dinner.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru20" word="поскольку">
+		<english_equivalent>because/since</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru20o1" type="cont">
+				<part type="single">поскольку</part>
+			</orth>
+			<orth canonical="0" orth_id="ru20o2" type="cont">
+				<part type="single">Поскольку</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Все письма остались в полиции, поскольку это вещественные доказательства.</example>
+				<english_equivalent>All of the letters were left with the police, because they were material evidence.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru21" word="потом">
+		<english_equivalent>then/later</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru21o1" type="cont">
+				<part type="single">потом</part>
+			</orth>
+			<orth canonical="0" orth_id="ru21o2" type="cont">
+				<part type="single">Потом</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous.Precedence"/>
+				<example>Я почувствовал себя одиноким и  брошенным, но  потом подумал: ты обрела свободу!</example>
+				<english_equivalent>I felt lonely and abandoned but then I thought – you have freedom!</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru22" word="потому как">
+		<english_equivalent>because/since</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru22o1" type="cont">
+				<part type="phrasal">потому как</part>
+			</orth>
+			<orth canonical="0" orth_id="ru22o2" type="cont">
+				<part type="phrasal">Потому как</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Они подтвердили, что Лэнгдон и Неве приезжали сюда чуть раньше этой же ночью, но затем им якобы дали от ворот поворот, потому как у них не оказалось соответствующих документов.</example>
+				<english_equivalent>They claimed Langdon and Neveu had arrived earlier and were turned away from the bank because they did not have proper account identification.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru23" word="потому что">
+		<english_equivalent>because/since</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru23o1" type="cont">
+				<part type="phrasal">потому что</part>
+			</orth>
+			<orth canonical="0" orth_id="ru23o2" type="cont">
+				<part type="phrasal">Потому что</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Я начал этим заниматься, потому что я считаю, что это изменит мир.</example>
+				<english_equivalent>That's why I got into doing this - because I think that will change the world.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause+SpeechAct.Reason+SpeechAct"/>
+				<example>Я знаю об этих законах, потому что видела, как друзей и других путешественников тащили в тюрьму и вызывали в суд за совершение этих, так называемых преступлений.</example>
+				<english_equivalent>I know about these laws because I've watched as friends and other travelers were hauled off to jail or received citations for committing these so-called crimes.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru24" word="поэтому">
+		<english_equivalent>that's why/so/therefore</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru24o1" type="cont">
+				<part type="single">поэтому</part>
+			</orth>
+			<orth canonical="0" orth_id="ru24o2" type="cont">
+				<part type="single">Поэтому</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Result"/>
+				<example>Катя проболела всю зиму, поэтому и не поехала в Москву, как собиралась.</example>
+				<english_equivalent>Katya was sick all winter, so she didn’t go to Moscow as she had planned.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru25" word="так как">
+		<english_equivalent>since/given that</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru25o1" type="cont">
+				<part type="phrasal">так как</part>
+			</orth>
+			<orth canonical="0" orth_id="ru25o2" type="cont">
+				<part type="phrasal">Так как</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Так как премьера спектакля через неделю, репетиции каждый день с утра до позднего вечера.</example>
+				<english_equivalent>Since the play opens in a week, there are rehearsals every day from morning till late at night.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru26" word="так что">
+		<english_equivalent>so</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru26o1" type="cont">
+				<part type="phrasal">так что</part>
+			</orth>
+			<orth canonical="0" orth_id="ru26o2" type="cont">
+				<part type="phrasal">Так что</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Result"/>
+				<example>Я с тобой не согласен, так что не жди от меня каких-то действий.</example>
+				<english_equivalent>I don’t agree with you, so don’t expect any actions on my part.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru27" word="также">
+		<english_equivalent>and/also</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru27o1" type="cont">
+				<part type="single">также</part>
+			</orth>
+			<orth canonical="0" orth_id="ru27o2" type="cont">
+				<part type="single">Также</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Я поискал имена музыкантов, которые преподавали в консерватории в те годы, а также до и после.</example>
+				<english_equivalent>I searched for the names of teachers before, during, and after those years.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru28" word="то есть">
+		<english_equivalent>that is</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru28o1" type="cont">
+				<part type="phrasal">то есть</part>
+			</orth>
+			<orth canonical="0" orth_id="ru28o2" type="cont">
+				<part type="phrasal">То есть</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Equivalence"/>
+				<example>Перефразируя одну военную шутку, скажу, что ядерное оружие будет существовать до тех пор, пока не улучшится мораль, то есть до тех пор, пока не исчезнет угроза смены режима.</example>
+				<english_equivalent>To borrow some military sarcasm about bad situations, nukes will continue until morale improves, i. e. until the threat of regime change is gone.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail"/>
+				<example>Мы купили очень много всего, то есть и вино, и сыр, и овощи, и хлеб.</example>
+				<english_equivalent>We bought a lot of everything, that is, a lot of wine and cheese and vegetables and bread.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru29" word="тогда">
+		<english_equivalent>then</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru29o1" type="cont">
+				<part type="single">тогда</part>
+			</orth>
+			<orth canonical="0" orth_id="ru29o2" type="cont">
+				<part type="single">Тогда</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Result"/>
+				<example>Этот звёздный абажур практически как половина футбольного поля и он должен находиться в 50 000 км от телескопа, который должен находиться в этой тени, и тогда мы сможем увидеть эти планеты.</example>
+				<english_equivalent>It has to fly 50,000 kilometers away from the telescope that has to be held right in its shadow, and then we can see those planets.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru30" word="чем">
+		<english_equivalent>instead of/rather than</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru30o1" type="cont">
+				<part type="single">чем</part>
+			</orth>
+			<orth canonical="0" orth_id="ru30o2" type="cont">
+				<part type="single">Чем</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Substitution.Arg2-as-subst"/>
+				<example>Чем сидеть без дела, пошёл бы куда-нибудь.</example>
+				<english_equivalent>Instead of sitting around with nothing to do, you should go somewhere.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru31" word="чтобы">
+		<english_equivalent>to</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru31o1" type="cont">
+				<part type="single">чтобы</part>
+			</orth>
+			<orth canonical="0" orth_id="ru31o2" type="cont">
+				<part type="single">Чтобы</part>
+			</orth>
+			<orth canonical="1" orth_id="ru31o3" type="cont">
+				<part type="single">чтоб</part>
+			</orth>
+			<orth canonical="0" orth_id="ru31o4" type="cont">
+				<part type="single">Чтоб</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Purpose.Arg2-as-goal"/>
+				<example>Мы покупаем страховку, чтобы защитить себя финансово на случай, если такие несчастия случатся.</example>
+				<english_equivalent>We buy insurance to protect ourselves financially in case those things happen.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru32" word="кроме того">
+		<english_equivalent>additionally/besides/furthermore</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru32o1" type="cont">
+				<part type="phrasal">кроме того</part>
+			</orth>
+			<orth canonical="0" orth_id="ru32o2" type="cont">
+				<part type="phrasal">Кроме того</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Хотя в Париже правила противопожарной безопасности требовали, чтобы все окна в общественных зданиях, находящиеся на высоте свыше пятнадцати метров, можно было разбить в случае пожара, выпрыгивать из окна второго этажа Лувра было бы самоубийством. Кроме того, в той стороне крыла под окнами нет ни кустарников, ни травы, способных смягчить удар при падении. </example>
+				<english_equivalent>Although Paris fire codes required windows above fifteen meters in public buildings be breakable in case of fire, exiting a Louvre second-story window without the help of a hook and ladder would be suicide. Furthermore, there were no trees or grass on the western end of the Denon Wing to cushion a fall.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru33" word="к тому же">
+		<english_equivalent>and/besides</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru33o1" type="cont">
+				<part type="phrasal">к тому же</part>
+			</orth>
+			<orth canonical="0" orth_id="ru33o2" type="cont">
+				<part type="phrasal">К тому же</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Было пасмурно, и к тому же всё время шёл дождь.</example>
+				<english_equivalent>It was cloudy, and it was raining all the time.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru34" word="после того(,) как">
+		<english_equivalent>after</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru34o1" type="cont">
+				<part type="phrasal">после того(,) как</part>
+			</orth>
+			<orth canonical="0" orth_id="ru34o2" type="cont">
+				<part type="phrasal">После того(,) как</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous.Succession"/>
+				<example>После того как Вера вернулась из командировки, она уехала к сыну.</example>
+				<english_equivalent>After Vera returned from her business trip, she went to visit her son.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru35" word="всё же">
+		<english_equivalent>and yet/still/after all</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru35o1" type="cont">
+				<part type="phrasal">всё же</part>
+			</orth>
+			<orth canonical="0" orth_id="ru35o2" type="cont">
+				<part type="phrasal">Всё же</part>
+			</orth>
+			<orth canonical="1" orth_id="ru35o3" type="cont">
+				<part type="phrasal">все же</part>
+			</orth>
+			<orth canonical="0" orth_id="ru35o4" type="cont">
+				<part type="phrasal">Все же</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession"/>
+				<example>Несмотря на то, что был сильный мороз, ребята всё же пошли кататься на коньках.</example>
+				<english_equivalent>Despite the severe frost, the kids still went skating.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Contrast"/>
+				<example>Пётр Александрович вышел раньше, чтобы успеть на собрание, и всё же опоздал.</example>
+				<english_equivalent>Pyotr Aleksandrovich left earlier to get to the meeting on time, but he was still late.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru36" word="всё-таки">
+		<english_equivalent>after all</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru36o1" type="cont">
+				<part type="single">всё-таки</part>
+			</orth>
+			<orth canonical="0" orth_id="ru36o2" type="cont">
+				<part type="single">Всё-таки</part>
+			</orth>
+			<orth canonical="1" orth_id="ru36o3" type="cont">
+				<part type="single">все-таки</part>
+			</orth>
+			<orth canonical="0" orth_id="ru36o4" type="cont">
+				<part type="single">Все-таки</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Contrast"/>
+				<example>Солнце было весь день, но бельё всё-таки не высохло.</example>
+				<english_equivalent>It was sunny the entire day, but the clothes still didn’t dry.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Оказалось, что в конце концов царица Савская все таки отправляется к Соломону, несмотря то, что не исключается обвинение его шарлатанстве.</example>
+				<english_equivalent>It appears that Sheba is coming to Solomon after all, though probably to denounce him as a charlatan.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru37" word="если бы">
+		<english_equivalent>if</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru37o1" type="cont">
+				<part type="phrasal">если бы</part>
+			</orth>
+			<orth canonical="0" orth_id="ru37o2" type="cont">
+				<part type="phrasal">Если бы</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Condition.Arg2-as-cond"/>
+				<example>Если бы Миша пришёл вовремя, то нам не пришлось бы ждать поезд ещё час.</example>
+				<english_equivalent>If Misha had come on time, then we wouldn’t have had to wait another hour for the train.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru38" word="ещё">
+		<english_equivalent>also/too/as well</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru38o1" type="cont">
+				<part type="single">ещё</part>
+			</orth>
+			<orth canonical="0" orth_id="ru38o2" type="cont">
+				<part type="single">Ещё</part>
+			</orth>
+			<orth canonical="1" orth_id="ru38o3" type="cont">
+				<part type="single">еще</part>
+			</orth>
+			<orth canonical="0" orth_id="ru38o4" type="cont">
+				<part type="single">Еще</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>– Они были в Москве, да? – Да, а ещё в Петербурге и Пскове.</example>
+				<english_equivalent>"Were they in Moscow?” “Yes, and in Petersburg and Pskov as well."</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru39" word="тоже">
+		<english_equivalent>also/as well</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru39o1" type="cont">
+				<part type="single">тоже</part>
+			</orth>
+			<orth canonical="0" orth_id="ru39o2" type="cont">
+				<part type="single">Тоже</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Инна не поедет на дачу в этом году, Борис тоже не собирается ехать туда.</example>
+				<english_equivalent>Inna won’t go to the dacha this year, and Boris is also not planning to go there.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru40" word="впрочем">
+		<english_equivalent>although/however</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru40o1" type="cont">
+				<part type="single">впрочем</part>
+			</orth>
+			<orth canonical="0" orth_id="ru40o2" type="cont">
+				<part type="single">Впрочем</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession"/>
+				<example>Игорь не поступил в колледж, в который хотел, впрочем это к лучшему – ему не придётся уезжать из дома.</example>
+				<english_equivalent>Igor didn’t get into the college he wanted. Although, this is for the best; he won’t have to leave home this way.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru41" word="хотя">
+		<english_equivalent>although</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru41o1" type="cont">
+				<part type="single">хотя</part>
+			</orth>
+			<orth canonical="0" orth_id="ru41o2" type="cont">
+				<part type="single">Хотя</part>
+			</orth>
+			<orth canonical="1" orth_id="ru41o3" type="cont">
+				<part type="single">хоть</part>
+			</orth>
+			<orth canonical="0" orth_id="ru41o4" type="cont">
+				<part type="single">Хоть</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison"/>
+				<example>Хотя гости были приглашены на пять, в половине шестого ещё никого не было.</example>
+				<english_equivalent>Although the guests were invited at five, there was still nobody there at half past.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru42" word="да">
+		<english_equivalent>and/but</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru42o1" type="cont">
+				<part type="single">да</part>
+			</orth>
+			<orth canonical="0" orth_id="ru42o2" type="cont">
+				<part type="single">Да</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>И остались они вдвоём - он да его мать.</example>
+				<english_equivalent>And the two of them, he and his mother, were left alone.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession.Arg2-as-denier"/>
+				<example>Хотели мы поехать в горы, да погода помешала.</example>
+				<english_equivalent>We wanted to go to the mountains, but the weather didn’t allow it.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru43" word="причём">
+		<english_equivalent>and/moreover</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru43o1" type="cont">
+				<part type="single">причём</part>
+			</orth>
+			<orth canonical="0" orth_id="ru43o2" type="cont">
+				<part type="single">Причём</part>
+			</orth>
+			<orth canonical="1" orth_id="ru43o3" type="cont">
+				<part type="single">причем</part>
+			</orth>
+			<orth canonical="0" orth_id="ru43o4" type="cont">
+				<part type="single">Причем</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail"/>
+				<example>Многие родители не работают, причём количество неработающих матерей и отцов существенно не отличается.</example>
+				<english_equivalent>Many parents do not work, and the amount of non-working mothers and fathers is the same.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru44" word="по мере">
+		<english_equivalent>as</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru44o1" type="cont">
+				<part type="phrasal">по мере</part>
+			</orth>
+			<orth canonical="0" orth_id="ru44o2" type="cont">
+				<part type="phrasal">По мере</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>По мере приближения выборов мэра об оппозиции вспоминают всё реже.</example>
+				<english_equivalent>As the mayoral election draws closer, the opposition is considered more rarely.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru45" word="по мере того(,) как">
+		<english_equivalent>as</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru45o1" type="cont">
+				<part type="phrasal">по мере того(,) как</part>
+			</orth>
+			<orth canonical="0" orth_id="ru45o2" type="cont">
+				<part type="phrasal">По мере того(,) как</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Synchronous"/>
+				<example>По мере того как мы поднимались в гору, растительности становилось всё меньше.</example>
+				<english_equivalent>As we climbed higher up the mountain, there was less and less vegetation.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru46" word="а то">
+		<english_equivalent>otherwise/if not/or</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru46o1" type="cont">
+				<part type="phrasal">а то</part>
+			</orth>
+			<orth canonical="0" orth_id="ru46o2" type="cont">
+				<part type="phrasal">А то</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Negative-condition"/>
+				<example>Надо поторапливаться, а то не успеем.</example>
+				<english_equivalent>We have to hurry, or we won’t make it.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru47" word="более того">
+		<english_equivalent>furthermore/moreover</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru47o1" type="cont">
+				<part type="phrasal">более того</part>
+			</orth>
+			<orth canonical="0" orth_id="ru47o2" type="cont">
+				<part type="phrasal">Более того</part>
+			</orth>
+			<orth canonical="1" orth_id="ru47o1" type="cont">
+				<part type="phrasal">больше того</part>
+			</orth>
+			<orth canonical="0" orth_id="ru47o2" type="cont">
+				<part type="phrasal">Больше того</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Мне было очень не по себе и, более того, в какой-то момент даже стало страшно.</example>
+				<english_equivalent>I was very perturbed, and, moreover, I even became frightened at some point.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru48" word="будто">
+		<english_equivalent>as if/like</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru48o1" type="cont">
+				<part type="single">будто</part>
+			</orth>
+			<orth canonical="0" orth_id="ru48o2" type="cont">
+				<part type="single">Будто</part>
+			</orth>
+			<orth canonical="1" orth_id="ru48o1" type="cont">
+				<part type="phrasal">будто бы</part>
+			</orth>
+			<orth canonical="0" orth_id="ru48o2" type="cont">
+				<part type="phrasal">Будто бы</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Similarity"/>
+				<example>Тишина – будто в лесу.</example>
+				<english_equivalent>It’s quiet, like in a forest.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Expansion"/>
+				<example>Миша с растерянностью смотрел по сторонам, будто ничего не узнавал.</example>
+				<english_equivalent>Misha looked around in confusion, as if he didn’t recognize anything.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru49" word="в конце концов">
+		<english_equivalent>finally/after all</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru49o1" type="cont">
+				<part type="phrasal">в конце концов</part>
+			</orth>
+			<orth canonical="0" orth_id="ru49o2" type="cont">
+				<part type="phrasal">В конце концов</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous"/>
+				<example>Миша работал над своим проектом несколько месяцев и, в конце концов, вчера закончил его.</example>
+				<english_equivalent>Misha worked on his project for a few months and finally finished it yesterday.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Result"/>
+				<example>Долгое время он уговаривал её уехать в другой город, и в конце концов она согласилась.</example>
+				<english_equivalent>He spent a long time convincing her to move to a different city, and she finally conceded.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru50" word="в противном случае">
+		<english_equivalent>otherwise</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru50o1" type="cont">
+				<part type="phrasal">в противном случае</part>
+			</orth>
+			<orth canonical="0" orth_id="ru50o2" type="cont">
+				<part type="phrasal">В противном случае</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Negative-condition"/>
+				<example>Вы обязаны внести плату за прошедшие полгода – в противном случае у вас отключат воду.</example>
+				<english_equivalent>You are obliged to make your payments for the past six months. Otherwise, they’ll turn off your water.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru51" word="в результате">
+		<english_equivalent>as a result of</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru51o1" type="cont">
+				<part type="phrasal">в результате</part>
+			</orth>
+			<orth canonical="0" orth_id="ru51o2" type="cont">
+				<part type="phrasal">В результате</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>В результате проверки деятельности банка заблокированы некоторые счета.</example>
+				<english_equivalent>As a result of the revision of the bank’s activities, some accounts have been frozen.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru52" word="в самом деле">
+		<english_equivalent>actually/indeed</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru52o1" type="cont">
+				<part type="phrasal">в самом деле</part>
+			</orth>
+			<orth canonical="0" orth_id="ru52o2" type="cont">
+				<part type="phrasal">В самом деле</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion"/>
+				<example>Многих учителей давно учили, что в дисциплинах STEM самое главное — концептуальное знание. В самом деле, учителям легче привлечь учеников к обсуждению математической темы, чем утомительно оценивать сделанные домашние задания.</example>
+				<english_equivalent>Many teachers have long been taught that conceptual understanding in STEM trumps everything else. And indeed, it's easier for teachers to induce students to discuss a mathematical subject than it is for that teacher to tediously grade math homework.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru53" word="в связи с">
+		<english_equivalent>because of</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru53o1" type="cont">
+				<part type="phrasal">в связи с</part>
+			</orth>
+			<orth canonical="0" orth_id="ru53o2" type="cont">
+				<part type="phrasal">В связи с</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Иван Петров приехал в Самару в связи с открытием музыкального фестиваля.</example>
+				<english_equivalent>Ivan Petrov came to Samara because of the opening of the music festival.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru54" word="в связи с тем(,) что">
+		<english_equivalent>because</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru54o1" type="cont">
+				<part type="phrasal">в связи с тем(,) что</part>
+			</orth>
+			<orth canonical="0" orth_id="ru54o2" type="cont">
+				<part type="phrasal">В связи с тем(,) что</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Я хочу коснуться этой работы в связи с тем, что она была разрекламирована как воскрешающая так называемую «ламарковскую» теорию эволюции.</example>
+				<english_equivalent>I want to mention this work because it has been given publicity as a would-be resuscitator of the so-called 'Lamarckian' theory of evolution.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru55" word="в силу">
+		<english_equivalent>given</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru55o1" type="cont">
+				<part type="phrasal">в силу</part>
+			</orth>
+			<orth canonical="0" orth_id="ru55o2" type="cont">
+				<part type="phrasal">В силу</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>В силу своего положения журналисты играют активную роль в формировании общественного мнения.</example>
+				<english_equivalent>Given their position, journalists play an active role in the formation of public opinion.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru56" word="в случае">
+		<english_equivalent>in the case of</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru56o1" type="cont">
+				<part type="phrasal">в случае</part>
+			</orth>
+			<orth canonical="0" orth_id="ru56o2" type="cont">
+				<part type="phrasal">В случае</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Condition"/>
+				<example>В случае пожара звоните 01.</example>
+				<english_equivalent>In case of a fire, dial 01.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru57" word="в сущности">
+		<english_equivalent>in essence</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru57o1" type="cont">
+				<part type="phrasal">в сущности</part>
+			</orth>
+			<orth canonical="0" orth_id="ru57o2" type="cont">
+				<part type="phrasal">В сущности</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>В сущности, все размолвки между коллегами происходят из-за нежелания понять друг друга.</example>
+				<english_equivalent>In essence, all arguments between coworkers happen because of their unwillingness to understand each other.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru58" word="ввиду">
+		<english_equivalent>due to/as a result of</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru58o1" type="cont">
+				<part type="single">ввиду</part>
+			</orth>
+			<orth canonical="0" orth_id="ru58o2" type="cont">
+				<part type="single">Ввиду</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Присяжные оправдали Козлова ввиду его невменяемости.</example>
+				<english_equivalent>The jury acquitted Kozlov due to his insanity defense.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru59" word="вернее">
+		<english_equivalent>or rather</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru59o1" type="cont">
+				<part type="single">вернее</part>
+			</orth>
+			<orth canonical="0" orth_id="ru59o2" type="cont">
+				<part type="single">Вернее</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Эта усадьба, вернее, барский дом, была построена в начале 19-го века.</example>
+				<english_equivalent>This estate, or rather, manor house, was built in the beginning of the 19th century.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru60" word="вернее сказать">
+		<english_equivalent>or rather/in fact</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru60o1" type="cont">
+				<part type="phrasal">вернее сказать</part>
+			</orth>
+			<orth canonical="0" orth_id="ru60o2" type="cont">
+				<part type="phrasal">Вернее сказать</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Эта усадьба, вернее сказать, барский дом, была построена в начале 19-го века.</example>
+				<english_equivalent>This estate, or rather, manor house, was built in the beginning of the 19th century.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru61" word="вместо того(,) чтобы">
+		<english_equivalent>instead of/rather than</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru61o1" type="cont">
+				<part type="phrasal">вместо того(,) чтобы</part>
+			</orth>
+			<orth canonical="0" orth_id="ru61o2" type="cont">
+				<part type="phrasal">Вместо того(,) чтобы</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Substitution"/>
+				<example>Семён выходит в парк пройтись вместо того, чтобы работать.</example>
+				<english_equivalent>Semyon goes out for a walk in the park instead of working.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru62" word="вопреки тому(,) что">
+		<english_equivalent>in spite of/contrary to</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru62o1" type="cont">
+				<part type="phrasal">вопреки тому(,) что</part>
+			</orth>
+			<orth canonical="0" orth_id="ru62o2" type="cont">
+				<part type="phrasal">Вопреки тому(,) что</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession"/>
+				<example>Вопреки тому что думают о коровах и быках, эти животные не различают красный цвет.</example>
+				<english_equivalent>Contrary to what many people believe about cows and bulls, they cannot see the color red.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru63" word="действительно">
+		<english_equivalent>indeed</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru63o1" type="cont">
+				<part type="single">действительно</part>
+			</orth>
+			<orth canonical="0" orth_id="ru63o2" type="cont">
+				<part type="single">Действительно</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion"/>
+				<example>Действительно, когда речь идет о крупных суммах денег и международных сделках с недвижимостью, открывается много лазеек для мошенничества.</example>
+				<english_equivalent>Indeed, the intersection of large sums of money and international real estate deals is ripe for fraud.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru64" word="для того(‚) чтобы">
+		<english_equivalent>in order to/so that</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru64o1" type="cont">
+				<part type="phrasal">для того(‚) чтобы</part>
+			</orth>
+			<orth canonical="0" orth_id="ru64o2" type="cont">
+				<part type="phrasal">Для того(‚) чтобы</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency"/>
+				<example>Мы должны пообедать пораньше, для того чтобы успеть в кино.</example>
+				<english_equivalent>We need to have dinner earlier in order to get to the movies on time.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru65" word="до тех пор(,) пока">
+		<english_equivalent>as long as</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru65o1" type="cont">
+				<part type="phrasal">до тех пор(,) пока</part>
+			</orth>
+			<orth canonical="0" orth_id="ru65o2" type="cont">
+				<part type="phrasal">До тех пор(,) пока</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Synchronous"/>
+				<example>До тех пор пока будет эта власть, нормальной жизни ждать не приходится.</example>
+				<english_equivalent>As long as this regime holds, we shouldn’t hope for a normal life.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru66" word="до тех пор(,) пока не">
+		<english_equivalent>until/unless</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru66o1" type="cont">
+				<part type="phrasal">до тех пор(,) пока не</part>
+			</orth>
+			<orth canonical="0" orth_id="ru66o2" type="cont">
+				<part type="phrasal">До тех пор(,) пока не</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Synchronous"/>
+				<example>До тех пор пока не закончится ремонт дороги, нужно выезжать раньше.</example>
+				<english_equivalent>Until the road work is complete, you will have to leave earlier.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru67" word="до того(,) как">
+		<english_equivalent>before/prior to</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru67o1" type="cont">
+				<part type="phrasal">до того(,) как</part>
+			</orth>
+			<orth canonical="0" orth_id="ru67o2" type="cont">
+				<part type="phrasal">До того(,) как</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous.Precedence"/>
+				<example>Я должна закончить всю работу до того, как поеду в отпуск.</example>
+				<english_equivalent>I need to finish all my work before I go on vacation.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru68" word="ежели">
+		<english_equivalent>if</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru68o1" type="cont">
+				<part type="single">ежели</part>
+			</orth>
+			<orth canonical="0" orth_id="ru68o2" type="cont">
+				<part type="single">Ежели</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Condition.Arg2-as-cond"/>
+				<example>— Ничего страшного не случится, ежели вы завтра туда приедете, — словно угадав его мысли, произнесла мельничиха.</example>
+				<english_equivalent>“Nothing terrible will happen if you get there tomorrow,” said the miller's wife, as though she'd read his mind. </english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru69" word="ежели бы">
+		<english_equivalent>if</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru69o1" type="cont">
+				<part type="phrasal">ежели бы</part>
+			</orth>
+			<orth canonical="0" orth_id="ru69o2" type="cont">
+				<part type="phrasal">Ежели бы</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Condition.Arg2-as-cond"/>
+				<example>Ванюша смотрел на Оленина только как на барина. Оленин смотрел на Ванюшу только как на слугу. и они оба очень удивились бы, ежели бы кто-нибудь сказал им, что они друзья.</example>
+				<english_equivalent>Vanyusha regarded Olenin as only his master, and Olenin regarded Vanyusha as only his servant; and they would both have been much surprised if anyone had told them that they were friends.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru70" word="зато">
+		<english_equivalent>but/however</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru70o1" type="cont">
+				<part type="single">зато</part>
+			</orth>
+			<orth canonical="0" orth_id="ru70o2" type="cont">
+				<part type="single">Зато</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession.Arg2-as-denier"/>
+				<example>Машина очень дорогая – зато новая и хорошая.</example>
+				<english_equivalent>The car is very expensive, but it is new and good.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru71" word="значит">
+		<english_equivalent>so</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru71o1" type="cont">
+				<part type="single">значит</part>
+			</orth>
+			<orth canonical="0" orth_id="ru71o2" type="cont">
+				<part type="single">Значит</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Result"/>
+				<example>Стало теплее, значит скоро зацветут деревья.</example>
+				<english_equivalent>It got warmer, so trees will start blooming soon.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru72" word="из-за">
+		<english_equivalent>because of</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru72o1" type="cont">
+				<part type="single">из-за</part>
+			</orth>
+			<orth canonical="0" orth_id="ru72o2" type="cont">
+				<part type="single">Из-за</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Из-за болезни он пропустил много занятий в университете.</example>
+				<english_equivalent>He missed a lot of classes at the university because of his illness.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru73" word="из-за того(,) что">
+		<english_equivalent>because</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru73o1" type="cont">
+				<part type="phrasal">из-за того(,) что</part>
+			</orth>
+			<orth canonical="0" orth_id="ru73o2" type="cont">
+				<part type="phrasal">Из-за того(,) что</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Из-за того что адвоката госпитализировали, слушания были отложены.</example>
+				<english_equivalent>Because the lawyer was hospitalized, the hearings were postponed.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru74" word="или...или">
+		<english_equivalent>either..or</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru74o1" type="discont">
+				<part type="phrasal">или...или</part>
+			</orth>
+			<orth canonical="0" orth_id="ru74o2" type="discont">
+				<part type="phrasal">Или...или</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Disjunction"/>
+				<example>Борис хочет заниматься или программированием, или журналистикой.</example>
+				<english_equivalent>Boris wants to work either in programming or in journalism.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru75" word="иначе">
+		<english_equivalent>otherwise/else</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru75o1" type="cont">
+				<part type="single">иначе</part>
+			</orth>
+			<orth canonical="0" orth_id="ru75o2" type="cont">
+				<part type="single">Иначе</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Negative-condition"/>
+				<example>Заказать билеты надо уже, иначе их не будет.</example>
+				<english_equivalent>We need to order the tickets now, otherwise there won’t be any left.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru76" word="иначе говоря">
+		<english_equivalent>In other words</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru76o1" type="cont">
+				<part type="phrasal">иначе говоря</part>
+			</orth>
+			<orth canonical="0" orth_id="ru76o2" type="cont">
+				<part type="phrasal">Иначе говоря</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Equivalence"/>
+				<example>Уже поздно, иначе говоря, мы можем не успеть.</example>
+				<english_equivalent>It’s already late; in other words, we might not make it.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru77" word="иными словами">
+		<english_equivalent>in other words</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru77o1" type="cont">
+				<part type="phrasal">иными словами</part>
+			</orth>
+			<orth canonical="0" orth_id="ru77o2" type="cont">
+				<part type="phrasal">Иными словами</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Equivalence"/>
+				<example>Лакеи удалились, чтобы "привести все в порядок" ― иными словами, воспользоваться в собственных своих интересах остатками яств и напитков, какими им удалось завладеть.</example>
+				<english_equivalent>And the waiters withdrew to' clear away,' or in other words, to appropriate to their own private use and emolument whatever remnants of the eatables and drinkables they could contrive to lay their hands on.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru78" word="исходя из того(,) что">
+		<english_equivalent>because</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru78o1" type="cont">
+				<part type="phrasal">исходя из того(,) что</part>
+			</orth>
+			<orth canonical="0" orth_id="ru78o2" type="cont">
+				<part type="phrasal">Исходя из того(,) что</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>- Исходя из каких соображений Вы уволили сразу нескольких сотрудников? – Вынуждены были уволить, исходя из того, что фирма испытывает финансовые трудности.</example>
+				<english_equivalent>“Why did you fire several employees simultaneously?” “We were forced to fire them, since the firm is experiencing financial hardships.”</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru79" word="к примеру">
+		<english_equivalent>for example</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru79o1" type="cont">
+				<part type="phrasal">к примеру</part>
+			</orth>
+			<orth canonical="0" orth_id="ru79o2" type="cont">
+				<part type="phrasal">К примеру</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Instantiation"/>
+				<example>Мне очень нравятся некоторые английские актрисы, к примеру, Джуди Денч, Хелен Миррен, Мэгги Смит.</example>
+				<english_equivalent>I like some British actresses a lot, like, for example, Judi Dench, Helen Mirren, and Maggie Smith.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru80" word="кабы">
+		<english_equivalent>if</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru80o1" type="cont">
+				<part type="single">кабы</part>
+			</orth>
+			<orth canonical="0" orth_id="ru80o2" type="cont">
+				<part type="single">Кабы</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Condition.Arg2-as-cond"/>
+				<example>Я думал о том, сколько я пропустил в России, сколько всего я бы успел приметить и запасти, кабы предвидел, что жизнь повернет так круто.</example>
+				<english_equivalent>And I thought of all I had missed in my country, of the things I would not have omitted to note and treasure, had I suspected before that my life was to veer in such a violent way.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru81" word="как будто">
+		<english_equivalent>as if</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru81o1" type="cont">
+				<part type="phrasal">как будто</part>
+			</orth>
+			<orth canonical="0" orth_id="ru81o2" type="cont">
+				<part type="phrasal">Как будто</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion"/>
+				<example>Кира смотрела на Семёна, как будто не узнавала его.</example>
+				<english_equivalent>Kira looked at Semyon as if she didn’t recognize him.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru82" word="как если бы ">
+		<english_equivalent>as if</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru82o1" type="cont">
+				<part type="phrasal">как если бы </part>
+			</orth>
+			<orth canonical="0" orth_id="ru82o2" type="cont">
+				<part type="phrasal">Как если бы</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion"/>
+				<example>На улице безлюдно, как если бы все попрятались от холода.</example>
+				<english_equivalent>The streets are empty as if everyone is hiding from the cold.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru83" word="как только">
+		<english_equivalent>as soon as</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru83o1" type="cont">
+				<part type="phrasal">как только</part>
+			</orth>
+			<orth canonical="0" orth_id="ru83o2" type="cont">
+				<part type="phrasal">Как только</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous.Succession"/>
+				<example>Дети побежали на улицу, как только вышло солнце.</example>
+				<english_equivalent>The kids ran outside as soon as the sun came out</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru84" word="когда бы ни">
+		<english_equivalent>ENGLISH_WORD</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru84o1" type="cont">
+				<part type="phrasal">когда бы ни</part>
+			</orth>
+			<orth canonical="0" orth_id="ru84o2" type="cont">
+				<part type="phrasal">Когда бы ни</part>
+			</orth>
+			<orth canonical="1" orth_id="ru84o3" type="cont">
+				<part type="phrasal">когда ни</part>
+			</orth>
+			<orth canonical="0" orth_id="ru84o4" type="cont">
+				<part type="phrasal">Когда ни</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous.Succession"/>
+				<example>Когда бы ты ни позвонила, я всегда рада тебе.</example>
+				<english_equivalent>Whenever you call, I’m always happy to hear from you.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru85" word="короче говоря">
+		<english_equivalent>in short</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru85o1" type="cont">
+				<part type="phrasal">короче говоря</part>
+			</orth>
+			<orth canonical="0" orth_id="ru85o2" type="cont">
+				<part type="phrasal">Короче говоря</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail"/>
+				<example>Они ездили в Фонтенебло, но ничего существенного. Короче говоря, положение вещей сулит надежды, но требует терпения.</example>
+				<english_equivalent>They went to Fontainebleau — but nothing of value. In short, the situation is promising, but requires patience.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru86" word="кроме того(,) что">
+		<english_equivalent>aside from</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru86o1" type="cont">
+				<part type="phrasal">кроме того(,) что</part>
+			</orth>
+			<orth canonical="0" orth_id="ru86o2" type="cont">
+				<part type="phrasal">Кроме того(,) что</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Кроме того что Ольга учится, она ещё и работает.</example>
+				<english_equivalent>Aside from studying, Olga also works.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru87" word="кроме">
+		<english_equivalent>besides</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru87o1" type="cont">
+				<part type="single">кроме</part>
+			</orth>
+			<orth canonical="0" orth_id="ru87o2" type="cont">
+				<part type="single">Кроме</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Disjunction"/>
+				<example>Никому не рассказывай, кроме Ларисы.</example>
+				<english_equivalent>Don’t tell anyone besides Larisa.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru88" word="кстати ">
+		<english_equivalent>by the way</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru88o1" type="cont">
+				<part type="single">кстати </part>
+			</orth>
+			<orth canonical="0" orth_id="ru88o2" type="cont">
+				<part type="single">Кстати</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Ты, кстати, не собираешься на футбол? Можешь составить мне компанию.</example>
+				<english_equivalent>By the way, are you going to the soccer game? You can keep me company.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru89" word="либо...либо ">
+		<english_equivalent>either..or</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru89o1" type="discont">
+				<part type="phrasal">либо...либо </part>
+			</orth>
+			<orth canonical="0" orth_id="ru89o2" type="discont">
+				<part type="phrasal">Либо..либо</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Disjunction"/>
+				<example>Анна ездит на работу либо на своём мерсе, либо на такси.</example>
+				<english_equivalent>Anna gets to work either in her Mercedes or in a taxi.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru90" word="лишь">
+		<english_equivalent>as soon as</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru90o1" type="cont">
+				<part type="single">лишь</part>
+			</orth>
+			<orth canonical="0" orth_id="ru90o2" type="cont">
+				<part type="single">Лишь</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous.Succession"/>
+				<example>Лишь солнце зашло, сразу стало темно.</example>
+				<english_equivalent>As soon as the sun set, it got dark immediately.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru91" word="между прочим">
+		<english_equivalent>by the way</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru91o1" type="cont">
+				<part type="phrasal">между прочим</part>
+			</orth>
+			<orth canonical="0" orth_id="ru91o2" type="cont">
+				<part type="phrasal">Между прочим</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Андрей‚ между прочим‚ через три дня уезжает на несколько месяцев.</example>
+				<english_equivalent>By the way, Andrey is leaving for a few months in three days.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru92" word="между тем">
+		<english_equivalent>in the meantime</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru92o1" type="cont">
+				<part type="phrasal">между тем</part>
+			</orth>
+			<orth canonical="0" orth_id="ru92o2" type="cont">
+				<part type="phrasal">Между тем</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Synchronous"/>
+				<example>Гости увлеклись разговором‚ а между тем уже было поздно, и нужно было уходить.</example>
+				<english_equivalent>They got carried away with their conversation, and in the meantime, it had gotten late, and they had to leave.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru93" word="на основе">
+		<english_equivalent>based on/as a result of</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru93o1" type="cont">
+				<part type="phrasal">на основе</part>
+			</orth>
+			<orth canonical="0" orth_id="ru93o2" type="cont">
+				<part type="phrasal">На основе</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Успехи в этой области могут быть достигнуты только на основе использования новых технологий.</example>
+				<english_equivalent>Achievement in this field may be possible only as a result of the use of new technologies.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru94" word="наконец">
+		<english_equivalent>finally</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru94o1" type="cont">
+				<part type="single">наконец</part>
+			</orth>
+			<orth canonical="0" orth_id="ru94o2" type="cont">
+				<part type="single">Наконец</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous"/>
+				<example>Эмилия долго сидела, слушала, о чём говорили, и, наконец, встала и вышла из комнаты.</example>
+				<english_equivalent>Emilia sat for a long time, listening to what was said, and, finally, stood up and walked out of the room.</english_equivalent>
+			</sem>
+		</syn>
+		<syn>
+		    <cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Под проливным дождем наконец мы достигли надежного пристанища.</example>
+				<english_equivalent>In the pouring rain, we finally reached a safe shelter.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru95" word="наоборот">
+		<english_equivalent>on the contrary</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru95o1" type="cont">
+				<part type="single">наоборот</part>
+			</orth>
+			<orth canonical="0" orth_id="ru95o2" type="cont">
+				<part type="single">Наоборот</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Contrast"/>
+				<example>- Ты со мной не согласен? – Наоборот, я поддерживаю тебя.</example>
+				<english_equivalent>“You don’t agree with me?” “On the contrary, I support you.”</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru96" word="например">
+		<english_equivalent>for example</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru96o1" type="cont">
+				<part type="single">например</part>
+			</orth>
+			<orth canonical="0" orth_id="ru96o2" type="cont">
+				<part type="single">Например</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Instantiation"/>
+				<example>Это может включать в себя, например, внедрение новых сельскохозяйственных культур, сооружение плотин, для защиты от наводнений, изменение строительных нормативов, и полный запрет на стоительство в приморских районах на уровне моря.</example>
+				<english_equivalent>That may involve, for instance, developing new crops, constructing flood defenses, setting different building regulations or banning building close to sea level.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail"/>
+				<example>― Это было бы удивительно удобно для историка, ― заметил Психолог. ― Можно было бы, например, отправиться в прошлое и проверить известное описание битвы при Гастингсе!</example>
+				<english_equivalent>'It would be remarkably convenient for the historian,' the Psychologist suggested.' One might travel back and verify the accepted account of the Battle of Hastings, for instance!'</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru97" word="напротив">
+		<english_equivalent>on the contrary/by contrast</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru97o1" type="cont">
+				<part type="single">напротив</part>
+			</orth>
+			<orth canonical="0" orth_id="ru97o2" type="cont">
+				<part type="single">Напротив</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Contrast"/>
+				<example>Ты считаешь, что нужно покупать Форд? – Напротив, я думаю, что Тойота лучше.</example>
+				<english_equivalent>“You think that we should buy a Ford?” “On the contrary, I think that a Toyota would be better.”</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru98" word="не то">
+		<english_equivalent>otherwise/or</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru98o1" type="cont">
+				<part type="phrasal">не то</part>
+			</orth>
+			<orth canonical="0" orth_id="ru98o2" type="cont">
+				<part type="phrasal">Не то</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Negative-condition"/>
+				<example>Через месяц она должна вернуться, не то её уволят.</example>
+				<english_equivalent>She has to return in a month, or she’ll be fired.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru99" word="не то...не то">
+		<english_equivalent>either..or</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru99o1" type="discont">
+				<part type="phrasal">не то...не то</part>
+			</orth>
+			<orth canonical="0" orth_id="ru99o2" type="discont">
+				<part type="phrasal">Не то..не то</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Disjunction"/>
+				<example>Не то Павел идёт на работу, не то кто-то должен прийти к нему, но он будет занят в воскресенье.</example>
+				<english_equivalent>Either Pavel is going to work or else someone’s supposed to come see him, but he’ll be busy on Sunday.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru100" word="невзирая на">
+		<english_equivalent>despite</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru100o1" type="cont">
+				<part type="phrasal">невзирая на</part>
+			</orth>
+			<orth canonical="0" orth_id="ru100o2" type="cont">
+				<part type="phrasal">Невзирая на</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession.Arg1-as-denier"/>
+				<example>Невзирая на первую неудачу, я подтянулся на брусьях и стал махать ногами. </example>
+				<english_equivalent>Despite the first failure, I pulled myself up on the parallel bars and started waving my legs around. </english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru101" word="невзирая на то, что">
+		<english_equivalent>despite the fact that</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru101o1" type="cont">
+				<part type="phrasal">невзирая на то, что</part>
+			</orth>
+			<orth canonical="0" orth_id="ru101o2" type="cont">
+				<part type="phrasal">Невзирая на то, что</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession.Arg1-as-denier"/>
+				<example>Невзирая на то, что ему необходима работа, он не сможет принять Ваше предложение.</example>
+				<english_equivalent>Despite the fact that he needs a job, he will not be able to accept your offer.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru102" word="независимо от">
+		<english_equivalent>regardless of</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru102o1" type="cont">
+				<part type="phrasal">независимо от</part>
+			</orth>
+			<orth canonical="0" orth_id="ru102o2" type="cont">
+				<part type="phrasal">Независимо от</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison"/>
+				<example>В театральный кружок принимают всех независимо от способностей.</example>
+				<english_equivalent>Everyone is accepted into the theater club regardless of skill.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru103" word="несмотря на">
+		<english_equivalent>despite</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru103o1" type="cont">
+				<part type="phrasal">несмотря на</part>
+			</orth>
+			<orth canonical="0" orth_id="ru103o2" type="cont">
+				<part type="phrasal">Несмотря на</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession.Arg1-as-denier"/>
+				<example>Несмотря на непрекращающиеся грозы, Женя ездит на озеро каждый день.</example>
+				<english_equivalent>Despite the perpetual storms, Zhenya goes to the lake every day.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru104" word="оттого(,) что">
+		<english_equivalent>because</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru104o1" type="cont">
+				<part type="phrasal">оттого(,) что</part>
+			</orth>
+			<orth canonical="0" orth_id="ru104o2" type="cont">
+				<part type="phrasal">Оттого(,) что</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>У них никогда нет времени, оттого что они очень неорганизованные люди.</example>
+				<english_equivalent>They never have time due to the fact that they’re very disorganized people.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru105" word="перед">
+		<english_equivalent>before</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru105o1" type="cont">
+				<part type="single">перед</part>
+			</orth>
+			<orth canonical="0" orth_id="ru105o2" type="cont">
+				<part type="single">Перед</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous.Precedence"/>
+				<example>у них была серьёзная тренировка перед матчем.</example>
+				<english_equivalent>They had an intense training session before the match.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Contrast"/>
+				<example>Обычные проблемы кажутся несущественными перед опасностью смерти.</example>
+				<english_equivalent>Mundane problems seem meaningless before the peril of death.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru106" word="перед тем(,) как">
+		<english_equivalent>before</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru106o1" type="cont">
+				<part type="phrasal">перед тем(,) как</part>
+			</orth>
+			<orth canonical="0" orth_id="ru106o2" type="cont">
+				<part type="phrasal">Перед тем(,) как</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous.Precedence"/>
+				<example>Перед тем как предпринять какие-либо шаги, он должен был хорошо всё продумать.</example>
+				<english_equivalent>Before taking any kind of actions, he had to thoroughly think things through.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru107" word="по причине">
+		<english_equivalent>as a result of </english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru107o1" type="cont">
+				<part type="phrasal">по причине</part>
+			</orth>
+			<orth canonical="0" orth_id="ru107o2" type="cont">
+				<part type="phrasal">По причине</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Конфликты усложнились по причине углубляющегося экономического кризиса.</example>
+				<english_equivalent>Conflicts became more serious as a result of the worsening economic crisis</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru108" word="по причине того, что">
+		<english_equivalent>as a result of</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru108o1" type="cont">
+				<part type="phrasal">по причине того, что</part>
+			</orth>
+			<orth canonical="0" orth_id="ru108o2" type="cont">
+				<part type="phrasal">По причине того, что</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Никто не мог воспользоваться правовыми нормами по причине того, что шла война.</example>
+				<english_equivalent>Nobody could invoke their civil rights as a result of the ongoing war.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru109" word="по сути">
+		<english_equivalent>in essence</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru109o1" type="cont">
+				<part type="phrasal">по сути</part>
+			</orth>
+			<orth canonical="0" orth_id="ru109o2" type="cont">
+				<part type="phrasal">По сути</part>
+			</orth>
+			<orth canonical="1" orth_id="ru109o3" type="cont">
+				<part type="phrasal">по сути дела</part>
+			</orth>
+			<orth canonical="0" orth_id="ru109o4" type="cont">
+				<part type="phrasal">По сути дела</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Делать здесь, по сути, остаётся немного, поэтому мы вскоре собираемся уехать.</example>
+				<english_equivalent>In essence, there’s little more to be done here, which is why we are getting ready to leave soon.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru110" word="пока не">
+		<english_equivalent>until</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru110o1" type="cont">
+				<part type="phrasal">пока не</part>
+			</orth>
+			<orth canonical="0" orth_id="ru110o2" type="cont">
+				<part type="phrasal">Пока не</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Condition"/>
+				<example>Мы не могли выйти из дома, пока не прекратился ливень.</example>
+				<english_equivalent>We couldn’t go out of the house until the downpour stopped.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous.Precedence"/>
+				<example>Татуировщик был занят на весь день, поэтому мы отказались от своей затеи и пошли бродить по улицам, пока не решили вернуться в отель.</example>
+				<english_equivalent>The tattoo artist was booked for the day. So we dropped the idea. Instead we ambled about until we decided to head back to the hotel.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru111" word="помимо">
+		<english_equivalent>aside from</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru111o1" type="cont">
+				<part type="single">помимо</part>
+			</orth>
+			<orth canonical="0" orth_id="ru111o2" type="cont">
+				<part type="single">Помимо</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Ценность этой конференции в том, что помимо учёных в ней обычно принимают участие общественные деятели.</example>
+				<english_equivalent>The value of this conference is that aside from scholars, public figures also take part in it.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru112" word="правда ">
+		<english_equivalent>though</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru112o1" type="cont">
+				<part type="single">правда </part>
+			</orth>
+			<orth canonical="0" orth_id="ru112o2" type="cont">
+				<part type="single">Правда</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession"/>
+				<example>Он может хорошо работать, правда опыта у него мало.</example>
+				<english_equivalent>He can work well, though he doesn’t have a lot of experience.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru113" word="прежде чем">
+		<english_equivalent>before</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru113o1" type="cont">
+				<part type="phrasal">прежде чем</part>
+			</orth>
+			<orth canonical="0" orth_id="ru113o2" type="cont">
+				<part type="phrasal">Прежде чем</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous.Precedence"/>
+				<example>Прежде чем подавать документы в эту программу, нужно было ознакомиться со всеми условиями.</example>
+				<english_equivalent>Before submitting an application to the university, you had to familiarize yourself with all the requirements.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru114" word="при">
+		<english_equivalent>while/when</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru114o1" type="cont">
+				<part type="single">при</part>
+			</orth>
+			<orth canonical="0" orth_id="ru114o2" type="cont">
+				<part type="single">При</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Synchronous"/>
+				<example>При решении задачи студент допустил ошибку.</example>
+				<english_equivalent>While solving the problem, the student made a mistake.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru115" word="при этом">
+		<english_equivalent>all the while</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru115o1" type="cont">
+				<part type="phrasal">при этом</part>
+			</orth>
+			<orth canonical="0" orth_id="ru115o2" type="cont">
+				<part type="phrasal">При этом</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Synchronous"/>
+				<example>Алексей Петрович говорил долго, старался произвести впечатление и при этом не замечал, что пора заканчивать.</example>
+				<english_equivalent>Aleksey Petrovich spoke for a long time, trying to have an effect on the audience, all the while not noticing that it was time to wind down.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru116" word="раз">
+		<english_equivalent>since</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru116o1" type="cont">
+				<part type="single">раз</part>
+			</orth>
+			<orth canonical="0" orth_id="ru116o2" type="cont">
+				<part type="single">Раз</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Не вмешивайся, пожалуйста, раз ты ничего не знаешь об этом.</example>
+				<english_equivalent>Please don’t interfere, since you don’t know anything about it.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru117" word="разве только">
+		<english_equivalent>unless</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru117o1" type="cont">
+				<part type="phrasal">разве только</part>
+			</orth>
+			<orth canonical="0" orth_id="ru117o2" type="cont">
+				<part type="phrasal">Разве только</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Condition"/>
+				<example>Светлана приедет обязательно, разве только ее не отпустит начальство.</example>
+				<english_equivalent>Svetlana will definitely come, unless her boss doesn’t let her.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru118" word="с одной стороны...с другой стороны">
+		<english_equivalent>on one hand..on the other hand</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru118o1" type="discont">
+				<part type="phrasal">с одной стороны...с другой стороны</part>
+			</orth>
+			<orth canonical="0" orth_id="ru118o2" type="discont">
+				<part type="phrasal">С одной стороны...с другой стороны</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Contrast"/>
+				<example>Причиной неудачи можно считать, с одной стороны, уверенность в превосходстве своего продукта, а с другой, серьёзные ошибки менеджмента.</example>
+				<english_equivalent>On one hand, you can consider the confidence in the product’s superiority as the cause of the misfortune, but on the other hand, the same can be said of the serious errors on the part of the management.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru119" word="с тех пор(,) как">
+		<english_equivalent>since</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru119o1" type="cont">
+				<part type="phrasal">с тех пор(,) как</part>
+			</orth>
+			<orth canonical="0" orth_id="ru119o2" type="cont">
+				<part type="phrasal">с тех пор(,) как</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous"/>
+				<example>С тех пор как приехала моя сестра, наша жизнь совершенно изменилась.</example>
+				<english_equivalent>Since my sister came, our life changed completely.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru120" word="скажем">
+		<english_equivalent>for example/like</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru120o1" type="cont">
+				<part type="single">скажем</part>
+			</orth>
+			<orth canonical="0" orth_id="ru120o2" type="cont">
+				<part type="single">Скажем</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion"/>
+				<example>Каждый год приносит разные сюрпризы, скажем, в прошлом году была засуха, а в этом дождь не прекращается.</example>
+				<english_equivalent>Each year brings different surprises, like last year, which brought a drought, while this year, the rain never stops.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru121" word="словно">
+		<english_equivalent>as though</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru121o1" type="cont">
+				<part type="single">словно</part>
+			</orth>
+			<orth canonical="0" orth_id="ru121o2" type="cont">
+				<part type="single">Словно</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail"/>
+				<example>Илья смотрел на собеседника так, словно был не согласен ни с одним словом.</example>
+				<english_equivalent>Ilya looked at his conversation partner as though he didn’t agree with a single word he was saying.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru122" word="словом">
+		<english_equivalent>in short</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru122o1" type="cont">
+				<part type="single">словом</part>
+			</orth>
+			<orth canonical="0" orth_id="ru122o2" type="cont">
+				<part type="single">Словом</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail"/>
+				<example>Словом, вечер удался.</example>
+				<english_equivalent> In short, the evening was a success.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru123" word="таким образом">
+		<english_equivalent>thus</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru123o1" type="cont">
+				<part type="phrasal">таким образом</part>
+			</orth>
+			<orth canonical="0" orth_id="ru123o2" type="cont">
+				<part type="phrasal">Таким образом</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Result"/>
+				<example>Слова Ваши, таким образом, никакими реальными действиями не подкрепляются.</example>
+				<english_equivalent>Thus, your words aren’t supported by any real actions.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru124" word="тем более">
+		<english_equivalent>especially</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru124o1" type="cont">
+				<part type="phrasal">тем более</part>
+			</orth>
+			<orth canonical="0" orth_id="ru124o2" type="cont">
+				<part type="phrasal">Тем более</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail"/>
+				<example>Сегодня мы не сможем увидеться с ним, тем более он работает допоздна.</example>
+				<english_equivalent>We won’t be able to see him today, especially seeing as he’s working late.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru125" word="тем не менее">
+		<english_equivalent>nevertheless</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru125o1" type="cont">
+				<part type="phrasal">тем не менее</part>
+			</orth>
+			<orth canonical="0" orth_id="ru125o2" type="cont">
+				<part type="phrasal">Тем не менее</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession.Arg2-as-denier"/>
+				<example>Он, хотя и не профессиональный художник, тем не менее пишет замечательные картины.</example>
+				<english_equivalent>Despite not being a professional artist, he nevertheless makes noteworthy paintings.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru126" word="то ли..то ли ">
+		<english_equivalent>either..or</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru126o1" type="discont">
+				<part type="phrasal">то ли..то ли </part>
+			</orth>
+			<orth canonical="0" orth_id="ru126o2" type="discont">
+				<part type="phrasal">То ли...то ли</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Disjunction"/>
+				<example>Павел Иванович хотел написать о своём друге то ли очерк, то ли большой роман.</example>
+				<english_equivalent>Pavel Ivanovich wanted to write either an essay or a big novel about his friend.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru127" word="тогда как">
+		<english_equivalent>while/whereas</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru127o1" type="cont">
+				<part type="phrasal">тогда как</part>
+			</orth>
+			<orth canonical="0" orth_id="ru127o2" type="cont">
+				<part type="phrasal">Тогда как</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Contrast"/>
+				<example>Они пытались навязать Достоевскому единую систему мыслей, тогда как Достоевский как раз не признавал никакой системы. </example>
+				<english_equivalent>They tried to attribute a single system of thought to Dostoevsky, while Dostoevsky expressly refused to acknowledge any system at all. </english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru128" word="только">
+		<english_equivalent>as soon as/but</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru128o1" type="cont">
+				<part type="single">только</part>
+			</orth>
+			<orth canonical="0" orth_id="ru128o2" type="cont">
+				<part type="single">Только</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous.Succession"/>
+				<example>Только папа вошёл в дом, как сразу же пошёл к компьютеру.</example>
+				<english_equivalent>As soon as dad walked into the house, he immediately made for the computer.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Чай есть, только невкусный. </example>
+				<english_equivalent>There is tea, but it isn’t very good.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Exception"/>
+				<example>Все собираются на встречу, только Конор не придёт.</example>
+				<english_equivalent>Everybody is going to the meeting, only Connor won’t be there.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru129" word="точнее">
+		<english_equivalent>more specifically</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru129o1" type="cont">
+				<part type="single">точнее</part>
+			</orth>
+			<orth canonical="0" orth_id="ru129o2" type="cont">
+				<part type="single">Точнее</part>
+			</orth>
+			<orth canonical="1" orth_id="ru129o1" type="cont">
+				<part type="phrasal">точнее говоря</part>
+			</orth>
+			<orth canonical="0" orth_id="ru129o2" type="cont">
+				<part type="phrasal">Точнее говоря</part>
+			</orth>
+			<orth canonical="1" orth_id="ru129o1" type="cont">
+				<part type="phrasal">Точнее сказать </part>
+			</orth>
+			<orth canonical="0" orth_id="ru129o2" type="cont">
+				<part type="phrasal">точнее сказать</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail"/>
+				<example>Пётр ильич – музыкант, точнее говоря, пианист.</example>
+				<english_equivalent>Pyotr Ilyich is a musician, more specifically, a pianist.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru130" word="точно">
+		<english_equivalent>as if</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru130o1" type="cont">
+				<part type="single">точно</part>
+			</orth>
+			<orth canonical="0" orth_id="ru130o2" type="cont">
+				<part type="single">Точно</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail"/>
+				<example>Он говорил так быстро, точно боялся, что не успеет сказать всё.</example>
+				<english_equivalent>He spoke so quickly as if he was afraid that he wouldn’t be able to say everything.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru131" word="соответствующим образом">
+		<english_equivalent>accordingly</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru131o1" type="cont">
+				<part type="phrasal">соответствующим образом</part>
+			</orth>
+			<orth canonical="0" orth_id="ru131o2" type="cont">
+				<part type="phrasal">Соответствующим образом </part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Result"/>
+				<example>Каждый из нас наделяет разные продукты разными ценностями, и мы относимся к ним соответствующим образом.</example>
+				<english_equivalent>Each of us assigns different values to different things and our behaviors follow accordingly.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru132" word="соответственно">
+		<english_equivalent>consequently</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru132o1" type="cont">
+				<part type="single">соответственно</part>
+			</orth>
+			<orth canonical="0" orth_id="ru132o2" type="cont">
+				<part type="single">Соответственно</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Result"/>
+				<example>Антропогенное воздействие на данной стадии строительного цикла связано в основном с механическим изменением ландшафта и соответственно структуры землепользования.</example>
+				<english_equivalent>The anthropogenic impact at this stage of the building cycle mainly involves mechanic changes in landscape and, consequently, in land use.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru133" word="после этого">
+		<english_equivalent>after that</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru133o1" type="cont">
+				<part type="phrasal">после этого</part>
+			</orth>
+			<orth canonical="0" orth_id="ru133o2" type="cont">
+				<part type="phrasal">После этого</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous.Succession"/>
+				<example>Налог уже  не  взимают и  в  соответствии со  сложной формулой рассчитывают цену, которую предстоит уплатить музею,  – в  данном случае около пяти миллионов фунтов. После этого музею приходится скрести по  сусекам и  просить попечителей, собирая необходимую сумму.</example>
+				<english_equivalent>The tax is waived, and by a complicated formula a special museum price is established – for this imaginary Sargent probably in the region of £ 5 million. After that, the museum has to scrounge around for the funds.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru134" word="в качестве альтернативы">
+		<english_equivalent>alternatively/as an alternative</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru134o1" type="cont">
+				<part type="phrasal">в качестве альтернативы</part>
+			</orth>
+			<orth canonical="0" orth_id="ru134o2" type="cont">
+				<part type="phrasal">В качестве альтернативы</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Disjunction"/>
+				<example>В качестве альтернативы, в поддержку принципа угощения, члены небольших групп скидываются — каждый кладет относительно скромную сумму денег в «общий котел», и потом на эти общие деньги покупаются напитки для всей компании.</example>
+				<english_equivalent>Alternatively, the principle of gift-giving is maintained by having a' whip round' – collecting a relatively small sum of money from each person to put into a' kitty', which is then used to buy rounds of drinks for the whole group.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru135" word="вследствие">
+		<english_equivalent>as a result of</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru135o1" type="cont">
+				<part type="single">вследствие</part>
+			</orth>
+			<orth canonical="0" orth_id="ru135o2" type="cont">
+				<part type="single">Вследствие</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Многие работники, вследствие сокращения финанси рования, были уволены.</example>
+				<english_equivalent>As a consequence of cuts in subsidies, many employees were fired.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru136" word="вследствие того, что">
+		<english_equivalent>as a result of</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru136o1" type="cont">
+				<part type="phrasal">вследствие того, что</part>
+			</orth>
+			<orth canonical="0" orth_id="ru136o2" type="cont">
+				<part type="phrasal">Вследствие того, что</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Вследствие того что у Марка ухудшилось зрение, ему пришлось уйти из лаборатории.</example>
+				<english_equivalent>As a consequence of Mark’s vision getting worse, he had to leave the laboratory.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru137" word="вследствие чего">
+		<english_equivalent>as a result</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru137o1" type="cont">
+				<part type="phrasal">вследствие чего</part>
+			</orth>
+			<orth canonical="0" orth_id="ru137o2" type="cont">
+				<part type="phrasal">Вследствие чего</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Result"/>
+				<example>Декан уходит на пенсию, вследствие чего oбъявлен конкурс на эту должность.</example>
+				<english_equivalent>The dean is retiring, as a consequence of which there is now a national search for the position.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru138" word="в то же время">
+		<english_equivalent>at the same time</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru138o1" type="cont">
+				<part type="phrasal">в то же время</part>
+			</orth>
+			<orth canonical="0" orth_id="ru138o2" type="cont">
+				<part type="phrasal">В то же время</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Я был еще достаточно молод и терпеть не мог, когда меня так легко раскалывали, особенно во время неловкого молчания с человеком чуть ли не в два раза меня старше, и в то же время уже достаточно взрослым, чтобы обрадоваться, что румянец на моих щеках выдает то, чего я не хотел говорить.</example>
+				<english_equivalent>I was young enough to hate being read so easily, especially during an awkward silence with someone who was close to twice my age, but I was sufficiently grown-up to welcome having a blush say something I was reluctant to disclose.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Synchronous"/>
+				<example>Говорят, что однажды он приказал пациенту замедлить пульс в одной руке и в то же время участить его в другой.</example>
+				<english_equivalent>In one case, he is said to have commanded a patient to slow down his pulse in one arm while speeding it up in the other.</english_equivalent>
+			</sem><sem>
+				<pdtb3_relation  sense="Comparison.Contrast"/>
+				<example>Союзники должны быть готовы к  любому развитию событий, но  основная доля ответственности должна ложиться на  плечи Европы, которая более уязвима, но  в то же время, вполне способна защитить себя.</example>
+				<english_equivalent>While the allies should prepare for any eventuality, the primary responsibility should fall on Europe, which both is relatively more vulnerable and entirely capable of defending itself.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru139" word="одновременно">
+		<english_equivalent>at the same time/simultaneously</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru139o1" type="cont">
+				<part type="single">одновременно</part>
+			</orth>
+			<orth canonical="0" orth_id="ru139o2" type="cont">
+				<part type="single">Одновременно</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Synchronous"/>
+				<example>Американцы были поглощены (иррациональными) страхами заразиться лихорадкой Эбола, и тысячи жителей Запада отменили свои зарубежные поездки, одновременно требуя от политиков предпринять какие-либо действия.</example>
+				<english_equivalent>Americans were consumed by (irrational) fears of catching Ebola, and thousands of Westerners canceled overseas travel while demanding that policymakers do something.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru140" word="на тот момент">
+		<english_equivalent>at the time</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru140o1" type="cont">
+				<part type="phrasal">на тот момент</part>
+			</orth>
+			<orth canonical="0" orth_id="ru140o2" type="cont">
+				<part type="phrasal">На тот момент</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Synchronous"/>
+				<example>Тикаль — город-государство майя, а Теотиуакан был на тот момент крупнейшим городом Америки с 250 тысячами жителями — меньше тогдашнего Рима, но одной с ним «весовой категории</example>
+				<english_equivalent>Tikal was an important Mayan city state, while Teotihuacan was then the largest city in America, with almost 250, 000 inhabitants – of the same order of magnitude as its contemporary, Rome.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru141" word="до и после">
+		<english_equivalent>before and after</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru141o1" type="cont">
+				<part type="phrasal">до и после</part>
+			</orth>
+			<orth canonical="0" orth_id="ru141o2" type="cont">
+				<part type="phrasal">До и после</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>other
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous"/>
+				<example>Мы видим только состояние филогенетической линии до и после того, как появился новый вид.</example>
+				<english_equivalent>All we can see is the state of the lineage before and after the new species is formed.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru142" word="для сравнения">
+		<english_equivalent>by comparison</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru142o1" type="cont">
+				<part type="phrasal">для сравнения</part>
+			</orth>
+			<orth canonical="0" orth_id="ru142o2" type="cont">
+				<part type="phrasal">Для сравнения</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison"/>
+				<example>В среднем Costco платит своим работникам примерно двадцать долларов в час. Для сравнения: в США средняя зарплата сотрудников Walmart с полной занятостью составляет примерно тринадцать долларов в час, а медицинское страхование предоставляется только половине сотрудников компании.</example>
+				<english_equivalent>Costco pays its workers an average of about $ 20 an hour. By comparison, Walmart's average wage for full-time employees in the U. S. is roughly $ 13 an hour, and the company provides health-care insurance for only about half of its workers.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru143" word="следовательно">
+		<english_equivalent>consequently/therefore</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru143o1" type="cont">
+				<part type="single">следовательно</part>
+			</orth>
+			<orth canonical="0" orth_id="ru143o2" type="cont">
+				<part type="single">Следовательно</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Result"/>
+				<example>Система логистики для создания такого космического энергокомплекса потребует перемещения миллионов метрических тонн спутников на геостационарную орбиту и, следовательно, будет на порядок больше, чем любая предусмотренная и ориентированная на правительство космическая программа.</example>
+				<english_equivalent>The logistics system to create this space-power grid would require moving millions of metric tons of satellites to geostationary orbit and, consequently, will be orders of magnitude larger than any envisioned government-centric space program.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru144" word="ранее">
+		<english_equivalent>earlier/previously</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru144o1" type="cont">
+				<part type="single">ранее</part>
+			</orth>
+			<orth canonical="0" orth_id="ru144o2" type="cont">
+				<part type="single">Ранее</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous.Succession"/>
+				<example>Заполненная ранее информация останется, обновится только картинка.</example>
+				<english_equivalent>The information filled in earlier will remain, only the picture will be updated.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru145" word="по существу">
+		<english_equivalent>essentially</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru145o1" type="cont">
+				<part type="phrasal">по существу</part>
+			</orth>
+			<orth canonical="0" orth_id="ru145o2" type="cont">
+				<part type="phrasal">По существу</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail"/>
+				<example>Люди последовали за ним, потому что у него была вера и он имел дар четко ее озвучить. По существу, Мартин Лютер Кинг, как все великие лидеры, стал символом веры.</example>
+				<english_equivalent>It was what he believed and his ability to communicate it clearly that people followed. In essence, he, like all great leaders, became the symbol of the belief.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru146" word="даже если">
+		<english_equivalent>even if</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru146o1" type="cont">
+				<part type="phrasal">даже если</part>
+			</orth>
+			<orth canonical="0" orth_id="ru146o2" type="cont">
+				<part type="phrasal">Даже если</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession.Arg1-as-denier"/>
+				<example>Резина подвержена старению, даже если она редко используется.</example>
+				<english_equivalent>Tires deteriorate with age even if they have seldom or never been used.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru147" word="несмотря на это">
+		<english_equivalent>even so</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru147o1" type="cont">
+				<part type="phrasal">несмотря на это</part>
+			</orth>
+			<orth canonical="0" orth_id="ru147o2" type="cont">
+				<part type="phrasal">Несмотря на это</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession.Arg1-as-denier"/>
+				<example>В облаках серной кислоты постоянно бушуют грозы, но, несмотря на это, ветровая эрозия на Венере ограниченна по сравнению с Землей, где много воды.</example>
+				<english_equivalent>Electrical storms rage constantly through the clouds of sulphuric acid but, even so, wind erosion on Venus is limited compared to the water-rich Earth.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru148" word="в конечном итоге">
+		<english_equivalent>after all/ultimately</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru148o1" type="cont">
+				<part type="phrasal">в конечном итоге</part>
+			</orth>
+			<orth canonical="0" orth_id="ru148o2" type="cont">
+				<part type="phrasal">В конечном итоге</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Result"/>
+				<example>Эволюция способности к моделированию, очевидно, привела в конечном итоге к субъективному осознанию.</example>
+				<english_equivalent>The evolution of the capacity to simulate seems to have culminated in subjective consciousness.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous"/>
+				<example>Закрытые и авторитарные общества, не разделяющие американские интересы, становятся хрупкими и в конечном итоге разрушаются.</example>
+				<english_equivalent>Closed and authoritarian societies that don't share American interests grow brittle and ossified, and they eventually break.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Expansion"/>
+				<example>Эти числа помогают определить размер статьи и дают нам представление о том, какой объем внимания нам придется уделить, чтобы прочесть эту историю (обычно небольшой). Они организуют информацию в пространстве, а именно такая упорядоченность нравится нашему мозгу. Вывод таков: списки в конечном итоге облегчают чтение (и мышление).</example>
+				<english_equivalent>Those numbers also help quantify story length and hint at the amount of attention (not much) we'll need to deploy to read the story. They organize information spatially, which is how our brains like information. The takeaway here is that lists ultimately help create an easier reading (and thinking) experience.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru149" word="в конечном счете">
+		<english_equivalent>in the end/after all, ultimately</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru149o1" type="cont">
+				<part type="phrasal">в конечном счете</part>
+			</orth>
+			<orth canonical="0" orth_id="ru149o2" type="cont">
+				<part type="phrasal">В конечном счете</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Result"/>
+				<example>Дарвиновская теория эволюции путем естественного отбора убедительна, потому что она указывает нам, каким образом простое могло превращаться в сложное, как неупорядоченные ансамбли атомов могли группироваться во все более сложные структуры, пока в конечном счете это не привело к созданию человека.</example>
+				<english_equivalent>Darwin's theory of evolution by natural selection is satisfying because it shows us a way in which simplicity could change into complexity, how unordered atoms could group themselves into ever more complex patterns until they ended up manufacturing people.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous"/>
+				<example>В конечном счете, проследив родословную маленькой генетической единицы на достаточном числе поколений, мы дойдем до ее первоначального создателя.</example>
+				<english_equivalent>Eventually, if we trace the ancestry of a small genetic unit back far enough, we will come to its original creator.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Expansion"/>
+				<example>Чем более опытными и уверенными в себе мы становимся, тем больший уровень ответственности организация готова на нас возлагать. И в конечном счете организация – наше руководство и коллеги – доверяет нам самим принимать решение, когда стоит нарушить правила.</example>
+				<english_equivalent>The more experienced and confident we become, the more the organization is willing to give us greater and greater responsibility. And ultimately, the organization — our management and our colleagues — is willing to trust us to know when to break the rules.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru150" word="в итоге">
+		<english_equivalent>ultimately/in the end, eventually</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru150o1" type="cont">
+				<part type="phrasal">в итоге</part>
+			</orth>
+			<orth canonical="0" orth_id="ru150o2" type="cont">
+				<part type="phrasal">В итоге</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous.Succession"/>
+				<example>Колыбель человечества взращивала все новые виды, в том числе Homo rudolfensis (человек с озера Рудольф), Homo ergaster (человек работающий) и в итоге наш собственный вид, который мы без ложной скромности окрестили Homo sapiens (человек разумный).</example>
+				<english_equivalent>The cradle of humanity continued to nurture numerous new species, such as Homo rudolfensis, 'Man from Lake Rudolf', Homo ergaster, 'Working Man', and eventually our own species, which we've immodestly named Homo sapiens, 'Wise Man'.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Поскольку лидеры любой организации должны заботиться о тех, кто находится у них в подчинении (что в итоге делает их организацию только сильней), лидеры компаний также должны заботиться о рабочей среде.</example>
+				<english_equivalent>Just as leaders of any organization are supposed to look after those in their care (which ultimately makes their organizations stronger), leaders of companies are also supposed to consider the care of the environment in which they operate.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru151" word="за исключением">
+		<english_equivalent>except</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru151o1" type="cont">
+				<part type="phrasal">за исключением</part>
+			</orth>
+			<orth canonical="0" orth_id="ru151o2" type="cont">
+				<part type="phrasal">За исключением</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Exception"/>
+				<example>Повсюду в Азии, за исключением трех благословенных городов Ионии: Хиоса, Клазомен и Эфеса, солнце тяжелое, слепящее, угнетает ум и чувства, а пыль застилает горизонт.</example>
+				<english_equivalent>Everywhere in Asia, with the exception of the three blessed cities of Ionia: Khios, Clazomene and Ethos, the sun is heavy and blinding. It oppresses the mind and emotions, and dust covers the horizon.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru152" word="учитывая">
+		<english_equivalent>given</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru152o1" type="cont">
+				<part type="single">учитывая</part>
+			</orth>
+			<orth canonical="0" orth_id="ru152o2" type="cont">
+				<part type="single">Учитывая</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Учитывая все обстоятельства вашего дела, суд не может применить к вам меру наказания мягче наивысшей меры, предусмотренной законом.</example>
+				<english_equivalent>In view of all the facts in your case the court can do no less than impose a major penalty.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru153" word="учитывая, что">
+		<english_equivalent>given that</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru153o1" type="cont">
+				<part type="phrasal">учитывая, что</part>
+			</orth>
+			<orth canonical="0" orth_id="ru153o2" type="cont">
+				<part type="phrasal">Учитывая, что</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Учитывая, что у вас есть всего лишь одна попытка посадить шаттл, самое лучшее — вести его на посадку вручную с самого начала.</example>
+				<english_equivalent>Given that you've got only one chance to land a shuttle, you might as well hand fly it in.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru154" word="в дополнение к">
+		<english_equivalent>in additon to</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru154o1" type="cont">
+				<part type="phrasal">в дополнение к</part>
+			</orth>
+			<orth canonical="0" orth_id="ru154o2" type="cont">
+				<part type="phrasal">В дополнение к</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>В дополнение к удовлетворению индивидуальных потребностей команда должна работать как целое — лучше всего эта цель достигается в среде, которая максимизирует положительный вклад каждого человека, одновременно сглаживая его недостатки.</example>
+				<english_equivalent>In addition to addressing individual needs, a team must work together – a goal best accomplished in an environment that maximises each individual's positive contributions while downplaying his shortcomings. </english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru155" word="наряду с">
+		<english_equivalent>in addition to</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru155o1" type="cont">
+				<part type="phrasal">наряду с</part>
+			</orth>
+			<orth canonical="0" orth_id="ru155o2" type="cont">
+				<part type="phrasal">Наряду с</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Наряду с торговыми пактами и таможенными соглашениями Китай активно включился в игру по оказанию помощи другим странам.</example>
+				<english_equivalent>In addition to trade pacts and customs agreements, China has jumped with two feet into the foreign aid game.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru156" word="как бы то ни было">
+		<english_equivalent>in any event</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru156o1" type="cont">
+				<part type="phrasal">как бы то ни было</part>
+			</orth>
+			<orth canonical="0" orth_id="ru156o2" type="cont">
+				<part type="phrasal">Как бы то ни было</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Она собралась было протянуть ему руку для пожатия, но вовремя заметила, что на нем латексные перчатки. Как бы то ни было, он, похоже, не собирался отвечать ей любезностью.</example>
+				<english_equivalent>She started to shake his hand, then saw he was wearing latex gloves. He didn't seem inclined to offer her the courtesy, in any event.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru157" word="в любом случае">
+		<english_equivalent>in any case/anyway</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru157o1" type="cont">
+				<part type="phrasal">в любом случае</part>
+			</orth>
+			<orth canonical="0" orth_id="ru157o2" type="cont">
+				<part type="phrasal">В любом случае</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Доктор Константин так и не понял, что Пуаро хотел сказать этой фразой. В любом случае сыщик не оставил ему времени на вопросы.</example>
+				<english_equivalent>Dr Constantine was at a loss to know what to make of this singular remark. In any case Poirot gave him no time for questions.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru158" word="на самом деле">
+		<english_equivalent>in fact</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru158o1" type="cont">
+				<part type="phrasal">на самом деле</part>
+			</orth>
+			<orth canonical="0" orth_id="ru158o2" type="cont">
+				<part type="phrasal">На самом деле</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail"/>
+				<example>Понимание не создает свободного владения знанием; наоборот, свободное владение выстраивает понимание. На самом деле, я считаю, что подлинное понимание сложного предмета возникает лишь в условиях свободного владения им.</example>
+				<english_equivalent>Understanding doesn't build fluency; instead, fluency builds understanding. In fact, I believe that true understanding of a complex subject comes only from fluency.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Contrast"/>
+				<example>Что еще того хуже, ученики часто считают, будто понимают что-то, когда на самом деле это не так.</example>
+				<english_equivalent>Worse, students often believe they understand something when, in fact, they don't.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru159" word="в особенности">
+		<english_equivalent>in particular</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru159o1" type="cont">
+				<part type="phrasal">в особенности</part>
+			</orth>
+			<orth canonical="0" orth_id="ru159o2" type="cont">
+				<part type="phrasal">В особенности</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Instantiation"/>
+				<example>Тысячелетиями существование этих династий не подвергалось сомнению, хотя не существовало никаких литературных или археологических свидетельств этому; в особенности сомнительна история династии Ся.</example>
+				<english_equivalent>For millennia, their existence was taken for granted, even though no texts or archaeological material relating to some were traceable (the historicity of the Xia in particular remains in doubt).</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail"/>
+				<example>Если бы ацтеки и инки проявили больший интерес к окружавшему их миру, в особенности если бы они знали, как испанцы расправились с их соседями, они бы, наверное, оказали испанцам более решительное сопротивление.</example>
+				<english_equivalent>Had the Aztecs and Incas shown a bit more interest in the world surrounding them – and had they known what the Spaniards had done to their neighbours – they might have resisted the Spanish conquest more keenly and successfully.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru160" word="в частности">
+		<english_equivalent>in particular</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru160o1" type="cont">
+				<part type="phrasal">в частности</part>
+			</orth>
+			<orth canonical="0" orth_id="ru160o2" type="cont">
+				<part type="phrasal">В частности</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Instantiation"/>
+				<example>Но существует ряд нерушимых физических реалий, обличающих эту теорию, в частности конечная скорость света.</example>
+				<english_equivalent>But there are some unbreakable physical realities to confront, in particular the finite speed of light.</english_equivalent>
+			</sem>
+		</syn>
+		<syn>
+		    <cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail"/>
+				<example>Вышеуказанные аспекты и возможная активизация мероприятий по сбору налогов, направленных на удовлетворение потребностей бюджета, могут привести к значительному повышению степени и частоты налоговых проверок. В частности, существует вероятность, что операции и деятельность, которые в прошлом не оспаривались, будут оспорены.</example>
+				<english_equivalent>Combined with a possible increase in tax collection efforts to respond to budget pressures, the above may lead to an increase in the level and frequency of scrutiny by the tax authorities. In particular, it is possible that transactions and activities that have not been challenged in the past may be challenged.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru161" word="в ответ на">
+		<english_equivalent>in response to</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru161o1" type="cont">
+				<part type="phrasal">в ответ на</part>
+			</orth>
+			<orth canonical="0" orth_id="ru161o2" type="cont">
+				<part type="phrasal">В ответ на</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Да, автоматы, конечно, могут взять на себя часть задач, ранее выполняемых людьми, и они действительно способны в течение некоторого ограниченного периода времени действовать самостоятельно в ответ на изменения окружающих условий.</example>
+				<english_equivalent>Yes, automation can certainly take on parts of tasks previously accomplished by humans, and machines do act on their own in response to their environments for certain periods of time.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru162" word="в целом">
+		<english_equivalent>in sum</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru162o1" type="cont">
+				<part type="phrasal">в целом</part>
+			</orth>
+			<orth canonical="0" orth_id="ru162o2" type="cont">
+				<part type="phrasal">В целом</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail"/>
+				<example>Очень сложно постоянно разрабатывать оригинальные рекламные кампании, уникальные маркетинговые стратегии и выдающиеся характеристики. В целом продолжительное влияние краткосрочных решений, уменьшающих размер прибыли, также повышает уровень стресса внутри самой организации.</example>
+				<english_equivalent>To constantly have to come up with a new promotion, a new guerrilla marketing tactic, a new feature to add, is hard work. Combined with the long-term effects of years of short-term decisions that have eroded profit margins, this raises stress levels inside organizations as well.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru163" word="тем самым">
+		<english_equivalent>thereby/this way</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru163o1" type="cont">
+				<part type="phrasal">тем самым</part>
+			</orth>
+			<orth canonical="0" orth_id="ru163o2" type="cont">
+				<part type="phrasal">Тем самым</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Result"/>
+				<example>Это обычно означает их воздействие на процессы эмбрионального развития и тем самым на форму тела и поведение.</example>
+				<english_equivalent>This usually means effects on the processes of embryonic development and hence on bodily form and behaviour.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru164" word="в свою очередь">
+		<english_equivalent>in turn</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru164o1" type="cont">
+				<part type="phrasal">в свою очередь</part>
+			</orth>
+			<orth canonical="0" orth_id="ru164o2" type="cont">
+				<part type="phrasal">В свою очередь</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Cause.Reason"/>
+				<example>Будучи лидерами компаний, мы несем исключительную ответственность за жизни людей, работающих на нас, мы должны защищать их, и тогда они, в свою очередь, будут защищать друг друга и совместными усилиями способствовать развитию компании.</example>
+				<english_equivalent>As leaders, it is our sole responsibility to protect our people and, in turn, our people will protect each other and advance the organization together.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Synchronous"/>
+				<example>Монтэг отвернулся от окна и взглянул на жену, она сидела в гостиной и разговаривала с диктором, а тот, в свою очередь, обращался к ней.</example>
+				<english_equivalent>Montag turned and looked at his wife, who sat in the middle of the parlour talking to an announcer, who in turn was talking to her.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru165" word="вместо этого">
+		<english_equivalent>instead</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru165o1" type="cont">
+				<part type="phrasal">вместо этого</part>
+			</orth>
+			<orth canonical="0" orth_id="ru165o2" type="cont">
+				<part type="phrasal">Вместо этого</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Substitution"/>
+				<example>Бизнесмен никогда не скажет: «Я уже вложил так много в авиакомпанию Конкорд (например), что не могу порвать с ней теперь». Вместо этого он всегда постарается выяснить, окажется ли ему выгодным в будущем, если он сократит свои потери и выйдет сейчас из дела, несмотря на то, что он уже много вложил в него.</example>
+				<english_equivalent>A business man should never say' I have already invested so much in the Concorde airliner (for instance) that I cannot afford to scrap it now.' He should always ask instead whether it would pay him in the future, to cut his losses, and abandon the project now, even though he has already invested heavily in it.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru166" word="позднее">
+		<english_equivalent>later</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru166o1" type="cont">
+				<part type="single">позднее</part>
+			</orth>
+			<orth canonical="0" orth_id="ru166o2" type="cont">
+				<part type="single">Позднее</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous"/>
+				<example>Зороастризм играл важную роль в персидской империи Ахеменидов (550-350 до н. э.), а позднее стал государственной религией в персидской империи Сасанидов (224-651 н. э.).</example>
+				<english_equivalent>Zoroastrianism was an important religion during the Achaemenid Persian Empire (550 – 330 BC) and later became the official religion of the Sassanid Persian Empire (AD 224 – 651).</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru167" word="аналогичным образом">
+		<english_equivalent>likewise/similarly</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru167o1" type="cont">
+				<part type="phrasal">аналогичным образом</part>
+			</orth>
+			<orth canonical="0" orth_id="ru167o2" type="cont">
+				<part type="phrasal">Аналогичным образом</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>other</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Принять кого-то в организацию – это как усыновить ребенка. Аналогичным образом сила и выносливость компании зависят не от предлагаемых товаров и услуг, а от сплоченности работающих в ней людей.</example>
+				<english_equivalent>Likewise, the strength and endurance of a company does not come from products or services but from how well their people pull together.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru168" word="тем временем">
+		<english_equivalent>meantime</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru168o1" type="cont">
+				<part type="phrasal">тем временем</part>
+			</orth>
+			<orth canonical="0" orth_id="ru168o2" type="cont">
+				<part type="phrasal">Тем временем</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Synchronous"/>
+				<example>Прошу всех присутствующих обдумать мои слова как можно серьезнее и все соображения, которые у вас возникнут, сообщить мне. Тем временем призываю всех быть начеку.</example>
+				<english_equivalent>I would ask you all to consider this carefully and to give me any suggestions that may occur to you. In the meantime I warn everybody to be upon his or her guard. </english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru169" word="ни...ни">
+		<english_equivalent>neither..nor</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru169o1" type="discont">
+				<part type="phrasal">ни...ни</part>
+			</orth>
+			<orth canonical="0" orth_id="ru169o2" type="discont">
+				<part type="phrasal">Ни...ни</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Ни в кино мы не пошли, ни в ресторан не захотели идти , а остались дома.</example>
+				<english_equivalent>We neither went to the movies, nor did we want to go to a restaurant – we stayed home.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru170" word="вместе с тем">
+		<english_equivalent>nonetheless/at the same time</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru170o1" type="cont">
+				<part type="phrasal">вместе с тем</part>
+			</orth>
+			<orth canonical="0" orth_id="ru170o2" type="cont">
+				<part type="phrasal">Вместе с тем</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Contrast"/>
+				<example>И Китай, и Индия запретили использование в сельскохозяйственном сырье колистина, являющегося критическим антибиотиком последнего резерва для человека. Вместе с тем мы практически исчерпали антибиотики для лечения AMR-инфекций, а фармацевтические компании избегают этой области развития из-за финансовых рисков и отсутствия гарантированных выплат.</example>
+				<english_equivalent>And China and India have both banned the use of colistin – a critical last-line antibiotic for humans – in agricultural feedstocks. Nonetheless, we are quickly running out of antibiotics with which to treat AMR infections, and pharmaceutical companies are avoiding this area of development, owing to its financial risks and lack of a guaranteed payoff.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Она толкнула дверь, сердясь на отца, и вместе с тем радуясь, что он такой бодрый.</example>
+				<english_equivalent>She gave the door a push, cross with her father, and at the same time glad that he was so chipper.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru171" word="конкретно">
+		<english_equivalent>specifically</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru171o1" type="cont">
+				<part type="single">конкретно</part>
+			</orth>
+			<orth canonical="0" orth_id="ru171o2" type="cont">
+				<part type="single">Конкретно</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Level-of-detail"/>
+				<example>В Индонезии, например, всего лишь около 300 тыс. из примерно 200 млн. жителей а конкретно, сектор бизнеса вообще звонит за границу.</example>
+				<english_equivalent>In Indonesia, for example, only about 300, 000 of some 200 million people — specifically the business sector — make overseas calls at all.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru172" word="затем">
+		<english_equivalent>then</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru172o1" type="cont">
+				<part type="single">затем</part>
+			</orth>
+			<orth canonical="0" orth_id="ru172o2" type="cont">
+				<part type="single">Затем</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous"/>
+				<example>Мы пожали друг другу руки, замялись на пороге кухни, а затем принялись смотреть, как его дочь разворачивает рыбу, гребешки и шпинат.</example>
+				<english_equivalent>We shook hands, hesitated outside the kitchen, and then watched her unwrap the fish, scallops, and spinach.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru173" word="впоследствии">
+		<english_equivalent>subsequently</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru173o1" type="cont">
+				<part type="single">впоследствии</part>
+			</orth>
+			<orth canonical="0" orth_id="ru173o2" type="cont">
+				<part type="single">Впоследствии</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous"/>
+				<example>Изменения, которые действия ученого вызвали у организмов одного поколения, впоследствии передались потомству.</example>
+				<english_equivalent>The changes the scientists induced in that single generation would, thereafter, be inherited by progeny down the lineage.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru174" word="после">
+		<english_equivalent>upon/after/later</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru174o1" type="cont">
+				<part type="single">после</part>
+			</orth>
+			<orth canonical="0" orth_id="ru174o2" type="cont">
+				<part type="single">После</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous"/>
+				<example>Пониженные значения фиксируются также после длительного голодания обследуемого пациента или после интенсивных физических упражнений.</example>
+				<english_equivalent>Low values are also recorded after a prolonged fasting of the patient being examined or after intense exercise.</english_equivalent>
+			</sem>
+		</syn>
+		<syn>
+		    <cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous"/>
+				<example>Сейчас я занят, перезвоню после.</example>
+				<english_equivalent>I am busy now, I will call you later.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru175" word="когда">
+		<english_equivalent>when</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru175o1" type="cont">
+				<part type="single">когда</part>
+			</orth>
+			<orth canonical="0" orth_id="ru175o2" type="cont">
+				<part type="single">Когда</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Condition"/>
+				<example>Легко быть оптимистом, когда это не с тобой происходит.</example>
+				<english_equivalent>It is easy to be optimistic when it doesn't happen to you.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Synchronous"/>
+				<example>Домработница видела устройство когда покидала дом.</example>
+				<english_equivalent>The housekeeper saw the device as she was leaving the house.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Concession"/>
+				<example>Может быть сложно дышать даже когда Вы отдыхаете.</example>
+				<english_equivalent>It may be difficult to breathe, even when you are resting.</english_equivalent>
+			</sem>
+			<sem>
+				<pdtb3_relation  sense="Comparison.Contrast"/>
+				<example>Тяжело быть довольным, когда проигрываешь.</example>
+				<english_equivalent>However, it is difficult to be satisfied when you lose.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru176" word="по истечении">
+		<english_equivalent>after</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru176o1" type="cont">
+				<part type="phrasal">по истечении</part>
+			</orth>
+			<orth canonical="0" orth_id="ru176o2" type="cont">
+				<part type="phrasal">По истечении</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>prep</cat>
+			<sem>
+				<pdtb3_relation  sense="Temporal.Asynchronous"/>
+				<example>Средства начинают возмещаться по истечении первых трех месяцев трудоустройства.</example>
+				<english_equivalent>Funds begin to be reimbursed after the first three months of employment.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru177" word="при условии">
+		<english_equivalent>provided</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru177o1" type="cont">
+				<part type="phrasal">при условии</part>
+			</orth>
+			<orth canonical="0" orth_id="ru177o2" type="cont">
+				<part type="phrasal">При условии</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>csu</cat>
+			<sem>
+				<pdtb3_relation  sense="Contingency.Condition"/>
+				<example>Изменения аппетита вполне естественны при условии, что ребенок активен и нормально растет.</example>
+				<english_equivalent>Changes in appetite is quite natural, provided that the child is active and growing normally.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru178" word="как-никак">
+		<english_equivalent>after all</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru178o1" type="cont">
+				<part type="single">как-никак</part>
+			</orth>
+			<orth canonical="0" orth_id="ru178o2" type="cont">
+				<part type="single">Как-никак</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Как-никак одно посещение иглотерапевта обходится по меньшей мере в 25 фунтов стерлингов, а полный курс включает подчас десятки сеансов.</example>
+				<english_equivalent>After all, an acupuncture session costs at least £ 25 and a full course may run to dozens of sessions.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru179" word="вдобавок">
+		<english_equivalent>plus/in addition</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru179o1" type="cont">
+				<part type="single">вдобавок</part>
+			</orth>
+			<orth canonical="0" orth_id="ru179o2" type="cont">
+				<part type="single">Вдобавок</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>adv</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Вдобавок ей пришлось пережить разочарование, о котором книга, и в особенности история собственного ее семейства, постоянно ей напоминала.</example>
+				<english_equivalent>She had had a disappointment, moreover, which that book, and especially the history of her own family, must ever present the remembrance of.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+	<entry id="ru180" word="как...так и">
+		<english_equivalent>both..and</english_equivalent>
+		<orths>
+			<orth canonical="1" orth_id="ru180o1" type="discont">
+				<part type="phrasal">как...так и</part>
+			</orth>
+			<orth canonical="0" orth_id="ru180o2" type="discont">
+				<part type="phrasal">Как...так и</part>
+			</orth>
+		</orths>
+		<syn>
+			<cat>cco</cat>
+			<sem>
+				<pdtb3_relation  sense="Expansion.Conjunction"/>
+				<example>Такие вопросы интересуют многих специалистов как в России, так и в зарубежных странах.</example>
+				<english_equivalent>Such questions interest many specialists both in Russia and abroad.</english_equivalent>
+			</sem>
+		</syn>
+	</entry>
+
+</dimlex> 
+
+

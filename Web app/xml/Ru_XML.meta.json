@@ -1,0 +1,29 @@
+{
+  "lexiconName": "Ru-DiMLex",
+  "lexiconNameFull": "Russian Discourse Marker Lexicon",
+  "version": "1.0",
+  "originalReleaseDate": "2023-08",
+  "currentReleaseDate": "2023-08",
+  "languageEnglish": "Russian",
+  "languageNative": "россия",
+  "locale": "ru", 
+  "homepage": "https://osf.io/xns9z/?view_only=710a1eca318f46b9b10584c3b980beec",
+  "parseInfo": {
+    "posTagset": "canonical",
+    "senseTagset": "ru_dimlex"
+  },
+  "licenseInfo": {
+    "copyrightDate": "2023",
+    "licenseName": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "authorInfo": {
+    "publisher": "Universität Potsdam, Department of Linguistics",
+    "authors": [
+      { "authorName": "Ardak Suleimenova", "organisation": "Universität Potsdam"}
+    ],
+    "publications": [
+      
+    ]
+  }
+}

@@ -110,5 +110,12 @@
 	"ADP_VERB": "other",
 	"SCONJ_AUX_SCONJ": "other",
 	"PART": "other"
+  },
+  "canonical": {
+	"adv": "adv",
+	"csu": "csu",
+	"other": "other",
+	"cco": "cco",
+	"prep": "prep"
   }
 }
