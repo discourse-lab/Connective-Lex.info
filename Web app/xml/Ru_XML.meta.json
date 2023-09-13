@@ -7,7 +7,7 @@
   "languageEnglish": "Russian",
   "languageNative": "россия",
   "locale": "ru", 
-  "homepage": "https://osf.io/xns9z/?view_only=710a1eca318f46b9b10584c3b980beec",
+  "homepage": "https://github.com/discourse-lab/russian-dimlex",
   "parseInfo": {
     "posTagset": "canonical",
     "senseTagset": "ru_dimlex"
@@ -20,10 +20,13 @@
   "authorInfo": {
     "publisher": "Universität Potsdam, Department of Linguistics",
     "authors": [
-      { "authorName": "Ardak Suleimenova", "organisation": "Universität Potsdam"}
+      { "authorName": "Ardak Suleimenova", "organisation": "Universität Potsdam, Developed as the central subject of a Master's thesis where Eng-DiMLex was employed as the pivot language"}
     ],
     "publications": [
-      
+      {
+        "cite": "to appear...",
+        "url": ""
+      }
     ]
   }
 }

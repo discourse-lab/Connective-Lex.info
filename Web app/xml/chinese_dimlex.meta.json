@@ -1,0 +1,34 @@
+{
+  "lexiconName": "Chinese-DiMLex",
+  "lexiconNameFull": "Chinese-DiMLex",
+  "version": "1.0",
+  "originalReleaseDate": "2022-07-27",
+  "currentReleaseDate": "2022-07-27",
+  "languageEnglish": "Chinese",
+  "languageNative": "中文",
+  "locale": "zh-cn",
+  "islrn": "030-081-432-891-7",
+  "homepage": "https://github.com/discourse-lab/chinese-dimlex",
+  "parseInfo": {
+    "posTagset": "dimlex",
+    "senseTagset": "pdtb3-short"
+  },
+  "licenseInfo": {
+    "copyrightDate": "2022",
+    "licenseName": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "authorInfo": {
+    "publisher": "Universität Potsdam, Department of Linguistics",
+    "authors": [
+      { "authorName": "Shujun Wan", "organisation": "Humboldt-Universität"},
+      { "authorName": "Hongling Xiao", "organisation": "Xiamen University"},
+	  { "authorName": "Clara Wan ching Ho", "organisation": "Universität des Saarlandes"},
+	  { "authorName": "Peter Bourgonje", "organisation": "Universität Potsdam"},
+	  { "authorName": "Manfred Stede", "organisation": "Universität Potsdam"}
+    ],
+    "publications": [
+      
+    ]
+  }
+}

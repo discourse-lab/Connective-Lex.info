@@ -6,7 +6,7 @@
   "currentReleaseDate": "2017-12-24",
   "languageEnglish": "Czech",
   "languageNative": "Czech",
-  "locale": "cs-CZ",
+  "locale": "cs_CZ",
   "homepage": "http://ufal.mff.cuni.cz/czedlex0.5/",
   "parseInfo": {
     "posTagset": "czlex",
