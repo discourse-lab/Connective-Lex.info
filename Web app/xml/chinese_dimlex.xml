@@ -3053,7 +3053,7 @@
     <syn>
       <cat>adv</cat>
       <sem>
-        <pdtb3_relation sense="COMPARISION:Concession:Arg1-as-denier"/>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
         <example>古人尚且如此想得开，今人又何须为几茎落发感叹不已。</example>
         <english_equivalent>even</english_equivalent>
       </sem>
