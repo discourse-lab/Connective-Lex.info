@@ -1,0 +1,32 @@
+{
+  "lexiconName": "DiMLex-hu",
+  "lexiconNameFull": "Lexicon of Hungarian Discourse Connectives",
+  "version": "1.0",
+  "originalReleaseDate": "2023",
+  "currentReleaseDate": "20123-11-13",
+  "languageEnglish": "Hungarian",
+  "languageNative": "Magyar",
+  "locale": "hu_HU",
+  "homepage": "https://gitlab.com/szugyiedit/dimlex-hu",
+  "parseInfo": {
+    "posTagset": "dimlex",
+    "senseTagset": "pdtb3-short"
+  },
+  "licenseInfo": {
+    "copyrightDate": "2023",
+    "licenseName": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "authorInfo": {
+    "publisher": "Universität Potsdam, Department of Linguistics",
+    "authors": [
+      { "authorName": "Edit Szügyi", "organisation": "Universität Potsdam, Department of Linguistics" }
+    ],
+    "publications": [
+      {
+        "cite": "Edit Szügyi. \"Creating a Lexicon of Hungarian Discourse Connectives\" Msc Thesis Universität Potsdam",
+        "url": "https://gitlab.com/szugyiedit/dimlex-hu/-/blob/main/thesis/Szugyi_MSc_Thesis.pdf"
+      }
+    ]
+  }
+}
