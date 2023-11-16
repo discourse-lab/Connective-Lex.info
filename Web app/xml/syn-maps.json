@@ -117,5 +117,16 @@
 	"other": "other",
 	"cco": "cco",
 	"prep": "prep"
+  },
+  "hungarian" : {
+	"ADV": "adv",
+	"ADV+ADV": "adv",
+	"ADVP": "adv",
+	"ADPP": "adv",
+	"ADV+SCONJ": "csu",
+   	"SCONJ": "csu",
+   	"CCONJ": "cco",
+	"ADJ": "other",
+	"PRON": "other"
   }
 }

@@ -1,16 +1,16 @@
 {
-  "lexiconName": "DiMLex-hu",
+  "lexiconName": "DiMLex-hun",
   "lexiconNameFull": "Lexicon of Hungarian Discourse Connectives",
   "version": "1.0",
   "originalReleaseDate": "2023",
-  "currentReleaseDate": "20123-11-13",
+  "currentReleaseDate": "2023-11-13",
   "languageEnglish": "Hungarian",
   "languageNative": "Magyar",
   "locale": "hu_HU",
   "homepage": "https://gitlab.com/szugyiedit/dimlex-hu",
   "parseInfo": {
-    "posTagset": "dimlex",
-    "senseTagset": "pdtb3-short"
+    "posTagset": "hungarian",
+    "senseTagset": "dimlex-hun"
   },
   "licenseInfo": {
     "copyrightDate": "2023",

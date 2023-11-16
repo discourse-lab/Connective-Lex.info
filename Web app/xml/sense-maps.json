@@ -233,5 +233,33 @@
 	"Expansion.Level-of-detail.Arg1-as-detail" : "EXPANSION:Level-of-detail:Arg1-as-detail",
 	"Expansion.Level-of-detail.Arg2-as-detail" : "EXPANSION:Level-of-detail:Arg2-as-detail",
 	"Expansion.Level-of-detail" : "EXPANSION:Level-of-detail"
-  }
+  }, 
+  "dimlex-hun":  {
+	"Comparison.Concession+SpeechAct.Arg2-as-denier": "COMPARISON:Concession+SpeechAct:Arg2-as-denier",
+	"Comparison.Concession.Arg1-as-denier": "COMPARISON:Concession:Arg1-as-denier",
+	"Comparison.Concession.Arg2-as-denier": "COMPARISON:Concession:Arg2-as-denier",
+	"Comparison.Contrast": "COMPARISON:Contrast",
+	"Comparison.Similarity": "COMPARISON:Similarity",
+	"Contingency.Cause.Reason": "CONTINGENCY:Cause:Reason",
+	"Contingency.Cause.Result": "CONTINGENCY:Cause:Result",
+	"Contingency.Condition.Arg1-as-cond": "CONTINGENCY:Condition:Arg1-as-cond",
+	"Contingency.Condition.Arg2-as-cond": "CONTINGENCY:Condition:Arg2-as-cond",
+	"Contingency.Negative-condition.Arg1-as-negCond": "CONTINGENCY:Negative-condition:Arg1-as-negCond",
+	"Contingency.Negative-condition.Arg2-as-negCond": "CONTINGENCY:Negative-condition:Arg2-as-negCond",
+	"Contingency.Purpose.Arg2-as-goal": "CONTINGENCY:Purpose:Arg2-as-goal",
+	"Expansion.Conjunction": "EXPANSION:Conjunction",
+	"Expansion.Disjunction": "EXPANSION:Disjunction",
+	"Expansion.Equivalence": "EXPANSION:Equivalence",
+	"Expansion.Exception.Arg2-as-excpt": "EXPANSION:Exception:Arg2-as-excpt",
+	"Expansion.Instantiation.Arg2-as-instance": "EXPANSION:Instantiation:Arg2-as-instance",
+	"Expansion.Level-of-detail.Arg1-as-detail": "EXPANSION:Level-of-detail:Arg1-as-detail",
+	"Expansion.Level-of-detail.Arg2-as-detail": "EXPANSION:Level-of-detail:Arg2-as-detail",
+	"Expansion.Manner.Arg1-as-manner": "EXPANSION:Manner:Arg1-as-manner",
+	"Expansion.Manner.Arg2-as-manner": "EXPANSION:Manner:Arg2-as-manner",
+	"Expansion.Substitution.Arg1-as-subst": "EXPANSION:Substitution:Arg1-as-subst",
+	"Expansion.Substitution.Arg2-as-subst": "EXPANSION:Substitution:Arg2-as-subst",
+	"Temporal.Asynchronous.Precedence": "TEMPORAL:Asynchronous:Precedence",
+	"Temporal.Asynchronous.Succession": "TEMPORAL:Asynchronous:Succession",
+	"Temporal.Synchronous": "TEMPORAL:Synchronous"
+}
 }

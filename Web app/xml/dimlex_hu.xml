@@ -97,7 +97,7 @@
     <syn>
       <cat>ADV+ADV</cat>
       <sem>
-        <pdtb3_relation sense=" Temporal.Synchronous"/>
+        <pdtb3_relation sense="Temporal.Synchronous"/>
         <example>Addig játszhatsz kint, amíg haza nem jön apád.</example>
         <english_equivalent>You can play outside until your dad comes home.</english_equivalent>
       </sem>
@@ -309,7 +309,7 @@
     <syn>
       <cat>ADV</cat>
       <sem>
-        <pdtb3_relation sense="Comparison.Concession.Arg1-as-denier "/>
+        <pdtb3_relation sense="Comparison.Concession.Arg1-as-denier"/>
         <example>De akárhogy rángatta a Riska tõgyét, egy csepp nem sok, annyi tejet sem tudott kipréselni belõle.</example>
         <english_equivalent>He tied her to a withered tree, and as he had no pail he put his leather cap underneath ; but try as he would, not a drop of milk came.</english_equivalent>
       </sem>
@@ -1341,7 +1341,7 @@
     <syn>
       <cat>ADV+SCONJ</cat>
       <sem>
-        <pdtb3_relation sense="Temporal.Asynchronous.Precedenc"/>
+        <pdtb3_relation sense="Temporal.Asynchronous.Precedence"/>
         <example>Azelőtt, hogy ezt hallottam, egészen más véleményem volt a dologról.</example>
         <english_equivalent>Before I heard this, I had a very different opinion.</english_equivalent>
       </sem>
@@ -1597,7 +1597,7 @@
     <syn>
       <cat>ADV</cat>
       <sem>
-        <pdtb3_relation sense="Temporal.Asynchronous.Precedence "/>
+        <pdtb3_relation sense="Temporal.Asynchronous.Precedence"/>
         <example>Ötkor már itt voltam, azóta várok rád.</example>
         <english_equivalent>I was here at five, I've been waiting for you ever since.</english_equivalent>
       </sem>
@@ -2873,7 +2873,7 @@
     <syn>
       <cat>ADV</cat>
       <sem>
-        <pdtb3_relation sense="Temporal.Asynchronous.Precedence "/>
+        <pdtb3_relation sense="Temporal.Asynchronous.Precedence"/>
         <example>Egy lánynak udvaroltak évekkel ezelőtt, ezóta van a harag köztük.</example>
         <english_equivalent>They courted a girl years ago, and they have been feuding ever since.</english_equivalent>
       </sem>
@@ -3597,7 +3597,7 @@
     <syn>
       <cat>CCONJ</cat>
       <sem>
-        <pdtb3_relation sense="Comparison.Similarity "/>
+        <pdtb3_relation sense="Comparison.Similarity"/>
         <example>Ezért azt mondja az úr: ott fogják a kutyák a te véredet is felnyalni, ahol Nabot vérét felnyalták a kutyák!</example>
         <english_equivalent>And after these words thou shalt add: thus saith the lord : in this place, wherein the dogs have licked the blood of Naboth, they shall lick thy blood also.</english_equivalent>
       </sem>
@@ -3701,7 +3701,7 @@
     <syn>
       <cat>ADV</cat>
       <sem>
-        <pdtb3_relation sense="Temporal.Asynchronous.Succession "/>
+        <pdtb3_relation sense="Temporal.Asynchronous.Succession"/>
         <example>A cég neki ítélte oda a Faberge hajápolási ügyeit. Az ügyfeleket korábban a new york-i bozell kezelte.</example>
         <english_equivalent>The company awarded him the Faberge hair care business. The clients were previously handled by New York-based bozell.</english_equivalent>
       </sem>
@@ -4125,7 +4125,7 @@
     <syn>
       <cat>CCONJ</cat>
       <sem>
-        <pdtb3_relation sense="Comparison.Contrast "/>
+        <pdtb3_relation sense="Comparison.Contrast"/>
         <example>Én főzök, te meg mosogatsz.</example>
         <english_equivalent>I cook and you do the dishes.</english_equivalent>
       </sem>
@@ -4473,7 +4473,7 @@
     <syn>
       <cat>ADV</cat>
       <sem>
-        <pdtb3_relation sense=" Temporal.Synchronous"/>
+        <pdtb3_relation sense="Temporal.Synchronous"/>
         <example>Mindaddig nézett utánuk, amíg el nem tűntek.</example>
         <english_equivalent>He kept looking until they were gone.</english_equivalent>
       </sem>
@@ -5677,7 +5677,7 @@
     <syn>
       <cat>ADV</cat>
       <sem>
-        <pdtb3_relation sense="Comparison.Similarity "/>
+        <pdtb3_relation sense="Comparison.Similarity"/>
         <example>Az özvegyek és árvák listája növekedett, de ugyanígy növekedett az egylet pénzalapja is.</example>
         <english_equivalent>The widow and orphan list grew, but so did the association's financial resources.</english_equivalent>
       </sem>
@@ -5701,7 +5701,7 @@
     <syn>
       <cat>ADV</cat>
       <sem>
-        <pdtb3_relation sense="Comparison.Similarity "/>
+        <pdtb3_relation sense="Comparison.Similarity"/>
         <example>Ahogy nem ismered a szél járását, sem a terhes asszony méhének titkait, ugyanúgy nem ismered isten tevékenységét sem, aki mindent irányít.</example>
         <english_equivalent>As thou knowest not what is the way of the spirit, nor how the bones are joined together in the womb of her that is with child: so thou knowest not the works of god, who is the maker of all.</english_equivalent>
       </sem>
@@ -5829,7 +5829,7 @@
     <syn>
       <cat>CCONJ</cat>
       <sem>
-        <pdtb3_relation sense="Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct "/>
+        <pdtb3_relation sense="Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct"/>
         <example>A japán kormány körülbelül ugyanennyit tett ki, vagyis így jelentették.</example>
         <english_equivalent>The Japanese government put out about the same, or so it was reported.</english_equivalent>
       </sem>
