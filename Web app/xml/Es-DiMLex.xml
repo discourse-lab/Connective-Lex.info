@@ -1,0 +1,2213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dimlex>
+  <entry id="c1" word="a causa de">
+    <orths>
+      <orth type="cont" canonical="1" onr="2o1">
+        <part type="phrasal">a causa de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c2" word="a condición de que">
+    <orths>
+      <orth type="cont" canonical="1" onr="3o1">
+        <part type="phrasal">a condición de que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c3" word="a continuación">
+    <orths>
+      <orth type="cont" canonical="1" onr="4o1">
+        <part type="phrasal">a continuación</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c4" word="a fin de">
+    <orths>
+      <orth type="cont" canonical="1" onr="5o1">
+        <part type="phrasal">a fin de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Purpose:Arg2-as-goal"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c5" word="a fin de cuentas">
+    <orths>
+      <orth type="cont" canonical="1" onr="6o1">
+        <part type="phrasal">a fin de cuentas</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c6" word="a fin de que">
+    <orths>
+      <orth type="cont" canonical="1" onr="7o1">
+        <part type="phrasal">a fin de que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Purpose:Arg2-as-goal"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c7" word="a menos que">
+    <orths>
+      <orth type="cont" canonical="1" onr="8o1">
+        <part type="phrasal">a menos que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Negative-Condition:Arg2-as-negcond"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c8" word="a pesar de">
+    <orths>
+      <orth type="cont" canonical="1" onr="9o1">
+        <part type="phrasal">a pesar de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c9" word="a pesar de ello">
+    <orths>
+      <orth type="cont" canonical="1" onr="10o1">
+        <part type="phrasal">a pesar de ello</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="10o2">
+        <part type="phrasal">a pesar de esto</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="10o3">
+        <part type="phrasal">a pesar de eso</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c10" word="a pesar de que">
+    <orths>
+      <orth type="cont" canonical="1" onr="11o1">
+        <part type="phrasal">a pesar de que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c11" word="a pesar de todo">
+    <orths>
+      <orth type="cont" canonical="1" onr="12o1">
+        <part type="phrasal">a pesar de todo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c12" word="a propósito">
+    <orths>
+      <orth type="cont" canonical="1" onr="13o1">
+        <part type="phrasal">a propósito</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c13" word="a saber">
+    <orths>
+      <orth type="cont" canonical="1" onr="14o1">
+        <part type="phrasal">a saber</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Equivalence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c14" word="además">
+    <orths>
+      <orth type="cont" canonical="1" onr="15o1">
+        <part type="single">además</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c15" word="además de">
+    <orths>
+      <orth type="cont" canonical="1" onr="16o1">
+        <part type="phrasal">además de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c16" word="ahora bien">
+    <orths>
+      <orth type="cont" canonical="1" onr="17o1">
+        <part type="phrasal">ahora bien</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c17" word="al contrario">
+    <orths>
+      <orth type="cont" canonical="1" onr="18o1">
+        <part type="phrasal">al contrario</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c18" word="al contrario de">
+    <orths>
+      <orth type="cont" canonical="1" onr="19o1">
+        <part type="phrasal">al contrario de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c19" word="al final">
+    <orths>
+      <orth type="cont" canonical="1" onr="20o1">
+        <part type="phrasal">al final</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c20" word="al mismo tiempo">
+    <orths>
+      <orth type="cont" canonical="1" onr="21o1">
+        <part type="phrasal">al mismo tiempo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Synchronous"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c21" word="anteriormente">
+    <orths>
+      <orth type="cont" canonical="1" onr="22o1">
+        <part type="single">anteriormente</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c22" word="antes">
+    <orths>
+      <orth type="cont" canonical="1" onr="23o1">
+        <part type="single">antes</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c23" word="antes bien">
+    <orths>
+      <orth type="cont" canonical="1" onr="24o1">
+        <part type="phrasal">antes bien</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c24" word="antes de">
+    <orths>
+      <orth type="cont" canonical="1" onr="25o1">
+        <part type="phrasal">antes de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c25" word="antes de que">
+    <orths>
+      <orth type="cont" canonical="1" onr="26o1">
+        <part type="phrasal">antes de que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c26" word="aparte">
+    <orths>
+      <orth type="cont" canonical="1" onr="27o1">
+        <part type="single">aparte</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c27" word="aparte de">
+    <orths>
+      <orth type="cont" canonical="1" onr="28o1">
+        <part type="phrasal">aparte de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c28" word="así pues">
+    <orths>
+      <orth type="cont" canonical="1" onr="29o1">
+        <part type="phrasal">así pues</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c29" word="asimismo">
+    <orths>
+      <orth type="cont" canonical="1" onr="30o1">
+        <part type="single">asimismo</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="30o2">
+        <part type="phrasal">así mismo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c30" word="aun así">
+    <orths>
+      <orth type="cont" canonical="1" onr="31o1">
+        <part type="phrasal">aun así</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="31o2">
+        <part type="phrasal">aún así</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c31" word="aunque">
+    <orths>
+      <orth type="cont" canonical="1" onr="32o1">
+        <part type="single">aunque</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c32" word="como">
+    <orths>
+      <orth type="cont" canonical="1" onr="33o1">
+        <part type="single">como</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Synchronous"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c33" word="como consecuencia">
+    <orths>
+      <orth type="cont" canonical="1" onr="34o1">
+        <part type="phrasal">como consecuencia</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c34" word="como consecuencia de">
+    <orths>
+      <orth type="cont" canonical="1" onr="35o1">
+        <part type="phrasal">como consecuencia de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c35" word="con todo">
+    <orths>
+      <orth type="cont" canonical="1" onr="36o1">
+        <part type="phrasal">con todo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c36" word="contrariamente a">
+    <orths>
+      <orth type="cont" canonical="1" onr="37o1">
+        <part type="phrasal">contrariamente a</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c37" word="cuando">
+    <orths>
+      <orth type="cont" canonical="1" onr="38o1">
+        <part type="single">cuando</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Synchronous"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c38" word="dado que">
+    <orths>
+      <orth type="cont" canonical="1" onr="39o1">
+        <part type="phrasal">dado que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c39" word="de entrada">
+    <orths>
+      <orth type="cont" canonical="1" onr="40o1">
+        <part type="phrasal">de entrada</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c40" word="de esta forma">
+    <orths>
+      <orth type="cont" canonical="1" onr="41o1">
+        <part type="phrasal">de esta forma</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="41o2">
+        <part type="phrasal">de esa forma</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c41" word="de esta manera">
+    <orths>
+      <orth type="cont" canonical="1" onr="42o1">
+        <part type="phrasal">de esta manera</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="42o2">
+        <part type="phrasal">de esa manera</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c42" word="de este modo">
+    <orths>
+      <orth type="cont" canonical="1" onr="43o1">
+        <part type="phrasal">de este modo</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="43o2">
+        <part type="phrasal">de ese modo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c43" word="de forma que">
+    <orths>
+      <orth type="cont" canonical="1" onr="44o1">
+        <part type="phrasal">de forma que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Purpose:Arg2-as-goal"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c44" word="de hecho">
+    <orths>
+      <orth type="cont" canonical="1" onr="45o1">
+        <part type="phrasal">de hecho</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Instantiation"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c45" word="de igual manera">
+    <orths>
+      <orth type="cont" canonical="1" onr="46o1">
+        <part type="phrasal">de igual manera</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c46" word="de igual modo">
+    <orths>
+      <orth type="cont" canonical="1" onr="47o1">
+        <part type="phrasal">de igual modo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Similarity"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c47" word="de la misma forma">
+    <orths>
+      <orth type="cont" canonical="1" onr="48o1">
+        <part type="phrasal">de la misma forma</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c48" word="de la misma manera">
+    <orths>
+      <orth type="cont" canonical="1" onr="49o1">
+        <part type="phrasal">de la misma manera</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c49" word="de lo contrario">
+    <orths>
+      <orth type="cont" canonical="1" onr="50o1">
+        <part type="phrasal">de lo contrario</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Negative-Condition:Arg1-as-negcond"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c50" word="de manera que">
+    <orths>
+      <orth type="cont" canonical="1" onr="51o1">
+        <part type="phrasal">de manera que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Purpose:Arg2-as-goal"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c51" word="de modo que">
+    <orths>
+      <orth type="cont" canonical="1" onr="52o1">
+        <part type="phrasal">de modo que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c52" word="de otro modo">
+    <orths>
+      <orth type="cont" canonical="1" onr="53o1">
+        <part type="phrasal">de otro modo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Negative-Condition:Arg1-as-negcond"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c53" word="de todas formas">
+    <orths>
+      <orth type="cont" canonical="1" onr="54o1">
+        <part type="phrasal">de todas formas</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c54" word="de todas maneras">
+    <orths>
+      <orth type="cont" canonical="1" onr="55o1">
+        <part type="phrasal">de todas maneras</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c55" word="de todos modos">
+    <orths>
+      <orth type="cont" canonical="1" onr="56o1">
+        <part type="phrasal">de todos modos</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c56" word="de un lado">
+    <orths>
+      <orth type="cont" canonical="1" onr="57o1">
+        <part type="phrasal">de un lado</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c57" word="de una parte">
+    <orths>
+      <orth type="cont" canonical="1" onr="58o1">
+        <part type="phrasal">de una parte</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c58" word="debido a">
+    <orths>
+      <orth type="cont" canonical="1" onr="59o1">
+        <part type="phrasal">debido a</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c59" word="del mismo modo">
+    <orths>
+      <orth type="cont" canonical="1" onr="60o1">
+        <part type="phrasal">del mismo modo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Similarity"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c60" word="del mismo modo que">
+    <orths>
+      <orth type="cont" canonical="1" onr="61o1">
+        <part type="phrasal">del mismo modo que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c61" word="desde entonces">
+    <orths>
+      <orth type="cont" canonical="1" onr="62o1">
+        <part type="phrasal">desde entonces</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Synchronous"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c62" word="después">
+    <orths>
+      <orth type="cont" canonical="1" onr="63o1">
+        <part type="single">después</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c63" word="después de todo">
+    <orths>
+      <orth type="cont" canonical="1" onr="64o1">
+        <part type="phrasal">después de todo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c64" word="dicho sea de paso">
+    <orths>
+      <orth type="cont" canonical="1" onr="65o1">
+        <part type="phrasal">dicho sea de paso</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c65" word="efectivamente">
+    <orths>
+      <orth type="cont" canonical="1" onr="66o1">
+        <part type="single">efectivamente</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c66" word="en breve">
+    <orths>
+      <orth type="cont" canonical="1" onr="67o1">
+        <part type="phrasal">en breve</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c67" word="en cambio">
+    <orths>
+      <orth type="cont" canonical="1" onr="68o1">
+        <part type="phrasal">en cambio</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c68" word="en caso contrario">
+    <orths>
+      <orth type="cont" canonical="1" onr="69o1">
+        <part type="phrasal">en caso contrario</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Negative-Condition:Arg1-as-negcond"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c69" word="en conclusión">
+    <orths>
+      <orth type="cont" canonical="1" onr="70o1">
+        <part type="phrasal">en conclusión</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c70" word="en conjunto">
+    <orths>
+      <orth type="cont" canonical="1" onr="71o1">
+        <part type="phrasal">en conjunto</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense=""/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c71" word="en consecuencia">
+    <orths>
+      <orth type="cont" canonical="1" onr="72o1">
+        <part type="phrasal">en consecuencia</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c72" word="en cualquier caso">
+    <orths>
+      <orth type="cont" canonical="1" onr="73o1">
+        <part type="phrasal">en cualquier caso</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c73" word="en definitiva">
+    <orths>
+      <orth type="cont" canonical="1" onr="74o1">
+        <part type="phrasal">en definitiva</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c74" word="en efecto">
+    <orths>
+      <orth type="cont" canonical="1" onr="75o1">
+        <part type="phrasal">en efecto</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c75" word="en esencia">
+    <orths>
+      <orth type="cont" canonical="1" onr="76o1">
+        <part type="phrasal">en esencia</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c76" word="en fin">
+    <orths>
+      <orth type="cont" canonical="1" onr="77o1">
+        <part type="phrasal">en fin</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c77" word="en lugar de">
+    <orths>
+      <orth type="cont" canonical="1" onr="78o1">
+        <part type="phrasal">en lugar de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg1-as-subst"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c78" word="en otras palabras">
+    <orths>
+      <orth type="cont" canonical="1" onr="79o1">
+        <part type="phrasal">en otras palabras</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="79o2">
+        <part type="phrasal">en otros términos</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Equivalence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c79" word="en pocas palabras">
+    <orths>
+      <orth type="cont" canonical="1" onr="80o1">
+        <part type="phrasal">en pocas palabras</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c80" word="en primer lugar">
+    <orths>
+      <orth type="cont" canonical="1" onr="81o1">
+        <part type="phrasal">en primer lugar</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c81" word="en resumen">
+    <orths>
+      <orth type="cont" canonical="1" onr="82o1">
+        <part type="phrasal">en resumen</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c82" word="en resumidas cuentas">
+    <orths>
+      <orth type="cont" canonical="1" onr="83o1">
+        <part type="phrasal">en resumidas cuentas</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c83" word="en segundo lugar">
+    <orths>
+      <orth type="cont" canonical="1" onr="84o1">
+        <part type="phrasal">en segundo lugar</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="84o2">
+        <part type="phrasal">en segundo término</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c84" word="en síntesis">
+    <orths>
+      <orth type="cont" canonical="1" onr="85o1">
+        <part type="phrasal">en síntesis</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c85" word="en suma">
+    <orths>
+      <orth type="cont" canonical="1" onr="86o1">
+        <part type="phrasal">en suma</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c86" word="en todo caso">
+    <orths>
+      <orth type="cont" canonical="1" onr="87o1">
+        <part type="phrasal">en todo caso</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c87" word="en última instancia">
+    <orths>
+      <orth type="cont" canonical="1" onr="88o1">
+        <part type="phrasal">en última instancia</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c88" word="en una palabra">
+    <orths>
+      <orth type="cont" canonical="1" onr="89o1">
+        <part type="phrasal">en una palabra</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c89" word="en vez de">
+    <orths>
+      <orth type="cont" canonical="1" onr="90o1">
+        <part type="phrasal">en vez de</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg1-as-subst"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c90" word="entonces">
+    <orths>
+      <orth type="cont" canonical="1" onr="91o1">
+        <part type="single">entonces</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c91" word="entretanto">
+    <orths>
+      <orth type="cont" canonical="1" onr="92o1">
+        <part type="single">entretanto</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="92o2">
+        <part type="phrasal">entre tanto</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Synchronous"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c92" word="es decir">
+    <orths>
+      <orth type="cont" canonical="1" onr="93o1">
+        <part type="phrasal">es decir</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Equivalence"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c93" word="es más">
+    <orths>
+      <orth type="cont" canonical="1" onr="94o1">
+        <part type="phrasal">es más</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c94" word="excepto">
+    <orths>
+      <orth type="cont" canonical="1" onr="95o1">
+        <part type="single">excepto</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Exception:Arg2-as-excpt"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c95" word="finalmente">
+    <orths>
+      <orth type="cont" canonical="1" onr="96o1">
+        <part type="single">finalmente</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c96" word="hasta que">
+    <orths>
+      <orth type="cont" canonical="1" onr="97o1">
+        <part type="phrasal">hasta que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c97" word="igualmente">
+    <orths>
+      <orth type="cont" canonical="1" onr="98o1">
+        <part type="single">igualmente</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c98" word="incluso">
+    <orths>
+      <orth type="cont" canonical="1" onr="99o1">
+        <part type="single">incluso</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c99" word="luego">
+    <orths>
+      <orth type="cont" canonical="1" onr="100o1">
+        <part type="single">luego</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c100" word="más aún">
+    <orths>
+      <orth type="cont" canonical="1" onr="101o1">
+        <part type="phrasal">más aún</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Instantiation"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c101" word="más bien">
+    <orths>
+      <orth type="cont" canonical="1" onr="102o1">
+        <part type="phrasal">más bien</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c102" word="más tarde">
+    <orths>
+      <orth type="cont" canonical="1" onr="103o1">
+        <part type="phrasal">más tarde</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c103" word="mejor dicho">
+    <orths>
+      <orth type="cont" canonical="1" onr="104o1">
+        <part type="phrasal">mejor dicho</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c104" word="menos aún">
+    <orths>
+      <orth type="cont" canonical="1" onr="105o1">
+        <part type="phrasal">menos aún</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c105" word="mientras">
+    <orths>
+      <orth type="cont" canonical="1" onr="106o1">
+        <part type="single">mientras</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Synchronous"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c106" word="mientras tanto">
+    <orths>
+      <orth type="cont" canonical="1" onr="107o1">
+        <part type="phrasal">mientras tanto</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Synchronous"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c107" word="ni">
+    <orths>
+      <orth type="cont" canonical="1" onr="108o1">
+        <part type="single">ni</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c108" word="ni ... ni">
+    <orths>
+      <orth type="discont" canonical="1" onr="109o1">
+        <part type="single">ni</part>
+        <part type="single">ni</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c109" word="no obstante">
+    <orths>
+      <orth type="cont" canonical="1" onr="110o1">
+        <part type="phrasal">no obstante</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c110" word="o bien">
+    <orths>
+      <orth type="cont" canonical="1" onr="111o1">
+        <part type="phrasal">o bien</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Disjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c111" word="o sea">
+    <orths>
+      <orth type="cont" canonical="1" onr="112o1">
+        <part type="phrasal">o sea</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Equivalence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c112" word="o sea que">
+    <orths>
+      <orth type="cont" canonical="1" onr="113o1">
+        <part type="phrasal">o sea que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c113" word="o">
+    <orths>
+      <orth type="cont" canonical="1" onr="114o1">
+        <part type="single">o</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="114o2">
+        <part type="single">u</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Disjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c114" word="para">
+    <orths>
+      <orth type="cont" canonical="1" onr="115o1">
+        <part type="single">para</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Purpose:Arg2-as-goal"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c115" word="para que">
+    <orths>
+      <orth type="cont" canonical="1" onr="116o1">
+        <part type="phrasal">para que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Purpose:Arg2-as-goal"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c116" word="paralelamente">
+    <orths>
+      <orth type="cont" canonical="1" onr="117o1">
+        <part type="single">paralelamente</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Synchronous"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c117" word="pero">
+    <orths>
+      <orth type="cont" canonical="1" onr="118o1">
+        <part type="single">pero</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c118" word="por">
+    <orths>
+      <orth type="cont" canonical="1" onr="119o1">
+        <part type="single">por</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c119" word="por añadidura">
+    <orths>
+      <orth type="cont" canonical="1" onr="120o1">
+        <part type="phrasal">por añadidura</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c120" word="por cierto">
+    <orths>
+      <orth type="cont" canonical="1" onr="121o1">
+        <part type="phrasal">por cierto</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c121" word="por consiguiente">
+    <orths>
+      <orth type="cont" canonical="1" onr="122o1">
+        <part type="phrasal">por consiguiente</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c122" word="por contra">
+    <orths>
+      <orth type="cont" canonical="1" onr="123o1">
+        <part type="phrasal">por contra</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c123" word="por ejemplo">
+    <orths>
+      <orth type="cont" canonical="1" onr="124o1">
+        <part type="phrasal">por ejemplo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Instantiation"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c124" word="por el contrario">
+    <orths>
+      <orth type="cont" canonical="1" onr="125o1">
+        <part type="phrasal">por el contrario</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c125" word="por ello">
+    <orths>
+      <orth type="cont" canonical="1" onr="126o1">
+        <part type="phrasal">por ello</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="126o2">
+        <part type="phrasal">por eso</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="126o3">
+        <part type="phrasal">por esto</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c126" word="por eso mismo">
+    <orths>
+      <orth type="cont" canonical="1" onr="127o1">
+        <part type="phrasal">por eso mismo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c127" word="por fin">
+    <orths>
+      <orth type="cont" canonical="1" onr="128o1">
+        <part type="phrasal">por fin</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c128" word="por lo demás">
+    <orths>
+      <orth type="cont" canonical="1" onr="129o1">
+        <part type="phrasal">por lo demás</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Exception:Arg1-as-excpt"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c129" word="por lo tanto">
+    <orths>
+      <orth type="cont" canonical="1" onr="130o1">
+        <part type="phrasal">por lo tanto</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c130" word="por otra parte">
+    <orths>
+      <orth type="cont" canonical="1" onr="131o1">
+        <part type="phrasal">por otra parte</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c131" word="por otro lado">
+    <orths>
+      <orth type="cont" canonical="1" onr="132o1">
+        <part type="phrasal">por otro lado</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c132" word="por su parte">
+    <orths>
+      <orth type="cont" canonical="1" onr="133o1">
+        <part type="phrasal">por su parte</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c133" word="por tanto">
+    <orths>
+      <orth type="cont" canonical="1" onr="134o1">
+        <part type="phrasal">por tanto</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c134" word="por último">
+    <orths>
+      <orth type="cont" canonical="1" onr="135o1">
+        <part type="phrasal">por último</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c135" word="por un lado">
+    <orths>
+      <orth type="cont" canonical="1" onr="136o1">
+        <part type="phrasal">por un lado</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c136" word="por una parte">
+    <orths>
+      <orth type="cont" canonical="1" onr="137o1">
+        <part type="phrasal">por una parte</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c137" word="porque">
+    <orths>
+      <orth type="cont" canonical="1" onr="138o1">
+        <part type="single">porque</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c138" word="posteriormente">
+    <orths>
+      <orth type="cont" canonical="1" onr="139o1">
+        <part type="single">posteriormente</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c139" word="previamente">
+    <orths>
+      <orth type="cont" canonical="1" onr="140o1">
+        <part type="single">previamente</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c140" word="primero">
+    <orths>
+      <orth type="cont" canonical="1" onr="141o1">
+        <part type="single">primero</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c141" word="pues">
+    <orths>
+      <orth type="cont" canonical="1" onr="142o1">
+        <part type="single">pues</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c142" word="puesto que">
+    <orths>
+      <orth type="cont" canonical="1" onr="143o1">
+        <part type="phrasal">puesto que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c143" word="salvo">
+    <orths>
+      <orth type="cont" canonical="1" onr="144o1">
+        <part type="single">salvo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Exception:Arg2-as-excpt"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c144" word="salvo que">
+    <orths>
+      <orth type="cont" canonical="1" onr="145o1">
+        <part type="phrasal">salvo que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Negative-Condition:Arg2-as-negcond"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c145" word="segundo">
+    <orths>
+      <orth type="cont" canonical="1" onr="146o1">
+        <part type="single">segundo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c146" word="si">
+    <orths>
+      <orth type="cont" canonical="1" onr="147o1">
+        <part type="single">si</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c147" word="si bien">
+    <orths>
+      <orth type="cont" canonical="1" onr="148o1">
+        <part type="phrasal">si bien</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c148" word="siempre que">
+    <orths>
+      <orth type="cont" canonical="1" onr="149o1">
+        <part type="phrasal">siempre que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c149" word="siempre y cuando">
+    <orths>
+      <orth type="cont" canonical="1" onr="150o1">
+        <part type="phrasal">siempre y cuando</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c150" word="sin embargo">
+    <orths>
+      <orth type="cont" canonical="1" onr="151o1">
+        <part type="phrasal">sin embargo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c151" word="sino">
+    <orths>
+      <orth type="cont" canonical="1" onr="152o1">
+        <part type="single">sino</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c152" word="sino que">
+    <orths>
+      <orth type="cont" canonical="1" onr="153o1">
+        <part type="phrasal">sino que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c153" word="sobre todo">
+    <orths>
+      <orth type="cont" canonical="1" onr="154o1">
+        <part type="phrasal">sobre todo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Instantiation"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c154" word="también">
+    <orths>
+      <orth type="cont" canonical="1" onr="155o1">
+        <part type="single">también</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c155" word="tampoco">
+    <orths>
+      <orth type="cont" canonical="1" onr="156o1">
+        <part type="single">tampoco</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Similarity"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c156" word="y">
+    <orths>
+      <orth type="cont" canonical="1" onr="157o1">
+        <part type="single">y</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="157o2">
+        <part type="single">e</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c157" word="ya que">
+    <orths>
+      <orth type="cont" canonical="1" onr="158o1">
+        <part type="phrasal">ya que</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+      </sem>
+    </syn>
+  </entry>
+</dimlex>

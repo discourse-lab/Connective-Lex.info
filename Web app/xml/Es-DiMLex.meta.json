@@ -1,0 +1,32 @@
+{
+  "lexiconName": "Es-DiMLex",
+  "lexiconNameFull": "Lexicon of Spanish Discourse Connectives",
+  "version": "1.0",
+  "originalReleaseDate": "2024",
+  "currentReleaseDate": "2024-01-04",
+  "languageEnglish": "Spanish",
+  "languageNative": "español",
+  "locale": "es_ES",
+  "homepage": "https://gitlab.com/szugyiedit/dimlex-hu",
+  "parseInfo": {
+    "posTagset": "dimlex",
+    "senseTagset": "pdtb3-short"
+  },
+  "licenseInfo": {
+    "copyrightDate": "2024",
+    "licenseName": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "authorInfo": {
+    "publisher": "Universität Potsdam, Department of Linguistics",
+    "authors": [
+      { "authorName": "Sophia Rauh", "organisation": "Universität Potsdam, Department of Linguistics" }
+    ],
+    "publications": [
+      {
+        "cite": "to appear",
+        "url": "https://github.com/SophiaRauh/es_conn_lex"
+      }
+    ]
+  }
+}
