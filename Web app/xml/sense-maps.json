@@ -261,5 +261,5 @@
 	"Temporal.Asynchronous.Precedence": "TEMPORAL:Asynchronous:Precedence",
 	"Temporal.Asynchronous.Succession": "TEMPORAL:Asynchronous:Succession",
 	"Temporal.Synchronous": "TEMPORAL:Synchronous"
-}
+  }
 }

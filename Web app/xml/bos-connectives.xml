@@ -1,0 +1,3291 @@
+<dimlex>
+  <entry id="bs1" word="a">
+    <english_equivalent>and, while</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs1o1">
+        <part type="single">a</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Iz Tirane do Dhermija ima autobuska linija, a karta košta oko 7 eura.</example>
+          <english_equivalent>A bus line runs from Tirana to Dhermi , and a ticket costs about 7 euros .</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs2" word="ako…onda">
+    <english_equivalent>if…then</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs2o1">
+        <part type="single">ako…onda</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond">
+          </pdtb3_relation>
+      <example>Učesnici konferencije u Beogradu pozvali na promjenu " mentaliteta ". Ako Srbija želi ekonomski razvoj i evropske integracije, ona bi trebala intenzivirati privatizaciju, kažu poslovni lideri.</example>
+          <english_equivalent>Belgrade conference attendees call for change in " mentality ". If Serbia wants economic development and EU integration, then it should ramp up privatisation , business leaders say.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs3" word="ali">
+    <english_equivalent>but</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs3o1">
+        <part type="single">ali</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>Mnogo domaćeg stanovništva bilo je oko mene. Možda je to bio samo moj utisak , ali se u njihovim očima mogla vidjeti radost.</example>
+          <english_equivalent>Many local people were around me. Maybe it was just my impression , but you could see joy in their eyes.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs4" word="baš suprotno">
+    <english_equivalent>quite the contrary</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs4o1">
+        <part type="phrasal">baš suprotno</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>On je pojasnio da uspostava bliskih odnosa između Makedonije i Katara ne znači da zemlja skreće sa svoje euroatlantske perspektive. " Baš suprotno . Međutim , to ne znači da trebamo biti vezani isključivo za zemlje EU.</example>
+          <english_equivalent>He explained that establishing close Macedonia-Qatar relations does not mean that the country is straying from its Euro-Atlantic perspective . " Quite the contrary. But that does not mean we should solely be tied to EU countries.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs5" word="baš suprotno tome">
+    <english_equivalent>on the contrary</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs5o1">
+        <part type="phrasal">baš suprotno tome</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>To je bio rat u kom je malo njih razmišljalo o tome kako poštedjeti djecu . Baš suprotno tome, mnogi napadi namjerno su bili usmjereni na mlade i nemoćne.</example>
+          <english_equivalent>This was a war in which few thought to spare children. On the contrary , many attacks were aimed deliberately at the young and vulnerable.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs6" word="bez ">
+    <english_equivalent>without</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs6o1">
+        <part type="phrasal">bez </part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Negative-condition:Arg1-as-negcond">
+          </pdtb3_relation>
+      <example>Poslovni svijet ima pravila pristojnog ponašanja . Bez takvih pravila , poslovni svijet bi se pretvorio u džunglu.</example>
+          <english_equivalent>The business world has rules of decent conduct . Without such rules business would turn into a jungle.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs7" word="bez obzira">
+    <english_equivalent>regardless</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs7o1">
+        <part type="phrasal">bez obzira</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond">
+          </pdtb3_relation>
+      <example>Svaka vlast će biti ista. Bez obzira na to ko bude izabran, moja penzija se neće povećati.</example>
+          <english_equivalent>Every government will be the same . Regardless of who is elected , my pension will not get a raise.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs8" word="bez obzira na to">
+    <english_equivalent>nonetheless</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs8o1">
+        <part type="phrasal">bez obzira na to</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>Njegova prvobitna presuda ovog mjeseca je po žalbi preinačena. Bez obzira na to , svake godine sve više ljudi iz Srbije dolazi u Potočare u znak sjećanja na Srebrenicu.</example>
+          <english_equivalent>His original conviction was overturned this month on appeal. Nonetheless , every year more and more people from Serbia come to Potocari to remember Srebrenica.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs9" word="bilo kako bilo">
+    <english_equivalent>be that as it may / in any case</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs9o1">
+        <part type="phrasal">bilo kako bilo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier">
+          </pdtb3_relation>
+      <example>Bilo kako bilo, moramo nastaviti s planom. Vrijeme ne čeka nikoga.(AI Generated)</example>
+          <english_equivalent>In any case, we must proceed with the plan. Time waits for no one. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs10" word="budući da">
+    <english_equivalent>as, since / given that</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs10o1">
+        <part type="phrasal">budući da</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>Srbijanska naučna zajednica dobila je potporu, budući da je ta zemlja postala pridružena članica Evropske organizacije za nuklearna istraživanja ( CERN ).</example>
+          <english_equivalent>Serbia' s scientific community received a boost this month as the country became an associate member of the European Organization for Nuclear Research ( CERN ).</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs11" word="čak i ako">
+    <english_equivalent>even if</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs11o1">
+        <part type="phrasal">čak i ako</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond">
+          </pdtb3_relation>
+      <example>Tempo pregovora o ponovnom ujedinjenu već je bio usporen. Sad bi se, čak i ako se dođe do nacrta rješenja, vlada i predsjednik mogli ne složiti po pitanju detalja.</example>
+          <english_equivalent>The pace of reunification talks has already been sluggish. Now , even if a draft solution is reached, the government and president may disagree on the details.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs12" word="čime">
+    <english_equivalent>thereby</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs12o1">
+        <part type="single">čime</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Purpose:Arg2-as-goal">
+          </pdtb3_relation>
+      <example>Uz rast domaće proizvodnje, kaže Jurčić, doći će i više plaće, penzije i dividende. Stranka također obećava finansirati razvoj infrastrukture u drugim dijelovima Hrvatske, čime bi se ljudi stimulirali da dođu raditi u manjim gradovima.</example>
+          <english_equivalent>Along with growth in domestic production, Juric says, will come higher salaries , pensions and dividends. The party is also promising to finance the development of infrastructure in other parts of Croatia, thereby stimulating people to come work in smaller towns.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs13" word="dakako">
+    <english_equivalent>of course / certainly</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs13o1">
+        <part type="single">dakako</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Dakako, prihvatićemo vašu ponudu. Uvijek smo otvoreni za nove ideje.(AI Generated)</example>
+          <english_equivalent>Of course, we will accept your offer. We are always open to new ideas.(AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs14" word="dakle">
+    <english_equivalent>therefore / thus</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs14o1">
+        <part type="single">dakle</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>Nismo našli nikakve dokaze. Dakle, slučaj je zatvoren. (AI Generated)</example>
+          <english_equivalent>We did not find any evidence. Therefore, the case is closed. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs15" word="dalje">
+    <english_equivalent>further</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs15o1">
+        <part type="single">dalje</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result">
+          </pdtb3_relation>
+      <example>Predmet je zatvoren odbacivanjem krivične prijave. Daljnje optužbe nemaju smisla.</example>
+          <english_equivalent>The case was closed with the dismissal of the criminal report. Further accusations are pointless.</english_equivalent>
+        </sem>
+    </syn>
+	<syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result">
+          </pdtb3_relation>
+      <example>Predmet je zatvoren odbacivanjem krivične prijave. Daljnje optužbe nemaju smisla.</example>
+          <english_equivalent>The case was closed with the dismissal of the criminal report. Further accusations are pointless.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs16" word="do">
+    <english_equivalent>till, untill</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs16o1">
+        <part type="single">do</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>Nekoliko kompanija objavilo je da će ili smanjiti proizvodnju ili obustaviti djelatnost . Na primjer , proizvođač automobila Dacia objavio je da će obustaviti poslovanje od 30 . novembra do 7 . decembra , jer je prodaja u naglom padu.;Sportisti Kosova mogli su biti natjecatelji u džudu, boksu i hrvanju. Sve dok ne ispuni kriterije IOC-a, ova novonastala država morat će ostati izvan Igara.</example>
+          <english_equivalent>Several companies announced they would either reduce production or suspend activity . For example , the carmaker Dacia announced it would suspend activity from November 30th till December 7th , as sales collapsed .;Kosovo athletes could have been contenders in judo , boxing and wrestling . Until it meets IOC criteria , though , the fledgling state will have to sit out the Games.</english_equivalent>
+        </sem>
+	  <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond">
+          </pdtb3_relation>
+      <example>Nekoliko kompanija objavilo je da će ili smanjiti proizvodnju ili obustaviti djelatnost . Na primjer , proizvođač automobila Dacia objavio je da će obustaviti poslovanje od 30 . novembra do 7 . decembra , jer je prodaja u naglom padu.;Sportisti Kosova mogli su biti natjecatelji u džudu, boksu i hrvanju. Sve dok ne ispuni kriterije IOC-a, ova novonastala država morat će ostati izvan Igara.</example>
+          <english_equivalent>Several companies announced they would either reduce production or suspend activity . For example , the carmaker Dacia announced it would suspend activity from November 30th till December 7th , as sales collapsed .;Kosovo athletes could have been contenders in judo , boxing and wrestling . Until it meets IOC criteria , though , the fledgling state will have to sit out the Games.</english_equivalent>
+        </sem>
+    </syn>
+	<syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>Nekoliko kompanija objavilo je da će ili smanjiti proizvodnju ili obustaviti djelatnost . Na primjer , proizvođač automobila Dacia objavio je da će obustaviti poslovanje od 30 . novembra do 7 . decembra , jer je prodaja u naglom padu.;Sportisti Kosova mogli su biti natjecatelji u džudu, boksu i hrvanju. Sve dok ne ispuni kriterije IOC-a, ova novonastala država morat će ostati izvan Igara.</example>
+          <english_equivalent>Several companies announced they would either reduce production or suspend activity . For example , the carmaker Dacia announced it would suspend activity from November 30th till December 7th , as sales collapsed .;Kosovo athletes could have been contenders in judo , boxing and wrestling . Until it meets IOC criteria , though , the fledgling state will have to sit out the Games.</english_equivalent>
+        </sem>
+	  <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond">
+          </pdtb3_relation>
+      <example>Nekoliko kompanija objavilo je da će ili smanjiti proizvodnju ili obustaviti djelatnost . Na primjer , proizvođač automobila Dacia objavio je da će obustaviti poslovanje od 30 . novembra do 7 . decembra , jer je prodaja u naglom padu.;Sportisti Kosova mogli su biti natjecatelji u džudu, boksu i hrvanju. Sve dok ne ispuni kriterije IOC-a, ova novonastala država morat će ostati izvan Igara.</example>
+          <english_equivalent>Several companies announced they would either reduce production or suspend activity . For example , the carmaker Dacia announced it would suspend activity from November 30th till December 7th , as sales collapsed .;Kosovo athletes could have been contenders in judo , boxing and wrestling . Until it meets IOC criteria , though , the fledgling state will have to sit out the Games.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs17" word="do sada">
+    <english_equivalent>so far, until now</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs17o1">
+        <part type="phrasal">do sada</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail">
+          </pdtb3_relation>
+      <example>I nadam se da ću imati šansu da vidim još Johanesburga, jer do sad sam ga većinom vidio iz autobusa.</example>
+          <english_equivalent>And I hope I' ll have the chance to see some more of Johannesburg, because so far I' ve mostly seen it from the bus.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs18" word="do tad">
+    <english_equivalent>by then</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs18o1">
+        <part type="phrasal">do tad</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>Ako do tad ne bude formirana nova vlada, morat će se organizirati novi opći izbori.</example>
+          <english_equivalent>Either way , the SPS has until mid-September to decide . Failure to form a new government by then would force a new general election.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs19" word="dodatno">
+    <english_equivalent>additionally</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs19o1">
+        <part type="single">dodatno</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Infrastruktura koja do njih vodi je loša , a ni njihov ulaz i mogućnost prijema većih brodova nisu dobri. Time se makedonskim kompanijama dodatno komplicira situacija, " izjavio je za SETimes predsjednik Privredne komore Makedonije Branko Azeski.</example>
+          <english_equivalent>The infrastructure leading to them is poor , and their entrance and the ability to accommodate bigger ships is not good as well. This additionally complicates the situation for Macedonian companies, " Macedonian Chamber of Commerce President Branko Azeski told SETimes.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs20" word="doduše">
+    <english_equivalent>admittedly, however, though</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs20o1">
+        <part type="single">doduše</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier">
+          </pdtb3_relation>
+      <example>To je za Srbiju doduše bolno pitanje, ali nema drugog načina osim dijaloga.</example>
+          <english_equivalent>True, for Serbia it is a painful issue, but there is no other way than dialogue.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs21" word="dok">
+    <english_equivalent>whereas, while</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs21o1">
+        <part type="single">dok</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>Signal je taj da se mi samo zajednički i putem institucija možemo uspješno boriti protiv nasilja u sportu. Trebalo bi razlikovati prave sportske navijače od huligana; navijači vole svoj klub, dok huligani vole nasilje.</example>
+          <english_equivalent>The signal is that only together and through institutions can we successfully combat violence in sports . One should distinguish real sports fans from hooligans , the fans love their club , whereas the hooligans love violence.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs22" word="dok god;sve dok">
+    <english_equivalent>as long as</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs22o1">
+        <part type="phrasal">dok god</part>
+      </orth>
+      <orth canonical="0" type="cont" onr="bs22o2">
+        <part type="phrasal">sve dok</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond">
+          </pdtb3_relation>
+      <example>Od februara, ova zemlja ima 120 pripadnika neborbenih trupa stacioniranih na aerodromu u Mosulu. U decembru 2006 , ministar odbrane Albanije Fatmir Mediu je izjavio da će albanske trupe ostati u Iraku sve dok su tamo i američke snage.</example>
+          <english_equivalent>Since February, the country has had 120 non-combat troops, stationed at the Mosul Airport. In December 2006 , Albanian Defence Minister Fatmir Mediu said Albanian troops would stay in Iraq as long as US forces remain there.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs23" word="dosta">
+    <english_equivalent>enough, quite</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs23o1">
+        <part type="single">dosta</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail">
+          </pdtb3_relation>
+      <example>Bilo je hladno prošle noći. Dosta je ljudi nosilo kapute da bi se ugrijali.</example>
+          <english_equivalent>It was cold last night. Quite a few people wore coats to keep warm.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs24" word="dotle">
+    <english_equivalent>until then, up to that point</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs24o1">
+        <part type="single">dotle</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Planiramo završiti projekat do kraja mjeseca. Dotle ćemo imati dovoljno vremena za sve provjere. (AI Generated)</example>
+          <english_equivalent>We plan to complete the project by the end of the month. Until then, we will have enough time for all the checks. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs25" word="drugdje">
+    <english_equivalent>elsewhere</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs25o1">
+        <part type="single">drugdje</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst">
+          </pdtb3_relation>
+      <example>Ovdje nema dovoljno prostora za sve naše stvari. Moramo pronaći mjesto drugdje.</example>
+          <english_equivalent>There is not enough space for all our things here. We need to find a place elsewhere.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs26" word="drugim riječima">
+    <english_equivalent>in other words</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs26o1">
+        <part type="phrasal">drugim riječima</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Instantiation:Arg2-as-instance">
+          </pdtb3_relation>
+      <example>Naučnici upozoravaju da gubitak šumskih površina ima na Atinu posljedice jednake kao kad bi se preko noći udvostručio broj vozila. Drugim riječima, izgleda da je Atina izgubila osnovni element svog prirodnog mehanizma rashlađivanja.</example>
+          <english_equivalent>Scientists warn that loss of forest acreage has an effect on Athens that is equivalent to a doubling of vehicles overnight. In other words, Athens seems to have lost an essential part of its natural cooling mechanism.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs27" word="i">
+    <english_equivalent>and</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs27o1">
+        <part type="single">i</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Sviram trubu od svoje šeste godine, to mi je bila jedna od prvih igračaka. S trinaest godina sam prvi put nastupio u Guči i tu sam i danas, osvojivši ove nagrade.</example>
+          <english_equivalent>I have been playing the trumpet since I was six , that was one of my first toys. At the age of 13, I debuted in Guca and here I am today, winning these awards.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs28" word="i do">
+    <english_equivalent>as much as</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs28o1">
+        <part type="phrasal">i do</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail">
+          </pdtb3_relation>
+      <example>Jedna od glavnih prepreka u obnovi je stalna prisutnost velikog broja mina i drugih neeksplodiranih sredstava širom zemlje. Svjetska banka procjenjuje da bi za deminiranje moglo biti potrebno i do 10 milijardi eura.</example>
+          <english_equivalent>One of the main hurdles to reconstruction is the continuing abundance of land mines and other unexploded ordnance throughout the country. A World Bank assessment suggests that mine removal may cost as much as 10 billion euros.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs29" word="iako">
+    <english_equivalent>even though, although</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs29o1">
+        <part type="single">iako</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier">
+          </pdtb3_relation>
+      <example>Holmova pojašnjava da zbog njene kolonijalne prošlosti Francuska tu oblast smatra svojom utjecajnom sferom . Iako Libija nikad nije bila francuska kolonija, Francuska želi igrati ulogu u cijelom regionu.</example>
+          <english_equivalent>Holm explained that because of its colonial past, France considers the area as a part of its sphere of influence. Even though Libya was never a French colony, France wants to play a role in the entire region.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs30" word="ili ">
+    <english_equivalent>or </english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs30o1">
+        <part type="phrasal">ili </part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Disjunction">
+          </pdtb3_relation>
+      <example>Ali atmosfera, potpuno različita kultura i svi ti ljudi koji se smješkaju oko mene čine da vjerujem kako će ovo biti nezaboravna priča za prenijeti drugima . Ili sam ja samo apsolutni optimista?</example>
+          <english_equivalent>But the atmosphere,  totally different culture and all those smiling people around me make me believe this will be an unforgettable story to tell. Or am I just an absolute optimist?</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs31" word="ili...ili">
+    <english_equivalent>either..or</english_equivalent>
+    <orths>
+      <orth canonical="1" type="discont" onr="bs31o1">
+        <part type="single">ili...ili</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Disjunction">
+          </pdtb3_relation>
+      <example>Aromatske biljke koje ovce pasu daju tom siru jak i izrazit ukus. Hercegovci imaju izreku da vino, zavisno od svog kvaliteta , može biti ili najbolja ili najgora stvar u životu.</example>
+          <english_equivalent>The aromatic herbs consumed by the sheep give the cheese a strong , distinctive taste. Herzegovinians are known to say that wine can be either the best or worst thing in life, depending on its quality.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs32" word="inace">
+    <english_equivalent>otherwise</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs32o1">
+        <part type="single">inace</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond">
+          </pdtb3_relation>
+      <example>Državna albanska TV emitira javne obavijesti u kojima se korisnici električne energije upozoravaju da plate račune. Inače, upozorava se u tim obavijestima, struje će im "nestati".</example>
+          <english_equivalent>Albanian national TV has been broadcasting public service announcements warning electricity users to pay their bills. Otherwise, the ads warn, their electricity "will be missing".</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs33" word="ipak">
+    <english_equivalent>nevertheless;even so</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs33o1">
+        <part type="single">ipak</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>Poziv na veću otvorenost od strane članova EP-a predstavlja muziku za uši zemljama zapadnog Balkana. Međutim,  njihovi prijedlozi nisu obavezujući po Evropsku komisiju i Evropsko vijeće.;Kirgistan mu je izgledao kao najbolja opcija, jer je bio najdemokratičniji i najotvoreniji. Ipak, stvari nisu išle lako.</example>
+          <english_equivalent>EP members' call for greater openness is music to the ears of the Western Balkan nations. Nevertheless , their propositions are not binding for the European Commission and the European Council.;Kyrgyzstan seemed the best option to him because it was the most democratic and open. Even so, it has not been easy.</english_equivalent>
+        </sem>
+	  <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier">
+          </pdtb3_relation>
+      <example>Poziv na veću otvorenost od strane članova EP-a predstavlja muziku za uši zemljama zapadnog Balkana. Međutim,  njihovi prijedlozi nisu obavezujući po Evropsku komisiju i Evropsko vijeće.;Kirgistan mu je izgledao kao najbolja opcija, jer je bio najdemokratičniji i najotvoreniji. Ipak, stvari nisu išle lako.</example>
+          <english_equivalent>EP members' call for greater openness is music to the ears of the Western Balkan nations. Nevertheless , their propositions are not binding for the European Commission and the European Council.;Kyrgyzstan seemed the best option to him because it was the most democratic and open. Even so, it has not been easy.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs34" word="isprva">
+    <english_equivalent>at first;initially</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs34o1">
+        <part type="single">isprva</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Planiranim cjevovodom dugim 280 km, koji bi zaobilazio zagušeni Bosforski tjesnac, isprva bi se godišnje prenosilo 35 tona nafte.</example>
+          <english_equivalent>The planned 280km-long pipe to circumvent the congested Bosphorus Strait would initially carry 35m tonnes of oil per year.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs35" word="isto tako">
+    <english_equivalent>also, likewise, similarly</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs35o1">
+        <part type="phrasal">isto tako</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Promjene bi isto tako dovele do značajnog smanjenje broja povjerenika EU.</example>
+          <english_equivalent>The changes would also lead to a substantial reduction in the number of EU commissioners.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs36" word="istovremeno;u isto vrijeme">
+    <english_equivalent>simultaneously;at the same time</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs36o1">
+        <part type="single">istovremeno</part>
+      </orth>
+      <orth canonical="0" type="cont" onr="bs36o2">
+        <part type="phrasal">u isto vrijeme</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Synchronous">
+          </pdtb3_relation>
+      <example>Taj proces implicira daljnje smanjenje broja naših vojnika na Kosovu , na oko 5.000 . Istovremeno , mi ćemo značajno povećati mobilnost , zračnu mobilnost , fleksibilnost i pripravnost kontingenata KFOR-a.;To je nemoguće, " izjavio je Sarkozy. " Ne može se zalagati za federalizam, a istovremeno i za proširenje Evrope.</example>
+          <english_equivalent>That process implies a further reduction in the number of our soldiers in Kosovo to about 5 , 000 . Simultaneously we will significantly increase mobility , air mobility , flexibility and readiness of KFOR contingents.;It' s impossible, " Sarkozy said . " One cannot plead for federalism and at the same time for the enlargement of Europe.</english_equivalent>
+        </sem>
+	  <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier">
+          </pdtb3_relation>
+      <example>Taj proces implicira daljnje smanjenje broja naših vojnika na Kosovu , na oko 5.000 . Istovremeno , mi ćemo značajno povećati mobilnost , zračnu mobilnost , fleksibilnost i pripravnost kontingenata KFOR-a.;To je nemoguće, " izjavio je Sarkozy. " Ne može se zalagati za federalizam, a istovremeno i za proširenje Evrope.</example>
+          <english_equivalent>That process implies a further reduction in the number of our soldiers in Kosovo to about 5 , 000 . Simultaneously we will significantly increase mobility , air mobility , flexibility and readiness of KFOR contingents.;It' s impossible, " Sarkozy said . " One cannot plead for federalism and at the same time for the enlargement of Europe.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs37" word="izdaleka">
+    <english_equivalent> from afar, from a distance</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs37o1">
+        <part type="single">izdaleka</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Manner:Arg2-as-manner">
+          </pdtb3_relation>
+      <example>Posmatrao je kuću, nesiguran da li da priđe bliže. Izdaleka je sve izgledalo manje strašno. (AI Generated)</example>
+          <english_equivalent>He observed the house, unsure if he should come closer. From afar, everything seemed less frightening. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs38" word="jedanput">
+    <english_equivalent>once</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs38o1">
+        <part type="single">jedanput</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Synchronous">
+          </pdtb3_relation>
+      <example>Jedanput sam posjetio Pariz i to je bilo nevjerovatno iskustvo. Od tada želim da se vratim. (AI Generated)</example>
+          <english_equivalent>I visited Paris once and it was an incredible experience. Since then, I have wanted to go back. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs39" word="jednom kad">
+    <english_equivalent>once</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs39o1">
+        <part type="phrasal">jednom kad</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond">
+          </pdtb3_relation>
+      <example>Izgradnja bi trebala započeti naredne godine, a završetak tog projekta od devet milijardi eura očekuje se 2015. Jednom kad gasovod postane potpuno operativan, on će godišnje prenositi 63 milijarde kubnih metara ruskog gasa za Evropu.</example>
+          <english_equivalent>Construction is scheduled to begin next year , and the 9-billion-euro project is expected to wrap up in 2015 . Once the pipeline becomes fully operational , it will pump 63 billion cubic metres of Russian gas to Europe per year.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs40" word="jednostavno">
+    <english_equivalent>simply</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs40o1">
+        <part type="single">jednostavno</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Jedva sam čekao da dođem kući svojoj ženi i djeci. Jednostavno nema mjesta poput doma, i čovjek bi trebao živjeti za ovih par dana kad je s porodicom.</example>
+          <english_equivalent>I could hardly wait to get home to my wife and children . Simply there is no place like home, and a man should live for those few days when he is with his family.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs41" word="jer ">
+    <english_equivalent>because</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs41o1">
+        <part type="phrasal">jer </part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>Igrači kažu da je unutra čak i bolje. Moramo im vjerovati, jer ne možemo ući unutra.</example>
+          <english_equivalent>Officials estimate thousands of hectares of farm land were affected by the floods . Because nearly 60 % of the land is destroyed , consumers are bracing for higher prices on the smaller amount of crops this autumn</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs42" word="još dok">
+    <english_equivalent>while still</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs42o1">
+        <part type="phrasal">još dok</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence">
+          </pdtb3_relation>
+      <example>Jos dok je bio mlad, pokazivao je izuzetne talente. Sada je jedan od najboljih umjetnika.(AI Generated)</example>
+          <english_equivalent>While still young, he showed exceptional talents. Now, he is one of the best artists. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs43" word="još jednom">
+    <english_equivalent>once again</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs43o1">
+        <part type="phrasal">još jednom</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Svi zajedno, ovi pokazatelji su korišteni da analiziraju ekonomske rezultate i sastave zaključke o efikasnosti reformi  Još jednom, tranzicija zamalja ima za tendenciju da neke pokazatelje obavi jako dobro a neke manje dobro.</example>
+          <english_equivalent>Together, the indicators are used to analyze economic outcomes and draw conclusions about the effectiveness of reforms. Again,  transition countries tend to perform well on some indicators and less well on others.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs44" word="jos uvijek">
+    <english_equivalent>still</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs44o1">
+        <part type="phrasal">jos uvijek</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Synchronous">
+          </pdtb3_relation>
+      <example>One rade na tom tržištu već godinama. Još uvijek nije jasno koliko je štete načinjeno, od same prevare do posljedica po vozila i okoliš.</example>
+          <english_equivalent>They have been operating on the market for years . Still unclear is how much damage has been done, ranging from the fraud itself to the impact on vehicles and the environment.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs45" word="kad god">
+    <english_equivalent>whenever</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs45o1">
+        <part type="phrasal">kad god</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence">
+          </pdtb3_relation>
+      <example>Uvijek postoji rizik da akcija usmjerena na uklanjanje barikada silom može ugroziti mir i bezbjednost u ovoj sredini . Mimo toga, KFOR zadržava pravo da djeluje kad god se to smatra neophodnim iz operativnih razloga.</example>
+          <english_equivalent>There is always the risk that the action aimed at removing the barricades by force might jeopardise a peaceful and safe environment. Having said that , KFOR reserves the right to act whenever it is deemed necessary for operational reasons.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs46" word="kad, kada">
+    <english_equivalent>when </english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs46o1">
+        <part type="phrasal">kad, kada</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Negative-Condition:Arg1-as-negcond">
+          </pdtb3_relation>
+      <example>Bez takvih pravila, poslovni svijet bi se pretvorio u džunglu . Kad su mito i korupcija sveprisutni, kad se političari i suci mogu lako kupiti, ekonomija i domaća politika trule.</example>
+          <english_equivalent>Without such rules business would turn into a jungle . When rent-seeking and corruption are ubiquitous , when politicians and judges can be easily bought , economy and domestic politics become rotten.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs47" word="kako">
+    <english_equivalent>how</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs47o1">
+        <part type="single">kako</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail">
+          </pdtb3_relation>
+      <example>Kako se primaju povjerljive informacije NATO-a, te kako se one čuvaju i raspodjeljuju?</example>
+          <english_equivalent>How is NATO classified information received, administrated and distributed?</english_equivalent>
+        </sem>
+    </syn>
+	<syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail">
+          </pdtb3_relation>
+      <example>Kako se primaju povjerljive informacije NATO-a, te kako se one čuvaju i raspodjeljuju?</example>
+          <english_equivalent>How is NATO classified information received, administrated and distributed?</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs48" word="kako god">
+    <english_equivalent>anyway</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs48o1">
+        <part type="phrasal">kako god</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier">
+          </pdtb3_relation>
+      <example>Nije imala dovoljno vremena za pripremu. Kako god, uspjela je da završi projekat na vrijeme.</example>
+          <english_equivalent>She didn't have enough time to prepare. Anyway, she managed to finish the project on time.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs49" word="kao">
+    <english_equivalent>as</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs49o1">
+        <part type="single">kao</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier">
+          </pdtb3_relation>
+      <example>Iako iskusni političar pripada regionalnoj stranci , kaže se da njegov utjecaj seže daleko van te regije. Suparnici ga karakteriziraju kao " gospodara rata " u regionu Slavonije.</example>
+          <english_equivalent>Although the veteran politician belongs to a regional party , his influence is said to extend well beyond it. Opponents have characterised him as a " warlord " of the Slavonia region.</english_equivalent>
+        </sem>
+    </syn>
+	<syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier">
+          </pdtb3_relation>
+      <example>Iako iskusni političar pripada regionalnoj stranci , kaže se da njegov utjecaj seže daleko van te regije. Suparnici ga karakteriziraju kao " gospodara rata " u regionu Slavonije.</example>
+          <english_equivalent>Although the veteran politician belongs to a regional party , his influence is said to extend well beyond it. Opponents have characterised him as a " warlord " of the Slavonia region.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs50" word="kao da">
+    <english_equivalent>as if;as though</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs50o1">
+        <part type="phrasal">kao da</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond">
+          </pdtb3_relation>
+      <example>"Stičemo nove prijatelje. Igrači Konga - - ranije ih nisam poznavao - - ali sad ih znam kao da sam Kongoanac.;On je novosagrađen za Svjetski kup. Izvana izgleda kao da ga nosi 18 žirafa.</example>
+          <english_equivalent>We make new friends . The Congo players - - I didn' t know them before - - but I know them now as if I' m Congolese.;It' s newly built for the World Cup. From outside it looks as though it is being carried by 18 giraffes.</english_equivalent>
+        </sem>
+	  <sem>
+        <pdtb3_relation sense="COMPARISON:Similarity">
+          </pdtb3_relation>
+      <example>"Stičemo nove prijatelje. Igrači Konga - - ranije ih nisam poznavao - - ali sad ih znam kao da sam Kongoanac.;On je novosagrađen za Svjetski kup. Izvana izgleda kao da ga nosi 18 žirafa.</example>
+          <english_equivalent>We make new friends . The Congo players - - I didn' t know them before - - but I know them now as if I' m Congolese.;It' s newly built for the World Cup. From outside it looks as though it is being carried by 18 giraffes.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs51" word="kao i">
+    <english_equivalent>as well as</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs51o1">
+        <part type="phrasal">kao i</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Jedan od događaja koji se najviše iščekuje je koncert američke sopranistice Barbare Hendricks, zakazan za četvrtak ( 19. jul ). Program obuhvata i nastupe poznatog španskog gitarskog kvarteta Romeros, kao i kiparsko-francuskog pijaniste Cypriena Katsarisa.</example>
+          <english_equivalent>One of the most anticipated events is a concert by US soprano Barbara Hendricks , scheduled for Thursday ( July 19th ). The programme also includes performances by a famous Spanish guitar quartet , The Romeros , as well as Cypriot-French pianist Cyprien Katsaris.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs52" word="kao ilustracija">
+    <english_equivalent>as an illustration</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs52o1">
+        <part type="phrasal">kao ilustracija</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Instantiation:Arg1-as-instance">
+          </pdtb3_relation>
+      <example>Kao ilustraciju, zamislite situaciju u kojoj je preduzeće suočeno s velikim izazovima u vezi sa smanjenjem troškova, a istovremeno mora povećati kvalitet svojih proizvoda kako bi ostalo konkurentno na tržištu.</example>
+          <english_equivalent>As an illustration, imagine a situation where a company is faced with significant challenges related to cost reduction, while at the same time needing to improve the quality of its products to remain competitive in the market.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs53" word="kao rezultat;zbog">
+    <english_equivalent>as a result;as a result of</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs53o1">
+        <part type="phrasal">kao rezultat</part>
+      </orth>
+      <orth canonical="0" type="cont" onr="bs53o2">
+        <part type="single">zbog</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result">
+          </pdtb3_relation>
+      <example>Kompanije iz BiH u velikoj mjeri su obustavile radove u Libiji i drugim arapskim zemljama zbog nemira na Bliskom Istoku. Analitičari kažu da će kao rezultat toga ekonomija BiH pretrpjeti težak udarac.;Trgovinska razmjena između Mađarske i Crne Gore dostigla je 2007. 87m eura, a ove godine se očekuje da će dostići 100m eura. Svjetska banka i MMF predviđaju usporavanje ekonomskog rasta u Albaniji zbog globalne finansijske krize.</example>
+          <english_equivalent>BiH companies have largely suspended work in Libya and other Arab countries due to the unrest in the Middle East. Analysts say the BiH economy stands to suffer a heavy blow as a result.;Trade between Hungary and Montenegro reached 87m euros in 2007 and this year is expected to reach 100m euros . The World Bank and the IMF predict a slowdown of economic growth in Albania as a result of the global financial crisis.</english_equivalent>
+        </sem>
+	  <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>Kompanije iz BiH u velikoj mjeri su obustavile radove u Libiji i drugim arapskim zemljama zbog nemira na Bliskom Istoku. Analitičari kažu da će kao rezultat toga ekonomija BiH pretrpjeti težak udarac.;Trgovinska razmjena između Mađarske i Crne Gore dostigla je 2007. 87m eura, a ove godine se očekuje da će dostići 100m eura. Svjetska banka i MMF predviđaju usporavanje ekonomskog rasta u Albaniji zbog globalne finansijske krize.</example>
+          <english_equivalent>BiH companies have largely suspended work in Libya and other Arab countries due to the unrest in the Middle East. Analysts say the BiH economy stands to suffer a heavy blow as a result.;Trade between Hungary and Montenegro reached 87m euros in 2007 and this year is expected to reach 100m euros . The World Bank and the IMF predict a slowdown of economic growth in Albania as a result of the global financial crisis.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs54" word="kao što">
+    <english_equivalent>as, just as</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs54o1">
+        <part type="phrasal">kao što</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail">
+          </pdtb3_relation>
+      <example>Iako ja lično ne učestvujem u tim pregovorima, vjerujem da projekat ima dobre šanse za uspjeh. Kao što znate, Gazproneft je prošle godine otkupio NIS u Srbiji i vrlo je zainteresiran za dalje jačanje svog prisustva u regionu.</example>
+          <english_equivalent>Although I am not personally involved in the negotiations, I believe the project has a good chance for success. As you know, Gazproneft last year aquired NIS in Serbia and is very much interested in further strenghtening its presence in the region.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs55" word="kasnije/nakon">
+    <english_equivalent>later</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs55o1">
+        <part type="single">kasnije/nakon</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>To je bio vrlo lijep način da se poželi dobro jutro. Kasnije smo otišli na svečano otvaranje u Fudbalski grad.</example>
+          <english_equivalent>It was a very nice way to say good day. Later, we went to the opening ceremony at the Soccer City.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs56" word="konačno/naposletku">
+    <english_equivalent>finally</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs56o1">
+        <part type="single">konačno/naposletku</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>Pozvala je političke lidere na rješavanje preostalih neslaganja i na uspostavu konstruktivnog dijaloga . Konačno, ona je apelirala na Makedoniju i Grčku da se vrate za pregovarački sto u cilju postizanja rješenja za svoj decenijama star spor oko naziva.</example>
+          <english_equivalent>She called on political leaders to resolve remaining differences and establish constructive dialogue . Finally , she urged Macedonia and Greece to go back to the negotiating table to work out a solution to their decades-old name dispute.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs57" word="medjutim">
+    <english_equivalent>however, though</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs57o1">
+        <part type="single">medjutim</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>On me uvijek dočeka ljubazno, pa čak i kad nemam novaca on mi da na kredit ono što mi treba . " Međutim, nastavlja on, nije sve idealno.</example>
+          <english_equivalent>He always welcomes me kindly and when I don' t have the money , he lends me what I need . " However , he continues , all is not ideal.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs58" word="možemo zaključiti">
+    <english_equivalent>we can conclude</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs58o1">
+        <part type="phrasal">možemo zaključiti</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Makedonija nema nijednog takvog igrača,  ali je ipak u prvom poluvremenu vodila za jedan poen. Možemo zaključiti da košarka u Evropi ide naprijed kroz timsku igru.</example>
+          <english_equivalent>Macedonia doesn' t have one such player, but still in the first half it led by one point. We can conclude that basketball in Europe is going forward through team playing.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs59" word="na isti način">
+    <english_equivalent> in the same way</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs59o1">
+        <part type="phrasal">na isti način</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Manner:Arg2-as-manner">
+          </pdtb3_relation>
+      <example>Na isti način kako je tim surađivao na projektu, tako bi trebao i dalje nastaviti, s puno međusobnog povjerenja i podrške. (AI Generated)</example>
+          <english_equivalent>In the same way that the team collaborated on the project, they should continue to do so, with a lot of mutual trust and support. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs60" word="na kraju">
+    <english_equivalent>in the end</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs60o1">
+        <part type="phrasal">na kraju</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>Crnogorci se, međutim, ne slažu , sa samo 47 % pokazane podrške. Na kraju, najveća prepreka rješenju bi mogla jednostavno biti famozna balkanska tvrdoglavost.</example>
+          <english_equivalent>Montenegrins, however, disagreed, with only 47 % indicating support . In the end, the biggest hurdle to a solution may simply be the fabled Balkan quality of stubbornness.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs61" word="na kraju, konačno, na kraju krajeva">
+    <english_equivalent>eventually</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs61o1">
+        <part type="phrasal">na kraju, konačno, na kraju krajeva</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>Nasilje je izbilo nakon protesta koji je protiv nezavisnosti Kosova organizirala vlada , a koji je privukao najmanje 150.000 ljudi iz cijele zemlje . Na kraju je nekih 1.000 demonstranata napustilo mirni skup ispred glavne zgrade parlamenta i napalo američku ambasadu.</example>
+          <english_equivalent>The violence erupted after a government-organised protest against Kosovo' s independence , which drew at least 150 , 000 people from around the country . Eventually , about 1 , 000 protesters left the peaceful rally outside the main parliament building and stormed the US Embassy.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs62" word="na početku">
+    <english_equivalent>at the beginning</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs62o1">
+        <part type="phrasal">na početku</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence">
+          </pdtb3_relation>
+      <example>On je trebao dobiti crveni karton, a Gana je trebala dobiti penal. Na početku turnira, kvalitet igre bio je nizak .</example>
+          <english_equivalent>He should have got a red card , and Ghana should have got the penalty . At the start of the tournament, the quality of play was low.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs63" word="na primjer">
+    <english_equivalent>for instance, for example</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs63o1">
+        <part type="phrasal">na primjer</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Instantiation:Arg1-as-instance">
+          </pdtb3_relation>
+      <example>Sve ove probleme će naslijediti onaj koji pobijedi na sljedećim izborima, i većina se analitičara slaže da su to trebali riješiti mnogo prije. Na primjer, jedno od predizbornih obećanja DOS-a bilo je usvajanje novog ustava.</example>
+          <english_equivalent>All these problems will be inherited by whomever wins the upcoming elections , and most analysts agree they should have been solved much earlier. For instance, one of the DOS pre-election promises was adoption of a new constitution.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs64" word="na taj način">
+    <english_equivalent>in this way</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs64o1">
+        <part type="phrasal">na taj način</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Manner:Arg1-as-manner">
+          </pdtb3_relation>
+      <example>" Razlog za to je što ljudima na njegovoj poziciji uvijek treba omogućiti put za izlazak , " naglašava Daynov . " Na taj način su manje destruktivni.</example>
+          <english_equivalent>The reason for that is people in his position should be allowed a way out , " Daynov noted. " In this way they are less destructive.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs65" word="naime">
+    <english_equivalent>namely</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs65o1">
+        <part type="single">naime</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail">
+          </pdtb3_relation>
+      <example>Međutim, goniti takve pojedince, kaže Vasić, nije dovoljno. Naime, vlasti moraju za metu uzeti bande koje ih angažiraju.</example>
+          <english_equivalent>But going after such individuals, Vasic said, isn' t enough. Rather, authorities must target the gangs which recruit them.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs66" word="nakon">
+    <english_equivalent>after</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs66o1">
+        <part type="single">nakon</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>Nakon dolaska na vlast reformističke vlade pod vodstvom preminulog premijera Zorana Đinđića nakon rušenja Miloševićevog režima u oktobru 2000, Mladić je prema izvještajima napustio Beograd, kako bi izbjegao moguće hapšenje i izručenje haškom tribunalu.</example>
+          <english_equivalent>After a reformist government, led by late Prime Minister Zoran Djindjic , came to power following the overthrow of the Milosevic regime in October 2000, Mladic reportedly left Belgrade to avoid possible arrest and handover to The Hague-based tribunal .</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs67" word="nakon svega">
+    <english_equivalent>after all</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs67o1">
+        <part type="phrasal">nakon svega</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>U finalu, Đoković je pobijedio svog najvećeg rivala , Španca Rafaela Nadala , u meču koji su mnogi stručnjaci opisali kao vrhunsku predstavu . Međutim, čak i nakon svega toga, Đoković je za srbijanske medije izjavio da je " gladan " novih pobjeda.</example>
+          <english_equivalent>In the final, Djokovic beat his biggest rival , Spain' s Rafael Nadal , in a match described by many experts as a top show . However, even after all that, Djokovic told Serbian media he was " hungry " for new victories.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs68" word="nakon toga">
+    <english_equivalent>after that, afterwards</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs68o1">
+        <part type="phrasal">nakon toga</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>U strahu od novog priliva stranih radnika nakon pristupanja ovih dvaju balkanskih zemalja, Britanija je u oktobru najavila paket mjera kojim se ograničava pristup posloprimaca iz Bugarske i Rumunije njenom tržištu rada. Uskoro nakon toga, Irska je pratila taj primjer sa sličnim restrikcijama.</example>
+          <english_equivalent>Fearing a new major influx of migrant workers following the two Balkan nations' entry, Britain announced a set of measures in October , curbing the access of Bulgarian and Romanian jobseekers to its labour market. Shortly after that Ireland followed suit with similar restrictions.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs69" word="nakon toga, potom">
+    <english_equivalent>thereafter</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs69o1">
+        <part type="phrasal">nakon toga, potom</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>Katar je pristao sazvati prvi sastanak [ Kontakt ] grupe što je prije moguće . Nakon toga , predsjedavanje će se rotirati po zemljama regiona i van njega , " izjavio je Hague.</example>
+          <english_equivalent>Qatar has agreed to convene the first meeting of the [ Contact ] Group as soon as possible . Thereafter , the chairmanship will rotate between the countries of the region and beyond it , " Hague said.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs70" word="nasuprot tome">
+    <english_equivalent>in contrast</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs70o1">
+        <part type="phrasal">nasuprot tome</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>U smislu same igre, Maradonine " proročke " izjave o mogućoj gruboj igri protiv zvijezda njegove reprezentacije pokazale su se neutemeljene , jer skoro nijedan igrač Argentine nije pretrpio čak ni najmanju povredu. Nasuprot tome, tri najbolja grčka igrača zamijenjena su zbog povreda pretrpljenih tokom utakmice.</example>
+          <english_equivalent>In terms of the actual play, Maradona' s " pre-emptive " statements about possible rough play against his team' s stars proved groundless , as nary an Argentine player suffered even the slightest injury. Conversely , three top Greek players were substituted due to injuries suffered during the game.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs71" word="nedavno">
+    <english_equivalent>recently</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs71o1">
+        <part type="single">nedavno</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Synchronous">
+          </pdtb3_relation>
+      <example>Konkretni primjeri dočaravaju koliko je situacija još uvijek nezadovoljavajuća. Nedavno su novinari u Makedoniji organizirali jednostavan ali dramatičan protest.</example>
+          <english_equivalent>Particular examples dramatize just how unsatisfactory the situation still remains. Recently, journalists in Macedonia staged a simple but dramatic protest.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs72" word="nedvojbeno">
+    <english_equivalent>undoubtedly</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs72o1">
+        <part type="single">nedvojbeno</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result">
+          </pdtb3_relation>
+      <example>Nedvojbeno je da će ulaganje u obnovljive izvore energije donijeti dugoročne ekološke koristi; manje je jasno kako će to utjecati na kratkoročne ekonomske trendove.</example>
+          <english_equivalent>Undoubtedly, investing in renewable energy sources will bring long-term environmental benefits; less clear is how it will affect short-term economic trends.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs73" word="nego">
+    <english_equivalent>but, than</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs73o1">
+        <part type="single">nego</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>Nije bio samo hrabar, nego i mudar; u ključnom trenutku nije slijedio impuls, nego pažljivo procijenio sve mogućnosti.</example>
+          <english_equivalent>He wasn't just brave, but also wise; at the crucial moment, he didn't follow his impulse, but carefully assessed all the possibilities.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs74" word="nekad">
+    <english_equivalent>sometimes, once</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs74o1">
+        <part type="single">nekad</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence">
+          </pdtb3_relation>
+      <example>Od 1991. godine crnomorski region prolazi kroz dramatičnu transformaciju . Nekad ukorijenjen u komunističkom svijetu , sad je on postao ključna tačka presijecanja s priličnim geopolitičkim značajem.</example>
+          <english_equivalent>Since 1991, the Black Sea has undergone a dramatic transformation. Once embedded within the communist world, it has now become a key point of intersection with considerable geopolitical significance.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs75" word="ni...ni, ni ..niti, niti ...niti">
+    <english_equivalent>neither..nor</english_equivalent>
+    <orths>
+      <orth canonical="1" type="discont" onr="bs75o1">
+        <part type="phrasal">ni...ni, ni ..niti, niti ...niti</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Disjunction">
+          </pdtb3_relation>
+      <example>Na referendumu održanom 1992 . godien , Albanci iz tih općina su izjavili da se žele pridružiti Kosovu i prozvali su svoju oblast istočnim Kosovom . Taj referendum nisu priznali niti vlada Srbije niti međunarodna zajednica.</example>
+          <english_equivalent>In a referendum held in 1992 , the Albanians from those municipalities said they wished to be joined with Kosovo and called their territory eastern Kosovo. Neither the Serbian government nor the international community recognised the referendum as valid.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs76" word="niti">
+    <english_equivalent>nor</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs76o1">
+        <part type="single">niti</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Negative-condition:Arg2-as-negcond">
+          </pdtb3_relation>
+      <example>Opasnosti skijanja međutim nisu obeshrabrile Hrvate u bavljenju tim sportom. Niti je to učinila činjenica da je skijanje skup sport.</example>
+          <english_equivalent>The hazards of skiing, however, have not discouraged Croatians from taking up the sport. Nor has the fact that skiing is an expensive sport.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs77" word="o tome svjedoći">
+    <english_equivalent>this is evidenced by</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs77o1">
+        <part type="phrasal">o tome svjedoći</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Instantiation:Arg2-as-instance">
+          </pdtb3_relation>
+      <example>Beriša poduzima neke veoma odvažne korake i ima odlične ljude oko sebe. O tome svjedoči nekoliko minuta sa Lulzim Bašom , veoma mladolikim i energičnim Ministrom za Javne radove, Transport i Telekomunikaciju.</example>
+          <english_equivalent>Berisha is taking some very bold steps and he has some excellent people around him. A few minutes with Lulzim Basha , the very youthful and energetic Minister for Public Works, Transport and Telecommunications, are telling.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs78" word="od">
+    <english_equivalent>since</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs78o1">
+        <part type="single">od</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>U zaljevu Gvantanamo ima još uvijek oko 250 zatvorenika, kaže se u saopćenju ministarstva odbrane . Od 2002, iz objekta je u druge zemlje , između ostalih u Albaniju i Tursku, otišlo oko 520 zatvorenika.</example>
+          <english_equivalent>There are about 250 detainees still being kept at the Guantanamo Bay , according to the Defence Department statement . Since 2002 , approximately 520 prisoners have left the facility for other countries , Albania and Turkey among them.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs79" word="odista, zapravo">
+    <english_equivalent>indeed</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs79o1">
+        <part type="phrasal">odista, zapravo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Manner:Arg1-as-manner">
+          </pdtb3_relation>
+      <example>Također , ljudi počinju vjerovati novim blogovima više nego komercijalnim TV stanicama , jer se istaknute informacije mogu činjenično provjeriti u okviru zajednice kao cjeline . Zapravo , nije baš prošlo mnogo godina otkako je grčka vlada naredila da se zatvore dva bloga , nakon što su na njima otkrivani politički skandali .</example>
+          <english_equivalent>People are also beginning to trust news blogs more than commercial TV stations , as posted information can be fact-checked by the community at large . Indeed , it wasn' t many years ago that the Greek government ordered two blogs shut down after they uncovered political scandals .</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs80" word="odnedavno">
+    <english_equivalent>recently</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs80o1">
+        <part type="single">odnedavno</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Synchronous">
+          </pdtb3_relation>
+      <example>Odnosi između te dvije turkijske zemlje oduvijek su snažni, a često se opisuju kao " jedna nacija s dvije države ". Odnedavno je međutim ta saradnja ugrožena zbog tenzija po osnovu mogućeg približavanja između Turske i Armenije.</example>
+          <english_equivalent>Relations between the two Turkic countries have always been strong , often being described as " one nation with two states ". Recently, however, the co-operation has been threatened due to tensions arising from the possible rapprochement between Turkey and Armenia.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs81" word="odnosno">
+    <english_equivalent>or rather</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs81o1">
+        <part type="single">odnosno</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Naš tim će se fokusirati na razvoj novih proizvoda, odnosno, usmjerit ćemo se na inovacije kako bismo ostali konkurentni na tržištu.</example>
+          <english_equivalent>Our team will focus on developing new products, or rather, we will focus on innovations to remain competitive in the market.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs82" word="odvojeno">
+    <english_equivalent>separately</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs82o1">
+        <part type="single">odvojeno</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Manner:Arg2-as-manner">
+          </pdtb3_relation>
+      <example>Aktuelni ciljani datum za pridruživanje Rumunije eurozoni je 2015. godina. Odvojeno, on je članovima parlamenta saopćio kako su potrebni koraci u cilju jačanja koordinacije u politikama među 16 zemalja EU koje koriste euro.</example>
+          <english_equivalent>The current target date for Romania to join the eurozone is 2015 . Separately , he told parliament members that steps are needed to strengthen policy co-ordination among the 16 EU nations using the euro . "</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs83" word="okvirno rečeno">
+    <english_equivalent>broadly speaking</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs83o1">
+        <part type="phrasal">okvirno rečeno</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail">
+          </pdtb3_relation>
+      <example>Okvirno rečeno, obrazovni sustav se suočava s izazovima prilagođavanja digitalnoj transformaciji, što zahtijeva inovativne pristupe učenju i poučavanju.</example>
+          <english_equivalent>Broadly speaking, the educational system is facing challenges in adapting to digital transformation, which requires innovative approaches to learning and teaching.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs84" word="onda, zatim">
+    <english_equivalent>then</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs84o1">
+        <part type="phrasal">onda, zatim</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Manner:Arg2-as-manner">
+          </pdtb3_relation>
+      <example>Mijenjanju se i članovi koji obuhvaćaju imunitet, kaže on. Zatim , postoji i pitanje ko bi bio zamjenik aktuelnog predsjednika.</example>
+          <english_equivalent>Articles that cover immunity are being amended as well , he says . Then there is the issue of who would replace a sitting president .</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs85" word="ondje">
+    <english_equivalent>there</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs85o1">
+        <part type="single">ondje</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail">
+          </pdtb3_relation>
+      <example>Ondje gdje se nebo spaja s horizontom, pronalazim mir i inspiraciju za svoje slikarske kreacije.</example>
+          <english_equivalent>There, where the sky meets the horizon, I find peace and inspiration for my artistic creations.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs86" word="općenito govoreći">
+    <english_equivalent>generally speaking</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs86o1">
+        <part type="phrasal">općenito govoreći</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail">
+          </pdtb3_relation>
+      <example>Općenito govoreći, ekonomski razvoj zemlje često je povezan s političkom stabilnošću i efikasnošću institucija, ali postoje i drugi važni faktori koji mogu utjecati na njen napredak.</example>
+          <english_equivalent>Generally speaking, the economic development of a country is often linked to political stability and the efficiency of institutions, but there are also other important factors that can influence its progress.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs87" word="osim">
+    <english_equivalent>except, aside from</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs87o1">
+        <part type="single">osim</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Exception:Arg1-as-excpt">
+          </pdtb3_relation>
+      <example>Ona je naišla na opšte odobravanje u javnosti i pozdravljena je od strane svih političkih stranaka. Istražni suci su ispitali osumnjičene i naložili pritvor za sve njih , osim za dvojicu koji su dali priznanje.</example>
+          <english_equivalent>It was met with widespread public approval and welcomed by all political parties . Investigative judges questioned the suspects and ordered them all detained , except for two who confessed.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs88" word="osim ako, ukoliko">
+    <english_equivalent>unless</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs88o1">
+        <part type="phrasal">osim ako, ukoliko</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond">
+          </pdtb3_relation>
+      <example>Organizacija za zaštitu manjina Minority Watch, sa sjedništem u Londonu, predlaže da Rumunija i Bugarska iskoriste dio njihovih regionalnih fondova za razvoj za poboljšanje život Roma. Ukoliko se ne učini kontinuiran napor, poboljšanja će biti kratkoročna.</example>
+          <english_equivalent>Minority Watch, based in London, suggests Romania and Bulgaria should use part of their regional development funds to improve life for the Roma. Unless a sustained effort is made, improvements will only be short-term.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs89" word="osim toga">
+    <english_equivalent>except that;besides, moreover</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs89o1">
+        <part type="phrasal">osim toga</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Exception:Arg2-as-excpt">
+          </pdtb3_relation>
+      <example>On ima običaj kasniti na časove svaki dan. Osim toga, sve ostalo izgleda u redu.;Uprkos svom vrlo teškom djetinjstvu u sirotištima, Stoyanov ne samo da je završio školu, nego treba za nekoliko mjeseci završiti i fakultet. Osim toga, on je slikar pejzažista s interesovanjem za dizajn kuhinjskih interijera.</example>
+          <english_equivalent>He tends to come late to classes every day. Except that, everything else seems fine.;Despite his very difficult childhood in orphanages, Stoyanov not only finished school, but is due to complete his academic studies within months. Aside from that, he is a landscape painter with an interest in kitchen interior design.</english_equivalent>
+        </sem>
+	  <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail">
+          </pdtb3_relation>
+      <example>On ima običaj kasniti na časove svaki dan. Osim toga, sve ostalo izgleda u redu.;Uprkos svom vrlo teškom djetinjstvu u sirotištima, Stoyanov ne samo da je završio školu, nego treba za nekoliko mjeseci završiti i fakultet. Osim toga, on je slikar pejzažista s interesovanjem za dizajn kuhinjskih interijera.</example>
+          <english_equivalent>He tends to come late to classes every day. Except that, everything else seems fine.;Despite his very difficult childhood in orphanages, Stoyanov not only finished school, but is due to complete his academic studies within months. Aside from that, he is a landscape painter with an interest in kitchen interior design.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs90" word="otuda">
+    <english_equivalent>hence</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs90o1">
+        <part type="single">otuda</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result">
+          </pdtb3_relation>
+      <example>CBT će uvidjeti da se ekonomija usporava; otuda neće biti potrebe za podizanjem stopa.</example>
+          <english_equivalent>The CBT will realise the economy is slowing down ; hence there will be no need to raise rates.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs91" word="ovdje">
+    <english_equivalent>here</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs91o1">
+        <part type="single">ovdje</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail">
+          </pdtb3_relation>
+      <example>U nekim dijelovima to su otvorena polja, razdvojena samo bodljikavom žicom. Ovdje gusto grmlje i drveće otežavaju precizno određivanje granice.</example>
+          <english_equivalent>In some areas it is open fields, separated only by barbed wire. Here dense shrubbery and trees made the exact borderline difficult to ascertain.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs92" word="pak">
+    <english_equivalent>however, yet</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs92o1">
+        <part type="single">pak</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>Mnogi se odlučuju da ostanu kod kuće, ali neki više vole vratiti se na porodične skupove u svoja rodna sela ili mjesta. Drugi pak koriste tu priliku za odmor na planini, daleko od gužve i buke grada, ili na plažama u toplijim krajevima.</example>
+          <english_equivalent>Many opt to stay home, though some prefer to back to their native villages or towns for a family reunion . Still others seize on the opportunity for a vacation in the mountains, away from the hassle and bustle of the city, or on the beaches in warmer lands.</english_equivalent>
+        </sem>
+    </syn>
+	<syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>Mnogi se odlučuju da ostanu kod kuće, ali neki više vole vratiti se na porodične skupove u svoja rodna sela ili mjesta. Drugi pak koriste tu priliku za odmor na planini, daleko od gužve i buke grada, ili na plažama u toplijim krajevima.</example>
+          <english_equivalent>Many opt to stay home, though some prefer to back to their native villages or towns for a family reunion . Still others seize on the opportunity for a vacation in the mountains, away from the hassle and bustle of the city, or on the beaches in warmer lands.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs93" word="plus">
+    <english_equivalent>plus</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs93o1">
+        <part type="single">plus</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Vargas je odigrala neverovatnu partiju. Plus, oborila je svetski rekord za najbržu smeč loptu -121km/h</example>
+          <english_equivalent>Vargas played an incredible game. Plus, she broke the world record for the fastest spike - 121 km/h.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs94" word="po">
+    <english_equivalent>upon</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs94o1">
+        <part type="single">po</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond">
+          </pdtb3_relation>
+      <example>Njihov slučaj postao je predmetom međunarodne politike dok nisu konačno u ljeto 2007. pušteni i dozvoljeno im da se vrate i odsluže doživotnu kaznu zatvora u Bugarskoj . Po dolasku, njih je pomilovao predsjednik Georgi Parvanov.</example>
+          <english_equivalent>Their case became an international political issue until they were finally released in the summer of 2007 and allowed to return and serve life in prison sentences in Bulgaria . Upon arriving , they were pardoned by President Georgi Parvanov.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs95" word="po misljenju, po uvjerenju">
+    <english_equivalent>in the opinion of, according to</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs95o1">
+        <part type="phrasal">po misljenju, po uvjerenju</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Instantiation:Arg1-as-instance">
+          </pdtb3_relation>
+      <example>Po uvjerenju većine građana, pristup zdravstvenoj zaštiti trebao bi biti univerzalan i dostupan svima bez obzira na socijalni status.</example>
+          <english_equivalent>In the opinion of the majority of citizens, access to healthcare should be universal and available to everyone regardless of their social status.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs96" word="po pravilu">
+    <english_equivalent>as a rule</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs96o1">
+        <part type="phrasal">po pravilu</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>Po pravilu, djeca koja redovito vježbaju i zdravo se hrane imaju bolje fizičko i mentalno zdravlje.</example>
+          <english_equivalent>As a rule, children who exercise regularly and eat healthily have better physical and mental health.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs97" word="ponovno">
+    <english_equivalent>again</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs97o1">
+        <part type="single">ponovno</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>Brojni svjedoci odbili su svjedočiti iz straha za svoju ličnu bezbjednost. Ponovno suđenje počelo je 18 . Augusta.</example>
+          <english_equivalent>Numerous witnesses refused to testify out of fear for their personal safety. The retrial began on August 18th</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs98" word="poput">
+    <english_equivalent>like, as, similar to</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs98o1">
+        <part type="single">poput</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Equivalence">
+          </pdtb3_relation>
+      <example>U međuvremenu , broj turista iz Makedonije, Crne Gore i Srbije značajno je opao. Poput Hrvatske, i Bugarska ide na ostvarivanje velikih prihoda od elitnog turizma.</example>
+          <english_equivalent>Meanwhile, the number of tourists from Macedonia , Montenegro and Serbia has dropped significantly. Like Croatia, Bulgaria has been going after the big revenues provided by elite tourism.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs99" word="pored">
+    <english_equivalent>besides, in addition to </english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs99o1">
+        <part type="single">pored</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Kineske i slovenske kompanije također su zainteresirane za otkup granulata. Pored dobiti, taj poduzetnički napor znači i korist po okoliš.</example>
+          <english_equivalent>Chinese and Slovenian companies are also interested in purchasing granulate. Besides profits, the entrepreneurial effort means significant environmental gains. Plastic products are major pollutants.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs100" word="pored toga">
+    <english_equivalent>in addition</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs100o1">
+        <part type="phrasal">pored toga</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Prethodnog mjeseca, glasači u Irskoj rekli su " ne " Lisabonskom sporazumu. Pored toga, Pariz se uskoro našao u poziciji da mora predvoditi reakciju 27-članog bloka na niz nepredviđenih vanjskopolitičkih kriza.</example>
+          <english_equivalent>The previous month , Irish voters said " no " to the Lisbon Treaty . In addition , Paris soon found itself having to lead the 27-nation bloc' s response to a series of unforeseen foreign policy crises .</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs101" word="posebno">
+    <english_equivalent>in particular;particularly</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs101o1">
+        <part type="single">posebno</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>Prema OHR-u, zakon je manjkav i nepotpun. On je posebno kritizirao planirano povećanje od 22 % plaća u javnom sektoru i povećanu potrošnju na druge neciljane programe.;Naša saradnja sastoji se od zajedničkog rada po pitanju pravosuđa , carine i policije. Posebno u oblasti pravosuđa, uloga EULEX-a je upotpunjujuća.</example>
+          <english_equivalent>According to the OHR, the law is flawed and incomplete . In particular , it sharply criticised a planned 22 % increase in public sector salaries and increased spending on other untargeted programmes.;Our co-operation consists of joint work regarding the judiciary , customs and police. Particularly in the judiciary, EULEX' s role is complementary.</english_equivalent>
+        </sem>
+	  <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail">
+          </pdtb3_relation>
+      <example>Prema OHR-u, zakon je manjkav i nepotpun. On je posebno kritizirao planirano povećanje od 22 % plaća u javnom sektoru i povećanu potrošnju na druge neciljane programe.;Naša saradnja sastoji se od zajedničkog rada po pitanju pravosuđa , carine i policije. Posebno u oblasti pravosuđa, uloga EULEX-a je upotpunjujuća.</example>
+          <english_equivalent>According to the OHR, the law is flawed and incomplete . In particular , it sharply criticised a planned 22 % increase in public sector salaries and increased spending on other untargeted programmes.;Our co-operation consists of joint work regarding the judiciary , customs and police. Particularly in the judiciary, EULEX' s role is complementary.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs102" word="posebno, konkretno">
+    <english_equivalent>specifically</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs102o1">
+        <part type="phrasal">posebno, konkretno</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail">
+          </pdtb3_relation>
+      <example>Na njima će biti da pokažu da mogu ispuniti zahtjeve. Konkretno, svijet želi ne samo opredijeljenost ka multietničnosti, nego i sazrijevanje političke klime.</example>
+          <english_equivalent>It will be up to them to show they can deliver . Specifically , the world wants to see not only a commitment to multiethnicity but a maturing political climate.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs103" word="pošto">
+    <english_equivalent>since, because</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs103o1">
+        <part type="single">pošto</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>Zvaničnici procjenjuju da je poplavama ugroženo više hiljada hektara poljoprivrednog zemljišta. Pošto je skoro 60 % tog zemljišta uništeno, potrošači se spremaju za više cijene zbog manje količine usjeva ove jeseni.</example>
+          <english_equivalent>Officials estimate thousands of hectares of farm land were affected by the floods. Because nearly 60 % of the land is destroyed, consumers are bracing for higher prices on the smaller amount of crops this autumn.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs104" word="prema tome">
+    <english_equivalent>therefore</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs104o1">
+        <part type="phrasal">prema tome</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result">
+          </pdtb3_relation>
+      <example>Kao što naglašava Miroslav Zdravković u Beogradskom ekonomskom institutu, skandinavske zemlje imaju BDP-a po glavi koji je deset puta veći od onog koji imaju na Balkanu. Prema tome, također imaju novac koji je raspoloživ za ulaganje.</example>
+          <english_equivalent>As Miroslav Zdravkovic of the Belgrade Economics Institute points out, Scandinavian countries have per capita GDPs that are tenfold of what they are in the Balkans. Thus, they also have money available for reinvestment.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs105" word="premda">
+    <english_equivalent>although, thus</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs105o1">
+        <part type="single">premda</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier">
+          </pdtb3_relation>
+      <example>U to vrijeme, bio je najmlađi premijer u Evropi. Premda je nekada bio saveznik Slobodana Miloševića, Đukanović se razišao s njim 1996.</example>
+          <english_equivalent>At the time, he was the youngest prime minister in Europe . Although once allied with Slobodan Milosevic, Djukanovic broke with him in 1996.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs106" word="prethodno, ranije">
+    <english_equivalent>previously</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs106o1">
+        <part type="phrasal">prethodno, ranije</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence">
+          </pdtb3_relation>
+      <example>Turska i srbijanska delegacija potpisale su sporazume o ekonomskoj,  infrastrukturnoj , tehničkoj, društvenoj i finansijskoj saradnji. Prethodno su dvije zemlje potpisale sporazum o slobodnoj trgovini koji će stupiti na snagu do kraja ove godine.</example>
+          <english_equivalent>The Turkish and Serbian delegations signed economic , infrastructure , technical , social and financial co-operation agreements.  Previously , the two countries signed a free trade agreement that will come into effect by the end of this year.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs107" word="pri tome se">
+    <english_equivalent>in doing so</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs107o1">
+        <part type="phrasal">pri tome se</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail">
+          </pdtb3_relation>
+      <example>Pri tome se mora uzeti u obzir širi kontekst problema.</example>
+          <english_equivalent>In doing so, the broader context of the problem must be taken into account.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs108" word="prije">
+    <english_equivalent>before</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs108o1">
+        <part type="single">prije</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence">
+          </pdtb3_relation>
+      <example>Razgovori između Zagreba i Ljubljane izgleda da su dospjeli u ćorsokak,  a međusobne napetosti izgleda da rastu. Rehn je u srijedu, tek nekoliko dana prije objavljivanja plana EK, posjetio Ljubljanu i Zagreb.</example>
+          <english_equivalent>Talks between Zagreb and Ljubljana have hit an apparent dead end , and mutual tensions seem to be rising. Rehn visited Ljubljana and Zagreb on Wednesday, just days before the EC plan became public.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs109" word="prije svega">
+    <english_equivalent>above all, first of all, before all</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs109o1">
+        <part type="phrasal">prije svega</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence">
+          </pdtb3_relation>
+      <example>Pripreme za Miss svijeta u Johannesburgu trajat će oko mjesec dana i ja ću tamo biti u sredinom novembra. Prije svega toga me očekuje i modno snimanje u Njujorku.</example>
+          <english_equivalent>Preparations for Miss World in Johannesburg will last about a month and I will be there in mid-November.  Before all that, I am also to do a fashion book in New York.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs110" word="prije toga">
+    <english_equivalent>before that, earlier</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs110o1">
+        <part type="phrasal">prije toga</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence">
+          </pdtb3_relation>
+      <example>Nakon toga , izjavio je on , neće više biti odlaganja . Prije toga je američki diplomata bio u Prištini na razgovorima s tamošnjim vodstvom</example>
+          <english_equivalent>After that, he said , there would be no further delays. Earlier, the US diplomat was in Pristina for talks with the leadership there.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs111" word="radije; prije">
+    <english_equivalent>rather</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs111o1">
+        <part type="single">radije</part>
+      </orth>
+      <orth canonical="0" type="cont" onr="bs111o2">
+        <part type="phrasal"> prije</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier">
+          </pdtb3_relation>
+      <example>Ona dodaje da obrazovanje predstavlja sredstvo za promjenu te situacije, ali da nije neophodno i odlučujući faktor. Prije je , kaže ona, " društveno-ekonomsko porijeklo žena i koliko one same sebe cijene to što je presudno.</example>
+          <english_equivalent>She added that education is an instrument for changing the situation , but not necessarily the decisive factor . Rather , she said , " it is more the socio-economic background of women and their self-esteem that makes a difference.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs112" word="ranije">
+    <english_equivalent>earlier</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs112o1">
+        <part type="single">ranije</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence">
+          </pdtb3_relation>
+      <example>Marko je stigao ranije nego što smo očekivali. Ranije je uvijek kasnio na sastanke.</example>
+          <english_equivalent>Marko arrived earlier than we expected. Previously, he was always late for meetings.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs113" word="razlog je u tome">
+    <english_equivalent>the reason is that</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs113o1">
+        <part type="phrasal">razlog je u tome</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>Razlog je u tome što su tehnološki napredak i digitalizacija promijenili način na koji ljudi komuniciraju i rade.</example>
+          <english_equivalent>The reason is that technological advancement and digitalization have changed the way people communicate and work.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs114" word="recimo">
+    <english_equivalent>let's say, for example</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs114o1">
+        <part type="single">recimo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Instantiation:Arg2-as-instance">
+          </pdtb3_relation>
+      <example>Recimo, ako želimo poboljšati infrastrukturu u gradovima, trebali bismo prvo identificirati ključne prioritete i osigurati adekvatna financijska sredstva za te projekte.</example>
+          <english_equivalent>Let's say, for example, if we want to improve infrastructure in cities, we should first identify key priorities and ensure adequate funding for those projects.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs115" word="s druge strane">
+    <english_equivalent>conversly</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs115o1">
+        <part type="phrasal">s druge strane</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>Nova politika je poboljšala efikasnost u proizvodnom odjelu. S druge strane, dovela je do dužeg radnog vremena i povećanog stresa za zaposlene.</example>
+          <english_equivalent>The new policy improved efficiency in the manufacturing department. Conversely, it led to longer work hours and increased stress for the employees.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs116" word="s jedne strane ">
+    <english_equivalent>on the one hand</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs116o1">
+        <part type="phrasal">s jedne strane </part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>"U protekle dvije godine, kako politička sredina postaje oštrija , politička težina društvenih medija se povećava , " pojašnjava on. " Blogovi s jedne strane, te društveni mediji s druge, počeli su se pretvarati u političku agoru, mjesto foruma.</example>
+          <english_equivalent>" For the past two years , as the political environment has become more severe , the political weight of social media has increased, " he explains . " Blogs on the one hand and social media on the other have begun transforming into a political agora, a forum space.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs117" word="s jedne strane ... druge strane">
+    <english_equivalent>on the one hand..on the other hand</english_equivalent>
+    <orths>
+      <orth canonical="1" type="discont" onr="bs117o1">
+        <part type="phrasal">s jedne strane ... druge strane</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>S jedne strane, rad na projektu je bio izazovan i zahtjevan, s druge strane, donio je značajne rezultate i iskustvo.</example>
+          <english_equivalent>On the one hand, working on the project was challenging and demanding, on the other hand, it brought significant results and experience.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs118" word="s druge strane, nasuprot tome">
+    <english_equivalent>in contrast</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs118o1">
+        <part type="phrasal">s druge strane, nasuprot tome</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>Da li želimo ND strahovanja ili nade, " izjavila je ona iz svog rodnog grada Hania na ostrvu Kritu. Samaras, s druge strane, oblikuje konzervativno-nacionalistički stav i kaže da je glavna odgovornost stranke ona prema njenoj političkoj bazi.</example>
+          <english_equivalent>Whether we want a ND of fear or of hope , " she said from her hometown of Hania , on the island of Crete . Samaras , in contrast , is hewing a conservative-nationalist stance, saying the party' s first responsibility is to its political base.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs119" word="s obzirom">
+    <english_equivalent>given</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs119o1">
+        <part type="phrasal">s obzirom</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond">
+          </pdtb3_relation>
+      <example>Ministri inostranih poslova EU trebali bi razgovarati o preporukama EK na sastanku u ponedjeljak. Međutim, s obzirom na oštre podjele među državama-članicama, malo je vjerovatno da će oni donijeti odluku.</example>
+          <english_equivalent>EU foreign ministers are to discuss the EC recommendations at a meeting Monday. Given sharp divisions among member states , however, they are unlikely to reach a decision.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs120" word="s obzirom da">
+    <english_equivalent>given that</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs120o1">
+        <part type="phrasal">s obzirom da</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>Prema jednom izvještaju UNDP-a objavljenom prošlog mjeseca, preko 50 % kosovske omladine želi emigrirati. S obzirom na to da mladi sačinjavaju više od polovine sveukupnog stanovništva, to je otrežnjujuća cifra.</example>
+          <english_equivalent>According to a UNDP report published last month , more than 50 % of Kosovo' s youth want to emigrate. Given that youth make up more than half the overall population , that' s a sobering figure.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs121" word="s obzirom na to">
+    <english_equivalent>considering that</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs121o1">
+        <part type="phrasal">s obzirom na to</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>Prema jednom izvještaju UNDP-a objavljenom prošlog mjeseca, preko 50 % kosovske omladine želi emigrirati . S obzirom na to da mladi sačinjavaju više od polovine sveukupnog stanovništva, to je otrežnjujuća cifra.</example>
+          <english_equivalent>According to a UNDP report published last month , more than 50 % of Kosovo' s youth want to emigrate. Given that youth make up more than half the overall population,  that' s a sobering figure.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs122" word="s udaljenosti">
+    <english_equivalent>from a distance</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs122o1">
+        <part type="phrasal">s udaljenosti</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>S udaljenosti, planine se čine nedodirljivima, no kada im se približite, otkrivate njihovu pravu veličinu i ljepotu.</example>
+          <english_equivalent>From a distance, the mountains seem untouchable, but when you get closer to them, you discover their true size and beauty</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs123" word="s, sa">
+    <english_equivalent>with</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs123o1">
+        <part type="phrasal">s, sa</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Manner:Arg2-as-manner">
+          </pdtb3_relation>
+      <example>Korisnici Facebooka su zatim glasali za svoje najbolje prijavljene fotografije. Sa 500 prebrojanih glasova, mi predstavljamo one izabrane na prva tri mjesta.</example>
+          <english_equivalent>Facebook users then voted on their favourite entries . With 500 votes tallied , we present the top three choices.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs124" word="sad kad">
+    <english_equivalent>now that</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs124o1">
+        <part type="phrasal">sad kad</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>Broj raseljenih Sirijaca i približavanje sirijske vojske prema turskoj granici također čine situaciju neizvjesnom." Sad kad su izbori gotovi, vlada mora gledati naprijed.</example>
+          <english_equivalent>The number of displaced Syrians and the approach of the Syrian army to the Turkish border make the situation ambiguous . " Now that elections are over , the government must look ahead."</english_equivalent>
+        </sem>
+    </syn>
+	<syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>Broj raseljenih Sirijaca i približavanje sirijske vojske prema turskoj granici također čine situaciju neizvjesnom." Sad kad su izbori gotovi, vlada mora gledati naprijed.</example>
+          <english_equivalent>The number of displaced Syrians and the approach of the Syrian army to the Turkish border make the situation ambiguous . " Now that elections are over , the government must look ahead."</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs125" word="sasvim suprotno">
+    <english_equivalent>on the contrary</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs125o1">
+        <part type="phrasal">sasvim suprotno</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>To ne znači da one manje rade. Sasvim suprotno, dnevne aktivnosti žena su opterećujuće, neplaćene i društveno nepriznate.</example>
+          <english_equivalent>That does not mean they work less. On the contrary, daily activities of women are burdensome, unpaid and socially unrecognised.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs126" word="slično tome">
+    <english_equivalent>similarly, likewise</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs126o1">
+        <part type="phrasal">slično tome</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Similarity">
+          </pdtb3_relation>
+      <example>Španski premijer Jose Luis Rodriguez Zapatero predsjedavat će nekim sastancima na nižem nivou. Slično tome, Ashtonova će predsjedavati sastancima ministara vanjskih poslova EU.</example>
+          <english_equivalent>Spanish Prime Minister Jose Luis Rodriguez Zapatero will chair some lower-level meetings . Likewise, Ashton will preside over the EU foreign ministers' meetings.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs127" word="slično; isto tako">
+    <english_equivalent>likewise</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs127o1">
+        <part type="single">slično</part>
+      </orth>
+      <orth canonical="0" type="cont" onr="bs127o2">
+        <part type="phrasal"> isto tako</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Similarity">
+          </pdtb3_relation>
+      <example>To je jedna od najprepoznatljivijih građevina u centru Sarajeva. Isto tako, misa polnoćka koja se tamo služi svake godine predstavlja veliki događaj za cijeli grad, bez obzira na vjeru.</example>
+          <english_equivalent>It is one of the most recognisable structures in downtown Sarajevo . Likewise , the Mass held there each year is a major event for the entire city, regardless of faith.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs128" word="sljedeće; naredno">
+    <english_equivalent>next</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs128o1">
+        <part type="single">sljedeće</part>
+      </orth>
+      <orth canonical="0" type="cont" onr="bs128o2">
+        <part type="phrasal"> naredno</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>Najveća, Piramida sunca, nalazi se ispod brda Visočica. Naredna po veličini je Piramida mjeseca, ispod brda Plješevica.</example>
+          <english_equivalent>The largest, the Pyramid of the Sun, is located under Mount Visocica. Next in size is the Pyramid of the Moon, under Pljesevica Hill.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs129" word="šta god">
+    <english_equivalent>whatever</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs129o1">
+        <part type="phrasal">šta god</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>To je zato što, kako ja volim reći , naši ljudi imaju televizore umjesto mozga. Umjesto da čitaju novine, oni čitaju šta god im se iznese pred nos.</example>
+          <english_equivalent>Because our people , as I like to say, have TV sets instead of a brain. Instead of reading newspaper , they read whatever is put in front of their noses.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs130" word="štaviše;osim toga">
+    <english_equivalent>moreover; furthermore</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs130o1">
+        <part type="single">štaviše</part>
+      </orth>
+      <orth canonical="0" type="cont" onr="bs130o2">
+        <part type="phrasal">osim toga</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Ono što će raditi i velikoj mjeri utjecaće na domaću politiku i ekonomiju njihovih zemalja. Osim toga,  ono što se događa u srednjoj Evropi mora zvučati kao upozorenje na ono što dolazi na Balkan.</example>
+          <english_equivalent>What they do will influence domestic politics and their countries' economies greatly. Moreover, what is happening in Central Europe should sound warning bells when it comes to the Balkans.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs131" word="što prije">
+    <english_equivalent>as soon as</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs131o1">
+        <part type="phrasal">što prije</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond">
+          </pdtb3_relation>
+      <example>Što se tiče Evrope, ta priča je definitivno završena. BiH zaslužuje da se što prije priključi EU.</example>
+          <english_equivalent>According to Europe, the story is definitely finished . BiH deserves to join the EU as soon as possible.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs132" word="stoga">
+    <english_equivalent>therefore, thus</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs132o1">
+        <part type="single">stoga</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result">
+          </pdtb3_relation>
+      <example>Jasno je da BiH trenutno nema puno ponuditi u smislu argumenata potpore za sličnan zahtjev. Stoga je izazov koji slijedi naredne godine da se spriječi daljnji zaostatak BiH za njenim susjedama na zapadnom Balkanu u procesu evropskih integracija.</example>
+          <english_equivalent>It is clear that currently BiH has little to offer in terms of arguments to support a similar application . The challenge next year is therefore to prevent BiH falling further behind its neighbours in the Western Balkans in the EU integration process.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs133" word="stoga što">
+    <english_equivalent>because</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs133o1">
+        <part type="phrasal">stoga što</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>Stoga što je posvetio mnogo vremena i truda u učenje novog jezika, uspješno je komunicirao s lokalnim stanovništvom tijekom svog putovanja. (AI Generated)</example>
+          <english_equivalent>Because he devoted a lot of time and effort to learning a new language, he successfully communicated with the local population during his trip.(AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs134" word="stoga; prema tome">
+    <english_equivalent>consequently</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs134o1">
+        <part type="single">stoga</part>
+      </orth>
+      <orth canonical="0" type="cont" onr="bs134o2">
+        <part type="phrasal"> prema tome</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result">
+          </pdtb3_relation>
+      <example>U svakoj albanskoj porodici na jugu Srbije živi i do 17 članova, a niko nema posla. Oni kažu da su izgubili svaku nadu u to da će naći zaposlenje, te stoga žele napustiti Srbiju.</example>
+          <english_equivalent>Up to 17 members live in each Albanian family in southern Serbia , and nobody has a job. They say they lost all hope of ever finding employment , and consequently want to leave Serbia.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs135" word="suprotno od toga">
+    <english_equivalent>contrary to that</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs135o1">
+        <part type="phrasal">suprotno od toga</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>Suprotno od toga što su mnogi očekivali, nova politička stranka nije uspjela osvojiti većinu glasova na izborima. (AI Generated)</example>
+          <english_equivalent>Contrary to what many expected, the new political party failed to win the majority of votes in the elections. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs136" word="svakako">
+    <english_equivalent>certainly</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs136o1">
+        <part type="single">svakako</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Svakako trebamo razmotriti sve mogućnosti prije donošenja konačne odluke. (AI Generated)</example>
+          <english_equivalent>Certainly, we need to consider all possibilities before making a final decision. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs137" word="sve u svemu">
+    <english_equivalent>all in all</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs137o1">
+        <part type="phrasal">sve u svemu</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail">
+          </pdtb3_relation>
+      <example>Moguća su i ulaganja u bankarstvo. Sve u svemu, izgleda da Makedoniju čeka uspješna godina.</example>
+          <english_equivalent>Investments in banking are also possible. In all,  Macedonia seems to be looking forward to a successful year.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs138" word="tačnije rečeno">
+    <english_equivalent>more precisely</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs138o1">
+        <part type="phrasal">tačnije rečeno</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail">
+          </pdtb3_relation>
+      <example>Tačnije rečeno, pod pojmom "raznolikost" podrazumijevamo ne samo različitost kulture i jezika, već i raznolikost mišljenja i perspektiva. (AI Generated)</example>
+          <english_equivalent>More precisely, by the term "diversity," we mean not only cultural and linguistic diversity, but also diversity of thought and perspectives. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs139" word="tako ">
+    <english_equivalent>so</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs139o1">
+        <part type="phrasal">tako </part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Purpose:Arg1-as-goal">
+          </pdtb3_relation>
+      <example>Zašto ih puštaju na slobodu ? Tako da mogu počiniti nove zločine?</example>
+          <english_equivalent>Why are they setting them free ? So they can commit new crimes ?</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs140" word="tako da">
+    <english_equivalent>so that</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs140o1">
+        <part type="phrasal">tako da</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result">
+          </pdtb3_relation>
+      <example>On je vrlo pozitivan i ohrabruje me da više izlazim na mrežu, u čemu ja uživam i vjerujem da to može biti moja najveća snaga u narednom periodu. Također želimo poboljšati moj servis, tako da on bude dosljedniji.</example>
+          <english_equivalent>He is very positive and encourages me to come to the net more , which I enjoy and believe can be a great strength for me in the future. We also want to improve my serve, so that it is more consistent.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs141" word="također">
+    <english_equivalent>as well, also</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs141o1">
+        <part type="single">također</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Južni tok se generalno smatra suparnikom projektu gasovoda Nabucco, koji podržavaju SAD i EU, a koji treba prenositi 31 milijardi kubnih metara godišnje prirodnog gasa iz kaspijskog regiona i Bliskog istoka za Evropu , te smanjiti zavisnost EU od opskrbe iz Rusije. Borisov, čija je zemlja također uključena u taj projekat, naznačio je u subotu da ga Bugarska smatra isto tako važnim kao i Južni tok. "</example>
+          <english_equivalent>South Stream is widely viewed as a rival to the US and EU-backed Nabucco pipeline project , which is designed to carry 31 billion cubic metres of natural gas from the Caspian region and the Middle East to Europe annually and reduce the EU' s dependence on Russian supplies . Borisov , whose country is involved in that project as well , indicated on Saturday that Bulgaria considers it as important as South Stream.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs142" word="tek">
+    <english_equivalent>yet</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs142o1">
+        <part type="single">tek</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>Od tada je granica na kojoj spomenik stoji zatvorena. Protokole usmjerene na normalizaciju odnosa koje su 2009 potpisali lideri obaju zemalja tek trebaju ratificirati parlamenti dviju država.</example>
+          <english_equivalent>Since then, the border on which the monument stands has remained closed. Protocols aimed at normalising relations signed by both countries' leaders in 2009 have yet to be ratified by either parliament.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs143" word="to će reći">
+    <english_equivalent>that is to say</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs143o1">
+        <part type="phrasal">to će reći</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail">
+          </pdtb3_relation>
+      <example>To će reći, investicija u obrazovanje nije samo ulaganje u budućnost pojedinca, već i u budućnost cijelog društva. (AI Generated)</example>
+          <english_equivalent>That is to say, investing in education is not only an investment in the future of individuals, but also in the future of the whole society. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs144" word="to jest; tj.">
+    <english_equivalent>that is, i.e.,ergo</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs144o1">
+        <part type="phrasal">to jest</part>
+      </orth>
+      <orth canonical="0" type="cont" onr="bs144o2">
+        <part type="phrasal"> tj.</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Equivalence">
+          </pdtb3_relation>
+      <example>Bez eura, zemlja će se pocijepati. To jest, nema drugog puta do spasa osim onog koji diktiraju trojka i naši kreditori.</example>
+          <english_equivalent>Without the euro, the country will be torn apart. Ergo, there is no other road to salvation other than the one the troika and our lenders dictate!</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs145" word="treba imati na umu">
+    <english_equivalent> it should be kept in mind</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs145o1">
+        <part type="phrasal">treba imati na umu</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail">
+          </pdtb3_relation>
+      <example>Pri planiranju budžeta za narednu godinu, treba imati na umu potrebe svih sektora društva kako bi se osiguralo ravnomjerno raspoređivanje resursa. (AI Generated)</example>
+          <english_equivalent>When planning the budget for the next year, it should be kept in mind the needs of all sectors of society to ensure the equitable distribution of resources. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs146" word="treba istaknuti">
+    <english_equivalent>it should be emphasized</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs146o1">
+        <part type="phrasal">treba istaknuti</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail">
+          </pdtb3_relation>
+      <example>U diskusiji o zaštiti okoliša, treba istaknuti važnost očuvanja prirodnih resursa za buduće generacije. (AI Generated)</example>
+          <english_equivalent>In the discussion about environmental protection, it should be emphasized the importance of preserving natural resources for future generations. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs147" word="u biti">
+    <english_equivalent>essentially </english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs147o1">
+        <part type="phrasal">u biti</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail">
+          </pdtb3_relation>
+      <example>"Prijetnja od kopnenih krstarećih raketa također je u porastu i mnogo zahtjevnija od odbrane od avijacije, " izjavio je on. Krstareće rakete su u biti male bespilotne letjelice osmišljene za ofanzivne misije.</example>
+          <english_equivalent>The threat of land-attack cruise missiles is also growing and is much more demanding than that of defending against aircraft, " he said . Cruise missiles are essentially small-unmanned aircraft designed for offensive missions .</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs148" word="u cijelini">
+    <english_equivalent>overall</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs148o1">
+        <part type="phrasal">u cijelini</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail">
+          </pdtb3_relation>
+      <example>Oni još uvijek idu na odmore , ali ne kao ranije . U cjelini, porodice su promijenile svoje planove i odlučile se na manji broj dana u hotelima s paket-aranžmanom.</example>
+          <english_equivalent>They' re still going on holiday , but not like before. " Overall , families have changed their plans and opted for fewer days in all-inclusive hotels.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs149" word="u konacnici">
+    <english_equivalent>ultimately</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs149o1">
+        <part type="phrasal">u konacnici</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result">
+          </pdtb3_relation>
+      <example>Udio EU opao je u 2010. na nivo od 46, 3 %, a bliskoistočni udio porastao je na 20,3 % . U konačnici, EU je potrebna Turska i Turskoj je potrebna EU, kažu eksperti.</example>
+          <english_equivalent>The EU share fell in 2010 to 46.3 % while the Middle East' s share rose to 20.3 % . Ultimately , the EU needs Turkey and Turkey needs the EU , experts said .</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs150" word="u međuvremenu">
+    <english_equivalent>in the meantime, meanwhile</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs150o1">
+        <part type="phrasal">u međuvremenu</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence">
+          </pdtb3_relation>
+      <example>On je izjavio kako se nada da će Grčka kao susjeda pomoći Makedoniji da stupi u NATO i EU. U međuvremenu, Grčka je preuzela predsjedavanje OSCE-om.</example>
+          <english_equivalent>He said he hopes that Greece would , as a neighbour , help Macedonia to access NATO and the EU. In the meantime, Greece has assumed the OSCE presidency.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs151" word="u najmanju ruku">
+    <english_equivalent>at the very least</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs151o1">
+        <part type="phrasal">u najmanju ruku</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail">
+          </pdtb3_relation>
+      <example>Njegovo ponašanje je bilo neodgovorno. U najmanju ruku, trebao je obavijestiti nadređene o svom odsustvu. (AI Generated)</example>
+          <english_equivalent>His behavior was irresponsible. At the very least, he should have informed his superiors about his absence. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs152" word="u odgovoaru na, u reakciji na">
+    <english_equivalent>in response to </english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs152o1">
+        <part type="phrasal">u odgovoaru na, u reakciji na</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>Tokom prvih pet mjeseci ove godine, preko 100 žena u Turskoj umrlo je od zlostavljanja. U reakciji na te statistike, visoki državni organi nedavno su najavili planove za prevenciju zaštite žena.</example>
+          <english_equivalent>During the first five months of this year, more than 100 Turkish women died as a result of abuse . In response to this statistic, high-ranking state authorities recently announced plans to prevent violence against women.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs153" word="u poređenju">
+    <english_equivalent>by comparison</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs153o1">
+        <part type="phrasal">u poređenju</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>Prošle godine smo imali izuzetno suvu sezonu. U poređenju, ove godine imamo mnogo više kiše.</example>
+          <english_equivalent>Last year we had an exceptionally dry season. By comparison, this year we have much more rain.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs154" word="u posljednje vrijeme">
+    <english_equivalent>recently, lately</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs154o1">
+        <part type="phrasal">u posljednje vrijeme</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence">
+          </pdtb3_relation>
+      <example>U posljednje vrijeme, primjećujem da je moj pas manje aktivan. (AI Generated)</example>
+          <english_equivalent>Recently, I've noticed that my dog has been less active. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs155" word="u pozadini">
+    <english_equivalent>in the background</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs155o1">
+        <part type="phrasal">u pozadini</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail">
+          </pdtb3_relation>
+      <example>U pozadini političkih previranja, ekonomija zemlje je počela stagnirati, a nezaposlenost je značajno porasla, što je dodatno pogoršalo društvene tenzije. (AI Generated)</example>
+          <english_equivalent>In the background of political upheaval, the country's economy began to stagnate, and unemployment rose significantly, further exacerbating social tensions. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs156" word="u širem smislu">
+    <english_equivalent>in a broaders sense</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs156o1">
+        <part type="phrasal">u širem smislu</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail">
+          </pdtb3_relation>
+      <example>Poznavanje stranih jezika korisno je, ne samo za putovanja, već i u širem smislu, za razumijevanje kultura. (AI Generated)</example>
+          <english_equivalent>Knowing foreign languages is useful not only for traveling but also in a broader sense, for understanding cultures. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs157" word="u skladu sa tim">
+    <english_equivalent>accordingly</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs157o1">
+        <part type="phrasal">u skladu sa tim</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond">
+          </pdtb3_relation>
+      <example>Mi smo svjesni poteškoća , i držimo na umu realističan osjećaj da integracija u EU predstavlja proces. Vlada je orijentirana tome da pruži podršku neophodnim upravnim kapacitetima potrebnim za integraciju EU, i ona u skladu s tim radi na tom pitanju.</example>
+          <english_equivalent>We are aware of the difficulties, and we bear in mind a realistic sense that EU integration is a process. The government is committed to uphold the necessary administrative capacities needed for EU integration, and it is addressing the issue accordingly .</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs158" word="u slučaju">
+    <english_equivalent>in case</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs158o1">
+        <part type="phrasal">u slučaju</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond">
+          </pdtb3_relation>
+      <example>U natjecanju do 12. maja odigrat će se 12 mečeva. U slučaju neriješenog rezultata,  održat će se meč odigravanja.</example>
+          <english_equivalent>The competition will cover 12 matches through May 12th . In case of a tie , a play-off match will be held.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs159" word="u stvari">
+    <english_equivalent>in fact </english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs159o1">
+        <part type="phrasal">u stvari</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Manner:Arg2-as-manner">
+          </pdtb3_relation>
+      <example>Preko 55 % njih ne očekuje nikakvo unaprjeđenje svog kućnog budžeta. U stvari, preko 50 % njih misli da će naredne godine morati više davati na opće troškove.</example>
+          <english_equivalent>More than 55 % do not expect any improvement in their home budget. In fact, more than 50 % think that they will have to pay more in the next year for general expenses.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs160" word="u suštini">
+    <english_equivalent>in essence</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs160o1">
+        <part type="phrasal">u suštini</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Manner:Arg2-as-manner">
+          </pdtb3_relation>
+      <example>Vladini ministri su utvrđuju sa kojim sredstvima raspolažu i onda će ponuditi dugoročno iznajmljivanje za jedan euro na godinu. U suštini možete dobiti rudnik hroma za jedan euro na godinu pod uvjetom da je vlada zadovoljna sa vašom dugoročno strategijom razvoja.</example>
+          <english_equivalent>Government ministries are determining what assets they have and then will offer long-term leases for one euro per year. In essence, you can get a chromium mine for one euro provided the government is satisfied with your long-term development strategy.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs161" word="u svakom slučaju">
+    <english_equivalent>in any case</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs161o1">
+        <part type="phrasal">u svakom slučaju</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond">
+          </pdtb3_relation>
+      <example>Mesić kaže da želi biti " moralni autoritet u svim budućim političkim procesima u zemlji ". U svakom slučaju, on obećava da neće ćutjeti.</example>
+          <english_equivalent>Mesic says that he wants to be a " moral authority in all future political processes in the country ". In any case, he promises that he will not be quiet.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs162" word="u svezi;u vezi s time">
+    <english_equivalent>in connection with that</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs162o1">
+        <part type="phrasal">u svezi</part>
+      </orth>
+      <orth canonical="0" type="cont" onr="bs162o2">
+        <part type="phrasal">u vezi s time</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail">
+          </pdtb3_relation>
+      <example>Obuka se održava u objektima Algoritam centra, te u državnim školama u selima. U vezi s tim kursem, vlada također obezbjeđuje sedmicu besplatnog pristupa internetu.</example>
+          <english_equivalent>The training is being held at Algoritam Centar facilities and at state-run schools in the countryside. In conjunction with the course , the government is also providing a week of free internet access.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs163" word="u to vrijeme">
+    <english_equivalent>at the time</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs163o1">
+        <part type="phrasal">u to vrijeme</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Synchronous">
+          </pdtb3_relation>
+      <example>Nepoznati srpski vojnik spasio ju je 1992. godine iz spaljene kuće u Capardama. Taj vojnik odveo je bebu u sirotište u Vlasenici, koju su u to vrijeme kontrolirale srpske vojne snage.</example>
+          <english_equivalent>An unknown Serb soldier rescued her in 1992 from a burned-down house in Caparde . The soldier brought the baby to an orphanage in Vlasenica , controlled at the time by Serbian military forces</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs164" word="u tom trenutku ">
+    <english_equivalent>at that moment</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs164o1">
+        <part type="phrasal">u tom trenutku </part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Synchronous">
+          </pdtb3_relation>
+      <example>To je ocjena našeg napretka u datom trenutku u određenim reformskim procesima koje provodimo; to će biti vrijeme do kad će biti usvojeni određeni zakoni i kad će Komisija ocjenjivati provedbu određenih zakona.</example>
+          <english_equivalent>It is an assessment of our progress at the given moment in certain reform processes we are carrying out ; it will be a time by which certain laws are adopted and when the Commission will assess the implementation of certain laws.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs165" word="u užem smislu">
+    <english_equivalent>in a narrower sense</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs165o1">
+        <part type="phrasal">u užem smislu</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail">
+          </pdtb3_relation>
+      <example>U užem smislu, kultura može biti definirana kao skup umjetničkih i intelektualnih postignuća jednog naroda. (AI Generated)</example>
+          <english_equivalent>In a narrower sense, culture can be defined as the set of artistic and intellectual achievements of a nation. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs166" word="uglavnom">
+    <english_equivalent>mostly, generally</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs166o1">
+        <part type="single">uglavnom</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Vjerujem da bi konstituiranje države s nekoliko ekonomskih regija i pažljivo razrađenim školskim sistemom koji bi štitio etnička prava osiguralo čvrste osnove za bolju budućnost cjelokupne BiH " , rekao je. Uglavnom svi Hrvati kritikuju mirovni sporazum iz Dejtona ( DPA ) potpisan prije deset godina.</example>
+          <english_equivalent>I believe the constitiution of a state with several economic regions and a carefully developed educational system that protects ethnic rights would provide a solid basis for a better future for the whole of BiH, " she said. Nearly all Croats are critical of the Dayton Peace Accords ( DPA ) signed ten years ago.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs167" word="ukratko">
+    <english_equivalent>in short</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs167o1">
+        <part type="single">ukratko</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction">
+          </pdtb3_relation>
+      <example>Na lokalnom nivou, postoji opća želja da se Romi zadrže u zavisnosti, jer ih se s izbornog stanovišta može vrlo lako i jeftino kupiti. Ukratko, problem se tiče zastupanja, a i stvaranja pravog romskog građanskog pokreta.</example>
+          <english_equivalent>Locally, there is a general desire to keep the Roma dependent because one can buy them very easily and cheaply from an electoral point of view. In short , the problem concerns representation and also the creation of a real Roma civic movement.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs168" word="umjesto da; namjesto">
+    <english_equivalent>rather than, instead of</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs168o1">
+        <part type="phrasal">umjesto da</part>
+      </orth>
+      <orth canonical="0" type="cont" onr="bs168o2">
+        <part type="phrasal"> namjesto</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg1-as-subst">
+          </pdtb3_relation>
+      <example>Političari su obećali da će penzije dostići 70 % prosječne plaće namjesto sadašnjih 60 %. Beograd sad kaže da tu ideju odgađa, ali ne odustaje od nje.</example>
+          <english_equivalent>Politicians had vowed to have pensions reach 70 % of the average salary , rather than the current 60 % . Belgrade now says it is postponing rather than abandoning that idea.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs169" word="umjesto; mjesto;namjesto">
+    <english_equivalent>instead</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs169o1">
+        <part type="single">umjesto</part>
+      </orth>
+      <orth canonical="0" type="cont" onr="bs169o2">
+        <part type="phrasal"> mjesto</part>
+      </orth>
+      <orth canonical="0" type="cont" onr="bs169o3">
+        <part type="single">namjesto</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg1-as-subst">
+          </pdtb3_relation>
+      <example>Direktor ovog projekta Mirsad Tokača kaže da je posao na prikupljanju takve baze podataka trebala obaviti država. Umjesto toga, izjavio je on, to je morala uraditi jedna NVO uz finansijsku pomoć Norveške.</example>
+          <english_equivalent>Project director Mirsad Tokaca says the work of compiling such a database should have been done by the state. Instead , he said , it had to be done by an NGO with financial assistance from Norway .</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs170" word="unatoč tome">
+    <english_equivalent>despite that</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs170o1">
+        <part type="phrasal">unatoč tome</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier">
+          </pdtb3_relation>
+      <example>Unatoč tome što su imali vrlo malo vremena za pripremu, ekipa je postigla izniman uspjeh na natjecanju. (AI Generated)</example>
+          <english_equivalent>Despite having very little time to prepare, the team achieved remarkable success at the competition. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs171" word="uprkos">
+    <english_equivalent>despite</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs171o1">
+        <part type="single">uprkos</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>Prisustvovalo je 1.355 izlagača, sponzora i drugih učenika iz 20 zemalja. Sad u svojoj 11. godini,  šou je uspio okupiti posjetioce uprkos globalnoj ekonomskoj krizi.</example>
+          <english_equivalent>In attendance were 1 , 355 exhibitors , sponsors and other participants , representing 20 countries. Now in its 11th year , the show succeeded in drawing visitors despite the global economic crisis.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs172" word="uprkos tome">
+    <english_equivalent>in spite of </english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs172o1">
+        <part type="phrasal">uprkos tome</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>" Kosovo nije uključeno u taj upitnik. Uprkos tome, postoji jedan broj pitanja vezanih za saradnju između Beograda i Prištine.</example>
+          <english_equivalent>" Kosovo is not included in the questionnaire. In spite of that , there are a number of issues concerning co-operation between Belgrade and Pristina."</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs173" word="uskoro">
+    <english_equivalent>soon</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs173o1">
+        <part type="single">uskoro</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>Mihajlović: Završavam jedan roman i zbirku pripovijedaka i trenutno pokušavam staviti te rukopise u red. Uskoro ću morati pronaći izdavača koji je za njih zainteresiran.</example>
+          <english_equivalent>Mihajlovic: I' m finalising a novel and a short story collection and currently trying to put those manuscripts in order. Soon enough, I' ll have to find a publisher that is interested in them.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs174" word="usput;uzgred">
+    <english_equivalent>by the way</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs174o1">
+        <part type="single">usput</part>
+      </orth>
+      <orth canonical="0" type="cont" onr="bs174o2">
+        <part type="single">uzgred</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Manner:Arg2-as-manner">
+          </pdtb3_relation>
+      <example>Glavno pitanje ostaje; bolnice i porodilišta su jednako prenatrpani i bez dovoljnog broja osoblja kao i prije. A sistemi za klimatizaciju zraka, koji su, usput rečeno, namijenjeni za domaćinstva , u istom su nesigurnom stanju."</example>
+          <english_equivalent>The main issue remains: the hospitals and maternity wards , too , are as crowded and understaffed as before . And the air conditioning systems , which by the way are household-designated ones, are in the same precarious state. "</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs175" word="uzimajući u obzir">
+    <english_equivalent>taking into account</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs175o1">
+        <part type="phrasal">uzimajući u obzir</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>Nastava u tim uslovima sobom nosi poteškoće , ali nastavnici daju sve od sebe za boljitak te djece, " izjavila je direktorica obrazovanja iz Skadra Atrida Feketi za SETimes. Uzimajući u obzir poteškoće i dodatne elemente vođenja nastave za učenike u izolaciji, nastavnici za svoje napore dobivaju plaću za prekovremeni rad.</example>
+          <english_equivalent>Teaching in these conditions entails difficulties, but teachers try to do the best for these children, " Shkodra Education Director Atrida Feketi told SETimes. Taking into account the difficulties and additional elements of teaching students in isolation , teachers receive overtime pay for their efforts.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs176" word="valjalo bi">
+    <english_equivalent>it would be worth</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs176o1">
+        <part type="phrasal">valjalo bi</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>other</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond">
+          </pdtb3_relation>
+      <example>Valjalo bi razmotriti dugoročne posljedice prije nego što donesemo konačnu odluku. (AI Generated)</example>
+          <english_equivalent>It would be worth considering the long-term consequences before we make a final decision. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs177" word="za">
+    <english_equivalent>for</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs177o1">
+        <part type="single">za</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail">
+          </pdtb3_relation>
+      <example>Cijene na privatnim klinikama različite su , a cijena poroda u onoj koju je Ilirjana odabrala je 600 eura. Za carski rez, ta cijena je preko dva puta veća.</example>
+          <english_equivalent>Prices at private clinics vary, with the one Ilirjana chose costing 600 euros for a delivery. For a cesarean, the cost is more than double.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs178" word="za razliku od toga">
+    <english_equivalent>unlike that</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs178o1">
+        <part type="phrasal">za razliku od toga</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast">
+          </pdtb3_relation>
+      <example>Tiraž tog lista nastavio je opadati i 2011. je, prema podacima organizacije Freedom House, iznosio oko 4.000 - 5.000. Za razliku od toga, privatni crnogorski dnevnik Vijesti ima tiraž od 20.000.</example>
+          <english_equivalent>The paper' s circulation numbers have continued to fall, and were around 4 , 000-5 , 000 in 2011, according to Freedom House. In comparison, privately-owned Montenegrin daily Vijesti has a circulation of 20 , 000.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs179" word="zacijelo">
+    <english_equivalent>certainly</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs179o1">
+        <part type="single">zacijelo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result">
+          </pdtb3_relation>
+      <example>Zacijelo će ulaganje u obnovljive izvore energije doprinijeti smanjenju emisija stakleničkih plinova i očuvanju okoliša. (AI Generated)</example>
+          <english_equivalent>Certainly, investing in renewable energy sources will contribute to reducing greenhouse gas emissions and preserving the environment. (AI Generated)</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs180" word="zahvaljujući ">
+    <english_equivalent>thanks to the, thanks to the fact that</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs180o1">
+        <part type="phrasal">zahvaljujući </part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>Mnogi roditelji koji ne mogu imati djecu okreću se mjesto toga hraniteljstvu. Zahvaljujući tom trendu, broj djece koja rastu u institucijama opada i trenutno iznosi oko 900.</example>
+          <english_equivalent>nan</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs181" word="zapravo">
+    <english_equivalent>actually, basically</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs181o1">
+        <part type="single">zapravo</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail">
+          </pdtb3_relation>
+      <example>" Odlukom se daje izgovor onima koji žele zaštititi bogatstvo bez pokrića, te žele da u Rumuniji ne uspije vladavina zakona, " rekao je za SETimes Horia Georgescu,  generalni sekretar Nacionalne agencije za integritet ( ANI ), koja ima ovlasti da provjerava imovinu državnih funkcionera ." Zapravo, odluka Ustavnog suda je poziv kriminalcima da dođu i posluju u Rumuniji " , dodao je on.</example>
+          <english_equivalent>"The decision offers an excuse to those who want to protect the unjustified fortunes and want the rule of law to fail in Romania , " Horia Georgescu, secretary-general of the National Agency for Integrity ( ANI ) , empowered to verify the assets of state dignitaries , told SETimes. " Basically the Constitutional Court' s decision is an invitation to criminals to come and do business in Romania ," he added.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs182" word="zatim">
+    <english_equivalent>then, next</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs182o1">
+        <part type="single">zatim</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession">
+          </pdtb3_relation>
+      <example>Ako to ne uspije, parlament se raspušta i održavaju se prijevremeni izbori. Zatim predsjednika mora birati nova skupština.</example>
+          <english_equivalent>If that fails, parliament is dissolved and early elections are held. The new assembly must then elect the president.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs183" word="zato što">
+    <english_equivalent>because</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs183o1">
+        <part type="phrasal">zato što</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>Mediji imaju velikog utjecaja na obične građane. To je zato što, kako ja volim reći, naši ljudi imaju televizore umjesto mozga.</example>
+          <english_equivalent>Media have a great influence on common citizens. Because our people, as I like to say , have TV sets instead of a brain .</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs184" word="zbog">
+    <english_equivalent>because of</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs184o1">
+        <part type="single">zbog</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>Turski fudbalski tim Galatasaray pobijedio je sa 2-1 svog rivala Besiktasa u utakmici super lige u subotu ( 29. septembar ). Meč je odigran bez gledalaca, zbog disciplinske kazne timu Galatasaray.</example>
+          <english_equivalent>The Turkish football team Galatasaray won 2-1 against rival Besiktas in a super league match Saturday ( September 29th ). The match was played without spectators, because of a disciplinary penalty against Galatasaray.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+  <entry id="bs185" word="zbog toga što">
+    <english_equivalent>because of that</english_equivalent>
+    <orths>
+      <orth canonical="1" type="cont" onr="bs185o1">
+        <part type="phrasal">zbog toga što</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason">
+          </pdtb3_relation>
+      <example>Pionir u uzgoju konja sa sjeveroistoka Hrvatske Miljenko Obranović ima pet konja i djelatnost u kojoj je zaposlena cijela njegova porodica . Zbog toga što uzgoj konja ne donosi velikog prihoda , svi Obranovići imaju dnevne poslove.</example>
+          <english_equivalent>A pioneer in horse breeding from Croatia' s northeast , Miljenko Obranovic , has five horses in a business that employs his entire family. Because horse breeding does not bring in much income , all of the Obranovics have day jobs.</english_equivalent>
+        </sem>
+    </syn>
+  </entry>
+</dimlex>

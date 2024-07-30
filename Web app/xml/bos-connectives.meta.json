@@ -1,0 +1,30 @@
+{
+  "lexiconName": "Bos-DiMLex",
+  "lexiconNameFull": "Bosnian-DiMLex",
+  "version": "1.0",
+  "originalReleaseDate": "2024-07-30",
+  "currentReleaseDate": "2024-07-30",
+  "languageEnglish": "Bosnian",
+  "languageNative": "bosanski",
+  "locale": "bs-ba",
+  "islrn": "030-081-432-891-7",
+  "homepage": "coming soon",
+  "parseInfo": {
+    "posTagset": "dimlex",
+    "senseTagset": "pdtb3"
+  },
+  "licenseInfo": {
+    "copyrightDate": "2024",
+    "licenseName": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "authorInfo": {
+    "publisher": "Universität Potsdam, Department of Linguistics",
+    "authors": [
+      { "authorName": "Edina Heco", "organisation": "Universität Potsdam"}
+    ],
+    "publications": [
+      
+    ]
+  }
+}
