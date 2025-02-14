@@ -1,34 +1,38 @@
 {
   "lexiconName": "Naija-Lex",
-  "lexiconNameFull": "Naija-Lex",
-  "version": "1.0",
+  "lexiconNameFull": "Naija-Lex 2.0",
+  "version": "2.0",
   "originalReleaseDate": "2021-11",
-  "currentReleaseDate": "2021-11",
+  "currentReleaseDate": "2025-02",
   "languageEnglish": "Nigerian Pidgin",
   "languageNative": "Naija",
   "locale": "np", 
-  "homepage": "https://osf.io/xns9z/?view_only=710a1eca318f46b9b10584c3b980beec",
+  "homepage": "https://osf.io/8m5vk/",
   "parseInfo": {
     "posTagset": "naijalex",
     "senseTagset": "pdtb3-short"
   },
   "licenseInfo": {
-    "copyrightDate": "2022",
+    "copyrightDate": "2024",
     "licenseName": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
     "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
   },
   "authorInfo": {
     "publisher": "Saarland University",
     "authors": [
+	  { "authorName": "Merel Scholman", "organisation": "Saarland University, Language Science and Technology" },
       { "authorName": "Marian Marchal", "organisation": "Saarland University, Language Science and Technology" },
-      { "authorName": "Merel Scholman", "organisation": "Saarland University, Language Science and Technology" },
+	  { "authorName": "AriaRay Brown", "organisation": "Saarland University, Language Science and Technology" },
 	  { "authorName": "Vera Demberg", "organisation": "Saarland University, Language Science and Technology, Computer Science" }
     ],
     "publications": [
       {
         "cite": "Marian Marchal, Merel Scholman and Vera Demberg, \"Semi-automatic discourse annotation in a low-resource language: Developing a connective lexicon for Nigerian Pidgin\" In: Proceedings of the Second Workshop on Computational Approaches to Discourse (CoDi 2021).",
         "url": "https://aclanthology.org/2021.codi-main.8"
-      }
+      },
+	  {
+		"cite": "Merel Scholman, Marian Marchal, AriaRay Brown and Vera Demberg, \"DiscoNaija: A discourse-annotated parallel Nigerian Pidgin-English corpus"
+	  } 
     ]
   }
 }
