@@ -10,12 +10,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>CCONJ</cat><sem><pdtb3_relation sense="Expansion.Disjunction" prop_expl="89.5">
-				<example>Shey dis one na confidence? Abi dis one na disrespect?</example>
+		<syn><cat>CCONJ</cat><sem><pdtb3_relation sense="Expansion.Disjunction" prop_exmpl="89.5"/><example>Shey dis one na confidence? Abi dis one na disrespect?</example>
 				<english_equivalent>Is this confidence? Or is this disrespect?</english_equivalent>
 				<source_file>IBA_32_Tori-By-Samuel_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="2" word="after" raw_freq="53" perc_expl="1.26">
 		<english_equivalent>after</english_equivalent>
 		<orths>
@@ -43,22 +41,16 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_expl="15.1">
-				<example>All of dem, all of dem de continue dey predict. After de tell us sey na God told dem.</example>
+		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_exmpl="15.1"/><example>All of dem, all of dem de continue dey predict. After de tell us sey na God told dem.</example>
 				<english_equivalent>All of them, all of them will continue to predict. Afterwards, they will tell us God told them.</english_equivalent>
 				<source_file>ENU_34_Malaysia-Guy_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_expl="79.2">
-				<example>After di ting don steam well, well, I carry am down.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_exmpl="79.2"/><example>After di ting don steam well, well, I carry am down.</example>
 				<english_equivalent>After it's steamed thoroughly, I take it down.</english_equivalent>
 				<source_file>ENU_01_Salomis-Egusi-Soup-Recipe_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Synchronous" prop_expl="5.7">
-				<example>We hear sey after attempt to withdraw di money, e fail, di suspect, e don memorise di victim secret pin card o, advise am to follow am to a nearby bank where dem go for do am easier o.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="5.7"/><example>We hear sey after attempt to withdraw di money, e fail, di suspect, e don memorise di victim secret pin card o, advise am to follow am to a nearby bank where dem go for do am easier o.</example>
 				<english_equivalent>We heard that when the attempt to withdraw the money failed, the suspect had already memorised the victim's secret pin, he advised him to follow him to a nearby bank where the transaction will be easier.</english_equivalent>
 				<source_file>IBA_33_News-Comments_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="3" word="also" raw_freq="16" perc_expl="0.38">
 		<english_equivalent>also</english_equivalent>
 		<orths>
@@ -69,17 +61,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Expansion.Conjunction" prop_expl="91.2">
-				<example>I dey watch everytin wey dey go on, and I also dey follow up wit di tins wey dem dey plan to do.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Expansion.Conjunction" prop_exmpl="91.2"/><example>I dey watch everytin wey dey go on, and I also dey follow up wit di tins wey dem dey plan to do.</example>
 				<english_equivalent>I'm watching everything going on, and I'm also following up with the things which they are planning to do.</english_equivalent>
 				<source_file>WAZA_03_Obi-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_expl="2.9">
-				<example>Now Mr Sam bin yarn sey dis one wey be sey de just dey attack ehn airline staff, sey dis one na very, very embarrassing something. And also e bin dey, dey advise all dis airlines wey be sey dey operate inside we obodo say make, make de uphold, make de hold strongly all di commission wey be sey de bin get, di terms, and condition, and contract on all di...</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_exmpl="2.9"/><example>Now Mr Sam bin yarn sey dis one wey be sey de just dey attack ehn airline staff, sey dis one na very, very embarrassing something. And also e bin dey, dey advise all dis airlines wey be sey dey operate inside we obodo say make, make de uphold, make de hold strongly all di commission wey be sey de bin get, di terms, and condition, and contract on all di...</example>
 				<english_equivalent>Now, Mr Sam has said that the airline staff being attacked is a very embarrassing thing. And he also advised all airlines operating in our country that they should... should uphold... they should strongly enforce the commissions they have; the terms, and conditions, and contracts on all the...</english_equivalent>
 				<source_file>WAZL_03_News-On-Gmns_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="4" word="and" raw_freq="533" perc_expl="12.7">
 		<english_equivalent>and then</english_equivalent>
 		<orths>
@@ -93,47 +81,31 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>CCONJ</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg2-as-denier" prop_expl="0.8">
-				<example>I say na di last two hundred naira wey dey my hand, and you want make we use am go eat?</example>
+		<syn><cat>CCONJ</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg2-as-denier" prop_exmpl="0.8"/><example>I say na di last two hundred naira wey dey my hand, and you want make we use am go eat?</example>
 				<english_equivalent>I said this is the last two hundred naira on me, and you want us to spend it on food, right?</english_equivalent>
 				<source_file>ABJ_GWA_12_Accident_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Comparison.Contrast" prop_expl="0.2">
-				<example>Di difference, na im be sey me dey buy small, small, and di big bros, dem dey buy bag, trailer, load, and all di rest.</example>
+			</sem><sem><pdtb3_relation sense="Comparison.Contrast" prop_exmpl="0.2"/><example>Di difference, na im be sey me dey buy small, small, and di big bros, dem dey buy bag, trailer, load, and all di rest.</example>
 				<english_equivalent>The difference is that I buy in a smaller quantity and the rich guys... they buy in bags, trailers, loads and the like.</english_equivalent>
 				<source_file>WAZK_08_Fuel-Price-Increase_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_expl="0.4">
-				<example>Mah go do, and dem go pay me money.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_exmpl="0.4"/><example>Mah go do, and dem go pay me money.</example>
 				<english_equivalent>"Let me go do it and they will pay me."</english_equivalent>
 				<source_file>ABJ_GWA_08_David-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Conjunction" prop_expl="93.4">
-				<example>Our work for road safety na to teach people wey dey use road. And na everybody dey use road.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Conjunction" prop_exmpl="93.4"/><example>Our work for road safety na to teach people wey dey use road. And na everybody dey use road.</example>
 				<english_equivalent>Our duty in the Road Safety Corps is to teach road users. And we are all road users.</english_equivalent>
 				<source_file>LAG_31_Road-Safety_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Disjunction" prop_expl="0.2">
-				<example>You no go fit run o because di trouser dey hold dem leg. So and den, dis hair.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Disjunction" prop_exmpl="0.2"/><example>You no go fit run o because di trouser dey hold dem leg. So and den, dis hair.</example>
 				<english_equivalent>You can't run because the pants are holding your legs. So and then, this hair.</english_equivalent>
 				<source_file>JOS_10_Mothers-Against-Mini-Skirts_DG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Equivalence" prop_expl="0.2">
-				<example>De dey call am ede for Igbo. And na ehn cocoyam.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Equivalence" prop_exmpl="0.2"/><example>De dey call am ede for Igbo. And na ehn cocoyam.</example>
 				<english_equivalent>They call it ede in Igbo. And it's uh... cocoyam.</english_equivalent>
 				<source_file>IBA_23_Bitter-Leaf-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Instantiation.Arg2-as-instance" prop_expl="0.2">
-				<example>E good as de don create dis eh women empowerment ehn thing ehn for eh Nigerian, for Nigerian. And e get one sef (I no even remember di name sef) wey de don create for all dis ehn ehn demoralising ehn di woman, ehn demoralisation of eh women, and even children.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Instantiation.Arg2-as-instance" prop_exmpl="0.2"/><example>E good as de don create dis eh women empowerment ehn thing ehn for eh Nigerian, for Nigerian. And e get one sef (I no even remember di name sef) wey de don create for all dis ehn ehn demoralising ehn di woman, ehn demoralisation of eh women, and even children.</example>
 				<english_equivalent>It is good that they have created this uh... women empowerment uh... thing uh... for Nigerians, for Nigerians. And there is even one (I don't remember the exact name), which they have created for all this uh... uh... demoralisation of women, uh... demoralisation of uh... women and even children.</english_equivalent>
 				<source_file>ABJ_INF_10_Women-Battering_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_expl="4.7">
-				<example>De take am kill many, many, many fowl. And di number na seven hundred and fifteen of dis fowl naim de just kill inside dis area.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_exmpl="4.7"/><example>De take am kill many, many, many fowl. And di number na seven hundred and fifteen of dis fowl naim de just kill inside dis area.</example>
 				<english_equivalent>So many birds were slaughtered. And the number of birds slaughtered in the area was seven hundred and fifteen.</english_equivalent>
 				<source_file>WAZA_09_Tv-News_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="5" word="and" raw_freq="533" perc_expl="12.7">
 		<english_equivalent>and</english_equivalent>
 		<orths>
@@ -147,47 +119,31 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>CCONJ</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg2-as-denier" prop_expl="0.8">
-				<example>I say na di last two hundred naira wey dey my hand, and you want make we use am go eat?</example>
+		<syn><cat>CCONJ</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg2-as-denier" prop_exmpl="0.8"/><example>I say na di last two hundred naira wey dey my hand, and you want make we use am go eat?</example>
 				<english_equivalent>I said this is the last two hundred naira on me, and you want us to spend it on food, right?</english_equivalent>
 				<source_file>ABJ_GWA_12_Accident_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Comparison.Contrast" prop_expl="0.2">
-				<example>Di difference, na im be sey me dey buy small, small, and di big bros, dem dey buy bag, trailer, load, and all di rest.</example>
+			</sem><sem><pdtb3_relation sense="Comparison.Contrast" prop_exmpl="0.2"/><example>Di difference, na im be sey me dey buy small, small, and di big bros, dem dey buy bag, trailer, load, and all di rest.</example>
 				<english_equivalent>The difference is that I buy in a smaller quantity and the rich guys... they buy in bags, trailers, loads and the like.</english_equivalent>
 				<source_file>WAZK_08_Fuel-Price-Increase_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_expl="0.4">
-				<example>Mah go do, and dem go pay me money.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_exmpl="0.4"/><example>Mah go do, and dem go pay me money.</example>
 				<english_equivalent>"Let me go do it and they will pay me."</english_equivalent>
 				<source_file>ABJ_GWA_08_David-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Conjunction" prop_expl="93.4">
-				<example>Our work for road safety na to teach people wey dey use road. And na everybody dey use road.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Conjunction" prop_exmpl="93.4"/><example>Our work for road safety na to teach people wey dey use road. And na everybody dey use road.</example>
 				<english_equivalent>Our duty in the Road Safety Corps is to teach road users. And we are all road users.</english_equivalent>
 				<source_file>LAG_31_Road-Safety_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Disjunction" prop_expl="0.2">
-				<example>You no go fit run o because di trouser dey hold dem leg. So and den, dis hair.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Disjunction" prop_exmpl="0.2"/><example>You no go fit run o because di trouser dey hold dem leg. So and den, dis hair.</example>
 				<english_equivalent>You can't run because the pants are holding your legs. So and then, this hair.</english_equivalent>
 				<source_file>JOS_10_Mothers-Against-Mini-Skirts_DG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Equivalence" prop_expl="0.2">
-				<example>De dey call am ede for Igbo. And na ehn cocoyam.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Equivalence" prop_exmpl="0.2"/><example>De dey call am ede for Igbo. And na ehn cocoyam.</example>
 				<english_equivalent>They call it ede in Igbo. And it's uh... cocoyam.</english_equivalent>
 				<source_file>IBA_23_Bitter-Leaf-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Instantiation.Arg2-as-instance" prop_expl="0.2">
-				<example>E good as de don create dis eh women empowerment ehn thing ehn for eh Nigerian, for Nigerian. And e get one sef (I no even remember di name sef) wey de don create for all dis ehn ehn demoralising ehn di woman, ehn demoralisation of eh women, and even children.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Instantiation.Arg2-as-instance" prop_exmpl="0.2"/><example>E good as de don create dis eh women empowerment ehn thing ehn for eh Nigerian, for Nigerian. And e get one sef (I no even remember di name sef) wey de don create for all dis ehn ehn demoralising ehn di woman, ehn demoralisation of eh women, and even children.</example>
 				<english_equivalent>It is good that they have created this uh... women empowerment uh... thing uh... for Nigerians, for Nigerians. And there is even one (I don't remember the exact name), which they have created for all this uh... uh... demoralisation of women, uh... demoralisation of uh... women and even children.</english_equivalent>
 				<source_file>ABJ_INF_10_Women-Battering_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_expl="4.7">
-				<example>De take am kill many, many, many fowl. And di number na seven hundred and fifteen of dis fowl naim de just kill inside dis area.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_exmpl="4.7"/><example>De take am kill many, many, many fowl. And di number na seven hundred and fifteen of dis fowl naim de just kill inside dis area.</example>
 				<english_equivalent>So many birds were slaughtered. And the number of birds slaughtered in the area was seven hundred and fifteen.</english_equivalent>
 				<source_file>WAZA_09_Tv-News_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="6" word="anytime" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>whenever</english_equivalent>
 		<orths>
@@ -198,12 +154,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_expl="100">
-				<example>E be like sey someting dey happen to us anytime wey we go market.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_exmpl="100"/><example>E be like sey someting dey happen to us anytime wey we go market.</example>
 				<english_equivalent>It's like something is happening to us whenever we go to the market.</english_equivalent>
 				<source_file>IBA_04_Alaska-Pepe_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="7" word="anyting" raw_freq="8" perc_expl="0.19">
 		<english_equivalent>whatever</english_equivalent>
 		<orths>
@@ -220,12 +174,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>PRON</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_expl="100">
-				<example>And anyting you dey do again, make sure you dey hardworking.</example>
+		<syn><cat>PRON</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_exmpl="100"/><example>And anyting you dey do again, make sure you dey hardworking.</example>
 				<english_equivalent>Also, whatever you do, make sure you work hard.</english_equivalent>
 				<source_file>ABJ_GWA_03_Cost-Of-Living-In-Abuja_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="8" word="anywhere" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>whatever</english_equivalent>
 		<orths>
@@ -236,12 +188,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_expl="100">
-				<example>Sey anywhere where I wan reach for life, e go support me.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_exmpl="100"/><example>Sey anywhere where I wan reach for life, e go support me.</example>
 				<english_equivalent>Whatever I want in life, he will support me.</english_equivalent>
 				<source_file>IBA_01_Fola-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="9" word="as" raw_freq="258" perc_expl="6.15">
 		<english_equivalent>as</english_equivalent>
 		<orths>
@@ -274,67 +224,43 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_expl="0.2">
-				<example>Even as rain dey fall sef, you go just see sey our weather sweet.</example>
+		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_exmpl="0.2"/><example>Even as rain dey fall sef, you go just see sey our weather sweet.</example>
 				<english_equivalent>Even when it rains, you'll just notice that our weather is nice.</english_equivalent>
 				<source_file>JOS_20_Beauty-Of-Jos_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Comparison.Similarity" prop_expl="8">
-				<example>As your papa born you, feed you, train you, house you, na so, our God for heaven, na im bring im own son too wey im name na Jesus come tell us sey if we must come to him, we go come through dis Jesus.</example>
+			</sem><sem><pdtb3_relation sense="Comparison.Similarity" prop_exmpl="8"/><example>As your papa born you, feed you, train you, house you, na so, our God for heaven, na im bring im own son too wey im name na Jesus come tell us sey if we must come to him, we go come through dis Jesus.</example>
 				<english_equivalent>As your father brought you into the world, fed you, taught you and housed you, so our God in heaven is the One who sent His own son also, whose name is Jesus, to tell us that if we come to Him, we will have to come through Jesus.</english_equivalent>
 				<source_file>PRT_11_A-Man-Named-Jesus_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause.Reason" prop_expl="17.9">
-				<example>And ehm as God con bless us extra, we con move from Murtala Square.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_exmpl="17.9"/><example>And ehm as God con bless us extra, we con move from Murtala Square.</example>
 				<english_equivalent>And uh... as God blessed us even more, we moved from Murtala Square.</english_equivalent>
 				<source_file>KAD_09_Kabir-Gymnasium_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause+Belief.Reason+Belief" prop_expl="0.4">
-				<example>So is not only for di rich people as even if you are as poor as anyting, you fit make dis gote.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause+Belief.Reason+Belief" prop_exmpl="0.4"/><example>So is not only for di rich people as even if you are as poor as anyting, you fit make dis gote.</example>
 				<english_equivalent>So, it is not only for the rich people as... even if you are as poor as anything, you can cook this gote.</english_equivalent>
 				<source_file>JOS_12_How-To-Prepare-Gote-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause+SpeechAct.Reason+SpeechAct" prop_expl="1.1">
-				<example>As I don learn work finish, make I do freedom.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause+SpeechAct.Reason+SpeechAct" prop_exmpl="1.1"/><example>As I don learn work finish, make I do freedom.</example>
 				<english_equivalent>"Since I've finished learning the trade, let me graduate."</english_equivalent>
 				<source_file>ABJ_GWA_10_Steven-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_expl="0.4">
-				<example>As I con see sey e don boil well, well, e don dey enter, I go con put my, ehn I go con put my, my ede.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_exmpl="0.4"/><example>As I con see sey e don boil well, well, e don dey enter, I go con put my, ehn I go con put my, my ede.</example>
 				<english_equivalent>When I realise it's done, it has started entering... then I will put in my uh... then I will put in my, my ede.</english_equivalent>
 				<source_file>IBA_23_Bitter-Leaf-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Level-of-detail.Arg1-as-detail" prop_expl="0.4">
-				<example>As we know, Calabar people na dem dey sabi cook food pass.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Level-of-detail.Arg1-as-detail" prop_exmpl="0.4"/><example>As we know, Calabar people na dem dey sabi cook food pass.</example>
 				<english_equivalent>As we all know, Calabar people are the ones who know the most about how to cook.</english_equivalent>
 				<source_file>LAG_21_I-Like-Stout_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_expl="0.4">
-				<example>As e be so, una see sey we don enter di season of Lent.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_exmpl="0.4"/><example>As e be so, una see sey we don enter di season of Lent.</example>
 				<english_equivalent>As it is, you all know that we are already in the season of Lent.</english_equivalent>
 				<source_file>IBA_31_Lens-Sermon_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Manner.Arg2-as-manner" prop_expl="8">
-				<example>And I go try remember everyting wey happen for di story as di guy take talk am.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Manner.Arg2-as-manner" prop_exmpl="8"/><example>And I go try remember everyting wey happen for di story as di guy take talk am.</example>
 				<english_equivalent>And I will try to remember everything that happened in the story as the guy said it.</english_equivalent>
 				<source_file>IBA_04_Alaska-Pepe_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_expl="0.4">
-				<example>And even as before person go get doctorate, im go do full time research for plenty years.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_exmpl="0.4"/><example>And even as before person go get doctorate, im go do full time research for plenty years.</example>
 				<english_equivalent>And even before anyone can get a doctorate degree, they must have put in many years of full time research.</english_equivalent>
 				<source_file>ONI_26_News-Highlights_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_expl="12.2">
-				<example>So as I put am for water wit some salt (because vinegar, I no go fit get everytime), den, I go carry my bones, biscuit bone (dat is di one dat we normally use because e go make am sweet, ) put am for fire, put onions, and den tomatoes.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_exmpl="12.2"/><example>So as I put am for water wit some salt (because vinegar, I no go fit get everytime), den, I go carry my bones, biscuit bone (dat is di one dat we normally use because e go make am sweet, ) put am for fire, put onions, and den tomatoes.</example>
 				<english_equivalent>So as I put it in the water with some salt (because vinegar, I won't be able to get that all the time), then, I will take my bones (marrow bones, that's what we normally use because they will make it tasty), put them on the fire, add onions and then tomatos.</english_equivalent>
 				<source_file>JOS_12_How-To-Prepare-Gote-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Synchronous" prop_expl="48.9">
-				<example>As we enter hall, naim, di woman come dey ask me who I follow come?</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="48.9"/><example>As we enter hall, naim, di woman come dey ask me who I follow come?</example>
 				<english_equivalent>As soon as we went into the hall of the event, the women just started asking me who invited me.</english_equivalent>
 				<source_file>LAG_07_Johns-Biography_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="10" word="as e be" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>as it is</english_equivalent>
 		<orths>
@@ -345,12 +271,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP PRON AUX</cat><sem><pdtb3_relation sense="Expansion.Conjunction" prop_expl="100">
-				<example>I no dey fit sleep. And as e be sey me I like my bride, the girl fine like anyting.</example>
+		<syn><cat>ADP PRON AUX</cat><sem><pdtb3_relation sense="Expansion.Conjunction" prop_exmpl="100"/><example>I no dey fit sleep. And as e be sey me I like my bride, the girl fine like anyting.</example>
 				<english_equivalent>I can't even sleep. And as it is, me, I like my bride, the girl's so fine.</english_equivalent>
 				<source_file>JOS_21_Marriage-Talk-With-Oscar-1_DG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="11" word="as far as" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>as long as</english_equivalent>
 		<orths>
@@ -361,12 +285,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP ADV ADP</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_expl="100">
-				<example>Sey as far as di place weh me I dey go good, meh me I dey careful for dere.</example>
+		<syn><cat>ADP ADV ADP</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_exmpl="100"/><example>Sey as far as di place weh me I dey go good, meh me I dey careful for dere.</example>
 				<english_equivalent>As long as place I was going was good, I should be careful there.</english_equivalent>
 				<source_file>ABJ_GWA_08_David-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="12" word="as if" raw_freq="3" perc_expl="0.07">
 		<english_equivalent>as if</english_equivalent>
 		<orths>
@@ -377,17 +299,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP SCONJ</cat><sem><pdtb3_relation sense="Comparison.Similarity" prop_expl="37.5">
-				<example>And if dey see men, na so de go dey blow deir yansh. As if dem dey advertise demselves to di men.</example>
+		<syn><cat>ADP SCONJ</cat><sem><pdtb3_relation sense="Comparison.Similarity" prop_exmpl="37.5"/><example>And if dey see men, na so de go dey blow deir yansh. As if dem dey advertise demselves to di men.</example>
 				<english_equivalent>And if they see men, they'll go shaking their butts. As if they are advertising themselves to the men.</english_equivalent>
 				<source_file>JOS_10_Mothers-Against-Mini-Skirts_DG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Manner.Arg2-as-manner" prop_expl="37.5">
-				<example>She just look me, smile, comot abf, as if sey she no see as we dey yab oursef.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Manner.Arg2-as-manner" prop_exmpl="37.5"/><example>She just look me, smile, comot abf, as if sey she no see as we dey yab oursef.</example>
 				<english_equivalent>She just looked at me, smiled, took her f-... as if she didn't notice how we were teasing each other.</english_equivalent>
 				<source_file>ENU_37_Dmoris-Restaurant_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="13" word="as in" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>in other words</english_equivalent>
 		<orths>
@@ -398,12 +316,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP ADP</cat><sem><pdtb3_relation sense="Expansion.Equivalence" prop_expl="100">
-				<example>As per a sharp guy, dis ting con dey reason sey na me go pay for her own food matter. As in kai agbada don hook wire today be dat!</example>
+		<syn><cat>ADP ADP</cat><sem><pdtb3_relation sense="Expansion.Equivalence" prop_exmpl="100"/><example>As per a sharp guy, dis ting con dey reason sey na me go pay for her own food matter. As in kai agbada don hook wire today be dat!</example>
 				<english_equivalent>As a sharp guy, it occurred to me that I'll be the one to pay for her meal. In other words, it means man, I'm stuck!</english_equivalent>
 				<source_file>KAD_13_Entering-University_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="14" word="as long as" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>as long as</english_equivalent>
 		<orths>
@@ -414,12 +330,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP ADJ ADP</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_expl="100">
-				<example>From inst-... from fashion o, music, dance, comedy, as long as sey na entertainment, my hand suppose dey inside.</example>
+		<syn><cat>ADP ADJ ADP</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_exmpl="100"/><example>From inst-... from fashion o, music, dance, comedy, as long as sey na entertainment, my hand suppose dey inside.</example>
 				<english_equivalent>From inst-... from fashion to music, to dance, comedy... as long as it's entertainment, I'm supposed to be involved.</english_equivalent>
 				<source_file>WAZA_10_Bluetooth-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="15" word="as sey" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>as if</english_equivalent>
 		<orths>
@@ -430,12 +344,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP SCONJ</cat><sem><pdtb3_relation sense="Comparison.Similarity" prop_expl="100">
-				<example>Everytime, you just dey waka dey carry hand for up as sey e get boil for armpit.</example>
+		<syn><cat>ADP SCONJ</cat><sem><pdtb3_relation sense="Comparison.Similarity" prop_exmpl="100"/><example>Everytime, you just dey waka dey carry hand for up as sey e get boil for armpit.</example>
 				<english_equivalent>You're always walking about with your arms up as if your have boils in your armpits.</english_equivalent>
 				<source_file>WAZL_15_MC-Abi_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="16" word="as soon as" raw_freq="2" perc_expl="0.05">
 		<english_equivalent>as soon as</english_equivalent>
 		<orths>
@@ -446,12 +358,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP ADV ADP</cat><sem><pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_expl="100">
-				<example>As soon as service close, I come house, go back to church again.</example>
+		<syn><cat>ADP ADV ADP</cat><sem><pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_exmpl="100"/><example>As soon as service close, I come house, go back to church again.</example>
 				<english_equivalent>As soon as the service is over, I will go home, and then go back to church.</english_equivalent>
 				<source_file>PRT_07_Drummer_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="17" word="at dat period" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>at the same time</english_equivalent>
 		<orths>
@@ -462,12 +372,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP DET NOUN</cat><sem><pdtb3_relation sense="Temporal.Synchronous" prop_expl="100">
-				<example>Di piston beginning to taking di fuel up while di plug gave fire. At dat period, e get one certain fire wey we dey call breaking fire for di middle of di engine.</example>
+		<syn><cat>ADP DET NOUN</cat><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="100"/><example>Di piston beginning to taking di fuel up while di plug gave fire. At dat period, e get one certain fire wey we dey call breaking fire for di middle of di engine.</example>
 				<english_equivalent>The piston starts taking the fuel up while the plug powers it up. At the same time, there's a certain fire in the middle of the engine which we call the breaking fire.</english_equivalent>
 				<source_file>KAD_12_Mechanic-At-Work_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="18" word="at di end" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>in the end</english_equivalent>
 		<orths>
@@ -478,12 +386,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP DET NOUN</cat><sem><pdtb3_relation sense="Expansion.Conjunction" prop_expl="100">
-				<example>E for make sense dan dis one wey people go dey do tings by demsef. At di end, de go still con come comot am from ground.</example>
+		<syn><cat>ADP DET NOUN</cat><sem><pdtb3_relation sense="Expansion.Conjunction" prop_exmpl="100"/><example>E for make sense dan dis one wey people go dey do tings by demsef. At di end, de go still con come comot am from ground.</example>
 				<english_equivalent>It will make more sense than having people do things by themselves. In the end, they will still come and take it from the ground.</english_equivalent>
 				<source_file>ABJ_INF_12_Evictions_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="19" word="at di same time" raw_freq="3" perc_expl="0.07">
 		<english_equivalent>at the same time</english_equivalent>
 		<orths>
@@ -494,12 +400,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP DET ADJ NOUN</cat><sem><pdtb3_relation sense="Temporal.Synchronous" prop_expl="100">
-				<example>Daddy na reverend, mumsie na pastor. Den, at di same time, di man na medical psychologist, den mumsy na linguist.</example>
+		<syn><cat>ADP DET ADJ NOUN</cat><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="100"/><example>Daddy na reverend, mumsie na pastor. Den, at di same time, di man na medical psychologist, den mumsy na linguist.</example>
 				<english_equivalent>My daddy is a reverend, my mommy is a pastor. Then, at the same time, the man was a medical psychologist, and then my mom was a linguist.</english_equivalent>
 				<source_file>WAZP_04_Ponzi-Scheme_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="20" word="based on sey" raw_freq="2" perc_expl="0.05">
 		<english_equivalent>since</english_equivalent>
 		<orths>
@@ -513,12 +417,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP ADP SCONJ</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_expl="100">
-				<example>We con greet based on sey im know me.</example>
+		<syn><cat>ADP ADP SCONJ</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_exmpl="100"/><example>We con greet based on sey im know me.</example>
 				<english_equivalent>So we chatted since he knew me.</english_equivalent>
 				<source_file>ABJ_GWA_12_Accident_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="21" word="based on sey" raw_freq="2" perc_expl="0.05">
 		<english_equivalent>given that</english_equivalent>
 		<orths>
@@ -532,12 +434,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP ADP SCONJ</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_expl="100">
-				<example>We con greet based on sey im know me.</example>
+		<syn><cat>ADP ADP SCONJ</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_exmpl="100"/><example>We con greet based on sey im know me.</example>
 				<english_equivalent>So we chatted since he knew me.</english_equivalent>
 				<source_file>ABJ_GWA_12_Accident_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="22" word="be sey" raw_freq="7" perc_expl="0.17">
 		<english_equivalent>that is</english_equivalent>
 		<orths>
@@ -548,27 +448,19 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>AUX SCONJ</cat><sem><pdtb3_relation sense="Comparison.Similarity" prop_expl="6.2">
-				<example>So im tell me sey mah I con try, meh e no be sey I just dey dey house everytime.</example>
+		<syn><cat>AUX SCONJ</cat><sem><pdtb3_relation sense="Comparison.Similarity" prop_exmpl="6.2"/><example>So im tell me sey mah I con try, meh e no be sey I just dey dey house everytime.</example>
 				<english_equivalent>So he told me I should come and give it a try, so it won't be as if I'm always just staying at home.</english_equivalent>
 				<source_file>ENU_22_Barman-Interview_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause.Reason" prop_expl="62.5">
-				<example>I don wrap am be sey I don wrap am.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_exmpl="62.5"/><example>I don wrap am be sey I don wrap am.</example>
 				<english_equivalent>"You have to have it because I've wrapped it already."</english_equivalent>
 				<source_file>PRT_05_Ghetto-Life_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_expl="12.5">
-				<example>And all di people wey be sey con be our lecturer, na small, small pikin wey be sey we be age mate.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_exmpl="12.5"/><example>And all di people wey be sey con be our lecturer, na small, small pikin wey be sey we be age mate.</example>
 				<english_equivalent>And all the people that were our lecturers were very young, that is they were my age.</english_equivalent>
 				<source_file>IBA_01_Fola-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Manner.Arg2-as-manner" prop_expl="6.2">
-				<example>So im tell me sey mah I con try, meh e no be sey I just dey dey house everytime.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Manner.Arg2-as-manner" prop_exmpl="6.2"/><example>So im tell me sey mah I con try, meh e no be sey I just dey dey house everytime.</example>
 				<english_equivalent>So he told me I should come and give it a try, so it won't be as if I'm always just staying at home.</english_equivalent>
 				<source_file>ENU_22_Barman-Interview_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="23" word="because" raw_freq="360" perc_expl="8.58">
 		<english_equivalent>because</english_equivalent>
 		<orths>
@@ -598,22 +490,16 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_expl="81">
-				<example>Na him we dey give people because if you no get appetite, e dey do.</example>
+		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_exmpl="81"/><example>Na him we dey give people because if you no get appetite, e dey do.</example>
 				<english_equivalent>That's what we give people because if you have no appetite, it'll give you an appetite.</english_equivalent>
 				<source_file>JOS_12_How-To-Prepare-Gote-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause+Belief.Reason+Belief" prop_expl="9.6">
-				<example>Without God, you are on your own because if not, if you don't have God, you go suffer.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause+Belief.Reason+Belief" prop_exmpl="9.6"/><example>Without God, you are on your own because if not, if you don't have God, you go suffer.</example>
 				<english_equivalent>Without God, you're on your own, because if not, if you don't have God, you'll suffer.</english_equivalent>
 				<source_file>ABJ_GWA_03_Cost-Of-Living-In-Abuja_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause+SpeechAct.Reason+SpeechAct" prop_expl="8.2">
-				<example>Make im bodi well. Because de say e dey, e dey sick now.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause+SpeechAct.Reason+SpeechAct" prop_exmpl="8.2"/><example>Make im bodi well. Because de say e dey, e dey sick now.</example>
 				<english_equivalent>May he remain in good health. Because they said he is... he is sick now.</english_equivalent>
 				<source_file>IBA_21_Obodo-Barracks_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="24" word="before" raw_freq="84" perc_expl="2">
 		<english_equivalent>before</english_equivalent>
 		<orths>
@@ -631,12 +517,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_expl="100">
-				<example>We wait for bus mtschew like about thirty minutes before we con see bus, we con begin go home.</example>
+		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_exmpl="100"/><example>We wait for bus mtschew like about thirty minutes before we con see bus, we con begin go home.</example>
 				<english_equivalent>We waited for the bus mstchew, for about thirty minutes before we saw one, then we started heading home.</english_equivalent>
 				<source_file>ENU_02_Christmas-At-New-Berries_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="25" word="but" raw_freq="425" perc_expl="10.12">
 		<english_equivalent>but</english_equivalent>
 		<orths>
@@ -647,32 +531,22 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>CCONJ</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg2-as-denier" prop_expl="89.1">
-				<example>New person go come, everybody go dey shout hey hey hey hosanna, but when matter con be matter, everyting go remain di same.</example>
+		<syn><cat>CCONJ</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg2-as-denier" prop_exmpl="89.1"/><example>New person go come, everybody go dey shout hey hey hey hosanna, but when matter con be matter, everyting go remain di same.</example>
 				<english_equivalent>A new person will come, everybody will be shouting hey hey hosanna but when things get serious nothing will change.</english_equivalent>
 				<source_file>ABJ_GWA_09_Journalism_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct" prop_expl="0.9">
-				<example>So di vital message for today is that the kingdom of God, like Jesus say, is near you, but how can you access it?</example>
+			</sem><sem><pdtb3_relation sense="Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct" prop_exmpl="0.9"/><example>So di vital message for today is that the kingdom of God, like Jesus say, is near you, but how can you access it?</example>
 				<english_equivalent>So the vital message for today is that the Kingdom of God, like Jesus said, is near you, but how can you access it?</english_equivalent>
 				<source_file>PRT_11_A-Man-Named-Jesus_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Comparison.Contrast" prop_expl="9">
-				<example>So is good for someone to grow above di age of eighteen before e can start to dey take ehn beer. But beer is very good because e would help you.</example>
+			</sem><sem><pdtb3_relation sense="Comparison.Contrast" prop_exmpl="9"/><example>So is good for someone to grow above di age of eighteen before e can start to dey take ehn beer. But beer is very good because e would help you.</example>
 				<english_equivalent>So it's good for someone to be over eighteen before they can start drinking uh... beer. But beer is very good because it will help you.</english_equivalent>
 				<source_file>LAG_21_I-Like-Stout_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Instantiation.Arg2-as-instance" prop_expl="0.2">
-				<example>Dem go buy dem. But man wey you know sey don marry, im wife dey manage, when e tell you sey e want do birthday, you go go buy am Ipad, and di, all dose big, big tings wey you take am do gifts.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Instantiation.Arg2-as-instance" prop_exmpl="0.2"/><example>Dem go buy dem. But man wey you know sey don marry, im wife dey manage, when e tell you sey e want do birthday, you go go buy am Ipad, and di, all dose big, big tings wey you take am do gifts.</example>
 				<english_equivalent>They will buy them. But a man who you know is married, whose wife is managing, when he tells you he wants to celebrate his birthday, you will go and buy him an iPad, and the, all those other big things you give as gifts.</english_equivalent>
 				<source_file>IBA_03_Womanisers_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Substitution.Arg2-as-subst" prop_expl="0.5">
-				<example>De fit no dey produce di oil, but de go meet people dem wey be sey de produce oil, join hand togeder.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Substitution.Arg2-as-subst" prop_exmpl="0.5"/><example>De fit no dey produce di oil, but de go meet people dem wey be sey de produce oil, join hand togeder.</example>
 				<english_equivalent>They can't be producing the oil they use but they will meet and partner with the ones producing oil, so that they can work together.</english_equivalent>
 				<source_file>WAZA_05_Big-Mo_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="26" word="con" raw_freq="296" perc_expl="7.05">
 		<english_equivalent>then</english_equivalent>
 		<orths>
@@ -686,32 +560,22 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>AUX</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_expl="0.3">
-				<example>So we con born di pikin now, drama con start.</example>
+		<syn><cat>AUX</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_exmpl="0.3"/><example>So we con born di pikin now, drama con start.</example>
 				<english_equivalent>So now that we had the kid, the drama started.</english_equivalent>
 				<source_file>ABJ_GWA_14_Mary-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause.Result" prop_expl="6.8">
-				<example>Den, ehn some kind ehn logistic issues con happen, technical issues con happen. We con merge ehn Cool TV into Wa-... Wazobia.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause.Result" prop_exmpl="6.8"/><example>Den, ehn some kind ehn logistic issues con happen, technical issues con happen. We con merge ehn Cool TV into Wa-... Wazobia.</example>
 				<english_equivalent>Then, uh... there were some logistical issues, there were some technical issues. So we merged Cool TV into Wa-... Wazobia.</english_equivalent>
 				<source_file>WAZL_08_Edewor-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Conjunction" prop_expl="0.7">
-				<example>So we con meet person, de con buy us food, con buy us drink.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Conjunction" prop_exmpl="0.7"/><example>So we con meet person, de con buy us food, con buy us drink.</example>
 				<english_equivalent>So we met people, they bought us food, and then bought us drinks.</english_equivalent>
 				<source_file>ENU_02_Christmas-At-New-Berries_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Narrative-response" prop_expl="0.2">
-				<example>Di man say na five years me I go dey im hand meh me I learn di work. I con tell am sey toh but if I sabi before dat five years nko, I fit go open my own shop right?</example>
+			</sem><sem><pdtb3_relation sense="Narrative-response" prop_exmpl="0.2"/><example>Di man say na five years me I go dey im hand meh me I learn di work. I con tell am sey toh but if I sabi before dat five years nko, I fit go open my own shop right?</example>
 				<english_equivalent>The man said I'd stay with him for five years to learn the job. I then told him "well, but what if I master the skills before the five years, I can go open my own shop, right?"</english_equivalent>
 				<source_file>ABJ_GWA_08_David-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_expl="89.9">
-				<example>So na so we con sit down, we come open am, we come talk to one lawyer.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_exmpl="89.9"/><example>So na so we con sit down, we come open am, we come talk to one lawyer.</example>
 				<english_equivalent>So, that's how we sat down, then we opened it, and then we talked to a lawyer.</english_equivalent>
 				<source_file>KAD_09_Kabir-Gymnasium_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="27" word="den" raw_freq="125" perc_expl="2.98">
 		<english_equivalent>then</english_equivalent>
 		<orths>
@@ -722,37 +586,25 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Contingency.Cause.Result" prop_expl="1.2">
-				<example>Me, and my friend, we con dey do work for people together. Den, ending of di year, de go con dey pay us our money.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Contingency.Cause.Result" prop_exmpl="1.2"/><example>Me, and my friend, we con dey do work for people together. Den, ending of di year, de go con dey pay us our money.</example>
 				<english_equivalent>So my friend and I, we started to work together for people. Then, at the end of the year, they would come give us our money.</english_equivalent>
 				<source_file>ABJ_GWA_08_David-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause+Belief.Result+Belief" prop_expl="0.4">
-				<example>Ehen now, but di true be sey when you look wetin de dey do, wit wetin deir wives dey do, deir wives de dey stonger. Den, dat one dey sha.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause+Belief.Result+Belief" prop_exmpl="0.4"/><example>Ehen now, but di true be sey when you look wetin de dey do, wit wetin deir wives dey do, deir wives de dey stonger. Den, dat one dey sha.</example>
 				<english_equivalent>Uhuh, but the truth is that when you look at what they're doing and what their wives do, their wives, they are stronger. Then, that's right.</english_equivalent>
 				<source_file>JOS_21_Marriage-Talk-With-Oscar-1_DG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Condition.Arg1-as-cond" prop_expl="1.2">
-				<example>Con talk sey ah make I marry am, den e go be di queen of di land.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Condition.Arg1-as-cond" prop_exmpl="1.2"/><example>Con talk sey ah make I marry am, den e go be di queen of di land.</example>
 				<english_equivalent>She then said, "ah! Let me marry him." Then she'll be the queen of the land.</english_equivalent>
 				<source_file>BEN_36_Clever-Girl_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Conjunction" prop_expl="14.5">
-				<example>Dat one na di first one wey you first give am just after you born am finish. Den e still get di one wey de still give her again after one month.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Conjunction" prop_exmpl="14.5"/><example>Dat one na di first one wey you first give am just after you born am finish. Den e still get di one wey de still give her again after one month.</example>
 				<english_equivalent>That's the first one you'll give it right after birth. Then, there's another one that will be given again a month later.</english_equivalent>
 				<source_file>BEN_09_Tailoring-Immunization_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_expl="79.7">
-				<example>After di ting don steam well, well, I carry am down. Den, I con pour di oil inside my pot.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_exmpl="79.7"/><example>After di ting don steam well, well, I carry am down. Den, I con pour di oil inside my pot.</example>
 				<english_equivalent>After it's steamed thoroughly, I take it down. Then, I put the oil in my pot.</english_equivalent>
 				<source_file>ENU_01_Salomis-Egusi-Soup-Recipe_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Synchronous" prop_expl="0.8">
-				<example>Naim e con tell me sey... Because den, I no even know wetin de dey call car AC sef.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="0.8"/><example>Naim e con tell me sey... Because den, I no even know wetin de dey call car AC sef.</example>
 				<english_equivalent>So he told me that... Because then, I didn't even know what they called car AC (Air Conditioning).</english_equivalent>
 				<source_file>ABJ_GWA_12_Accident_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="28" word="depending on" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>depending on</english_equivalent>
 		<orths>
@@ -763,12 +615,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>VERB ADP</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_expl="100">
-				<example>But dat ehen means different tings depending on how you take use am.</example>
+		<syn><cat>VERB ADP</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_exmpl="100"/><example>But dat ehen means different tings depending on how you take use am.</example>
 				<english_equivalent>But that 'uhuh' means different things, depending on how you use it.</english_equivalent>
 				<source_file>WAZA_10_Bluetooth-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="29" word="di time" raw_freq="10" perc_expl="0.24">
 		<english_equivalent>when</english_equivalent>
 		<orths>
@@ -792,17 +642,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>DET NOUN</cat><sem><pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_expl="10">
-				<example>But person wey e go don sabi sey e don sabi am, e go concentrate for di ting wey e dey do. By dis time, even though university did not compensate us for di work wey we dey do too much but we still know sey we still dey work.</example>
+		<syn><cat>DET NOUN</cat><sem><pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_exmpl="10"/><example>But person wey e go don sabi sey e don sabi am, e go concentrate for di ting wey e dey do. By dis time, even though university did not compensate us for di work wey we dey do too much but we still know sey we still dey work.</example>
 				<english_equivalent>But a person who's sure he's mastered it, he'll concentrate on what he's doing. By then, even though the university doesn't pay us that much for the work we're doing, we know that we're still working.</english_equivalent>
 				<source_file>IBA_15_Electrician_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Synchronous" prop_expl="90">
-				<example>Ehen na dat time de dey do di festival.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="90"/><example>Ehen na dat time de dey do di festival.</example>
 				<english_equivalent>Uh... that's when they do the festival.</english_equivalent>
 				<source_file>IBA_02_Igwe-Festival_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="30" word="dough" raw_freq="19" perc_expl="0.45">
 		<english_equivalent>though</english_equivalent>
 		<orths>
@@ -825,17 +671,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_expl="63.2">
-				<example>Dat research wey dat student do, na im go help di country. Dough maybe one department fit decide to do research.</example>
+		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_exmpl="63.2"/><example>Dat research wey dat student do, na im go help di country. Dough maybe one department fit decide to do research.</example>
 				<english_equivalent>The research that student did, that is what will help the country. Though maybe one department can decide to do some research.</english_equivalent>
 				<source_file>JOS_14_Chibozor-View-About-Nigeria_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Comparison.Concession.Arg2-as-denier" prop_expl="36.8">
-				<example>Mehn e no easy after some years like dat for just some kind maths though usually no dulling as per kd guy now.</example>
+			</sem><sem><pdtb3_relation sense="Comparison.Concession.Arg2-as-denier" prop_exmpl="36.8"/><example>Mehn e no easy after some years like dat for just some kind maths though usually no dulling as per kd guy now.</example>
 				<english_equivalent>Guys, it was not easy to solve some kinds of math after several years, but usually as a Kaduna guy there's no messing around.</english_equivalent>
 				<source_file>KAD_13_Entering-University_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="31" word="during" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>while</english_equivalent>
 		<orths>
@@ -846,12 +688,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Temporal.Synchronous" prop_expl="100">
-				<example>E point out to sey during im search for di suspect house, thirteen different ATM card wey belong to different victims, na im dem see o.</example>
+		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="100"/><example>E point out to sey during im search for di suspect house, thirteen different ATM card wey belong to different victims, na im dem see o.</example>
 				<english_equivalent>He pointed out that while searching the suspect's house, they found thirteen different ATM cards belonging to different victims.</english_equivalent>
 				<source_file>IBA_33_News-Comments_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="32" word="else" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>else</english_equivalent>
 		<orths>
@@ -862,12 +702,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADJ</cat><sem><pdtb3_relation sense="Contingency.Negative-condition.Arg2-as-negCond" prop_expl="100">
-				<example>Toh SERAP sha don dey talk sey make dem carry Thompson back o. Or else Aijebe...</example>
+		<syn><cat>ADJ</cat><sem><pdtb3_relation sense="Contingency.Negative-condition.Arg2-as-negCond" prop_exmpl="100"/><example>Toh SERAP sha don dey talk sey make dem carry Thompson back o. Or else Aijebe...</example>
 				<english_equivalent>Well, SERAP has been saying that Thompson should be called back. Or else Aijebe...</english_equivalent>
 				<source_file>IBA_33_News-Comments_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="33" word="except" raw_freq="9" perc_expl="0.21">
 		<english_equivalent>except</english_equivalent>
 		<orths>
@@ -882,17 +720,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Contingency.Negative-condition.Arg2-as-negCond" prop_expl="88.9">
-				<example>Which means, except you accept Jesus into your life, you cannot see di kingdom of God.</example>
+		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Contingency.Negative-condition.Arg2-as-negCond" prop_exmpl="88.9"/><example>Which means, except you accept Jesus into your life, you cannot see di kingdom of God.</example>
 				<english_equivalent>Which means unless you accept Jesus into your life, you cannot see the Kingdom of God.</english_equivalent>
 				<source_file>PRT_11_A-Man-Named-Jesus_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Exception.Arg2-as-excpt" prop_expl="11.1">
-				<example>But to tell you dis kind of tings sey... Except I wan call di person name.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Exception.Arg2-as-excpt" prop_exmpl="11.1"/><example>But to tell you dis kind of tings sey... Except I wan call di person name.</example>
 				<english_equivalent>But to tell you this kind of thing that... Except if I want to call the person by name.</english_equivalent>
 				<source_file>IBA_04_Alaska-Pepe_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="34" word="first" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>first</english_equivalent>
 		<orths>
@@ -903,12 +737,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_expl="100">
-				<example>And na ehn cocoyam. So I go cook di cocoyam first.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_exmpl="100"/><example>And na ehn cocoyam. So I go cook di cocoyam first.</example>
 				<english_equivalent>And it's uh... cocoyam. So first I'll cook the cocoyam.</english_equivalent>
 				<source_file>IBA_23_Bitter-Leaf-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="35" word="for" raw_freq="6" perc_expl="0.14">
 		<english_equivalent>for</english_equivalent>
 		<orths>
@@ -923,32 +755,22 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_expl="16.7">
-				<example>For I just newly come inside barrack here, so I never too get customer wey plenty.</example>
+		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_exmpl="16.7"/><example>For I just newly come inside barrack here, so I never too get customer wey plenty.</example>
 				<english_equivalent>Because I just moved into the barracks here, so I really don't have many customers.</english_equivalent>
 				<source_file>IBA_20_Bose-Alade_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause+Belief.Reason+Belief" prop_expl="16.7">
-				<example>Mah dey do my work for house. For God wey like me, I no know sey God still like me.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause+Belief.Reason+Belief" prop_exmpl="16.7"/><example>Mah dey do my work for house. For God wey like me, I no know sey God still like me.</example>
 				<english_equivalent>Let me just keep doing my work at home. For God who loves me, I didn't know if God still liked me.</english_equivalent>
 				<source_file>ABJ_GWA_03_Cost-Of-Living-In-Abuja_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_expl="16.7">
-				<example>Den, you no know sey dat system dey rely on people for am to grow.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_exmpl="16.7"/><example>Den, you no know sey dat system dey rely on people for am to grow.</example>
 				<english_equivalent>Then, you don´t know that that system relies on people in order to grow.</english_equivalent>
 				<source_file>WAZP_04_Ponzi-Scheme_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Manner.Arg2-as-manner" prop_expl="16.7">
-				<example>Love book, wey be sey di, e know sey im do mistake for not, for not putting me for right place from beginning o.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Manner.Arg2-as-manner" prop_exmpl="16.7"/><example>Love book, wey be sey di, e know sey im do mistake for not, for not putting me for right place from beginning o.</example>
 				<english_equivalent>He loved education, which means that the... he knew he made a mistake by not... by not putting me in the right place from the beginning.</english_equivalent>
 				<source_file>LAG_11_Adeniyi-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Synchronous" prop_expl="33.3">
-				<example>If weather hot, you con dey go drink hot pepper soup for dis hot weather, na hot temper you wan dey, you wan get last, last.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="33.3"/><example>If weather hot, you con dey go drink hot pepper soup for dis hot weather, na hot temper you wan dey, you wan get last, last.</example>
 				<english_equivalent>If you're having hot pepper soup while the weather is hot, you just want to make things worse.</english_equivalent>
 				<source_file>WAZL_15_MC-Abi_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="36" word="further" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>furthermore</english_equivalent>
 		<orths>
@@ -959,12 +781,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Expansion.Conjunction" prop_expl="100">
-				<example>My brother, two weeks now I use for hospital with pop for my neck. Furthermore, my, my speech became really distorted.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Expansion.Conjunction" prop_exmpl="100"/><example>My brother, two weeks now I use for hospital with pop for my neck. Furthermore, my, my speech became really distorted.</example>
 				<english_equivalent>My brother, I spent two weeks in the hospital, with POP [Plaster of Paris] on my neck. Furthermore, my, my speech became really distorted.</english_equivalent>
 				<source_file>WAZL_15_MC-Abi_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="37" word="hence" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>so</english_equivalent>
 		<orths>
@@ -975,12 +795,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Contingency.Cause+Belief.Result+Belief" prop_expl="100">
-				<example>Because I know life isn't easy. So when man... when God created huma-, man... as men, we have a lot of things to face. We have a heavy cross to bear.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Contingency.Cause+Belief.Result+Belief" prop_exmpl="100"/><example>Because I know life isn't easy. So when man... when God created huma-, man... as men, we have a lot of things to face. We have a heavy cross to bear.</example>
 				<english_equivalent>Because I see sey dis life, e no dey easy. Hence man don, God don create man become huma-... man, we get a lot of tins to face, we get a lot of cross to carry.</english_equivalent>
 				<source_file>ABJ_GWA_06_Ugo-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="38" word="if" raw_freq="589" perc_expl="14.03">
 		<english_equivalent>if</english_equivalent>
 		<orths>
@@ -1018,47 +836,31 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_expl="4.5">
-				<example>Even if I go Lagos, heat no dey gree me stay because I don dey use to dis town.</example>
+		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_exmpl="4.5"/><example>Even if I go Lagos, heat no dey gree me stay because I don dey use to dis town.</example>
 				<english_equivalent>Even if I go to Lagos, the heat over there makes it uncomfortable for me to stay long because I'm already so used to this town.</english_equivalent>
 				<source_file>JOS_20_Beauty-Of-Jos_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Comparison.Concession.Arg2-as-denier" prop_expl="0.3">
-				<example>Because if we dey wait for our government, dem no go help us.</example>
+			</sem><sem><pdtb3_relation sense="Comparison.Concession.Arg2-as-denier" prop_exmpl="0.3"/><example>Because if we dey wait for our government, dem no go help us.</example>
 				<english_equivalent>Because if we are waiting for our government, they will not help us.</english_equivalent>
 				<source_file>LAG_07_Johns-Biography_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_expl="79.8">
-				<example>Now if children go dey go school for dis country, den people wey dey top go try very, very well make de dey provide job make de dey come out come work.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_exmpl="79.8"/><example>Now if children go dey go school for dis country, den people wey dey top go try very, very well make de dey provide job make de dey come out come work.</example>
 				<english_equivalent>Now if kids are to go to school in this country, then the people in authority should really make sure that they provide jobs so that the gratuating students will employed immediately.</english_equivalent>
 				<source_file>WAZP_03_Education_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Condition+SpeechAct" prop_expl="11.4">
-				<example>If you ask me, na who I go ask?</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Condition+SpeechAct" prop_exmpl="11.4"/><example>If you ask me, na who I go ask?</example>
 				<english_equivalent>If you ask me, who will I ask?</english_equivalent>
 				<source_file>IBA_32_Tori-By-Samuel_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Negative-condition.Arg2-as-negCond" prop_expl="0.2">
-				<example>My uncle say toh if me I no write dis year, meh me I no vex sey I go go find work do, and im too go try im best.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Negative-condition.Arg2-as-negCond" prop_exmpl="0.2"/><example>My uncle say toh if me I no write dis year, meh me I no vex sey I go go find work do, and im too go try im best.</example>
 				<english_equivalent>My uncle said well, if I didn't do it this year, I shouldn't get angry, I should go get a job and he too would try his best.</english_equivalent>
 				<source_file>ABJ_GWA_08_David-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_expl="0.2">
-				<example>If we look Jesus so, Satan tempt am for three areas.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_exmpl="0.2"/><example>If we look Jesus so, Satan tempt am for three areas.</example>
 				<english_equivalent>If we take a good look at Jesus, Satan tempted him in three areas.</english_equivalent>
 				<source_file>IBA_31_Lens-Sermon_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_expl="0.2">
-				<example> So if I don stir am well, well make e melt, I go put my st-... caustic soda for water.I go soak am for three liters of water.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_exmpl="0.2"/><example> So if I don stir am well, well make e melt, I go put my st-... caustic soda for water.I go soak am for three liters of water.</example>
 				<english_equivalent>So when I have stirred it very well, in order to dissolve it... I will soak it in three liters of water.</english_equivalent>
 				<source_file>LAG_37_Soap-Making_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_expl="1.2">
-				<example>If I don put everything inside, e go dey boil, I go leave so dat di pepper go enter am well, well.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_exmpl="1.2"/><example>If I don put everything inside, e go dey boil, I go leave so dat di pepper go enter am well, well.</example>
 				<english_equivalent>Once I've put everything into the pot, it will be boiling, I'll leave it so the pepper will really get into the meat.</english_equivalent>
 				<source_file>IBA_23_Bitter-Leaf-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="39" word="in case" raw_freq="2" perc_expl="0.05">
 		<english_equivalent>in case</english_equivalent>
 		<orths>
@@ -1069,17 +871,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP NOUN</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_expl="50">
-				<example>How you go take know native banga in case you want to know?</example>
+		<syn><cat>ADP NOUN</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_exmpl="50"/><example>How you go take know native banga in case you want to know?</example>
 				<english_equivalent>How can you identify the native banga, in case you want to know?</english_equivalent>
 				<source_file>PRT_01_Banga-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Condition+SpeechAct" prop_expl="50">
-				<example>You see, mah, make I tell you wetin dey in case you no know.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Condition+SpeechAct" prop_exmpl="50"/><example>You see, mah, make I tell you wetin dey in case you no know.</example>
 				<english_equivalent>You see, let... let me tell you in case you don't know.</english_equivalent>
 				<source_file>ABJ_INF_08_Impatience_DG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="40" word="in fact" raw_freq="61" perc_expl="1.45">
 		<english_equivalent>in fact</english_equivalent>
 		<orths>
@@ -1093,22 +891,16 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP NOUN</cat><sem><pdtb3_relation sense="Expansion.Instantiation.Arg2-as-instance" prop_expl="1.6">
-				<example/>
+		<syn><cat>ADP NOUN</cat><sem><pdtb3_relation sense="Expansion.Instantiation.Arg2-as-instance" prop_exmpl="1.6"/><example/>
 				<english_equivalent>When you go to some countries like... (I donâ€šÃ„Ã´t want to mention names so you donâ€šÃ„Ã´t think I'm comparing Nigeria to other countries), you would discover that...</english_equivalent>
 				<source_file>WAZP_04_Ponzi-Scheme_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_expl="92.7">
-				<example>E get one, ehn ehn one of my friend, one chick o (in fact, like to say na my first girlfriend be dat one), so me, and she we dey flow very well.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_exmpl="92.7"/><example>E get one, ehn ehn one of my friend, one chick o (in fact, like to say na my first girlfriend be dat one), so me, and she we dey flow very well.</example>
 				<english_equivalent>There was one, uh... one of my friends, this chick (in fact, I would say she was my first girlfriend), so she and I really connected well.</english_equivalent>
 				<source_file>ENU_37_Dmoris-Restaurant_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Substitution.Arg2-as-subst" prop_expl="4">
-				<example>Insurance no be sey dem create am for person wey get money. In fact, na people wey no too get money di ting dey benefit pass.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Substitution.Arg2-as-subst" prop_exmpl="4"/><example>Insurance no be sey dem create am for person wey get money. In fact, na people wey no too get money di ting dey benefit pass.</example>
 				<english_equivalent>Insurance was not created for rich people. In fact, it's more beneficial to people who really don't have much money.</english_equivalent>
 				<source_file>LAG_12_Insurance_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="41" word="instead" raw_freq="3" perc_expl="0.07">
 		<english_equivalent>instead</english_equivalent>
 		<orths>
@@ -1119,12 +911,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Expansion.Substitution.Arg2-as-subst" prop_expl="100">
-				<example>Face me say na me you wan kill, instead of you to kill me, na me go kill you first for dis town.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Expansion.Substitution.Arg2-as-subst" prop_exmpl="100"/><example>Face me say na me you wan kill, instead of you to kill me, na me go kill you first for dis town.</example>
 				<english_equivalent>He pointed the gun at me saying, "You want to kill me, but instead, I'll be the first person to kill you in this town."</english_equivalent>
 				<source_file>WAZL_15_MC-Abi_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="42" word="instead of" raw_freq="4" perc_expl="0.1">
 		<english_equivalent>instead of</english_equivalent>
 		<orths>
@@ -1135,12 +925,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP ADP</cat><sem><pdtb3_relation sense="Expansion.Substitution.Arg1-as-subst" prop_expl="100">
-				<example>Instead of putting pepper direct like di oder method, dis time around now, na di egusi you pour direct for dat oil wey don hot.</example>
+		<syn><cat>ADP ADP</cat><sem><pdtb3_relation sense="Expansion.Substitution.Arg1-as-subst" prop_exmpl="100"/><example>Instead of putting pepper direct like di oder method, dis time around now, na di egusi you pour direct for dat oil wey don hot.</example>
 				<english_equivalent>Instead of putting pepper in directly, like in the other method, this time around, it's the egusi you will pour directly into that oil which is already hot.</english_equivalent>
 				<source_file>KAD_10_Egusi-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="43" word="instead of" raw_freq="4" perc_expl="0.1">
 		<english_equivalent>instead of</english_equivalent>
 		<orths>
@@ -1151,12 +939,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV ADP</cat><sem><pdtb3_relation sense="Expansion.Substitution.Arg1-as-subst" prop_expl="100">
-				<example>Instead of putting pepper direct like di oder method, dis time around now, na di egusi you pour direct for dat oil wey don hot.</example>
+		<syn><cat>ADV ADP</cat><sem><pdtb3_relation sense="Expansion.Substitution.Arg1-as-subst" prop_exmpl="100"/><example>Instead of putting pepper direct like di oder method, dis time around now, na di egusi you pour direct for dat oil wey don hot.</example>
 				<english_equivalent>Instead of putting pepper in directly, like in the other method, this time around, it's the egusi you will pour directly into that oil which is already hot.</english_equivalent>
 				<source_file>KAD_10_Egusi-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="44" word="later" raw_freq="13" perc_expl="0.31">
 		<english_equivalent>later</english_equivalent>
 		<orths>
@@ -1170,12 +956,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADJ</cat><sem><pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_expl="100">
-				<example>Sey security operative dey start to dey search for di suspect following intelligence wey dem gather o. And di tin con later pay off when di suspect, dem catch am.</example>
+		<syn><cat>ADJ</cat><sem><pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_exmpl="100"/><example>Sey security operative dey start to dey search for di suspect following intelligence wey dem gather o. And di tin con later pay off when di suspect, dem catch am.</example>
 				<english_equivalent>The security operatives started searching for the suspect following the intelligence report they gathered. And their efforts later paid off when the suspect was caught.</english_equivalent>
 				<source_file>IBA_33_News-Comments_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="45" word="like" raw_freq="22" perc_expl="0.52">
 		<english_equivalent>like</english_equivalent>
 		<orths>
@@ -1186,22 +970,16 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Comparison.Similarity" prop_expl="30.8">
-				<example>And dis Jos, we no get wahala like I tell una.</example>
+		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Comparison.Similarity" prop_exmpl="30.8"/><example>And dis Jos, we no get wahala like I tell una.</example>
 				<english_equivalent>And this Jos, we don't have any problem, as I told you.</english_equivalent>
 				<source_file>JOS_19_Bukuru_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Instantiation.Arg2-as-instance" prop_expl="42.3">
-				<example>We also get ehn different culture. Like me, na Berom girl I be.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Instantiation.Arg2-as-instance" prop_exmpl="42.3"/><example>We also get ehn different culture. Like me, na Berom girl I be.</example>
 				<english_equivalent>We also have uh... different cultures. For instance me, I am a Berom girl.</english_equivalent>
 				<source_file>JOS_19_Bukuru_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Manner.Arg2-as-manner" prop_expl="11.5">
-				<example>As dey comot from house, make we dey talk to dem so dat de will be wearing cloth like we were using before now.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Manner.Arg2-as-manner" prop_exmpl="11.5"/><example>As dey comot from house, make we dey talk to dem so dat de will be wearing cloth like we were using before now.</example>
 				<english_equivalent>As they're leaving the house, let's talk to them so they will wear clothes like we used to before now.</english_equivalent>
 				<source_file>JOS_10_Mothers-Against-Mini-Skirts_DG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="46" word="like sey" raw_freq="26" perc_expl="0.62">
 		<english_equivalent>as if</english_equivalent>
 		<orths>
@@ -1212,17 +990,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP SCONJ</cat><sem><pdtb3_relation sense="Comparison.Similarity" prop_expl="44.1">
-				<example>but if I speak English, de go dey look me like sey ah bros we no dey speak dis language for here now.</example>
+		<syn><cat>ADP SCONJ</cat><sem><pdtb3_relation sense="Comparison.Similarity" prop_exmpl="44.1"/><example>but if I speak English, de go dey look me like sey ah bros we no dey speak dis language for here now.</example>
 				<english_equivalent>but if I speak English, they'll be looking at me like, "ah, buddy, you should know that we don't speak that language here."</english_equivalent>
 				<source_file>WAZL_08_Edewor-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Manner.Arg2-as-manner" prop_expl="32.4">
-				<example>But dis woman collect my admission letter for me, collect my receipt for me, con give me for hand like sey me, I be president pikin.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Manner.Arg2-as-manner" prop_exmpl="32.4"/><example>But dis woman collect my admission letter for me, collect my receipt for me, con give me for hand like sey me, I be president pikin.</example>
 				<english_equivalent>But this woman went and got my admissions letter for me, got my receipt for me and brought them back to me like I was the president's kid.</english_equivalent>
 				<source_file>ABJ_GWA_03_Cost-Of-Living-In-Abuja_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="47" word="likewise" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>likewise</english_equivalent>
 		<orths>
@@ -1233,12 +1007,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Comparison.Similarity" prop_expl="100">
-				<example>You need your broder as you need your sister, and likewise as you need your mama, and papa to take move forward.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Comparison.Similarity" prop_exmpl="100"/><example>You need your broder as you need your sister, and likewise as you need your mama, and papa to take move forward.</example>
 				<english_equivalent>You need your brother as much as you need your sister; and likewise, you need your mother and your father to move on.</english_equivalent>
 				<source_file>WAZA_05_Big-Mo_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="48" word="make" raw_freq="38" perc_expl="0.91">
 		<english_equivalent>so that</english_equivalent>
 		<orths>
@@ -1258,32 +1030,22 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>AUX</cat><sem><pdtb3_relation sense="Contingency.Cause.Result" prop_expl="11.5">
-				<example>When e boil well, well, I put my Maggi, put my ogiri, put everything, put my salt make e taste well, well.</example>
+		<syn><cat>AUX</cat><sem><pdtb3_relation sense="Contingency.Cause.Result" prop_exmpl="11.5"/><example>When e boil well, well, I put my Maggi, put my ogiri, put everything, put my salt make e taste well, well.</example>
 				<english_equivalent>When it's boiled very well, I add my Maggi, add my ogiri, add everything, add the salt so it will taste good.</english_equivalent>
 				<source_file>IBA_23_Bitter-Leaf-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause+SpeechAct.Result+SpeechAct" prop_expl="2.6">
-				<example>My people, na here I go hold brake dis wonderful morning make e for no loss.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause+SpeechAct.Result+SpeechAct" prop_exmpl="2.6"/><example>My people, na here I go hold brake dis wonderful morning make e for no loss.</example>
 				<english_equivalent>My people, this is where I will call it a day this wonderful morning, so don't worry.</english_equivalent>
 				<source_file>ONI_10_Sport-Commentary_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_expl="5.1">
-				<example>Shey egg, mey dem no use hand break, e go fit hatch by itself?</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_exmpl="5.1"/><example>Shey egg, mey dem no use hand break, e go fit hatch by itself?</example>
 				<english_equivalent>"The eggs, if no one breaks them with their hands, will they hatch by themselves?"</english_equivalent>
 				<source_file>BEN_36_Clever-Girl_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_expl="75.6">
-				<example>I even go meet my oga say oga, abeg, borrow me some money make I take start dis tin!</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_exmpl="75.6"/><example>I even go meet my oga say oga, abeg, borrow me some money make I take start dis tin!</example>
 				<english_equivalent>I even met with my boss saying, "boss, please lend me some money so I can start this thing!"</english_equivalent>
 				<source_file>LAG_11_Adeniyi-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Synchronous" prop_expl="2.6">
-				<example>Just make I comot for di outside carry di key dey go, di girl say ehn auntie, come, come back!</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="2.6"/><example>Just make I comot for di outside carry di key dey go, di girl say ehn auntie, come, come back!</example>
 				<english_equivalent>Just as I was about to go out, taking the key with me, the girl said "uh... auntie, come, come back!"</english_equivalent>
 				<source_file>ONI_27_A-Hotelier-Interview_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="49" word="meanwhile" raw_freq="7" perc_expl="0.17">
 		<english_equivalent>meanwhile</english_equivalent>
 		<orths>
@@ -1294,17 +1056,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Comparison.Contrast" prop_expl="6.2">
-				<example>Since we go university together, dis my husband, e never buy me phone one day. Meanwhile, dat my friend, im husband buy am dis, e buy am dat.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Comparison.Contrast" prop_exmpl="6.2"/><example>Since we go university together, dis my husband, e never buy me phone one day. Meanwhile, dat my friend, im husband buy am dis, e buy am dat.</example>
 				<english_equivalent>Since our university days, this my husband has never bought me a phone. Meanwhile, this friend of mine, her husband bought her this and that.</english_equivalent>
 				<source_file>IBA_03_Womanisers_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Synchronous" prop_expl="81.2">
-				<example>E tink sey money dey inside. Meanwhile, na my school ID card, and just my ATM card na im dey di purse.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="81.2"/><example>E tink sey money dey inside. Meanwhile, na my school ID card, and just my ATM card na im dey di purse.</example>
 				<english_equivalent>He thought there was money in it. Meanwhile, I had my school ID card, and just my ATM card, in the purse.</english_equivalent>
 				<source_file>ENU_01_Salomis-Egusi-Soup-Recipe_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="50" word="naim" raw_freq="79" perc_expl="1.88">
 		<english_equivalent>then</english_equivalent>
 		<orths>
@@ -1324,47 +1082,31 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_expl="1.2">
-				<example>And na di dead of my papa o.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_exmpl="1.2"/><example>And na di dead of my papa o.</example>
 				<english_equivalent>And it's because of my father's death.</english_equivalent>
 				<source_file>ABJ_NOU_02_Gimba-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause.Result" prop_expl="49.4">
-				<example>De say o boy dis guy go comot o. Naim dey rush kukuma carry garri put for eh plate give me.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause.Result" prop_exmpl="49.4"/><example>De say o boy dis guy go comot o. Naim dey rush kukuma carry garri put for eh plate give me.</example>
 				<english_equivalent>They said, "oh man, this guy is gonna pass out." So they rushed to get me some garri on a plate.</english_equivalent>
 				<source_file>PRT_05_Ghetto-Life_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause+Belief.Result+Belief" prop_expl="1.2">
-				<example>Ehn but e get major tings wey I need to do. Naim be sey you suppose plan ahead.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause+Belief.Result+Belief" prop_exmpl="1.2"/><example>Ehn but e get major tings wey I need to do. Naim be sey you suppose plan ahead.</example>
 				<english_equivalent>Uh... but there are major things that I need to do. Then that's to say you're supposed to plan ahead.</english_equivalent>
 				<source_file>JOS_21_Marriage-Talk-With-Oscar-1_DG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Conjunction" prop_expl="1.2">
-				<example>So na dat kind place na im Alaska Pepper (dat kind place where dat market dey, Agbadu), na im Alaska Pepper for grow. Na im de know sey Alaska Pepper no be better pikin.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Conjunction" prop_exmpl="1.2"/><example>So na dat kind place na im Alaska Pepper (dat kind place where dat market dey, Agbadu), na im Alaska Pepper for grow. Na im de know sey Alaska Pepper no be better pikin.</example>
 				<english_equivalent>So, it's in that kind of place, that's where Alaska Pepper, (that kind of a place where that market was, A... Agbadu) that's where Alaska Pepper grew up. Then, they knew that Alaska Pepper was not a good kid.</english_equivalent>
 				<source_file>IBA_04_Alaska-Pepe_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Equivalence" prop_expl="1.2">
-				<example>And wetin we dey do for our own company be sey all dose risk wey man dey face (you dey find wetin you go chop on a daily basis), na dose risks we dey accommodate. Na im we dey protect una sey if anyting happen, we go give una money.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Equivalence" prop_exmpl="1.2"/><example>And wetin we dey do for our own company be sey all dose risk wey man dey face (you dey find wetin you go chop on a daily basis), na dose risks we dey accommodate. Na im we dey protect una sey if anyting happen, we go give una money.</example>
 				<english_equivalent>And in our company, what we do is that all those risks that people face (you look for what to eat on a daily basis), those are the risks we accommodate. That is... we protect you so that if anything happens, we will give you money.</english_equivalent>
 				<source_file>LAG_12_Insurance_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Narrative-response" prop_expl="3.8">
-				<example>Sey how many children she get? Naim my mama come tell di lawyer sey she get two sons.</example>
+			</sem><sem><pdtb3_relation sense="Narrative-response" prop_exmpl="3.8"/><example>Sey how many children she get? Naim my mama come tell di lawyer sey she get two sons.</example>
 				<english_equivalent>He asked how many children she had. So my mother told the lawyer she had two sons.</english_equivalent>
 				<source_file>KAD_09_Kabir-Gymnasium_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_expl="35.6">
-				<example>She just look me, smile, comot abf, as if sey she no see as we dey yab oursef. Naim Lilian see me for church ground.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_exmpl="35.6"/><example>She just look me, smile, comot abf, as if sey she no see as we dey yab oursef. Naim Lilian see me for church ground.</example>
 				<english_equivalent>She just looked at me, smiled, took her f-... as if she didn't notice how we were teasing each other. Then Lilian saw me on the church ground.</english_equivalent>
 				<source_file>ENU_37_Dmoris-Restaurant_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Synchronous" prop_expl="5">
-				<example>Because I remember dat time when I dey small, everyting wey concern eh electric, na im I dey put hand.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="5"/><example>Because I remember dat time when I dey small, everyting wey concern eh electric, na im I dey put hand.</example>
 				<english_equivalent>Because I remember that I used to get my hands into everything uh... electrical when I was a kid.</english_equivalent>
 				<source_file>LAG_11_Adeniyi-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="51" word="no how" raw_freq="2" perc_expl="0.05">
 		<english_equivalent>no matter</english_equivalent>
 		<orths>
@@ -1378,12 +1120,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>PART ADV</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_expl="100">
-				<example>As woman be, no how, no how wey you go go school reach, you must to marry.</example>
+		<syn><cat>PART ADV</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_exmpl="100"/><example>As woman be, no how, no how wey you go go school reach, you must to marry.</example>
 				<english_equivalent>As it is with women, no matter what your level of education is, you must get married.</english_equivalent>
 				<source_file>IBA_01_Fola-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="52" word="no matter" raw_freq="4" perc_expl="0.1">
 		<english_equivalent>no matter</english_equivalent>
 		<orths>
@@ -1394,12 +1134,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>PART NOUN</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_expl="100">
-				<example>And di ting be sey wu-... no matter how you spend for wedding, di truth be sey people go still insist sey, de no get food chop.</example>
+		<syn><cat>PART NOUN</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_exmpl="100"/><example>And di ting be sey wu-... no matter how you spend for wedding, di truth be sey people go still insist sey, de no get food chop.</example>
 				<english_equivalent>And the thing is that, wu-... No matter how much you spend on the wedding, the truth is that people will still insist that they didn't get food to eat.</english_equivalent>
 				<source_file>JOS_21_Marriage-Talk-With-Oscar-1_DG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="53" word="no matter" raw_freq="4" perc_expl="0.1">
 		<english_equivalent>no matter</english_equivalent>
 		<orths>
@@ -1410,12 +1148,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>PART VERB</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_expl="100">
-				<example>And di ting be sey wu-... no matter how you spend for wedding, di truth be sey people go still insist sey, de no get food chop.</example>
+		<syn><cat>PART VERB</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_exmpl="100"/><example>And di ting be sey wu-... no matter how you spend for wedding, di truth be sey people go still insist sey, de no get food chop.</example>
 				<english_equivalent>And the thing is that, wu-... No matter how much you spend on the wedding, the truth is that people will still insist that they didn't get food to eat.</english_equivalent>
 				<source_file>JOS_21_Marriage-Talk-With-Oscar-1_DG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="54" word="now" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>afterwards</english_equivalent>
 		<orths>
@@ -1426,12 +1162,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_expl="100">
-				<example>Either de comot di pedal, or de collect di drumstick. So now, if I dey go, I go carry pedal wey I do with my hand, and carry stick for my pocket.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_exmpl="100"/><example>Either de comot di pedal, or de collect di drumstick. So now, if I dey go, I go carry pedal wey I do with my hand, and carry stick for my pocket.</example>
 				<english_equivalent>It's either they take the pedal away or they take the drumstick. So afterwards, when I'm ready to go play, I take the pedal I made myself and the drumsticks in my pocket.</english_equivalent>
 				<source_file>PRT_07_Drummer_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="55" word="now wey" raw_freq="2" perc_expl="0.05">
 		<english_equivalent>now that</english_equivalent>
 		<orths>
@@ -1442,22 +1176,16 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV SCONJ</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_expl="25">
-				<example>So Alaska Pepper, con say wetin e go do now, now wey e don kill dis animal?</example>
+		<syn><cat>ADV SCONJ</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_exmpl="25"/><example>So Alaska Pepper, con say wetin e go do now, now wey e don kill dis animal?</example>
 				<english_equivalent>So Alaska Pepper said what is he going to do now, a... now that he'd killed this animal?</english_equivalent>
 				<source_file>IBA_04_Alaska-Pepe_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_expl="12.5">
-				<example>So Alaska Pepper, con say wetin e go do now, now wey e don kill dis animal?</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_exmpl="12.5"/><example>So Alaska Pepper, con say wetin e go do now, now wey e don kill dis animal?</example>
 				<english_equivalent>So Alaska Pepper said what is he going to do now, a... now that he'd killed this animal?</english_equivalent>
 				<source_file>IBA_04_Alaska-Pepe_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Synchronous" prop_expl="12.5">
-				<example>Now wey di one wey dey for you don come, take dis one wey be for you!</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="12.5"/><example>Now wey di one wey dey for you don come, take dis one wey be for you!</example>
 				<english_equivalent>Now that the one meant for you has come, take the one meant for you!</english_equivalent>
 				<source_file>WAZP_04_Ponzi-Scheme_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="56" word="now when" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>now that</english_equivalent>
 		<orths>
@@ -1468,12 +1196,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV ADV</cat><sem><pdtb3_relation sense="Temporal.Synchronous" prop_expl="100">
-				<example>Insurance go ensure sey any money wey you dey make before, even now when something don happen (wheda na accident o, wheda na sickness o, abi death)...</example>
+		<syn><cat>ADV ADV</cat><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="100"/><example>Insurance go ensure sey any money wey you dey make before, even now when something don happen (wheda na accident o, wheda na sickness o, abi death)...</example>
 				<english_equivalent>Insurance will ensure that any money you were making before... in fact, now that something has come up, whether it's in the form of an accident or a sickness, or death...</english_equivalent>
 				<source_file>LAG_12_Insurance_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="57" word="oderwise" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>otherwise</english_equivalent>
 		<orths>
@@ -1484,12 +1210,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Contingency.Negative-condition.Arg1-as-negCond" prop_expl="100">
-				<example>Una need to come make sure sey with way wey una dey play, una begin score goals, oderwise matter go leave us loss ah.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Contingency.Negative-condition.Arg1-as-negCond" prop_exmpl="100"/><example>Una need to come make sure sey with way wey una dey play, una begin score goals, oderwise matter go leave us loss ah.</example>
 				<english_equivalent>You need to make sure that with your playing style, you begin to score goals, otherwise, the issue will get out of hand.</english_equivalent>
 				<source_file>ONI_10_Sport-Commentary_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="58" word="once" raw_freq="30" perc_expl="0.71">
 		<english_equivalent>once</english_equivalent>
 		<orths>
@@ -1508,17 +1232,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_expl="17.1">
-				<example>Once everything don boil together, everything don boil finish, before you go con add.</example>
+		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_exmpl="17.1"/><example>Once everything don boil together, everything don boil finish, before you go con add.</example>
 				<english_equivalent>Once everything has boiled together, everything has finished boiling, then you add...</english_equivalent>
 				<source_file>BEN_08_Egusi-And-Banga-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_expl="67.1">
-				<example>So once e catch one, di ting go carry di person enter bush.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_exmpl="67.1"/><example>So once e catch one, di ting go carry di person enter bush.</example>
 				<english_equivalent>So once it had caught somebody, the thing would carry them into the bush.</english_equivalent>
 				<source_file>IBA_04_Alaska-Pepe_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="59" word="once" raw_freq="30" perc_expl="0.71">
 		<english_equivalent>once then</english_equivalent>
 		<orths>
@@ -1537,17 +1257,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_expl="17.1">
-				<example>Once everything don boil together, everything don boil finish, before you go con add.</example>
+		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_exmpl="17.1"/><example>Once everything don boil together, everything don boil finish, before you go con add.</example>
 				<english_equivalent>Once everything has boiled together, everything has finished boiling, then you add...</english_equivalent>
 				<source_file>BEN_08_Egusi-And-Banga-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_expl="67.1">
-				<example>So once e catch one, di ting go carry di person enter bush.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_exmpl="67.1"/><example>So once e catch one, di ting go carry di person enter bush.</example>
 				<english_equivalent>So once it had caught somebody, the thing would carry them into the bush.</english_equivalent>
 				<source_file>IBA_04_Alaska-Pepe_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="60" word="once" raw_freq="30" perc_expl="0.71">
 		<english_equivalent>once</english_equivalent>
 		<orths>
@@ -1566,17 +1282,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_expl="17.1">
-				<example>Once everything don boil together, everything don boil finish, before you go con add.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_exmpl="17.1"/><example>Once everything don boil together, everything don boil finish, before you go con add.</example>
 				<english_equivalent>Once everything has boiled together, everything has finished boiling, then you add...</english_equivalent>
 				<source_file>BEN_08_Egusi-And-Banga-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_expl="67.1">
-				<example>So once e catch one, di ting go carry di person enter bush.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_exmpl="67.1"/><example>So once e catch one, di ting go carry di person enter bush.</example>
 				<english_equivalent>So once it had caught somebody, the thing would carry them into the bush.</english_equivalent>
 				<source_file>IBA_04_Alaska-Pepe_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="61" word="once" raw_freq="30" perc_expl="0.71">
 		<english_equivalent>once then</english_equivalent>
 		<orths>
@@ -1595,17 +1307,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_expl="17.1">
-				<example>Once everything don boil together, everything don boil finish, before you go con add.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_exmpl="17.1"/><example>Once everything don boil together, everything don boil finish, before you go con add.</example>
 				<english_equivalent>Once everything has boiled together, everything has finished boiling, then you add...</english_equivalent>
 				<source_file>BEN_08_Egusi-And-Banga-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_expl="67.1">
-				<example>So once e catch one, di ting go carry di person enter bush.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_exmpl="67.1"/><example>So once e catch one, di ting go carry di person enter bush.</example>
 				<english_equivalent>So once it had caught somebody, the thing would carry them into the bush.</english_equivalent>
 				<source_file>IBA_04_Alaska-Pepe_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="62" word="or" raw_freq="44" perc_expl="1.05">
 		<english_equivalent>either or</english_equivalent>
 		<orths>
@@ -1620,17 +1328,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>CCONJ</cat><sem><pdtb3_relation sense="Expansion.Conjunction" prop_expl="2.3">
-				<example>I dey pray make Baba God stand by me o. Or me I, me I, me I never wan fail.</example>
+		<syn><cat>CCONJ</cat><sem><pdtb3_relation sense="Expansion.Conjunction" prop_exmpl="2.3"/><example>I dey pray make Baba God stand by me o. Or me I, me I, me I never wan fail.</example>
 				<english_equivalent>I'm praying for God to stand by me. Or me I... me I... me I will never fail.</english_equivalent>
 				<source_file>ENU_13_School-Life_DG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Disjunction" prop_expl="97.7">
-				<example>Una need to come make sure sey with way wey una dey play, una begin score goals, oderwise matter go leave us loss ah.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Disjunction" prop_exmpl="97.7"/><example>Una need to come make sure sey with way wey una dey play, una begin score goals, oderwise matter go leave us loss ah.</example>
 				<english_equivalent>You need to make sure that with your playing style, you begin to score goals, otherwise, the issue will get out of hand.</english_equivalent>
 				<source_file>ONI_10_Sport-Commentary_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="63" word="or" raw_freq="44" perc_expl="1.05">
 		<english_equivalent>or</english_equivalent>
 		<orths>
@@ -1645,17 +1349,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>CCONJ</cat><sem><pdtb3_relation sense="Expansion.Conjunction" prop_expl="2.3">
-				<example>I dey pray make Baba God stand by me o. Or me I, me I, me I never wan fail.</example>
+		<syn><cat>CCONJ</cat><sem><pdtb3_relation sense="Expansion.Conjunction" prop_exmpl="2.3"/><example>I dey pray make Baba God stand by me o. Or me I, me I, me I never wan fail.</example>
 				<english_equivalent>I'm praying for God to stand by me. Or me I... me I... me I will never fail.</english_equivalent>
 				<source_file>ENU_13_School-Life_DG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Disjunction" prop_expl="97.7">
-				<example>Una need to come make sure sey with way wey una dey play, una begin score goals, oderwise matter go leave us loss ah.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Disjunction" prop_exmpl="97.7"/><example>Una need to come make sure sey with way wey una dey play, una begin score goals, oderwise matter go leave us loss ah.</example>
 				<english_equivalent>You need to make sure that with your playing style, you begin to score goals, otherwise, the issue will get out of hand.</english_equivalent>
 				<source_file>ONI_10_Sport-Commentary_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="64" word="rader" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>instead</english_equivalent>
 		<orths>
@@ -1666,12 +1366,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Expansion.Substitution.Arg2-as-subst" prop_expl="100">
-				<example>Noting dey move. Rader, tings dey dey bad to bad.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Expansion.Substitution.Arg2-as-subst" prop_exmpl="100"/><example>Noting dey move. Rader, tings dey dey bad to bad.</example>
 				<english_equivalent>Nothing is changing. Instead, things have gone from bad to worse.</english_equivalent>
 				<source_file>JOS_14_Chibozor-View-About-Nigeria_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="65" word="sey" raw_freq="23" perc_expl="0.55">
 		<english_equivalent>when</english_equivalent>
 		<orths>
@@ -1686,42 +1384,28 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Comparison.Similarity" prop_expl="14.6">
-				<example>See sey di two sides of your tyre go dey smooth, you go say aha dis tyre, I just buy am, e just dey smooth.</example>
+		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Comparison.Similarity" prop_exmpl="14.6"/><example>See sey di two sides of your tyre go dey smooth, you go say aha dis tyre, I just buy am, e just dey smooth.</example>
 				<english_equivalent>If you notice that the two sides of your tire are getting smooth, you will say, "imagine, I just bought this tire and it's getting smooth."</english_equivalent>
 				<source_file>LAG_31_Road-Safety_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause.Reason" prop_expl="25">
-				<example>E fit be deir education sey you want make dem go school, make dem study, make dem become lawyer, make dem become doctor, make dem become anyting for dis life.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_exmpl="25"/><example>E fit be deir education sey you want make dem go school, make dem study, make dem become lawyer, make dem become doctor, make dem become anyting for dis life.</example>
 				<english_equivalent>It can be their education, since you want them to go to school, they should study, they should become lawyers, they should become doctors, they should become anything in life.</english_equivalent>
 				<source_file>LAG_12_Insurance_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause+SpeechAct.Reason+SpeechAct" prop_expl="12.5">
-				<example>I con tell her sey make she calm down, sey di smoke na just steaming, di ting go just steam her face.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause+SpeechAct.Reason+SpeechAct" prop_exmpl="12.5"/><example>I con tell her sey make she calm down, sey di smoke na just steaming, di ting go just steam her face.</example>
 				<english_equivalent>Then I told her to calm down because the smoke is just steaming, the thing will just steam her face.</english_equivalent>
 				<source_file>KAD_22_Chatting-At-The-Restaurant_DG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_expl="33.3">
-				<example>See sey di two sides of your tyre go dey smooth, you go say aha dis tyre, I just buy am, e just dey smooth.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_exmpl="33.3"/><example>See sey di two sides of your tyre go dey smooth, you go say aha dis tyre, I just buy am, e just dey smooth.</example>
 				<english_equivalent>If you notice that the two sides of your tire are getting smooth, you will say, "imagine, I just bought this tire and it's getting smooth."</english_equivalent>
 				<source_file>LAG_31_Road-Safety_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Condition+SpeechAct" prop_expl="4.2">
-				<example>For di kind generation wey we dey now, sey you dey follow only one woman, you no get shortcut (de dey call am shortcut, hm, ), sey you no get shortcut, you go be like wetin?</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Condition+SpeechAct" prop_exmpl="4.2"/><example>For di kind generation wey we dey now, sey you dey follow only one woman, you no get shortcut (de dey call am shortcut, hm, ), sey you no get shortcut, you go be like wetin?</example>
 				<english_equivalent>In this generation of ours now, being with only one woman, you don't have shortcuts (They call it shortcuts! Yes!), if you don't have shortcuts, what will you be like?</english_equivalent>
 				<source_file>IBA_03_Womanisers_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Manner.Arg2-as-manner" prop_expl="2.1">
-				<example>Sey e don boil, den you put your leaf.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Manner.Arg2-as-manner" prop_exmpl="2.1"/><example>Sey e don boil, den you put your leaf.</example>
 				<english_equivalent>When it's boiled, then put in your leafy vegetable.</english_equivalent>
 				<source_file>KAD_10_Egusi-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_expl="4.2">
-				<example>Sey e don boil, den you put your leaf.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_exmpl="4.2"/><example>Sey e don boil, den you put your leaf.</example>
 				<english_equivalent>When it's boiled, then put in your leafy vegetable.</english_equivalent>
 				<source_file>KAD_10_Egusi-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="66" word="since" raw_freq="19" perc_expl="0.45">
 		<english_equivalent>since</english_equivalent>
 		<orths>
@@ -1732,32 +1416,22 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_expl="47.4">
-				<example>Since na native banga you dey use, e no go quick dry.</example>
+		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_exmpl="47.4"/><example>Since na native banga you dey use, e no go quick dry.</example>
 				<english_equivalent>Since you're using the locally grown banga, it will not get dry too quickly.</english_equivalent>
 				<source_file>PRT_01_Banga-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause+Belief.Reason+Belief" prop_expl="15.8">
-				<example>But di tin be sey me, I no dey like to dey double date, but since you talk sey pastor don tell you, no wahala.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause+Belief.Reason+Belief" prop_exmpl="15.8"/><example>But di tin be sey me, I no dey like to dey double date, but since you talk sey pastor don tell you, no wahala.</example>
 				<english_equivalent>But the thing is that me, I don't like dating two people at once but since you said that a pastor has told you, there is no problem.</english_equivalent>
 				<source_file>IBA_07_Na-Love_DG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause+SpeechAct.Reason+SpeechAct" prop_expl="5.3">
-				<example>Naim di king con talk sey okay since you say your daughter clever, carry dis egg.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause+SpeechAct.Reason+SpeechAct" prop_exmpl="5.3"/><example>Naim di king con talk sey okay since you say your daughter clever, carry dis egg.</example>
 				<english_equivalent>So the King said, "okay, since you said your daughter is clever, take these eggs."</english_equivalent>
 				<source_file>BEN_36_Clever-Girl_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_expl="26.3">
-				<example>My charity don begin for house since wey dem born me.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_exmpl="26.3"/><example>My charity don begin for house since wey dem born me.</example>
 				<english_equivalent>My charity has begun at home since I was born.</english_equivalent>
 				<source_file>ABJ_INF_08_Impatience_DG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Synchronous" prop_expl="5.3">
-				<example>Dat girl ehn, na since she gain admission im papa con carry am meet me for house say okay o dis pikin o, ehen you gats help me take care of am o, sey di girl no too sabi anyting.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="5.3"/><example>Dat girl ehn, na since she gain admission im papa con carry am meet me for house say okay o dis pikin o, ehen you gats help me take care of am o, sey di girl no too sabi anyting.</example>
 				<english_equivalent>That girl uh... it was when she got into the school that her dad brought her to me in my house and said that, okay, this child, ehe, you have to help me take care of her and that the girl does not know anything.</english_equivalent>
 				<source_file>IBA_07_Na-Love_DG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="67" word="so" raw_freq="539" perc_expl="12.84">
 		<english_equivalent>so</english_equivalent>
 		<orths>
@@ -1768,32 +1442,22 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Contingency.Cause.Result" prop_expl="82.3">
-				<example>So im no, im no con fit dey do anyting. So na house na im e dey stay.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Contingency.Cause.Result" prop_exmpl="82.3"/><example>So im no, im no con fit dey do anyting. So na house na im e dey stay.</example>
 				<english_equivalent>So, he wasn't... he wasn't able to do anything. So, he was just staying in the house.</english_equivalent>
 				<source_file>ABJ_GWA_10_Steven-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause+Belief.Result+Belief" prop_expl="7.7">
-				<example>Because e be like sey everyting just dey go from bad to worst. So make government don try.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause+Belief.Result+Belief" prop_exmpl="7.7"/><example>Because e be like sey everyting just dey go from bad to worst. So make government don try.</example>
 				<english_equivalent>Because it's like everything is getting worse. So, the government should make an effort.</english_equivalent>
 				<source_file>ABJ_INF_12_Evictions_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause+SpeechAct.Result+SpeechAct" prop_expl="6.4">
-				<example>So dat one na another wahala again. So wetin you wan come do?</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause+SpeechAct.Result+SpeechAct" prop_exmpl="6.4"/><example>So dat one na another wahala again. So wetin you wan come do?</example>
 				<english_equivalent>So, that's another problem too. So, what are you gonna do?</english_equivalent>
 				<source_file>IBA_07_Na-Love_DG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_expl="1.9">
-				<example>Di leaf, everybody go (even if na one you see), go hang am for your door where all di evil spirit go dey see am. So when de come, de see di Ewere leaf like dis, de go run comot say mehn dis house na no go area o.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_exmpl="1.9"/><example>Di leaf, everybody go (even if na one you see), go hang am for your door where all di evil spirit go dey see am. So when de come, de see di Ewere leaf like dis, de go run comot say mehn dis house na no go area o.</example>
 				<english_equivalent>The leaf, everybody will (even if you got only one)... will hang it on their door where all the evil spirits will see it. So when they come and see the Ewere leaf like this, they will run away saying, "guys, this house is a no go area!"</english_equivalent>
 				<source_file>IBA_02_Igwe-Festival_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Narrative-response" prop_expl="0.6">
-				<example>I tell am sey oh boy, man, e dey good meh person dey get just handwork. So e con tell me sey okay make I go make en-... enquiry where, any place wey I go fit learn di work.</example>
+			</sem><sem><pdtb3_relation sense="Narrative-response" prop_exmpl="0.6"/><example>I tell am sey oh boy, man, e dey good meh person dey get just handwork. So e con tell me sey okay make I go make en-... enquiry where, any place wey I go fit learn di work.</example>
 				<english_equivalent>I told him, "man is it good to be a skilled worker." So, he told me OK, go find somewhere you can pick up a skill.</english_equivalent>
 				<source_file>ABJ_GWA_06_Ugo-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="68" word="so" raw_freq="539" perc_expl="12.84">
 		<english_equivalent>so</english_equivalent>
 		<orths>
@@ -1804,32 +1468,22 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Contingency.Cause.Result" prop_expl="82.3">
-				<example>So im no, im no con fit dey do anyting. So na house na im e dey stay.</example>
+		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Contingency.Cause.Result" prop_exmpl="82.3"/><example>So im no, im no con fit dey do anyting. So na house na im e dey stay.</example>
 				<english_equivalent>So, he wasn't... he wasn't able to do anything. So, he was just staying in the house.</english_equivalent>
 				<source_file>ABJ_GWA_10_Steven-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause+Belief.Result+Belief" prop_expl="7.7">
-				<example>Because e be like sey everyting just dey go from bad to worst. So make government don try.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause+Belief.Result+Belief" prop_exmpl="7.7"/><example>Because e be like sey everyting just dey go from bad to worst. So make government don try.</example>
 				<english_equivalent>Because it's like everything is getting worse. So, the government should make an effort.</english_equivalent>
 				<source_file>ABJ_INF_12_Evictions_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause+SpeechAct.Result+SpeechAct" prop_expl="6.4">
-				<example>So dat one na another wahala again. So wetin you wan come do?</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause+SpeechAct.Result+SpeechAct" prop_exmpl="6.4"/><example>So dat one na another wahala again. So wetin you wan come do?</example>
 				<english_equivalent>So, that's another problem too. So, what are you gonna do?</english_equivalent>
 				<source_file>IBA_07_Na-Love_DG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_expl="1.9">
-				<example>Di leaf, everybody go (even if na one you see), go hang am for your door where all di evil spirit go dey see am. So when de come, de see di Ewere leaf like dis, de go run comot say mehn dis house na no go area o.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_exmpl="1.9"/><example>Di leaf, everybody go (even if na one you see), go hang am for your door where all di evil spirit go dey see am. So when de come, de see di Ewere leaf like dis, de go run comot say mehn dis house na no go area o.</example>
 				<english_equivalent>The leaf, everybody will (even if you got only one)... will hang it on their door where all the evil spirits will see it. So when they come and see the Ewere leaf like this, they will run away saying, "guys, this house is a no go area!"</english_equivalent>
 				<source_file>IBA_02_Igwe-Festival_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Narrative-response" prop_expl="0.6">
-				<example>I tell am sey oh boy, man, e dey good meh person dey get just handwork. So e con tell me sey okay make I go make en-... enquiry where, any place wey I go fit learn di work.</example>
+			</sem><sem><pdtb3_relation sense="Narrative-response" prop_exmpl="0.6"/><example>I tell am sey oh boy, man, e dey good meh person dey get just handwork. So e con tell me sey okay make I go make en-... enquiry where, any place wey I go fit learn di work.</example>
 				<english_equivalent>I told him, "man is it good to be a skilled worker." So, he told me OK, go find somewhere you can pick up a skill.</english_equivalent>
 				<source_file>ABJ_GWA_06_Ugo-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="69" word="so that" raw_freq="55" perc_expl="1.31">
 		<english_equivalent>so that</english_equivalent>
 		<orths>
@@ -1843,17 +1497,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV SCONJ</cat><sem><pdtb3_relation sense="Contingency.Cause.Result" prop_expl="9.1">
-				<example>Her own, she no get money so dat I should do eight hundred naira nails for dat one dat day.</example>
+		<syn><cat>ADV SCONJ</cat><sem><pdtb3_relation sense="Contingency.Cause.Result" prop_exmpl="9.1"/><example>Her own, she no get money so dat I should do eight hundred naira nails for dat one dat day.</example>
 				<english_equivalent>Her, she didn't have any money, so I should also do the manicure for eight hundreed naira for that one, that day.</english_equivalent>
 				<source_file>KAD_22_Chatting-At-The-Restaurant_DG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_expl="90.9">
-				<example>I no get any choice dan to flow join dem so dat me sef go fit dey communicate with dem.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_exmpl="90.9"/><example>I no get any choice dan to flow join dem so dat me sef go fit dey communicate with dem.</example>
 				<english_equivalent>I don't have any choice but to go along with them so I can also communicate with them.</english_equivalent>
 				<source_file>WAZA_03_Obi-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="70" word="so that" raw_freq="55" perc_expl="1.31">
 		<english_equivalent>so that</english_equivalent>
 		<orths>
@@ -1867,17 +1517,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>SCONJ SCONJ</cat><sem><pdtb3_relation sense="Contingency.Cause.Result" prop_expl="9.1">
-				<example>Her own, she no get money so dat I should do eight hundred naira nails for dat one dat day.</example>
+		<syn><cat>SCONJ SCONJ</cat><sem><pdtb3_relation sense="Contingency.Cause.Result" prop_exmpl="9.1"/><example>Her own, she no get money so dat I should do eight hundred naira nails for dat one dat day.</example>
 				<english_equivalent>Her, she didn't have any money, so I should also do the manicure for eight hundreed naira for that one, that day.</english_equivalent>
 				<source_file>KAD_22_Chatting-At-The-Restaurant_DG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_expl="90.9">
-				<example>I no get any choice dan to flow join dem so dat me sef go fit dey communicate with dem.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_exmpl="90.9"/><example>I no get any choice dan to flow join dem so dat me sef go fit dey communicate with dem.</example>
 				<english_equivalent>I don't have any choice but to go along with them so I can also communicate with them.</english_equivalent>
 				<source_file>WAZA_03_Obi-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="71" word="sotay" raw_freq="4" perc_expl="0.1">
 		<english_equivalent>until</english_equivalent>
 		<orths>
@@ -1888,12 +1534,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_expl="100">
-				<example>You go wash am sotay di bitter go comot so dat e no go bitter for di soup.</example>
+		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_exmpl="100"/><example>You go wash am sotay di bitter go comot so dat e no go bitter for di soup.</example>
 				<english_equivalent>You'll wash it till the bitter taste goes away, so it won't be bitter in the dish.</english_equivalent>
 				<source_file>IBA_23_Bitter-Leaf-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="72" word="specifically" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>specifically</english_equivalent>
 		<orths>
@@ -1904,12 +1548,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_expl="100">
-				<example>Dis Sunday, I go dey teach una how to make six figures income. Den, specifically, I go dey teach you how to make about twenty thousand dollars from a little investment, at least na one thousand dollars.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Expansion.Level-of-detail.Arg2-as-detail" prop_exmpl="100"/><example>Dis Sunday, I go dey teach una how to make six figures income. Den, specifically, I go dey teach you how to make about twenty thousand dollars from a little investment, at least na one thousand dollars.</example>
 				<english_equivalent>This Sunday, I'll be teaching you how to make a six figure income. Then, specifically, I will be teaching you how to make about twenty thousand dollars from a little investment, the smallest is one thousand dollars.</english_equivalent>
 				<source_file>WAZP_04_Ponzi-Scheme_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="73" word="still" raw_freq="9" perc_expl="0.21">
 		<english_equivalent>still</english_equivalent>
 		<orths>
@@ -1920,17 +1562,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg2-as-denier" prop_expl="77.8">
-				<example>You go buy wrapper for your moders, still give your moder pocket money like five thousand, ten thousand.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg2-as-denier" prop_exmpl="77.8"/><example>You go buy wrapper for your moders, still give your moder pocket money like five thousand, ten thousand.</example>
 				<english_equivalent>You will buy the traditional wear for your mothers, and you'll still give your mother some pocket money worth between five thousand to ten thousand naira.</english_equivalent>
 				<source_file>ONI_07_Dis-Year-Na-My-Year_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Conjunction" prop_expl="22.2">
-				<example>Una go chop, and drink for my table for di kingdom. Still come sit down for di government control di twelve tribes dem wey dey Israel.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Conjunction" prop_exmpl="22.2"/><example>Una go chop, and drink for my table for di kingdom. Still come sit down for di government control di twelve tribes dem wey dey Israel.</example>
 				<english_equivalent>You will eat and drink at my table in the Kingdom. And you will also sit on thrones, judging the twelve tribes of Israel.</english_equivalent>
 				<source_file>IBA_41_Christ-Passion-Finale_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="74" word="to say" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>for instance</english_equivalent>
 		<orths>
@@ -1941,12 +1579,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP VERB</cat><sem><pdtb3_relation sense="Expansion.Instantiation.Arg2-as-instance" prop_expl="100">
-				<example>Only what we collect, we say if you say we, eh di work wey we do for you sey, e, e please you, you go say take, go buy minerals, if to say na ten naira you bring, we go take eh happily, collect am from you, pray for you sey God go bless you o, e go increase your your wealth very, very well.</example>
+		<syn><cat>ADP VERB</cat><sem><pdtb3_relation sense="Expansion.Instantiation.Arg2-as-instance" prop_exmpl="100"/><example>Only what we collect, we say if you say we, eh di work wey we do for you sey, e, e please you, you go say take, go buy minerals, if to say na ten naira you bring, we go take eh happily, collect am from you, pray for you sey God go bless you o, e go increase your your wealth very, very well.</example>
 				<english_equivalent>The only thing we collect... we say if you say we... uh... the work which we did for you, that, it, it pleases you, you will say, "here, go and buy some soft drinks", if for instance you gave ten naira, we will take it uh... happily, collect it from you and pray for God to bless you and make you very wealthy.</english_equivalent>
 				<source_file>IBA_15_Electrician_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="75" word="unless" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>unless</english_equivalent>
 		<orths>
@@ -1957,12 +1593,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Contingency.Negative-condition.Arg2-as-negCond" prop_expl="100">
-				<example>Make hungry catch am, e go change im decision in five seconds unless dat worm wey dey im belle no strong.</example>
+		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Contingency.Negative-condition.Arg2-as-negCond" prop_exmpl="100"/><example>Make hungry catch am, e go change im decision in five seconds unless dat worm wey dey im belle no strong.</example>
 				<english_equivalent>Let hunger deal with him, he will change his decision in five seconds unless the hunger pangs are not strong enough.</english_equivalent>
 				<source_file>WAZP_03_Education_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="76" word="until" raw_freq="26" perc_expl="0.62">
 		<english_equivalent>until</english_equivalent>
 		<orths>
@@ -1979,12 +1613,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_expl="100">
-				<example>You go dey stir am till di ting burn.</example>
+		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Temporal.Asynchronous.Precedence" prop_exmpl="100"/><example>You go dey stir am till di ting burn.</example>
 				<english_equivalent>You will be stirring it till it starts to burn.</english_equivalent>
 				<source_file>KAD_10_Egusi-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="77" word="unto" raw_freq="2" perc_expl="0.05">
 		<english_equivalent>because</english_equivalent>
 		<orths>
@@ -1995,17 +1627,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_expl="50">
-				<example>Unto sey I love you, anyting, I go do for you.</example>
+		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_exmpl="50"/><example>Unto sey I love you, anyting, I go do for you.</example>
 				<english_equivalent>Because I love you, anything, I'll do it for you.</english_equivalent>
 				<source_file>IBA_07_Na-Love_DG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Cause+Belief.Reason+Belief" prop_expl="50">
-				<example>Ah dat one, na serious gbege o, but no p unto sey I love you ehn.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Cause+Belief.Reason+Belief" prop_exmpl="50"/><example>Ah dat one, na serious gbege o, but no p unto sey I love you ehn.</example>
 				<english_equivalent>Aha, that's a serious issue, but no problem because I love you.</english_equivalent>
 				<source_file>IBA_07_Na-Love_DG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="78" word="upon sey" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>even as</english_equivalent>
 		<orths>
@@ -2016,12 +1644,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP SCONJ</cat><sem><pdtb3_relation sense="Temporal.Synchronous" prop_expl="100">
-				<example>Upon sey I dey go site to site, me, I tink sey mehn na when you just learn dis our work, you go don become millionaire.</example>
+		<syn><cat>ADP SCONJ</cat><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="100"/><example>Upon sey I dey go site to site, me, I tink sey mehn na when you just learn dis our work, you go don become millionaire.</example>
 				<english_equivalent>Even as I was going to different sites, I thought that, man, as soon as you finished learning the job, you'd be a millionaire.</english_equivalent>
 				<source_file>ABJ_GWA_06_Ugo-Lifestory_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="79" word="wey" raw_freq="19" perc_expl="0.45">
 		<english_equivalent>when</english_equivalent>
 		<orths>
@@ -2032,27 +1658,19 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_expl="5.3">
-				<example>So once e just cook, within five minutes wey I see sey e don boil well, well, I go con carry am down.</example>
+		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_exmpl="5.3"/><example>So once e just cook, within five minutes wey I see sey e don boil well, well, I go con carry am down.</example>
 				<english_equivalent>So once it is done, within five minutes, when I notice that it is well done, I will take it off the fire.</english_equivalent>
 				<source_file>IBA_23_Bitter-Leaf-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_expl="15.8">
-				<example>Put some kind of, you know some kind of passengers inside dat food wey go make oder people sef wan join you to share for di passengers eh food.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_exmpl="15.8"/><example>Put some kind of, you know some kind of passengers inside dat food wey go make oder people sef wan join you to share for di passengers eh food.</example>
 				<english_equivalent>Garnish the food with, you know, with all sorts of protein and the like, so that the food will be inviting and others will love to join you in eating it.</english_equivalent>
 				<source_file>PRT_02_Food-And-Health_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_expl="10.5">
-				<example>If she don chop, wey she don bath, wey she don dress for school, she go go school.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_exmpl="10.5"/><example>If she don chop, wey she don bath, wey she don dress for school, she go go school.</example>
 				<english_equivalent>When she's eaten, when she's taken her bath, when she's gotten dressed for school, she goes to school.</english_equivalent>
 				<source_file>IBA_20_Bose-Alade_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Synchronous" prop_expl="68.4">
-				<example>If you go hospital now, wey you sick, you go hospital, di better medicine dere, na im go, na im go cost pass.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="68.4"/><example>If you go hospital now, wey you sick, you go hospital, di better medicine dere, na im go, na im go cost pass.</example>
 				<english_equivalent>If you go to the hospitals now, when you are sick, you go to the hospital, the most effective drug on the list, is the one that will be... is the one that will be the most expensive.</english_equivalent>
 				<source_file>IBA_21_Obodo-Barracks_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="80" word="wey be sey" raw_freq="9" perc_expl="0.21">
 		<english_equivalent>when</english_equivalent>
 		<orths>
@@ -2063,22 +1681,16 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>SCONJ AUX SCONJ</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_expl="22.2">
-				<example>Ontop of very first story now, we don hear sey Presido Muhammadu Buhari don commot tian say dis one wey be sey de don eh find dis eighty two Chibok girls, sey de don rescue am, sey dis one na second anniversary gift to all we obodo people.</example>
+		<syn><cat>SCONJ AUX SCONJ</cat><sem><pdtb3_relation sense="Contingency.Cause.Reason" prop_exmpl="22.2"/><example>Ontop of very first story now, we don hear sey Presido Muhammadu Buhari don commot tian say dis one wey be sey de don eh find dis eighty two Chibok girls, sey de don rescue am, sey dis one na second anniversary gift to all we obodo people.</example>
 				<english_equivalent>From the very first story, we heard that President Muhammadu Buhari has said that since they have found uh... these eighty two Chibok girls, that they have rescued them and that this is a gift to commemorate their second anniversary to all our countrymen.</english_equivalent>
 				<source_file>WAZL_03_News-On-Gmns_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_expl="11.1">
-				<example>I gats park well wey be sey noting go hit my bike, or someting.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Purpose.Arg2-as-goal" prop_exmpl="11.1"/><example>I gats park well wey be sey noting go hit my bike, or someting.</example>
 				<english_equivalent>I had to be careful, so that nothing would hit my bike, or something.</english_equivalent>
 				<source_file>ABJ_GWA_12_Accident_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Synchronous" prop_expl="66.7">
-				<example>If di meat never soft, you put am dat period wey be sey you dey put all your ingredients so dat everyting go boil together.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="66.7"/><example>If di meat never soft, you put am dat period wey be sey you dey put all your ingredients so dat everyting go boil together.</example>
 				<english_equivalent>If the meat is not soft yet, you add it when you put all your ingredients so that everything boils together.</english_equivalent>
 				<source_file>BEN_08_Egusi-And-Banga-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="81" word="when" raw_freq="271" perc_expl="6.46">
 		<english_equivalent>when</english_equivalent>
 		<orths>
@@ -2114,32 +1726,22 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_expl="0.4">
-				<example>So dat na some of di interesting part about journalism wey be sey as in de dey talk sey dem say even when you get issue wey you wan discuss, people attitude fit bring out anoda issue wey fit lead to anoda story entirely.</example>
+		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_exmpl="0.4"/><example>So dat na some of di interesting part about journalism wey be sey as in de dey talk sey dem say even when you get issue wey you wan discuss, people attitude fit bring out anoda issue wey fit lead to anoda story entirely.</example>
 				<english_equivalent>So one of the interesting things about journalism is that they say, they say that even when you have issues you want to discuss, people's attitude can bring out another issue which can lead to another story entirely.</english_equivalent>
 				<source_file>ABJ_GWA_09_Journalism_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_expl="9.7">
-				<example>When di cocoyam don done, I go wash my mortar.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_exmpl="9.7"/><example>When di cocoyam don done, I go wash my mortar.</example>
 				<english_equivalent>When the cocoyam is ready, I'll wash my mortar.</english_equivalent>
 				<source_file>IBA_23_Bitter-Leaf-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Condition+SpeechAct" prop_expl="2.7">
-				<example>When we, when we, when we come to New Year ehn, hey, Nigeria prophet, de dey too bad o.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Condition+SpeechAct" prop_exmpl="2.7"/><example>When we, when we, when we come to New Year ehn, hey, Nigeria prophet, de dey too bad o.</example>
 				<english_equivalent>When we... when we... when we get to the New Year, yeah, Nigeria's prophets, they're way too bad.</english_equivalent>
 				<source_file>ENU_34_Malaysia-Guy_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_expl="11.8">
-				<example>When you carry your starch inside your frying pan, den continue to dey turn your starch inside di fire.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_exmpl="11.8"/><example>When you carry your starch inside your frying pan, den continue to dey turn your starch inside di fire.</example>
 				<english_equivalent>When you have put the starch into your frying pan, then continue to turn the starch while it's on fire.</english_equivalent>
 				<source_file>PRT_01_Banga-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Synchronous" prop_expl="71.2">
-				<example>So as I come back in di evening now, I have noting to do because I know even in my own house, even when I used to stay wit my parents, if anything happen, I don't talk when oders are talking.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="71.2"/><example>So as I come back in di evening now, I have noting to do because I know even in my own house, even when I used to stay wit my parents, if anything happen, I don't talk when oders are talking.</example>
 				<english_equivalent>So as I came back in the evening now, I have nothing to do because I know, even in my own house, even when I used to stay with my parents, if anything happened, I don't talk when others are talking.</english_equivalent>
 				<source_file>ENU_09_Angry-Neighbours_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="82" word="when" raw_freq="271" perc_expl="6.46">
 		<english_equivalent>when</english_equivalent>
 		<orths>
@@ -2175,32 +1777,22 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_expl="0.4">
-				<example>So dat na some of di interesting part about journalism wey be sey as in de dey talk sey dem say even when you get issue wey you wan discuss, people attitude fit bring out anoda issue wey fit lead to anoda story entirely.</example>
+		<syn><cat>ADV</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_exmpl="0.4"/><example>So dat na some of di interesting part about journalism wey be sey as in de dey talk sey dem say even when you get issue wey you wan discuss, people attitude fit bring out anoda issue wey fit lead to anoda story entirely.</example>
 				<english_equivalent>So one of the interesting things about journalism is that they say, they say that even when you have issues you want to discuss, people's attitude can bring out another issue which can lead to another story entirely.</english_equivalent>
 				<source_file>ABJ_GWA_09_Journalism_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_expl="9.7">
-				<example>When di cocoyam don done, I go wash my mortar.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Condition.Arg2-as-cond" prop_exmpl="9.7"/><example>When di cocoyam don done, I go wash my mortar.</example>
 				<english_equivalent>When the cocoyam is ready, I'll wash my mortar.</english_equivalent>
 				<source_file>IBA_23_Bitter-Leaf-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Contingency.Condition+SpeechAct" prop_expl="2.7">
-				<example>When we, when we, when we come to New Year ehn, hey, Nigeria prophet, de dey too bad o.</example>
+			</sem><sem><pdtb3_relation sense="Contingency.Condition+SpeechAct" prop_exmpl="2.7"/><example>When we, when we, when we come to New Year ehn, hey, Nigeria prophet, de dey too bad o.</example>
 				<english_equivalent>When we... when we... when we get to the New Year, yeah, Nigeria's prophets, they're way too bad.</english_equivalent>
 				<source_file>ENU_34_Malaysia-Guy_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_expl="11.8">
-				<example>When you carry your starch inside your frying pan, den continue to dey turn your starch inside di fire.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Asynchronous.Succession" prop_exmpl="11.8"/><example>When you carry your starch inside your frying pan, den continue to dey turn your starch inside di fire.</example>
 				<english_equivalent>When you have put the starch into your frying pan, then continue to turn the starch while it's on fire.</english_equivalent>
 				<source_file>PRT_01_Banga-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Synchronous" prop_expl="71.2">
-				<example>So as I come back in di evening now, I have noting to do because I know even in my own house, even when I used to stay wit my parents, if anything happen, I don't talk when oders are talking.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="71.2"/><example>So as I come back in di evening now, I have noting to do because I know even in my own house, even when I used to stay wit my parents, if anything happen, I don't talk when oders are talking.</example>
 				<english_equivalent>So as I came back in the evening now, I have nothing to do because I know, even in my own house, even when I used to stay with my parents, if anything happened, I don't talk when others are talking.</english_equivalent>
 				<source_file>ENU_09_Angry-Neighbours_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="83" word="whereas" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>even though</english_equivalent>
 		<orths>
@@ -2211,12 +1803,10 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_expl="100">
-				<example>You fit dey look front now say noting dey whereas somebody don enter your front.</example>
+		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg1-as-denier" prop_exmpl="100"/><example>You fit dey look front now say noting dey whereas somebody don enter your front.</example>
 				<english_equivalent>You could be looking straight ahead and see nothing, even though someone has come out in front of you.</english_equivalent>
 				<source_file>LAG_31_Road-Safety_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="84" word="while" raw_freq="12" perc_expl="0.29">
 		<english_equivalent>while</english_equivalent>
 		<orths>
@@ -2227,17 +1817,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Comparison.Contrast" prop_expl="33.3">
-				<example>Some of dem dey like to fry am while some people no dey like.</example>
+		<syn><cat>SCONJ</cat><sem><pdtb3_relation sense="Comparison.Contrast" prop_exmpl="33.3"/><example>Some of dem dey like to fry am while some people no dey like.</example>
 				<english_equivalent>Some like to fry it while others don't.</english_equivalent>
 				<source_file>BEN_08_Egusi-And-Banga-Soup_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Temporal.Synchronous" prop_expl="66.7">
-				<example>Di piston beginning to taking di fuel up while di plug gave fire.</example>
+			</sem><sem><pdtb3_relation sense="Temporal.Synchronous" prop_exmpl="66.7"/><example>Di piston beginning to taking di fuel up while di plug gave fire.</example>
 				<english_equivalent>The piston starts taking the fuel up while the plug powers it up.</english_equivalent>
 				<source_file>KAD_12_Mechanic-At-Work_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="85" word="without" raw_freq="5" perc_expl="0.12">
 		<english_equivalent>without</english_equivalent>
 		<orths>
@@ -2251,17 +1837,13 @@
 		<ambiguity>
 			<sem_ambiguity>1</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Contingency.Negative-condition.Arg2-as-negCond" prop_expl="60">
-				<example>Sey for Nigerian road today, una no fit dey drive anyhow without sey una put di device wey we say make una put.</example>
+		<syn><cat>ADP</cat><sem><pdtb3_relation sense="Contingency.Negative-condition.Arg2-as-negCond" prop_exmpl="60"/><example>Sey for Nigerian road today, una no fit dey drive anyhow without sey una put di device wey we say make una put.</example>
 				<english_equivalent>On Nigerian roads today, you cannot drive in any way without installing the device we asked you to install.</english_equivalent>
 				<source_file>IBA_34_News-Report-By-Samuel_MG.txt</source_file>
-			</pdtb3_relation>
-			<pdtb3_relation sense="Expansion.Manner.Arg2-as-manner" prop_expl="40">
-				<example>So de con sack di old one witout giving dem anyting.</example>
+			</sem><sem><pdtb3_relation sense="Expansion.Manner.Arg2-as-manner" prop_exmpl="40"/><example>So de con sack di old one witout giving dem anyting.</example>
 				<english_equivalent>So, then they sacked the old ones without giving them anything.</english_equivalent>
 				<source_file>ABJ_INF_12_Evictions_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 	<entry id="86" word="yet" raw_freq="1" perc_expl="0.02">
 		<english_equivalent>but</english_equivalent>
 		<orths>
@@ -2272,10 +1854,8 @@
 		<ambiguity>
 			<sem_ambiguity>0</sem_ambiguity>
 		</ambiguity>
-		<syn><cat>ADJ</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg2-as-denier" prop_expl="100">
-				<example>Even as I, me, and you dey talk now, di man don go back France. Yet everyday me, and am dey chat on WhatsApp.</example>
+		<syn><cat>ADJ</cat><sem><pdtb3_relation sense="Comparison.Concession.Arg2-as-denier" prop_exmpl="100"/><example>Even as I, me, and you dey talk now, di man don go back France. Yet everyday me, and am dey chat on WhatsApp.</example>
 				<english_equivalent>Even as you and I are talking, the man has gone back to France. But everyday, he and I chat on WhatsApp.</english_equivalent>
 				<source_file>LAG_07_Johns-Biography_MG.txt</source_file>
-			</pdtb3_relation>
-		</sem></syn></entry>
+			</sem></syn></entry>
 </dimlex>
